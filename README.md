@@ -303,17 +303,17 @@ python Viz_taxonomies_comparisons.py --version v1
 This section evaluates the reliability and stability of LLM outputs across multiple generations and different models. It focuses on identifying level of accuracy across a few generations of the taxonomic data.
 
 ```bash
-python3 Intra_inter_model_comparison.py --versions gen1_0603 gen2_0703 gen3_0803 --nanstrategy 2 --option_comparison 'inter'
-python3 Intra_inter_model_comparison.py --versions gen1_0603 gen2_0703 gen3_0803 --nanstrategy 2 --option_comparison 'intra'
+python Intra_inter_model_comparison.py --versions gen1_0603 gen2_0703 gen3_0803 --nanstrategy 2 --option_comparison 'inter'
+python Intra_inter_model_comparison.py --versions gen1_0603 gen2_0703 gen3_0803 --nanstrategy 2 --option_comparison 'intra'
     
-python3 triangular_plots.py --versions gen1_0603 gen2_0703 gen3_0803 --nanstrategy 2
+python triangular_plots.py --versions gen1_0603 gen2_0703 gen3_0803 --nanstrategy 2
 ```
 # 11. Node-level prediction tasks
 
 This section represents a standalone analytical task that utilizes the previously enriched dataset: `Input/functional_features_0803/Gemini_Processed_Final.xlsx`. The goal is to evaluate the practical utility of LLM-augmented data in predicting ecological role of at individual node level. Functional features used in this task, were generated using attatched prompt: `Input/functional_features_0803/functional_features_prompt.txt` 
 
 ```bash
-python3 node_level_prediction_full.py
+python node_level_prediction_full.py
 ```
 
 ---
