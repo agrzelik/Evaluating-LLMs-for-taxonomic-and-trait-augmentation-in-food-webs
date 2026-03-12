@@ -263,7 +263,7 @@ python Query_DB_with_LLM_produced_names.py --version v1
 The pipeline includes several ensemble strategies to combine results from multiple LLMs. 
 These methods aim to improve accuracy and robustness by aggregating model outputs.
 
-# 8.1 Self-Evaluated Soft Voting
+### 8.1 Self-Evaluated Soft Voting
 
 Each LLM evaluates the confidence of its own predictions.
 Predictions are then combined using soft voting weighted by self-reported confidence.
@@ -272,14 +272,14 @@ Predictions are then combined using soft voting weighted by self-reported confid
 python LLM_optimization_self_evaluated_soft_voting.py --version v1
 ```
 
-# 8.2 Cross-Model Evaluated Soft Voting
+### 8.2 Cross-Model Evaluated Soft Voting
 
 Each model evaluates predictions produced by other models, the scores given by model are used to obtain final taxonomic values via soft voting.
 
 ```bash
 python LLM_optimization_cross_evaluated_soft_voting.py --version v1
 ```
-# 8.3 Black-Box Ensemble Approach
+### 8.3 Black-Box Ensemble Approach
 
 This strategy treats LLM as black-box judge, which aggregates models' answers using heuristic or statistical strategies internally (without relying on confidence scores).
 
@@ -316,7 +316,7 @@ python3 node_level_prediction_full.py
 
 ---
 
-## 8. Directory Structure
+## Directory Structure
 
 ```text
 ├── .env
@@ -370,3 +370,70 @@ python3 node_level_prediction_full.py
 
 
 
+├── .env
+├── requirements.txt               # Project dependencies
+│
+├── foodwebviz.py                  # Reads .scor files and constructs food-web feature inputs
+├── LLM_parallel.py                # Parallel controller for running multiple LLM generation jobs
+│
+├── Chatgpt.py                     # OpenAI (ChatGPT) generation script
+├── Claude.py                      # Anthropic Claude generation script
+├── Qwen.py                        # Qwen / OpenRouter generation script
+├── Gemini.py                      # Google Gemini generation script
+│
+├── Jsonparserforllm.py            # Converts raw LLM JSON outputs into structured Excel datasets
+├── Preprocessing.py               # Cleans, normalizes and standardizes parsed LLM outputs
+├── Merge_llm_results.py           # Merges processed outputs across models
+│
+├── Process_baseline.py            # Processes reference/baseline taxonomy predictions
+│
+├── LLM_optimization_self_evaluated_soft_voting.py   # Ensemble method using LLM self-reported confidence
+├── LLM_optimization_cross_evaluated_soft_voting.py  # Ensemble where models evaluate other models' outputs
+├── LLM_optimization_black_box.py                    # Ensemble aggregation treating models as black-box predictors
+│
+├── Query_DB_with_LLM_produced_names.py              # Queries WoRMS using LLM-generated Latin species names
+│
+├── Merge_taxonomies.py               # Combines taxonomy predictions from models and ensembles
+├── Compare_taxonomies.py             # Computes agreement metrics vs. reference taxonomy
+├── Viz_taxonomies_comparisons.py     # Generates figures and plots for taxonomy comparison results
+│
+├── Intra_inter_model_comparison.py   # Evaluates variability within and across model predictions
+├── triangular_plots.py               # Generates triangular comparison visualizations
+│
+├── node_level_prediction_full.py     # Node-level prediction analysis
+│
+├── README.md
+├── .gitignore
+│
+├── Input/                            # Prompt templates and input feature files
+│
+├── dataset_20260126_ecobase/         # EcoBase dataset used for food-web reconstruction
+│   ├── processed/                    # Processed .scor network files
+│   └── metadata_*.xlsx               # Dataset metadata
+│
+├── baseline/                         # Baseline reference taxonomy outputs
+│
+├── LLM_worms_files/                  # Intermediate datasets linking LLM outputs with WoRMS taxonomy
+│
+├── LLM features/                     # LLM feature generation pipeline outputs
+│   └── Processed/                    # Cleaned and merged LLM outputs
+│
+└── Ensembles/                        # Results of ensemble aggregation methods
+    ├── self_evaluated_soft_voting/
+    ├── cross_evaluated_soft_voting/
+    └── black_box_approach/
+
+
+## Data Sources and External Code
+
+### EcoBase Dataset
+
+The food-web data used in this study originate from the EcoBase repository:
+https://ecobase.ecopath.org/
+EcoBase is a curated database of Ecopath food-web models. 
+
+### External Code
+
+Processing of .scor files uses a function adapted from the foodwebviz project:
+https://github.com/ibs-pan/foodwebviz
+This function is used to read and extract structural information from Ecopath .scor food-web model files.
