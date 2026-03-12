@@ -44,6 +44,7 @@ warnings.filterwarnings("ignore")
 DATASET_PATH  = 'dataset_20260126_ecobase/processed/'
 METADATA_PATH = 'dataset_20260126_ecobase/metadata_20260128.xlsx'
 OUTPUT_PATH   = 'Node_classification'
+FIG_OUTPUT = 'Figures'
 
 LLM_MODELS = {
     'gemini':    'Input/functional_features_0803/Gemini_Processed_Final.xlsx',
@@ -98,13 +99,11 @@ def normalize_name(name: str) -> str:
 
 def load_seasons(metadata_path, to_remove):
     meta = pd.read_excel(metadata_path)
-    meta = meta[meta['Source'] == 'Ecobase']
     return [f"{n}.scor" for n in meta['Network name']
             if f"{n}.scor" not in to_remove]
 
 def load_clusters(metadata_path, to_remove):
     meta = pd.read_excel(metadata_path)
-    meta = meta[meta['Source'] == 'Ecobase']
 
     meta['file_name'] = meta['Network name'] + ".scor"
     meta = meta[~meta['file_name'].isin(to_remove)]
@@ -462,7 +461,7 @@ def plot_heatmap(all_results, output_path):
     ax.set_xticklabels(col_labels,  rotation=0, fontsize=28)
 
     plt.tight_layout()
-    out = os.path.join(output_path, 'node_classification_heatmap.pdf')
+    out = os.path.join(FIG_OUTPUT, 'node_classification_heatmap.pdf')
     plt.savefig(out, bbox_inches='tight')
     plt.close()
     print(f"Heatmap saved: {out}")

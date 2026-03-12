@@ -235,9 +235,9 @@ def ci_heatmap(df_stats, option):
         )
 
     plt.subplots_adjust(top=0.82, bottom=0.25)
-    path = f"Comparisons/heatmaps/{version}/"
+    path = f"Figures/{version}/"
     os.makedirs(path, exist_ok=True)
-    plt.savefig(f'Comparisons/heatmaps/{version}/llm_{option}_heatmap_ci_{version}_nanstrategy_{nanstrategy}.pdf', format='pdf', bbox_inches='tight')
+    plt.savefig(f'Figures/{version}/llm_{option}_heatmap_ci_{version}_nanstrategy_{nanstrategy}.pdf', format='pdf', bbox_inches='tight')
     #plt.show()
 
     print("CI heatmap saved")

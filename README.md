@@ -7,29 +7,29 @@ This repository provides a complete, automated workflow for generating, augmenti
 
 Core Pipeline Stages:
 
-Parallel Generation & Processing: querying of multiple LLMs (GPT, Claude, Gemini, Qwen) followed by JSON-to-Excel conversion and data standardization.
+**Parallel Generation & Processing**: querying of multiple LLMs (GPT, Claude, Gemini, Qwen) followed by JSON-to-Excel conversion and data standardization.
 
-Taxonomic Verification: Integration with the WoRMS API to validate LLM-generated Latin names and retrieve authoritative taxonomic lineages.
+**Taxonomic Verification**: Integration with the WoRMS API to validate LLM-generated Latin names and retrieve authoritative taxonomic lineages.
 
-Ensemble Optimization: Implementation of advanced aggregation strategies—including self-evaluated soft voting, cross-model evaluated soft voting, and LLM-as-a-judge to mitigate hallucinations and improve data robustness.
+**Ensemble Optimization**: Implementation of advanced aggregation strategies—including self-evaluated soft voting, cross-model evaluated soft voting, and LLM-as-a-judge to mitigate hallucinations and improve data robustness.
 
-Comparative Analysis: Systematic evaluation of model performance across different generations, utilizing intra- and inter-model comparisons.
+**Comparative Analysis**: Systematic evaluation of model performance across different generations, utilizing intra- and inter-model comparisons.
 
-Downstream Task: Execution of node-level prediction tasks using 43 ecological functional traits.
+**Downstream Task**: Execution of node-level prediction tasks using 43 ecological functional traits.
 
 ## Quick Start
 
-If you want to skip the documentation and run the code immediately, you can use these shortcuts. Make sure you go through Installation & Environment Setup before.
+If you want to skip the documentation and run the code immediately, you can use these shortcuts. Make sure you go through Installation & Environment Setup before you run them.
 
 ### Option A: Full Pipeline (Requires API Keys)
 Run this to generate new data from scratch using LLMs. 
 ```bash
-./run_pipeline.sh gen1_0603
+bash run_pipeline.sh gen1_0603
 ```
 ### Option B: Analysis Only (No API Keys needed)
 Run this to use files provided in the LLM `features/Processed`. This skips the expensive generation step and starts directly with analysis.
 ```bash
-./run_pipeline_no_api_keys.sh gen1_0603
+bash run_pipeline_no_api_keys.sh gen1_0603
 ```
 This scripts are the recommended way to process all LLM outputs end-to-end.
 

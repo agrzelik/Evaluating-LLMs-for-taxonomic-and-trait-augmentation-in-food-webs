@@ -25,7 +25,7 @@ nanstrategy = args.nanstrategy
 
 
 INPUT_FILE = f'Inter_Model_Divergence/inter_agreement_all_inter_model_nanstrategy_{nanstrategy}.csv'
-OUTPUT_DIR  = 'Versions_Divergence/triangular_plots'
+OUTPUT_DIR  = 'Figures'
 MODELS      = ['chatgpt', 'claude', 'gemini', 'qwen']
 TAX_LEVELS  = ['kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species']
 norm = mcolors.Normalize(vmin=0, vmax=1)
