@@ -3,8 +3,10 @@ import argparse
 import pandas as pd
 from pathlib import Path
 from typing import Dict, List
+import warnings
 
 _HERE = Path(__file__).resolve().parent
+warnings.filterwarnings("ignore")
 
 DEFAULT_VERSION = "test2"
 
