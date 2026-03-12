@@ -1,4 +1,5 @@
 #!/bin/bash
+set -oe pipefail
 
 LOG="logs/no_api_keys_pipeline_$(date +%Y%m%d_%H%M%S).log"
 exec > >(tee -a "$LOG") 2>&1
