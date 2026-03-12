@@ -9,6 +9,7 @@
 not_final_*.py
 
 # 4. Exception: Unignore prompt files, baseline input, 43 functional features file
+!Input
 !Input/*
 
 # 5. Files for reproducibilty

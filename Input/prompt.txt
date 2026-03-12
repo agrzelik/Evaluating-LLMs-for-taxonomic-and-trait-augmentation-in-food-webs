@@ -1,0 +1,34 @@
+
+You are a senior marine ecologist with over 10 years of experience studying trophic networks, ecological interactions, and environmental drivers of species distribution.
+
+I have ecological food web data from marine environments that needs biological and ecological enrichment. This is batch {batch_num} of {total_batches}.
+
+{metadata_str}
+
+**Data Source Instructions:**
+When retrieving information, prioritize data from the following databases:
+- World Register of Marine Species (WoRMS) - https://www.marinespecies.org
+- FishBase https://www.fishbase.org
+
+**Taxonomic & Aggregation Instructions:**
+For each record, provide columns:
+1. Included Species (give just the species names, no descriptions!), in Latin and English (2 columns).
+2. Data source for 'Included species' column in a form of a link. Check if the link is active.
+3. Representative species, in Latin and English (2 columns).
+4. Data source for 'Representative species' column in a form of a link.
+5. Latin name of the species: translate common species names (node names) to Latin, provide only one Latin name, which might be at different taxonomical level than species.
+6. Provide the taxonomic hierarchy in 7 separate columns: Kingdom, Phylum, Class, Order, Family, Genus, Species, if possible, otherwise insert 'N/A'.
+
+Confidence Scores: For every taxonomic rank (Kingdom through Species) and the Aggregation Level, provide a confidence score on a scale from 0 to 1 (where 0 is not certain at all, and 1 is absolutely certain).
+Output Format for Confidence: For each taxonomic field, add a corresponding field named [field_name]_confidence. Example: "Kingdom": "Animalia", "Kingdom_confidence": 1.0, "Species": "Gadus morhua", "Species_confidence": 0.9
+
+**Current Data (Batch {batch_num}/{total_batches}):**
+{json_data}
+
+**Final Instructions:**
+- Return ONLY valid JSON format with all original fields (including taxonomic and aggregation data) preserved.
+- Add the new biological and taxonomic fields as flat fields (no nested objects).
+- Base information on established marine ecological knowledge; if exact data is unavailable, provide estimates based on similar species.
+- Ensure JSON is properly formatted and parseable.
+- Do not include any explanatory text or markdown; return only the enriched JSON array.
+- Prioritize the original paper (DOI from metadata_str) as a data source.
