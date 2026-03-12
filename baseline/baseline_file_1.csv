@@ -1,0 +1,931 @@
+QueryInput;ScientificName;AphiaID;Rank;Status;Kingdom;Phylum;Class;Order;Family;Genus;Species;FileName;Node name;IsAlive
+Lophius;Lophius;125802;Genus;accepted;Animalia;Chordata;Teleostei;Lophiiformes;Lophiidae;Lophius;;Aegean_Sea_760.scor;Anglerfish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aegean_Sea_760.scor;Benthic invertebrates;True
+1065;Arthropoda;1065;Phylum;accepted;Animalia;Arthropoda;;;;;;Aegean_Sea_760.scor;Benthic small crustaceans;True
+2688;Cetacea;2688;Infraorder;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Aegean_Sea_760.scor;Dolphins;True
+126426;Engraulis encrasicolus;126426;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus;Aegean_Sea_760.scor;European anchovy;True
+126484;Merluccius merluccius;126484;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius merluccius;Aegean_Sea_760.scor;European hake;True
+126421;Sardina pilchardus;126421;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardina;Sardina pilchardus;Aegean_Sea_760.scor;European pilchard;True
+1517532;Carangiformes;1517532;Order;accepted;Animalia;Chordata;Teleostei;Carangiformes;;;;Aegean_Sea_760.scor;Flatfishes;True
+125598;Triglidae;125598;Family;accepted;Animalia;Chordata;Teleostei;Perciformes;Triglidae;;;Aegean_Sea_760.scor;Gurnards;True
+Trachurus;Trachurus;125946;Genus;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;;Aegean_Sea_760.scor;Horse mackerels;True
+1267;Cnidaria;1267;Phylum;accepted;Animalia;Cnidaria;;;;;;Aegean_Sea_760.scor;Jellyfish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aegean_Sea_760.scor;Large pelagics;True
+106741;Nephropidae;106741;Family;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Nephropidae;;;Aegean_Sea_760.scor;Lobsters;True
+Scomber;Scomber;126063;Genus;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;;Aegean_Sea_760.scor;Mackerels;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aegean_Sea_760.scor;Macrozooplankton;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aegean_Sea_760.scor;Medium pelagics;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aegean_Sea_760.scor;Medium-large demersals 1;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aegean_Sea_760.scor;Medium-large demersals 2;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aegean_Sea_760.scor;Micro/Mesozooplankton;True
+136976;Phocidae;136976;Family;accepted;Animalia;Chordata;Mammalia;Carnivora;Phocidae;;;Aegean_Sea_760.scor;Monk seal;True
+Nephrops norvegicus;Nephrops norvegicus;107254;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Nephropidae;Nephrops;Nephrops norvegicus;Aegean_Sea_760.scor;Norway lobster;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Aegean_Sea_760.scor;Octopus and cuttlefish;True
+10313;Gadiformes;10313;Order;accepted;Animalia;Chordata;Teleostei;Gadiformes;;;;Aegean_Sea_760.scor;Other gadiforms;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aegean_Sea_760.scor;Other small pelagics;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Aegean_Sea_760.scor;Picarels and bogue;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Aegean_Sea_760.scor;Piscivorous deep sea fish;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Aegean_Sea_760.scor;Planktivorous deep sea fish;True
+883;Polychaeta;883;Class;accepted;Animalia;Annelida;Polychaeta;;;;;Aegean_Sea_760.scor;Polychaetes;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Aegean_Sea_760.scor;Rays and skates;True
+Mullus;Mullus;126034;Genus;accepted;Animalia;Chordata;Teleostei;Mulliformes;Mullidae;Mullus;;Aegean_Sea_760.scor;Red mullets;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Aegean_Sea_760.scor;Rockfish;True
+2689;Testudines;2689;Order;accepted;Animalia;Chordata;;Testudines;;;;Aegean_Sea_760.scor;Sea turtles;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Aegean_Sea_760.scor;Seabirds;True
+368408;Selachii;368408;Infraclass;accepted;Animalia;Chordata;Elasmobranchii;;;;;Aegean_Sea_760.scor;Sharks;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Aegean_Sea_760.scor;Shelf crabs;True
+106674;Caridea;106674;Infraorder;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Aegean_Sea_760.scor;Shrimps;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Aegean_Sea_760.scor;Slope crabs;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aegean_Sea_760.scor;Small demersals 1;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aegean_Sea_760.scor;Small demersals 2;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aegean_Sea_760.scor;Small demersals 3;True
+325342;Decapodiformes;325342;Superorder;accepted;Animalia;Mollusca;Cephalopoda;;;;;Aegean_Sea_760.scor;Squids;True
+300735;Gadus chalcogrammus;300735;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus;Aleutian_Islands_252.scor;Adult pollock;True
+Atheresthes stomias;Atheresthes stomias;279792;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Atheresthes;Atheresthes stomias;Aleutian_Islands_252.scor;Arrowtooth;True
+Pleurogrammus monopterygius;Pleurogrammus monopterygius;282289;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Hexagrammidae;Pleurogrammus;Pleurogrammus monopterygius;Aleutian_Islands_252.scor;Atka mackerel;True
+148724;Mysticeti;148724;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Aleutian_Islands_252.scor;Baleen whales;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aleutian_Islands_252.scor;Benthic inverts;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Aleutian_Islands_252.scor;Birds;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Aleutian_Islands_252.scor;Cephalopods;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aleutian_Islands_252.scor;Deep L;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aleutian_Islands_252.scor;Dem S M;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aleutian_Islands_252.scor;Epiben carnivores;True
+1517532;Carangiformes;1517532;Order;accepted;Animalia;Chordata;Teleostei;Carangiformes;;;;Aleutian_Islands_252.scor;Flatfish;True
+Hippoglossus stenolepis;Hippoglossus stenolepis;274290;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus stenolepis;Aleutian_Islands_252.scor;Halibut;True
+Clupea pallasii;Clupea pallasii;151159;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii;Aleutian_Islands_252.scor;Herring;True
+300735;Gadus chalcogrammus;300735;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus;Aleutian_Islands_252.scor;Juvenile pollock;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aleutian_Islands_252.scor;Large pelagics;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aleutian_Islands_252.scor;Large pred demersals;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aleutian_Islands_252.scor;Large zooplankton;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Aleutian_Islands_252.scor;Macrophytes;True
+125498;Myctophidae;125498;Family;accepted;Animalia;Chordata;Teleostei;Myctophiformes;Myctophidae;;;Aleutian_Islands_252.scor;Myctophids;True
+Gadus macrocephalus;Gadus macrocephalus;254538;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus macrocephalus;Aleutian_Islands_252.scor;Pacific cod;True
+Sebastes alutus;Sebastes alutus;254573;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;Sebastes alutus;Aleutian_Islands_252.scor;POP;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Aleutian_Islands_252.scor;Rockfish;True
+Anoplopoma fimbria;Anoplopoma fimbria;159463;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Anoplopomatidae;Anoplopoma;Anoplopoma fimbria;Aleutian_Islands_252.scor;Sablefish;True
+126140;Oncorhynchus;126140;Genus;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;;Aleutian_Islands_252.scor;Salmon;True
+Ammodytes hexapterus;Ammodytes hexapterus;254510;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Ammodytidae;Ammodytes;Ammodytes hexapterus;Aleutian_Islands_252.scor;Sandlance;True
+242598;Enhydra lutris;242598;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Mustelidae;Enhydra;Enhydra lutris;Aleutian_Islands_252.scor;Sea otters;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Aleutian_Islands_252.scor;Shark and skates;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Aleutian_Islands_252.scor;Shark mammal eater;True
+106674;Caridea;106674;Infraorder;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Aleutian_Islands_252.scor;Shrimps;True
+1837;Mammalia;1837;Class;accepted;Animalia;Chordata;Mammalia;;;;;Aleutian_Islands_252.scor;Small mammals;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aleutian_Islands_252.scor;Small pelagics;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Aleutian_Islands_252.scor;Small zooplankton;True
+254999;Eumetopias jubatus;254999;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus;Aleutian_Islands_252.scor;SSL Adults;True
+254999;Eumetopias jubatus;254999;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus;Aleutian_Islands_252.scor;SSL embryo;True
+254999;Eumetopias jubatus;254999;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus;Aleutian_Islands_252.scor;SSL juveniles;True
+254999;Eumetopias jubatus;254999;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus;Aleutian_Islands_252.scor;SSL pups;True
+148723;Odontoceti;148723;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Aleutian_Islands_252.scor;Toothed whales;True
+137102;Orcinus orca;137102;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Orcinus;Orcinus orca;Aleutian_Islands_252.scor;Transient orca;True
+125523;Carangidae;125523;Family;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;;;Australia_North_West_Shelf_405.scor;AdCarangids;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Australia_North_West_Shelf_405.scor;Coastal sharks;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Australia_North_West_Shelf_405.scor;ComPrawns;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Australia_North_West_Shelf_405.scor;DpLgFish;True
+125449;Synodontidae;125449;Family;accepted;Animalia;Chordata;Teleostei;Aulopiformes;Synodontidae;;;Australia_North_West_Shelf_405.scor;DpLizard;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Australia_North_West_Shelf_405.scor;DpMedFish;True
+125547;Mullidae;125547;Family;accepted;Animalia;Chordata;Teleostei;Mulliformes;Mullidae;;;Australia_North_West_Shelf_405.scor;DpMullidae;True
+151459;Nemipteridae;151459;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Nemipteridae;;;Australia_North_West_Shelf_405.scor;DpNemipterids;True
+398536;Photopectoralis bindus;398536;Species;accepted;Animalia;Chordata;Teleostei;Acanthuriformes;Leiognathidae;Photopectoralis;Photopectoralis bindus;Australia_North_West_Shelf_405.scor;DpPonyfish;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Australia_North_West_Shelf_405.scor;DpSmFish;True
+218590;Argyrops spinifer;218590;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Argyrops;Argyrops spinifer;Australia_North_West_Shelf_405.scor;FryPBream;True
+125523;Carangidae;125523;Family;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;;;Australia_North_West_Shelf_405.scor;JuvCarangids;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Australia_North_West_Shelf_405.scor;LgZooplankton;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Australia_North_West_Shelf_405.scor;Macrofauna;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Australia_North_West_Shelf_405.scor;Megabenthos;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Australia_North_West_Shelf_405.scor;Rays;True
+218499;Lutjanus sebae;218499;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;Lutjanus;Lutjanus sebae;Australia_North_West_Shelf_405.scor;RedEmperor;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Australia_North_West_Shelf_405.scor;SessEpibenthos;True
+206059;Lethrinus;206059;Genus;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lethrinidae;Lethrinus;;Australia_North_West_Shelf_405.scor;ShLethrinids;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Australia_North_West_Shelf_405.scor;ShLgFish;True
+125449;Synodontidae;125449;Family;accepted;Animalia;Chordata;Teleostei;Aulopiformes;Synodontidae;;;Australia_North_West_Shelf_405.scor;ShLizard;True
+159791;Lutjanus;159791;Genus;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;Lutjanus;;Australia_North_West_Shelf_405.scor;ShLutjanids;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Australia_North_West_Shelf_405.scor;ShMedFish;True
+125547;Mullidae;125547;Family;accepted;Animalia;Chordata;Teleostei;Mulliformes;Mullidae;;;Australia_North_West_Shelf_405.scor;ShMullidae;True
+151459;Nemipteridae;151459;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Nemipteridae;;;Australia_North_West_Shelf_405.scor;ShNemipterirds;True
+218237;Epinephelus multinotatus;218237;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Epinephelidae;Epinephelus;Epinephelus multinotatus;Australia_North_West_Shelf_405.scor;ShSerranids;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Australia_North_West_Shelf_405.scor;ShSmFish;True
+279261;Diagramma labiosum;279261;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;Diagramma;Diagramma labiosum;Australia_North_West_Shelf_405.scor;ShSweetlip;True
+219873;Abalistes stellatus;219873;Species;accepted;Animalia;Chordata;Teleostei;Tetraodontiformes;Balistidae;Abalistes;Abalistes stellatus;Australia_North_West_Shelf_405.scor;ShTriggerFish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Australia_North_West_Shelf_405.scor;SmallPelagics;True
+125559;Scombridae;125559;Family;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;;;Australia_North_West_Shelf_405.scor;SmTunas;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Australia_North_West_Shelf_405.scor;SmZooplankton;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Australia_North_West_Shelf_405.scor;Squid;True
+Sphyraena;Sphyraena;126084;Genus;accepted;Animalia;Chordata;Teleostei;Carangaria incertae sedis;Sphyraenidae;Sphyraena;;Bamboung_180.scor;Barracudas +;True
+Monodactylus sebae;Monodactylus sebae;278304;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Monodactylidae;Monodactylus;Monodactylus sebae;Bamboung_180.scor;Breton africain;True
+Caranx rhonchus;Caranx rhonchus;126806;Species;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Caranx;Caranx rhonchus;Bamboung_180.scor;Carangues;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Bamboung_180.scor;Crabes;True
+Argis levior;Argis levior;515539;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Crangonidae;Argis;Argis levior;Bamboung_180.scor;Crevettes;True
+2688;Cetacea;2688;Infraorder;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Bamboung_180.scor;Dauphins;True
+293496;Teleostei;293496;Class;accepted;Animalia;Chordata;Teleostei;;;;;Bamboung_180.scor;Diagramme +;True
+157873;Elops;157873;Genus;accepted;Animalia;Chordata;Teleostei;Elopiformes;Elopidae;Elops;;Bamboung_180.scor;Elops;True
+Ethmalosa;Ethmalosa;269117;Genus;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Ethmalosa;;Bamboung_180.scor;Ethmalose;True
+Gerres;Gerres;204064;Genus;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Gerreidae;Gerres;;Bamboung_180.scor;Gerres;True
+293496;Teleostei;293496;Class;accepted;Animalia;Chordata;Teleostei;;;;;Bamboung_180.scor;Grand capitaine;True
+712254;Carlarius;712254;Genus;accepted;Animalia;Chordata;Teleostei;Siluriformes;Ariidae;Carlarius;;Bamboung_180.scor;Mâchoirons mari;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bamboung_180.scor;Macrobenthos;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bamboung_180.scor;Meiobenthos;True
+125546;Mugilidae;125546;Family;accepted;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;;;Bamboung_180.scor;Mulets;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Bamboung_180.scor;Oiseaux;True
+Otolithes;Otolithes;205008;Genus;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Otolithes;;Bamboung_180.scor;Otolithes +;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bamboung_180.scor;Petits benthoph;True
+Pomadasys;Pomadasys;126011;Genus;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;Pomadasys;;Bamboung_180.scor;Pomadasys;True
+Trachinotus;Trachinotus;125945;Genus;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachinotus;;Bamboung_180.scor;Pompaneau +;True
+368409;Batoidea;368409;Infraclass;accepted;Animalia;Chordata;Elasmobranchii;;;;;Bamboung_180.scor;Raies;True
+368408;Selachii;368408;Infraclass;accepted;Animalia;Chordata;Elasmobranchii;;;;;Bamboung_180.scor;Requins;True
+Sardinella;Sardinella;125721;Genus;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Sardinella;;Bamboung_180.scor;Sardinelle +;True
+Cynoglossus;Cynoglossus;126112;Genus;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Cynoglossidae;Cynoglossus;;Bamboung_180.scor;Sole-langue +;True
+125612;Tetraodontidae;125612;Family;accepted;Animalia;Chordata;Teleostei;Tetraodontiformes;Tetraodontidae;;;Bamboung_180.scor;Tétrodon +;True
+151383;Cichlidae;151383;Family;accepted;Animalia;Chordata;Teleostei;Cichliformes;Cichlidae;;;Bamboung_180.scor;Tilapias;True
+151453;Lutjanidae;151453;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;;;Bamboung_180.scor;Vivaneaux +;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bamboung_180.scor;Zooplancton;True
+Engraulis encrasicolus;Engraulis encrasicolus;126426;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus;Bay_of_Biscay_335.scor;Anchovy;True
+6;Bacteria;6;Kingdom;accepted;Bacteria;;;;;;;Bay_of_Biscay_335.scor;Bacteria;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Bay_of_Biscay_335.scor;Benthic cephalopods;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bay_of_Biscay_335.scor;Benthic meiofauna;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Bay_of_Biscay_335.scor;Benthivorous demersal fish;True
+Tursiops truncatus;Tursiops truncatus;137111;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Tursiops;Tursiops truncatus;Bay_of_Biscay_335.scor;Bottlenose dolphins;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bay_of_Biscay_335.scor;Carnivorous benthic invertebrates;True
+Delphinus delphis;Delphinus delphis;137094;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Delphinus;Delphinus delphis;Bay_of_Biscay_335.scor;Common dolphins;True
+Phocoena phocoena;Phocoena phocoena;137117;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Phocoenidae;Phocoena;Phocoena phocoena;Bay_of_Biscay_335.scor;Harbour porpoises;True
+Trachurus trachurus;Trachurus trachurus;126822;Species;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;Trachurus trachurus;Bay_of_Biscay_335.scor;Horse mackerel;True
+Globicephala melas;Globicephala melas;137097;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Globicephala;Globicephala melas;Bay_of_Biscay_335.scor;Long-finned pilot whales;True
+Scomber scombrus;Scomber scombrus;127023;Species;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;Scomber scombrus;Bay_of_Biscay_335.scor;Mackerel;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bay_of_Biscay_335.scor;Macrozooplankton;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bay_of_Biscay_335.scor;Mesozooplankton;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bay_of_Biscay_335.scor;Microzooplankton;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bay_of_Biscay_335.scor;Necrophagous benthic invertebrates;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Bay_of_Biscay_335.scor;Pelagic cephalopods;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Bay_of_Biscay_335.scor;Piscivorous and benthivorous demersal fish;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Bay_of_Biscay_335.scor;Piscivorous demersal fish;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Bay_of_Biscay_335.scor;Pursuit divers seabirds;True
+Sardina pilchardus;Sardina pilchardus;126421;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardina;Sardina pilchardus;Bay_of_Biscay_335.scor;Sardine;True
+Sprattus sprattus;Sprattus sprattus;126425;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Sprattus;Sprattus sprattus;Bay_of_Biscay_335.scor;Sprat;True
+Stenella coeruleoalba;Stenella coeruleoalba;137107;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Stenella;Stenella coeruleoalba;Bay_of_Biscay_335.scor;Striped dolphins;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bay_of_Biscay_335.scor;Sub-surface deposit feeders invertebrates;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bay_of_Biscay_335.scor;Suprabenthic invertebrates;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Bay_of_Biscay_335.scor;Suprabenthivorous demersal fish;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Bay_of_Biscay_335.scor;Surface feeders seabirds;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Bay_of_Biscay_335.scor;Surface suspension and deposit feeders inv;True
+Atheresthes stomias;Atheresthes stomias;279792;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Atheresthes;Atheresthes stomias;British_Columbia_Coast_478.scor;arrowtooth ad.;True
+Atheresthes stomias;Atheresthes stomias;279792;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Atheresthes;Atheresthes stomias;British_Columbia_Coast_478.scor;arrowtooth juv.;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;British_Columbia_Coast_478.scor;birds demer pisciv;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;British_Columbia_Coast_478.scor;birds pelag pisciv;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;British_Columbia_Coast_478.scor;birds zooplanktiv;True
+105;Bivalvia;105;Class;accepted;Animalia;Mollusca;Bivalvia;;;;;British_Columbia_Coast_478.scor;bivalves;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;British_Columbia_Coast_478.scor;carn. zooplankton;True
+Oncorhynchus tshawytscha;Oncorhynchus tshawytscha;158075;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus tshawytscha;British_Columbia_Coast_478.scor;chinook;True
+Oncorhynchus keta;Oncorhynchus keta;127183;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus keta;British_Columbia_Coast_478.scor;chum;True
+Oncorhynchus kisutch;Oncorhynchus kisutch;127184;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus kisutch;British_Columbia_Coast_478.scor;coho;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;British_Columbia_Coast_478.scor;crabs;True
+Squalus acanthias;Squalus acanthias;105923;Species;accepted;Animalia;Chordata;Elasmobranchii;Squaliformes;Squalidae;Squalus;Squalus acanthias;British_Columbia_Coast_478.scor;dogfish;True
+1806;Echinodermata;1806;Phylum;accepted;Animalia;Echinodermata;;;;;;British_Columbia_Coast_478.scor;echinoderms;True
+1517532;Carangiformes;1517532;Order;accepted;Animalia;Chordata;Teleostei;Carangiformes;;;;British_Columbia_Coast_478.scor;flatfish other;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;British_Columbia_Coast_478.scor;herb. zooplankton;True
+Clupea pallasii;Clupea pallasii;151159;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii;British_Columbia_Coast_478.scor;herring ad.;True
+Clupea pallasii;Clupea pallasii;151159;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii;British_Columbia_Coast_478.scor;herring juv.;True
+1267;Cnidaria;1267;Phylum;accepted;Animalia;Cnidaria;;;;;;British_Columbia_Coast_478.scor;jellies;True
+1128;Euphausiacea;1128;Order;accepted;Animalia;Arthropoda;Malacostraca;Euphausiacea;;;;British_Columbia_Coast_478.scor;krill;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;British_Columbia_Coast_478.scor;large squids;True
+Ophiodon elongatus;Ophiodon elongatus;240745;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Hexagrammidae;Ophiodon;Ophiodon elongatus;British_Columbia_Coast_478.scor;lingcod;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;British_Columbia_Coast_478.scor;macrophytes;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;British_Columbia_Coast_478.scor;misc. pred. pelagics;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;British_Columbia_Coast_478.scor;misc. small demersals;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;British_Columbia_Coast_478.scor;misc. small pelagics;True
+125498;Myctophidae;125498;Family;accepted;Animalia;Chordata;Teleostei;Myctophiformes;Myctophidae;;;British_Columbia_Coast_478.scor;myctophids;True
+148724;Mysticeti;148724;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;British_Columbia_Coast_478.scor;mysticetae;True
+148723;Odontoceti;148723;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;British_Columbia_Coast_478.scor;odontocetae;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;British_Columbia_Coast_478.scor;other benthos;True
+Gadus macrocephalus;Gadus macrocephalus;254538;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus macrocephalus;British_Columbia_Coast_478.scor;P. cod ad.;True
+Gadus macrocephalus;Gadus macrocephalus;254538;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus macrocephalus;British_Columbia_Coast_478.scor;P. cod juv.;True
+Hippoglossus stenolepis;Hippoglossus stenolepis;274290;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus stenolepis;British_Columbia_Coast_478.scor;P. halibut ad.;True
+Hippoglossus stenolepis;Hippoglossus stenolepis;274290;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus stenolepis;British_Columbia_Coast_478.scor;P. halibut juv.;True
+Merluccius productus;Merluccius productus;272458;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius productus;British_Columbia_Coast_478.scor;Pac. hake;True
+Sebastes alutus;Sebastes alutus;254573;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;Sebastes alutus;British_Columbia_Coast_478.scor;Pac. Ocean perch;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;British_Columbia_Coast_478.scor;pelagic sharks;True
+Oncorhynchus gorbuscha;Oncorhynchus gorbuscha;127182;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus gorbuscha;British_Columbia_Coast_478.scor;pink;True
+300735;Gadus chalcogrammus;300735;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus;British_Columbia_Coast_478.scor;pollock ad.;True
+300735;Gadus chalcogrammus;300735;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus;British_Columbia_Coast_478.scor;pollock juv.;True
+1821;Chordata;1821;Phylum;accepted;Animalia;Chordata;;;;;;British_Columbia_Coast_478.scor;rajidae / ratfish;True
+Lepidopsetta;Lepidopsetta;269638;Genus;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Lepidopsetta;;British_Columbia_Coast_478.scor;rock sole;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;British_Columbia_Coast_478.scor;rockfish other;True
+Anoplopoma fimbria;Anoplopoma fimbria;159463;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Anoplopomatidae;Anoplopoma;Anoplopoma fimbria;British_Columbia_Coast_478.scor;sablefish ad.;True
+Anoplopoma fimbria;Anoplopoma fimbria;159463;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Anoplopomatidae;Anoplopoma;Anoplopoma fimbria;British_Columbia_Coast_478.scor;sablefish juv.;True
+Lamna ditropis;Lamna ditropis;271421;Species;accepted;Animalia;Chordata;Elasmobranchii;Lamniformes;Lamnidae;Lamna;Lamna ditropis;British_Columbia_Coast_478.scor;salmon shark;True
+254999;Eumetopias jubatus;254999;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus;British_Columbia_Coast_478.scor;sea lions;True
+Callorhinus ursinus;Callorhinus ursinus;254997;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Callorhinus;Callorhinus ursinus;British_Columbia_Coast_478.scor;seals;True
+106674;Caridea;106674;Infraorder;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;British_Columbia_Coast_478.scor;shrimps;True
+325342;Decapodiformes;325342;Superorder;accepted;Animalia;Mollusca;Cephalopoda;;;;;British_Columbia_Coast_478.scor;small squids;True
+Oncorhynchus nerka;Oncorhynchus nerka;254569;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus nerka;British_Columbia_Coast_478.scor;sockeye;True
+Limanda aspera;Limanda aspera;254562;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Limanda;Limanda aspera;British_Columbia_Coast_478.scor;yellowfin sole;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Celestun_247.scor;Con.mic.zoo.fit;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Celestun_247.scor;Con.micro.zoopl;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Celestun_247.scor;Con.microcr.zoo;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Celestun_247.scor;Cons.mic.fitopl;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Celestun_247.scor;Cons.microrustr;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Celestun_247.scor;Fitoplanctofag.;True
+1065;Arthropoda;1065;Phylum;accepted;Animalia;Arthropoda;;;;;;Celestun_247.scor;Insectos;True
+1065;Arthropoda;1065;Phylum;accepted;Animalia;Arthropoda;;;;;;Celestun_247.scor;Macrocrustaceos;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Celestun_247.scor;Macrofitas;True
+1065;Arthropoda;1065;Phylum;accepted;Animalia;Arthropoda;;;;;;Celestun_247.scor;Microcrustaceos;True
+51;Mollusca;51;Phylum;accepted;Animalia;Mollusca;;;;;;Celestun_247.scor;Moluscus;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Celestun_247.scor;Omnivoros;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Celestun_247.scor;Otros peces;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Celestun_247.scor;Piscivoros;True
+883;Polychaeta;883;Class;accepted;Animalia;Annelida;Polychaeta;;;;;Celestun_247.scor;Poliquetos;True
+Fundulus persimilis;Fundulus persimilis;422555;Species;accepted;Animalia;Chordata;Teleostei;Cyprinodontiformes;Fundulidae;Fundulus;Fundulus persimilis;Celestun_247.scor;Zooplanktofagos;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Celestun_247.scor;Zooplankton;True
+125523;Carangidae;125523;Family;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;;;Central_Gulf_of_California_239.scor;Carangidae;True
+125464;Clupeidae;125464;Family;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;;;Central_Gulf_of_California_239.scor;Clupaeidae;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Central_Gulf_of_California_239.scor;Crabs;True
+125538;Haemulidae;125538;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;;;Central_Gulf_of_California_239.scor;Haemulidae;True
+151453;Lutjanidae;151453;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;;;Central_Gulf_of_California_239.scor;Lutjanidae;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Central_Gulf_of_California_239.scor;Meiobenthos;True
+125498;Myctophidae;125498;Family;accepted;Animalia;Chordata;Teleostei;Myctophiformes;Myctophidae;;;Central_Gulf_of_California_239.scor;Myctophidae;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Central_Gulf_of_California_239.scor;Other fish;True
+1065;Arthropoda;1065;Phylum;accepted;Animalia;Arthropoda;;;;;;Central_Gulf_of_California_239.scor;Other macrocrus;True
+51;Mollusca;51;Phylum;accepted;Animalia;Mollusca;;;;;;Central_Gulf_of_California_239.scor;Other molluscs;True
+154168;Paralichthyidae;154168;Family;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Paralichthyidae;;;Central_Gulf_of_California_239.scor;Paralichthydae;True
+883;Polychaeta;883;Class;accepted;Animalia;Annelida;Polychaeta;;;;;Central_Gulf_of_California_239.scor;Polychaeta;True
+1607504;Grimothea planipes;1607504;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Munididae;Grimothea;Grimothea planipes;Central_Gulf_of_California_239.scor;Red crab;True
+125558;Sciaenidae;125558;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;;;Central_Gulf_of_California_239.scor;Sciaenidae;True
+125559;Scombridae;125559;Family;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;;;Central_Gulf_of_California_239.scor;Scombridae;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Central_Gulf_of_California_239.scor;Scorp/Triglidae;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Central_Gulf_of_California_239.scor;Sea birds;True
+1837;Mammalia;1837;Class;accepted;Animalia;Chordata;Mammalia;;;;;Central_Gulf_of_California_239.scor;Sea mammals;True
+125561;Serranidae;125561;Family;accepted;Animalia;Chordata;Teleostei;Perciformes;Serranidae;;;Central_Gulf_of_California_239.scor;Serranidae;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Central_Gulf_of_California_239.scor;Sharks / Rays;True
+106674;Caridea;106674;Infraorder;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Central_Gulf_of_California_239.scor;Shrimp;True
+325342;Decapodiformes;325342;Superorder;accepted;Animalia;Mollusca;Cephalopoda;;;;;Central_Gulf_of_California_239.scor;Squid;True
+14355;Stomatopoda;14355;Order;accepted;Animalia;Arthropoda;Malacostraca;Stomatopoda;;;;Central_Gulf_of_California_239.scor;Stomatopods;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Central_Gulf_of_California_239.scor;Zooplankton;True
+148724;Mysticeti;148724;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Denmark_Faroe_Islands_46.scor;Baleen whales;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Denmark_Faroe_Islands_46.scor;Benthos;True
+Micromesistius poutassou;Micromesistius poutassou;126439;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Micromesistius;Micromesistius poutassou;Denmark_Faroe_Islands_46.scor;Blue Whiting;True
+Gadus morhua;Gadus morhua;126436;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus morhua;Denmark_Faroe_Islands_46.scor;Cod;True
+127144;Reinhardtius hippoglossoides;127144;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Reinhardtius;Reinhardtius hippoglossoides;Denmark_Faroe_Islands_46.scor;Greenland Halibut;True
+Melanogrammus aeglefinus;Melanogrammus aeglefinus;126437;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Melanogrammus;Melanogrammus aeglefinus;Denmark_Faroe_Islands_46.scor;Haddock;True
+Clupea harengus;Clupea harengus;126417;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea harengus;Denmark_Faroe_Islands_46.scor;Herring;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Denmark_Faroe_Islands_46.scor;Lrg. Zooplankton;True
+Scomber scombrus;Scomber scombrus;127023;Species;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;Scomber scombrus;Denmark_Faroe_Islands_46.scor;Mackerel;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Denmark_Faroe_Islands_46.scor;Nekton;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Denmark_Faroe_Islands_46.scor;Other deep water;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Denmark_Faroe_Islands_46.scor;Other demersal fish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Denmark_Faroe_Islands_46.scor;Other pelagics;True
+Sebastes;Sebastes;126175;Genus;accepted;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;;Denmark_Faroe_Islands_46.scor;Redfish;True
+Pollachius virens;Pollachius virens;126441;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Pollachius;Pollachius virens;Denmark_Faroe_Islands_46.scor;Saithe;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Denmark_Faroe_Islands_46.scor;Seabirds;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Denmark_Faroe_Islands_46.scor;Sm. Zooplankton;True
+1837;Mammalia;1837;Class;accepted;Animalia;Chordata;Mammalia;;;;;Denmark_Faroe_Islands_46.scor;Toothed mammals;True
+300735;Gadus chalcogrammus;300735;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus;Eastern_Bering_Sea_183.scor;Adult pollock;True
+148724;Mysticeti;148724;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Eastern_Bering_Sea_183.scor;Baleen whales;True
+148724;Mysticeti;148724;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Eastern_Bering_Sea_183.scor;Beaked whales;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Eastern_Bering_Sea_183.scor;Benth. Par. feeders;True
+Berryteuthis magister;Berryteuthis magister;342286;Species;accepted;Animalia;Mollusca;Cephalopoda;Oegopsida;Gonatidae;Berryteuthis;Berryteuthis magister;Eastern_Bering_Sea_183.scor;Cephalopods;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Eastern_Bering_Sea_183.scor;Deepwater fish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Eastern_Bering_Sea_183.scor;Epifauna;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Eastern_Bering_Sea_183.scor;Herb. Zoops;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Eastern_Bering_Sea_183.scor;Infauna;True
+287209;Chrysaora melanaster;287209;Species;accepted;Animalia;Cnidaria;Scyphozoa;Semaeostomeae;Pelagiidae;Chrysaora;Chrysaora melanaster;Eastern_Bering_Sea_183.scor;Jellyfish;True
+300735;Gadus chalcogrammus;300735;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus;Eastern_Bering_Sea_183.scor;Juvenile Pollock;True
+1517532;Carangiformes;1517532;Order;accepted;Animalia;Chordata;Teleostei;Carangiformes;;;;Eastern_Bering_Sea_183.scor;Large flatfish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Eastern_Bering_Sea_183.scor;Large Zoops;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Eastern_Bering_Sea_183.scor;Other demersal fish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Eastern_Bering_Sea_183.scor;Pelagics;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Eastern_Bering_Sea_183.scor;Pisc. Birds;True
+2687;Carnivora;2687;Order;accepted;Animalia;Chordata;Mammalia;Carnivora;;;;Eastern_Bering_Sea_183.scor;Seals;True
+1517532;Carangiformes;1517532;Order;accepted;Animalia;Chordata;Teleostei;Carangiformes;;;;Eastern_Bering_Sea_183.scor;Small flatfish;True
+Physeter macrocephalus;Physeter macrocephalus;137119;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Physeteridae;Physeter;Physeter macrocephalus;Eastern_Bering_Sea_183.scor;Sperm whales;True
+Eumetopias jubatus;Eumetopias jubatus;254999;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus;Eastern_Bering_Sea_183.scor;Steller sea lions;True
+148723;Odontoceti;148723;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Eastern_Bering_Sea_183.scor;Toothed whales;True
+2687;Carnivora;2687;Order;accepted;Animalia;Chordata;Mammalia;Carnivora;;;;Eastern_Bering_Sea_183.scor;"Walrus &amp; bearded";True
+Aiptasia;Aiptasia;100718;Genus;accepted;Animalia;Cnidaria;Hexacorallia;Actiniaria;Aiptasiidae;Aiptasia;;Galapagos_Floreana_Rocky_Reef_48.scor;Anemones;True
+123080;Asteroidea;123080;Class;accepted;Animalia;Echinodermata;Asteroidea;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Asteroids;True
+Mycteroperca olfax;Mycteroperca olfax;273881;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Epinephelidae;Mycteroperca;Mycteroperca olfax;Galapagos_Floreana_Rocky_Reef_48.scor;Bacalao;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Benthic algae;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Birds;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Carnivorous zooplankton;True
+55;Polyplacophora;55;Class;accepted;Animalia;Mollusca;Polyplacophora;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Chitons;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Galapagos_Floreana_Rocky_Reef_48.scor;Detritivorous fish;True
+Eucidaris;Eucidaris;204525;Genus;accepted;Animalia;Echinodermata;Echinoidea;Cidaroida;Cidaridae;Eucidaris;;Galapagos_Floreana_Rocky_Reef_48.scor;Eucidaris urchin;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Filter + suspension feeders;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Herbivorous zooplankton;True
+Hexaplex;Hexaplex;138194;Genus;accepted;Animalia;Mollusca;Gastropoda;Neogastropoda;Muricidae;Hexaplex;;Galapagos_Floreana_Rocky_Reef_48.scor;Hexaplex gastropod;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Large benthic invertebrate eaters;True
+Lytechinus;Lytechinus;240777;Genus;accepted;Animalia;Echinodermata;Echinoidea;Camarodonta;Toxopneustidae;Lytechinus;;Galapagos_Floreana_Rocky_Reef_48.scor;Lytechinus urchin;True
+Amblyrhynchus cristatus;Amblyrhynchus cristatus;344019;Species;accepted;Animalia;Chordata;;Sauria;Iguanidae;Amblyrhynchus;Amblyrhynchus cristatus;Galapagos_Floreana_Rocky_Reef_48.scor;Marine iguana;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Non-commercial reef predators;True
+11718;Octopoda;11718;Order;accepted;Animalia;Mollusca;Cephalopoda;Octopoda;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Octopods;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Galapagos_Floreana_Rocky_Reef_48.scor;Omnivorous reef fishes;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Other commercial reef predators;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Galapagos_Floreana_Rocky_Reef_48.scor;Other herbivorous fish;True
+123083;Holothuroidea;123083;Class;accepted;Animalia;Echinodermata;Holothuroidea;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Other sea cucumbers;True
+123082;Echinoidea;123082;Class;accepted;Animalia;Echinodermata;Echinoidea;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Other urchins;True
+125541;Labridae;125541;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Labridae;;;Galapagos_Floreana_Rocky_Reef_48.scor;Parrotfishes;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Pelagic planktivores;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Pelagic predators;True
+529516;Isostichopus fuscus;529516;Species;accepted;Animalia;Echinodermata;Holothuroidea;Synallactida;Stichopodidae;Isostichopus;Isostichopus fuscus;Galapagos_Floreana_Rocky_Reef_48.scor;Pepino sea cucumber;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Galapagos_Floreana_Rocky_Reef_48.scor;Planktivorous reef fish;True
+Zalophus wollebaeki;Zalophus wollebaeki;255005;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Zalophus;Zalophus wollebaeki;Galapagos_Floreana_Rocky_Reef_48.scor;Sea lions;True
+Chelonia mydas;Chelonia mydas;137206;Species;accepted;Animalia;Chordata;;Testudines;Cheloniidae;Chelonia;Chelonia mydas;Galapagos_Floreana_Rocky_Reef_48.scor;Sea turtles;True
+368408;Selachii;368408;Infraclass;accepted;Animalia;Chordata;Elasmobranchii;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Sharks;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Shrimps and small crabs;True
+Scyllarides astori;Scyllarides astori;382910;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Scyllaridae;Scyllarides;Scyllarides astori;Galapagos_Floreana_Rocky_Reef_48.scor;Slipper lobster;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Small benthic invertebrate eaters;True
+1066;Crustacea;1066;Subphylum;accepted;Animalia;Arthropoda;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Small crustaceans;True
+101;Gastropoda;101;Class;accepted;Animalia;Mollusca;Gastropoda;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Small gastropods;True
+Panulirus;Panulirus;107060;Genus;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Palinuridae;Panulirus;;Galapagos_Floreana_Rocky_Reef_48.scor;Spiny lobsters;True
+1363;Scleractinia;1363;Order;accepted;Animalia;Cnidaria;Hexacorallia;Scleractinia;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Stony corals;True
+148723;Odontoceti;148723;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Toothed cetaceans;True
+Tripneustes;Tripneustes;206063;Genus;accepted;Animalia;Echinodermata;Echinoidea;Camarodonta;Toxopneustidae;Tripneustes;;Galapagos_Floreana_Rocky_Reef_48.scor;Tripneustes urchin;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Galapagos_Floreana_Rocky_Reef_48.scor;Worms and ophioroids;True
+Hippoglossoides platessoides;Hippoglossoides platessoides;127137;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossoides;Hippoglossoides platessoides;Grand_Banks_of_Newfoundland_105.scor;Aplaice +35cm;True
+Hippoglossoides platessoides;Hippoglossoides platessoides;127137;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossoides;Hippoglossoides platessoides;Grand_Banks_of_Newfoundland_105.scor;"Aplaice&lt;=35cm";True
+Boreogadus saida;Boreogadus saida;126433;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Boreogadus;Boreogadus saida;Grand_Banks_of_Newfoundland_105.scor;Arctic cod;True
+Gonatus;Gonatus;138036;Genus;accepted;Animalia;Mollusca;Cephalopoda;Oegopsida;Gonatidae;Gonatus;;Grand_Banks_of_Newfoundland_105.scor;Arctic Squid;True
+105;Bivalvia;105;Class;accepted;Animalia;Mollusca;Bivalvia;;;;;Grand_Banks_of_Newfoundland_105.scor;Bivalves;True
+Mallotus villosus;Mallotus villosus;126735;Species;accepted;Animalia;Chordata;Teleostei;Osmeriformes;Osmeridae;Mallotus;Mallotus villosus;Grand_Banks_of_Newfoundland_105.scor;Capelin;True
+2688;Cetacea;2688;Infraorder;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Grand_Banks_of_Newfoundland_105.scor;Cetaceans;True
+Gadus morhua;Gadus morhua;126436;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus morhua;Grand_Banks_of_Newfoundland_105.scor;"Cod &lt;40 cm";True
+Gadus morhua;Gadus morhua;126436;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus morhua;Grand_Banks_of_Newfoundland_105.scor;Cod + 40cm;True
+Squalus acanthias;Squalus acanthias;105923;Species;accepted;Animalia;Chordata;Elasmobranchii;Squaliformes;Squalidae;Squalus;Squalus acanthias;Grand_Banks_of_Newfoundland_105.scor;Dogfish;True
+Anatidae;Anatidae;136973;Family;accepted;Animalia;Chordata;Aves;Anseriformes;Anatidae;;;Grand_Banks_of_Newfoundland_105.scor;Ducks;True
+1806;Echinodermata;1806;Phylum;accepted;Animalia;Echinodermata;;;;;;Grand_Banks_of_Newfoundland_105.scor;Echinoderms;True
+Reinhardtius hippoglossoides;Reinhardtius hippoglossoides;127144;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Reinhardtius;Reinhardtius hippoglossoides;Grand_Banks_of_Newfoundland_105.scor;G. Halibut +65cm;True
+Reinhardtius hippoglossoides;Reinhardtius hippoglossoides;127144;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Reinhardtius;Reinhardtius hippoglossoides;Grand_Banks_of_Newfoundland_105.scor;G. Halibut Juv.;True
+254538;Gadus macrocephalus;254538;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus macrocephalus;Grand_Banks_of_Newfoundland_105.scor;Greenland cod;True
+Halichoerus grypus;Halichoerus grypus;137080;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Halichoerus;Halichoerus grypus;Grand_Banks_of_Newfoundland_105.scor;Grey seals;True
+159019;Pagophilus groenlandicus;159019;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Pagophilus;Pagophilus groenlandicus;Grand_Banks_of_Newfoundland_105.scor;Harp Seals;True
+126417;Clupea harengus;126417;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea harengus;Grand_Banks_of_Newfoundland_105.scor;Herring;True
+Cystophora cristata;Cystophora cristata;137078;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Cystophora;Cystophora cristata;Grand_Banks_of_Newfoundland_105.scor;Hooded Seals;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Grand_Banks_of_Newfoundland_105.scor;Juv. Dem. Pisc (- 40cm);True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Grand_Banks_of_Newfoundland_105.scor;L. Dem. Pisc (+40 cm);True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Grand_Banks_of_Newfoundland_105.scor;L.Dem.Feeders (+ 30cm);True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Grand_Banks_of_Newfoundland_105.scor;L.Zooplankton;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Grand_Banks_of_Newfoundland_105.scor;Large Crabs +95 cm;True
+156134;Homarus americanus;156134;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Nephropidae;Homarus;Homarus americanus;Grand_Banks_of_Newfoundland_105.scor;Lobster;True
+Cyclopterus lumpus;Cyclopterus lumpus;127214;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Cyclopteridae;Cyclopterus;Cyclopterus lumpus;Grand_Banks_of_Newfoundland_105.scor;Lumpfish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Grand_Banks_of_Newfoundland_105.scor;O.Benthic Inver;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Grand_Banks_of_Newfoundland_105.scor;O.S.Demersals;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Grand_Banks_of_Newfoundland_105.scor;Piscivorous Birds;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Grand_Banks_of_Newfoundland_105.scor;Planktivorous Birds;True
+883;Polychaeta;883;Class;accepted;Animalia;Annelida;Polychaeta;;;;;Grand_Banks_of_Newfoundland_105.scor;Polychaetes;True
+Sebastes;Sebastes;126175;Genus;accepted;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;;Grand_Banks_of_Newfoundland_105.scor;Redfish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Grand_Banks_of_Newfoundland_105.scor;S.Dem.Feeders;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Grand_Banks_of_Newfoundland_105.scor;S.Zooplankton;True
+Salmo salar;Salmo salar;127186;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Salmo;Salmo salar;Grand_Banks_of_Newfoundland_105.scor;Salmon;True
+Ammodytes dubius;Ammodytes dubius;151520;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Ammodytidae;Ammodytes;Ammodytes dubius;Grand_Banks_of_Newfoundland_105.scor;Sandlance;True
+153087;Illex illecebrosus;153087;Species;accepted;Animalia;Mollusca;Cephalopoda;Oegopsida;Ommastrephidae;Illex;Illex illecebrosus;Grand_Banks_of_Newfoundland_105.scor;Shortfinned squid;True
+Pandalus;Pandalus;107044;Genus;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Pandalidae;Pandalus;;Grand_Banks_of_Newfoundland_105.scor;Shrimp;True
+105711;Rajidae;105711;Family;accepted;Animalia;Chordata;Elasmobranchii;Rajiformes;Rajidae;;;Grand_Banks_of_Newfoundland_105.scor;Skates;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Grand_Banks_of_Newfoundland_105.scor;Small Crabs - 95 cm;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Grand_Banks_of_Newfoundland_105.scor;Small Mesopelagics;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Grand_Banks_of_Newfoundland_105.scor;Small Pelagics;True
+Scomber scombrus;Scomber scombrus;127023;Species;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;Scomber scombrus;Grand_Banks_of_Newfoundland_105.scor;Transient Mackerel ( +29cm);True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Grand_Banks_of_Newfoundland_105.scor;Transient Pelagics;True
+Odobenus rosmarus;Odobenus rosmarus;137077;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Odobenidae;Odobenus;Odobenus rosmarus;Grand_Banks_of_Newfoundland_105.scor;Walrus;True
+Pseudopleuronectes americanus;Pseudopleuronectes americanus;158885;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Pseudopleuronectes;Pseudopleuronectes americanus;Grand_Banks_of_Newfoundland_105.scor;Winter flounder;True
+127136;Glyptocephalus cynoglossus;127136;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Glyptocephalus;Glyptocephalus cynoglossus;Grand_Banks_of_Newfoundland_105.scor;Witch flounder;True
+1571969;Myzopsetta ferruginea;1571969;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Myzopsetta;Myzopsetta ferruginea;Grand_Banks_of_Newfoundland_105.scor;Yellowtail Flounders;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Gulf_of_California_450.scor;Benthic inv.;True
+Callinectes;Callinectes;106921;Genus;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Portunidae;Callinectes;;Gulf_of_California_450.scor;Callinectes sp.;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Gulf_of_California_450.scor;Cephalopoda;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Gulf_of_California_450.scor;Coastal birds;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Gulf_of_California_450.scor;Elasmobranchi (RAYS);True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Gulf_of_California_450.scor;Elasmobranchi (SHARKS);True
+1809219;Penaeus (Farfantepenaeus) californiensis;1809219;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Penaeus;Penaeus (Farfantepenaeus) californiensis;Gulf_of_California_450.scor;Farfantepenaeus californiensis (ADULTS);True
+1809219;Penaeus (Farfantepenaeus) californiensis;1809219;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Penaeus;Penaeus (Farfantepenaeus) californiensis;Gulf_of_California_450.scor;Farfantepenaeus californiensis (JUVENILES);True
+1517532;Carangiformes;1517532;Order;accepted;Animalia;Chordata;Teleostei;Carangiformes;;;;Gulf_of_California_450.scor;Flat fishes;True
+125538;Haemulidae;125538;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;;;Gulf_of_California_450.scor;Haemulidae;True
+1809211;Penaeus (Litopenaeus) stylirostris;1809211;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Penaeus;Penaeus (Litopenaeus) stylirostris;Gulf_of_California_450.scor;Litopenaeus stylirostris (ADULTS);True
+1809211;Penaeus (Litopenaeus) stylirostris;1809211;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Penaeus;Penaeus (Litopenaeus) stylirostris;Gulf_of_California_450.scor;Litopenaeus stylirostris (JUVENILES);True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Gulf_of_California_450.scor;Macrophytes;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Gulf_of_California_450.scor;Marine birds;True
+125473;Merlucciidae;125473;Family;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;;;Gulf_of_California_450.scor;Merluccidae;True
+151456;Gerreidae;151456;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Gerreidae;;;Gulf_of_California_450.scor;Mojarras;True
+125498;Myctophidae;125498;Family;accepted;Animalia;Chordata;Teleostei;Myctophiformes;Myctophidae;;;Gulf_of_California_450.scor;Myctophidos;True
+148724;Mysticeti;148724;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Gulf_of_California_450.scor;Mysticeti;True
+148723;Odontoceti;148723;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Gulf_of_California_450.scor;Odontoceti;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Gulf_of_California_450.scor;Other fishes;True
+Phocoena sinus;Phocoena sinus;343897;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Phocoenidae;Phocoena;Phocoena sinus;Gulf_of_California_450.scor;Phocoena sinus;True
+883;Polychaeta;883;Class;accepted;Animalia;Annelida;Polychaeta;;;;;Gulf_of_California_450.scor;Polychaeta;True
+105712;Rhinobatidae;105712;Family;accepted;Animalia;Chordata;Elasmobranchii;Rhinopristiformes;Rhinobatidae;;;Gulf_of_California_450.scor;Rhinobatidae;True
+125558;Sciaenidae;125558;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;;;Gulf_of_California_450.scor;Sciaenidae;True
+125561;Serranidae;125561;Family;accepted;Animalia;Chordata;Teleostei;Perciformes;Serranidae;;;Gulf_of_California_450.scor;Serranidae;True
+Sicyonia penicillata;Sicyonia penicillata;377649;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Sicyoniidae;Sicyonia;Sicyonia penicillata;Gulf_of_California_450.scor;Sicyonia penicillata;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Gulf_of_California_450.scor;Small pelagics;True
+14355;Stomatopoda;14355;Order;accepted;Animalia;Arthropoda;Malacostraca;Stomatopoda;;;;Gulf_of_California_450.scor;Stomatopoda;True
+Totoaba macdonaldi;Totoaba macdonaldi;283019;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Totoaba;Totoaba macdonaldi;Gulf_of_California_450.scor;Totoaba macdonaldi (ADULTS);True
+Totoaba macdonaldi;Totoaba macdonaldi;283019;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Totoaba;Totoaba macdonaldi;Gulf_of_California_450.scor;Totoaba macdonaldi (JUVENILES);True
+Zalophus californianus;Zalophus californianus;255003;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Zalophus;Zalophus californianus;Gulf_of_California_450.scor;Zalophus californianus;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Gulf_of_California_450.scor;Zooplankton;True
+Salvelinus alpinus;Salvelinus alpinus;127188;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Salvelinus;Salvelinus alpinus;Hudson_Bay_446.scor;Arctic Char;True
+Salmo salar;Salmo salar;127186;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Salmo;Salmo salar;Hudson_Bay_446.scor;Atlantic Salmon;True
+Erignathus barbatus;Erignathus barbatus;137079;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Erignathus;Erignathus barbatus;Hudson_Bay_446.scor;Bearded Seal;True
+Delphinapterus leucas;Delphinapterus leucas;137115;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Monodontidae;Delphinapterus;Delphinapterus leucas;Hudson_Bay_446.scor;Beluga E;True
+Delphinapterus leucas;Delphinapterus leucas;137115;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Monodontidae;Delphinapterus;Delphinapterus leucas;Hudson_Bay_446.scor;Beluga James;True
+Delphinapterus leucas;Delphinapterus leucas;137115;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Monodontidae;Delphinapterus;Delphinapterus leucas;Hudson_Bay_446.scor;Beluga W;True
+105;Bivalvia;105;Class;accepted;Animalia;Mollusca;Bivalvia;;;;;Hudson_Bay_446.scor;Bivalves;True
+Balaena mysticetus;Balaena mysticetus;137086;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Balaenidae;Balaena;Balaena mysticetus;Hudson_Bay_446.scor;Bowhead;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Hudson_Bay_446.scor;Brackish Fish;True
+Mallotus villosus;Mallotus villosus;126735;Species;accepted;Animalia;Chordata;Teleostei;Osmeriformes;Osmeridae;Mallotus;Mallotus villosus;Hudson_Bay_446.scor;Capelin;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Hudson_Bay_446.scor;Cephalopods;True
+1080;Copepoda;1080;Class;accepted;Animalia;Arthropoda;Copepoda;;;;;Hudson_Bay_446.scor;Copepods;True
+1066;Crustacea;1066;Subphylum;accepted;Animalia;Arthropoda;;;;;;Hudson_Bay_446.scor;Crustaceans;True
+1806;Echinodermata;1806;Phylum;accepted;Animalia;Echinodermata;;;;;;Hudson_Bay_446.scor;Echinoderms;True
+1128;Euphausiacea;1128;Order;accepted;Animalia;Arthropoda;Malacostraca;Euphausiacea;;;;Hudson_Bay_446.scor;Euphausids;True
+10313;Gadiformes;10313;Order;accepted;Animalia;Chordata;Teleostei;Gadiformes;;;;Hudson_Bay_446.scor;Gadiformes;True
+Phoca vitulina;Phoca vitulina;137084;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Phoca;Phoca vitulina;Hudson_Bay_446.scor;Harbour Seal;True
+159019;Pagophilus groenlandicus;159019;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Pagophilus;Pagophilus groenlandicus;Hudson_Bay_446.scor;Harp seal;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Hudson_Bay_446.scor;Ice Algae;True
+Orcinus orca;Orcinus orca;137102;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Orcinus;Orcinus orca;Hudson_Bay_446.scor;Killer Whale;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Hudson_Bay_446.scor;MacroZooplankton;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Hudson_Bay_446.scor;Marine Worms;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Hudson_Bay_446.scor;MicroZooplankton;True
+Monodon monoceros;Monodon monoceros;137116;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Monodontidae;Monodon;Monodon monoceros;Hudson_Bay_446.scor;Narwhal;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Hudson_Bay_446.scor;Other Benthos;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Hudson_Bay_446.scor;Other Marine Fish;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Hudson_Bay_446.scor;Other MesoZooplankton;True
+Ursus maritimus;Ursus maritimus;137085;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Ursidae;Ursus;Ursus maritimus;Hudson_Bay_446.scor;Polar Bear Foxe;True
+Ursus maritimus;Ursus maritimus;137085;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Ursidae;Ursus;Ursus maritimus;Hudson_Bay_446.scor;Polar Bear WHB;True
+Pusa hispida;Pusa hispida;159021;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Pusa;Pusa hispida;Hudson_Bay_446.scor;Ringed Seal;True
+Ammodytes dubius;Ammodytes dubius;151520;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Ammodytidae;Ammodytes;Ammodytes dubius;Hudson_Bay_446.scor;Sandlance;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Hudson_Bay_446.scor;Sculpins/ Zoarcids;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Hudson_Bay_446.scor;Seabirds;True
+Ursus maritimus;Ursus maritimus;137085;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Ursidae;Ursus;Ursus maritimus;Hudson_Bay_446.scor;SH Polar Bear;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Hudson_Bay_446.scor;Sharks/Rays;True
+Odobenus rosmarus rosmarus;Odobenus rosmarus rosmarus;255010;Subspecies;accepted;Animalia;Chordata;Mammalia;Carnivora;Odobenidae;Odobenus;;Hudson_Bay_446.scor;Walrus N;True
+Odobenus rosmarus rosmarus;Odobenus rosmarus rosmarus;255010;Subspecies;accepted;Animalia;Chordata;Mammalia;Carnivora;Odobenidae;Odobenus;;Hudson_Bay_446.scor;Walrus S;True
+151453;Lutjanidae;151453;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;;;Jalisco_and_Colima_Coast_307.scor;Adultos Lutjanu;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Jalisco_and_Colima_Coast_307.scor;Anguilas y more;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Jalisco_and_Colima_Coast_307.scor;Aves marinas;True
+106673;Brachyura;106673;Infraorder;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Jalisco_and_Colima_Coast_307.scor;Braquiuros;True
+125523;Carangidae;125523;Family;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;;;Jalisco_and_Colima_Coast_307.scor;Carángidos;True
+125531;Coryphaenidae;125531;Family;accepted;Animalia;Chordata;Teleostei;Carangiformes;Coryphaenidae;;;Jalisco_and_Colima_Coast_307.scor;Dorado;True
+1806;Echinodermata;1806;Phylum;accepted;Animalia;Echinodermata;;;;;;Jalisco_and_Colima_Coast_307.scor;Equinodermos;True
+125559;Scombridae;125559;Family;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;;;Jalisco_and_Colima_Coast_307.scor;Escómbridos;True
+14355;Stomatopoda;14355;Order;accepted;Animalia;Arthropoda;Malacostraca;Stomatopoda;;;;Jalisco_and_Colima_Coast_307.scor;Estomatópodos;True
+125476;Gasterosteidae;125476;Family;accepted;Animalia;Chordata;Teleostei;Perciformes;Gasterosteidae;;;Jalisco_and_Colima_Coast_307.scor;Gasterosteidos;True
+151456;Gerreidae;151456;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Gerreidae;;;Jalisco_and_Colima_Coast_307.scor;Gerreidos;True
+125538;Haemulidae;125538;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;;;Jalisco_and_Colima_Coast_307.scor;Haemúlidos;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jalisco_and_Colima_Coast_307.scor;Infauna;True
+151453;Lutjanidae;151453;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;;;Jalisco_and_Colima_Coast_307.scor;Juveniles Lutja;True
+1837;Mammalia;1837;Class;accepted;Animalia;Chordata;Mammalia;;;;;Jalisco_and_Colima_Coast_307.scor;Mamíferos marin;True
+51;Mollusca;51;Phylum;accepted;Animalia;Mollusca;;;;;;Jalisco_and_Colima_Coast_307.scor;Moluscos;True
+125505;Ophidiidae;125505;Family;accepted;Animalia;Chordata;Teleostei;Ophidiiformes;Ophidiidae;;;Jalisco_and_Colima_Coast_307.scor;Ophidiidos;True
+1065;Arthropoda;1065;Phylum;accepted;Animalia;Arthropoda;;;;;;Jalisco_and_Colima_Coast_307.scor;Otros crustáceo;True
+151453;Lutjanidae;151453;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;;;Jalisco_and_Colima_Coast_307.scor;Otros lutjánido;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jalisco_and_Colima_Coast_307.scor;Otros macroinve;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Jalisco_and_Colima_Coast_307.scor;Otros peces;True
+106727;Penaeidae;106727;Family;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;;;Jalisco_and_Colima_Coast_307.scor;Peneidos;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Jalisco_and_Colima_Coast_307.scor;Picudos;True
+125579;Pleuronectidae;125579;Family;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;;;Jalisco_and_Colima_Coast_307.scor;Pleuronéctidos;True
+11782;Octopodidae;11782;Family;accepted;Animalia;Mollusca;Cephalopoda;Octopoda;Octopodidae;;;Jalisco_and_Colima_Coast_307.scor;Pulpo;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Jalisco_and_Colima_Coast_307.scor;Rayas;True
+125464;Clupeidae;125464;Family;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;;;Jalisco_and_Colima_Coast_307.scor;Sardinas;True
+125558;Sciaenidae;125558;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;;;Jalisco_and_Colima_Coast_307.scor;Sciánidos;True
+125561;Serranidae;125561;Family;accepted;Animalia;Chordata;Teleostei;Perciformes;Serranidae;;;Jalisco_and_Colima_Coast_307.scor;Serranidos;True
+125559;Scombridae;125559;Family;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;;;Jalisco_and_Colima_Coast_307.scor;Sierra;True
+125449;Synodontidae;125449;Family;accepted;Animalia;Chordata;Teleostei;Aulopiformes;Synodontidae;;;Jalisco_and_Colima_Coast_307.scor;Synodontidos;True
+125612;Tetraodontidae;125612;Family;accepted;Animalia;Chordata;Teleostei;Tetraodontiformes;Tetraodontidae;;;Jalisco_and_Colima_Coast_307.scor;Tetraodóntidos;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Jalisco_and_Colima_Coast_307.scor;Tiburones;True
+2689;Testudines;2689;Order;accepted;Animalia;Chordata;;Testudines;;;;Jalisco_and_Colima_Coast_307.scor;Tortugas marina;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jalisco_and_Colima_Coast_307.scor;Zooplancton;True
+Choerodon rubescens;Choerodon rubescens;277278;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Labridae;Choerodon;Choerodon rubescens;Jurien_Bay_456.scor;Baldchin grouper;True
+280694;Epinephelides armatus;280694;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Anthiadidae;Epinephelides;Epinephelides armatus;Jurien_Bay_456.scor;Breaksea cod;True
+1267;Cnidaria;1267;Phylum;accepted;Animalia;Cnidaria;;;;;;Jurien_Bay_456.scor;Carnivorous Jellyfish;True
+2081;Chaetognatha;2081;Phylum;accepted;Animalia;Chaetognatha;;;;;;Jurien_Bay_456.scor;Chaetognaths;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Jurien_Bay_456.scor;Corraline algae;True
+11723;Sepiidae;11723;Family;accepted;Animalia;Mollusca;Cephalopoda;Sepiida;Sepiidae;;;Jurien_Bay_456.scor;Cuttlefish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Deposit feed. invert.;True
+Glaucosoma hebraicum;Glaucosoma hebraicum;279190;Species;accepted;Animalia;Chordata;Teleostei;Acropomatiformes;Glaucosomatidae;Glaucosoma;Glaucosoma hebraicum;Jurien_Bay_456.scor;Dhufish;True
+2688;Cetacea;2688;Infraorder;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Jurien_Bay_456.scor;Dolphins;True
+Ecklonia;Ecklonia;144195;Genus;accepted;Chromista;Ochrophyta;Phaeophyceae;Laminariales;Lessoniaceae;Ecklonia;;Jurien_Bay_456.scor;Ecklonia;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Jurien_Bay_456.scor;Ephemeral seagrasses;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Infauna;True
+105;Bivalvia;105;Class;accepted;Animalia;Mollusca;Bivalvia;;;;;Jurien_Bay_456.scor;Infaunal bivalves;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Inshore ass. carnivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Inshore benthopelagic carnivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Inshore pelagic zooplankton feed;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Inshore reef ass. herbivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Inshore reef ass. omnivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Inshore reef ass. zoobenthos feed.;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Inshore sand ass. omnivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Inshore seagrass ass. omnivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Inshore seagrass ass. zoob. feed.;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Jurien_Bay_456.scor;Intertidal birds;True
+Coris;Coris;126019;Genus;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Labridae;Coris;;Jurien_Bay_456.scor;King wrasse;True
+101;Gastropoda;101;Class;accepted;Animalia;Mollusca;Gastropoda;;;;;Jurien_Bay_456.scor;Large Carn. Gastropods;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Jurien_Bay_456.scor;Large coastal sharks;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Jurien_Bay_456.scor;Large Crabs;True
+101;Gastropoda;101;Class;accepted;Animalia;Mollusca;Gastropoda;;;;;Jurien_Bay_456.scor;Large Herb. Gastropods;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Large mobile carn. invert.;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Large mobile herb. invert.;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Large Zooplankton;True
+Panulirus cygnus;Panulirus cygnus;382893;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Palinuridae;Panulirus;Panulirus cygnus;Jurien_Bay_456.scor;Lobster - Adolescent;True
+Panulirus cygnus;Panulirus cygnus;382893;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Palinuridae;Panulirus;Panulirus cygnus;Jurien_Bay_456.scor;Lobster Adult;True
+Panulirus cygnus;Panulirus cygnus;382893;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Palinuridae;Panulirus;Panulirus cygnus;Jurien_Bay_456.scor;Lobster- Juvenile;True
+Panulirus cygnus;Panulirus cygnus;382893;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Palinuridae;Panulirus;Panulirus cygnus;Jurien_Bay_456.scor;Lobster-post puerulus;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Jurien_Bay_456.scor;Low algae;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR benthopelagic carnivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR pelagic zooplankton Feed.;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR reef aa. zooplankton feed;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR reef ass. carnivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR reef ass. herbivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR reef ass. omnivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR reef ass. zoobenthos feed.;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR sand ass. carnivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR sand ass. omnivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR sand ass. zoobenthos feed.;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR seagrass ass. carnivore;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;NDR seagrass ass. omnivore;True
+11718;Octopoda;11718;Order;accepted;Animalia;Mollusca;Cephalopoda;Octopoda;;;;Jurien_Bay_456.scor;Octopus;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Jurien_Bay_456.scor;Perenial seagrasses;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Photo. corals/sponges;True
+Pagrus auratus;Pagrus auratus;398546;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Pagrus;Pagrus auratus;Jurien_Bay_456.scor;Pink snapper;True
+368409;Batoidea;368409;Infraclass;accepted;Animalia;Chordata;Elasmobranchii;;;;;Jurien_Bay_456.scor;Rays;True
+Haliotis roei;Haliotis roei;445351;Species;accepted;Animalia;Mollusca;Gastropoda;Lepetellida;Haliotidae;Haliotis;Haliotis roei;Jurien_Bay_456.scor;Roe abalone;True
+Sargassum;Sargassum;144132;Genus;accepted;Chromista;Ochrophyta;Phaeophyceae;Fucales;Sargassaceae;Sargassum;;Jurien_Bay_456.scor;Sargassum;True
+231386;Otariidae;231386;Family;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;;;Jurien_Bay_456.scor;Sea lions;True
+2689;Testudines;2689;Order;accepted;Animalia;Chordata;;Testudines;;;;Jurien_Bay_456.scor;Sea turtles;True
+105;Bivalvia;105;Class;accepted;Animalia;Mollusca;Bivalvia;;;;;Jurien_Bay_456.scor;Sessile bivalves;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Sessile epibenthos;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Jurien_Bay_456.scor;Small coastal sharks;True
+101;Gastropoda;101;Class;accepted;Animalia;Mollusca;Gastropoda;;;;;Jurien_Bay_456.scor;Small Gastropods;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Small mobil epifauna;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Small mobile herbivores;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Jurien_Bay_456.scor;Small Zooplankton;True
+325342;Decapodiformes;325342;Superorder;accepted;Animalia;Mollusca;Cephalopoda;;;;;Jurien_Bay_456.scor;Squid;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Jurien_Bay_456.scor;Surface diving birds;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Jurien_Bay_456.scor;Turfs;True
+273531;Bodianus frenchii;273531;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Labridae;Bodianus;Bodianus frenchii;Jurien_Bay_456.scor;Western foxfish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;bathydem S inv;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;bathydem S pred;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Mauritania_650.scor;cephalopodes comm;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Mauritania_650.scor;cephalopodes non-comm;True
+125523;Carangidae;125523;Family;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;;;Mauritania_650.scor;chinchards;True
+125464;Clupeidae;125464;Family;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;;;Mauritania_650.scor;clupeides;True
+1066;Crustacea;1066;Subphylum;accepted;Animalia;Arthropoda;;;;;;Mauritania_650.scor;crustaces comm;True
+1066;Crustacea;1066;Subphylum;accepted;Animalia;Arthropoda;;;;;;Mauritania_650.scor;crustaces non-comm;True
+2688;Cetacea;2688;Infraorder;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Mauritania_650.scor;dauphins;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;dem L inv;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;dem L pred;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;dem M inv;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;dem M pred;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;dem S inv;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;dem S pred;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;macrobenthos;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;macrozooplancton;True
+Scomber;Scomber;126063;Genus;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;;Mauritania_650.scor;maquereau;True
+Merluccius;Merluccius;125762;Genus;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;;Mauritania_650.scor;merlu;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;meso zooplancton;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;mesopel inv;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;mesopel pred;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;micro zooplancton;True
+125546;Mugilidae;125546;Family;accepted;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;;;Mauritania_650.scor;mugilides;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Mauritania_650.scor;oiseaux;True
+Orcinus orca;Orcinus orca;137102;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Orcinus;Orcinus orca;Mauritania_650.scor;orque;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;pel L inv;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;pel L pred;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mauritania_650.scor;pel M planc;True
+368409;Batoidea;368409;Infraclass;accepted;Animalia;Chordata;Elasmobranchii;;;;;Mauritania_650.scor;raie M;True
+125571;Trichiuridae;125571;Family;accepted;Animalia;Chordata;Teleostei;Scombriformes;Trichiuridae;;;Mauritania_650.scor;sabres;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Mauritania_650.scor;Selaciens L inv;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Mauritania_650.scor;Selaciens L pred;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Mauritania_650.scor;sparides comm;True
+125559;Scombridae;125559;Family;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;;;Mauritania_650.scor;thon cotier;True
+125559;Scombridae;125559;Family;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;;;Mauritania_650.scor;thon hauturier;True
+Micropogonias undulatus;Micropogonias undulatus;151158;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Micropogonias;Micropogonias undulatus;Mississippi_River_Delta_779.scor;adult Atlantic croaker;True
+Anchoa mitchilli;Anchoa mitchilli;158699;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Anchoa;Anchoa mitchilli;Mississippi_River_Delta_779.scor;adult bay anchovy;True
+Pogonias cromis;Pogonias cromis;159333;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Pogonias;Pogonias cromis;Mississippi_River_Delta_779.scor;adult black drum;True
+Ictalurus furcatus;Ictalurus furcatus;275329;Species;accepted;Animalia;Chordata;Teleostei;Siluriformes;Ictaluridae;Ictalurus;Ictalurus furcatus;Mississippi_River_Delta_779.scor;adult blue catfish;True
+Callinectes sapidus;Callinectes sapidus;107379;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Portunidae;Callinectes;Callinectes sapidus;Mississippi_River_Delta_779.scor;adult blue crab;True
+1809216;Penaeus (Farfantepenaeus) aztecus;1809216;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Penaeus;Penaeus (Farfantepenaeus) aztecus;Mississippi_River_Delta_779.scor;adult brown shrimp;True
+Dorosoma cepedianum;Dorosoma cepedianum;159600;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Dorosoma;Dorosoma cepedianum;Mississippi_River_Delta_779.scor;adult gizzard shad;True
+Lutjanus griseus;Lutjanus griseus;159797;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;Lutjanus;Lutjanus griseus;Mississippi_River_Delta_779.scor;adult grey snapper;True
+Brevoortia patronus;Brevoortia patronus;275500;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Brevoortia;Brevoortia patronus;Mississippi_River_Delta_779.scor;adult gulf menhaden;True
+1805509;Acipenser desotoi;1805509;Species;accepted;Animalia;Chordata;Chondrostei;Acipenseriformes;Acipenseridae;Acipenser;Acipenser desotoi;Mississippi_River_Delta_779.scor;adult gulf sturgeon;True
+Micropterus salmoides;Micropterus salmoides;151295;Species;accepted;Animalia;Chordata;Teleostei;Centrarchiformes;Centrarchidae;Micropterus;Micropterus salmoides;Mississippi_River_Delta_779.scor;adult largemouth bass;True
+Lagodon rhomboides;Lagodon rhomboides;159249;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Lagodon;Lagodon rhomboides;Mississippi_River_Delta_779.scor;adult pinfish;True
+Sciaenops ocellatus;Sciaenops ocellatus;159335;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Sciaenops;Sciaenops ocellatus;Mississippi_River_Delta_779.scor;adult red drum;True
+Cynoscion arenarius;Cynoscion arenarius;276077;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Cynoscion;Cynoscion arenarius;Mississippi_River_Delta_779.scor;adult sand seatrout;True
+154659;Ariidae;154659;Family;accepted;Animalia;Chordata;Teleostei;Siluriformes;Ariidae;;;Mississippi_River_Delta_779.scor;adult sea catfish;True
+Carcharhinus leucas;Carcharhinus leucas;105792;Species;accepted;Animalia;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;Carcharhinus;Carcharhinus leucas;Mississippi_River_Delta_779.scor;adult sharks;True
+Archosargus probatocephalus;Archosargus probatocephalus;159238;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Archosargus;Archosargus probatocephalus;Mississippi_River_Delta_779.scor;adult sheepshead;True
+Bairdiella chrysoura;Bairdiella chrysoura;159303;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Bairdiella;Bairdiella chrysoura;Mississippi_River_Delta_779.scor;adult silver perch;True
+Paralichthys lethostigma;Paralichthys lethostigma;158829;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Paralichthyidae;Paralichthys;Paralichthys lethostigma;Mississippi_River_Delta_779.scor;adult southern flounder;True
+Leiostomus xanthurus;Leiostomus xanthurus;159322;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Leiostomus;Leiostomus xanthurus;Mississippi_River_Delta_779.scor;adult spot;True
+Cynoscion nebulosus;Cynoscion nebulosus;159312;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Cynoscion;Cynoscion nebulosus;Mississippi_River_Delta_779.scor;adult spotted seatrout;True
+Mugil cephalus;Mugil cephalus;126983;Species;accepted;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;Mugil;Mugil cephalus;Mississippi_River_Delta_779.scor;adult striped mullet;True
+Lepomis;Lepomis;151289;Genus;accepted;Animalia;Chordata;Teleostei;Centrarchiformes;Centrarchidae;Lepomis;;Mississippi_River_Delta_779.scor;adult sunfishes;True
+Dorosoma petenense;Dorosoma petenense;276310;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Dorosoma;Dorosoma petenense;Mississippi_River_Delta_779.scor;adult threadfin shad;True
+1809210;Penaeus (Litopenaeus) setiferus;1809210;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Penaeus;Penaeus (Litopenaeus) setiferus;Mississippi_River_Delta_779.scor;adult white shrimp;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Mississippi_River_Delta_779.scor;Benthic algae;True
+1065;Arthropoda;1065;Phylum;accepted;Animalia;Arthropoda;;;;;;Mississippi_River_Delta_779.scor;benthic crustaceans;True
+Tursiops truncatus;Tursiops truncatus;137111;Species;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Tursiops;Tursiops truncatus;Mississippi_River_Delta_779.scor;dolphins;True
+107032;Palaemon;107032;Genus;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Palaemonidae;Palaemon;;Mississippi_River_Delta_779.scor;grass shrimp;True
+Anchoa mitchilli;Anchoa mitchilli;158699;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Anchoa;Anchoa mitchilli;Mississippi_River_Delta_779.scor;juvenile bay anchovy;True
+Pogonias cromis;Pogonias cromis;159333;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Pogonias;Pogonias cromis;Mississippi_River_Delta_779.scor;juvenile black drum;True
+Ictalurus furcatus;Ictalurus furcatus;275329;Species;accepted;Animalia;Chordata;Teleostei;Siluriformes;Ictaluridae;Ictalurus;Ictalurus furcatus;Mississippi_River_Delta_779.scor;juvenile blue catfish;True
+Callinectes sapidus;Callinectes sapidus;107379;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Portunidae;Callinectes;Callinectes sapidus;Mississippi_River_Delta_779.scor;juvenile blue crab;True
+1809216;Penaeus (Farfantepenaeus) aztecus;1809216;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Penaeus;Penaeus (Farfantepenaeus) aztecus;Mississippi_River_Delta_779.scor;juvenile brown shrimp;True
+Micropogonias undulatus;Micropogonias undulatus;151158;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Micropogonias;Micropogonias undulatus;Mississippi_River_Delta_779.scor;juvenile croaker;True
+Dorosoma cepedianum;Dorosoma cepedianum;159600;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Dorosoma;Dorosoma cepedianum;Mississippi_River_Delta_779.scor;juvenile gizzard shad;True
+Lutjanus griseus;Lutjanus griseus;159797;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;Lutjanus;Lutjanus griseus;Mississippi_River_Delta_779.scor;juvenile grey snapper;True
+1805509;Acipenser desotoi;1805509;Species;accepted;Animalia;Chordata;Chondrostei;Acipenseriformes;Acipenseridae;Acipenser;Acipenser desotoi;Mississippi_River_Delta_779.scor;juvenile gulf sturgeon;True
+Micropterus salmoides;Micropterus salmoides;151295;Species;accepted;Animalia;Chordata;Teleostei;Centrarchiformes;Centrarchidae;Micropterus;Micropterus salmoides;Mississippi_River_Delta_779.scor;juvenile largemouth bass;True
+Brevoortia patronus;Brevoortia patronus;275500;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Brevoortia;Brevoortia patronus;Mississippi_River_Delta_779.scor;juvenile menhaden;True
+Lagodon rhomboides;Lagodon rhomboides;159249;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Lagodon;Lagodon rhomboides;Mississippi_River_Delta_779.scor;juvenile pinfish;True
+Sciaenops ocellatus;Sciaenops ocellatus;159335;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Sciaenops;Sciaenops ocellatus;Mississippi_River_Delta_779.scor;juvenile red drum;True
+Cynoscion arenarius;Cynoscion arenarius;276077;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Cynoscion;Cynoscion arenarius;Mississippi_River_Delta_779.scor;juvenile sand seatrout;True
+154659;Ariidae;154659;Family;accepted;Animalia;Chordata;Teleostei;Siluriformes;Ariidae;;;Mississippi_River_Delta_779.scor;juvenile sea catfish;True
+Carcharhinus leucas;Carcharhinus leucas;105792;Species;accepted;Animalia;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;Carcharhinus;Carcharhinus leucas;Mississippi_River_Delta_779.scor;juvenile sharks;True
+Archosargus probatocephalus;Archosargus probatocephalus;159238;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Archosargus;Archosargus probatocephalus;Mississippi_River_Delta_779.scor;juvenile sheepshead;True
+Bairdiella chrysoura;Bairdiella chrysoura;159303;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Bairdiella;Bairdiella chrysoura;Mississippi_River_Delta_779.scor;juvenile silver perch;True
+Paralichthys lethostigma;Paralichthys lethostigma;158829;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Paralichthyidae;Paralichthys;Paralichthys lethostigma;Mississippi_River_Delta_779.scor;juvenile southern flounder;True
+Leiostomus xanthurus;Leiostomus xanthurus;159322;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Leiostomus;Leiostomus xanthurus;Mississippi_River_Delta_779.scor;juvenile spot;True
+Cynoscion nebulosus;Cynoscion nebulosus;159312;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Cynoscion;Cynoscion nebulosus;Mississippi_River_Delta_779.scor;juvenile spotted seatrout;True
+Mugil cephalus;Mugil cephalus;126983;Species;accepted;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;Mugil;Mugil cephalus;Mississippi_River_Delta_779.scor;juvenile striped mullet;True
+Lepomis;Lepomis;151289;Genus;accepted;Animalia;Chordata;Teleostei;Centrarchiformes;Centrarchidae;Lepomis;;Mississippi_River_Delta_779.scor;juvenile sunfishes;True
+Dorosoma petenense;Dorosoma petenense;276310;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Dorosoma;Dorosoma petenense;Mississippi_River_Delta_779.scor;juvenile threadfin shad;True
+1809210;Penaeus (Litopenaeus) setiferus;1809210;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Penaeus;Penaeus (Litopenaeus) setiferus;Mississippi_River_Delta_779.scor;juvenile white shrimp;True
+Lepidochelys kempii;Lepidochelys kempii;137208;Species;accepted;Animalia;Chordata;;Testudines;Cheloniidae;Lepidochelys;Lepidochelys kempii;Mississippi_River_Delta_779.scor;Kemp Ridley sea turtle;True
+Fundulus;Fundulus;159292;Genus;accepted;Animalia;Chordata;Teleostei;Cyprinodontiformes;Fundulidae;Fundulus;;Mississippi_River_Delta_779.scor;killifishes;True
+51;Mollusca;51;Phylum;accepted;Animalia;Mollusca;;;;;;Mississippi_River_Delta_779.scor;mollusks;True
+107414;Rhithropanopeus harrisii;107414;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Panopeidae;Rhithropanopeus;Rhithropanopeus harrisii;Mississippi_River_Delta_779.scor;mud crabs;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Mississippi_River_Delta_779.scor;other shrimp;True
+140417;Stramonita haemastoma;140417;Species;accepted;Animalia;Mollusca;Gastropoda;Neogastropoda;Muricidae;Stramonita;Stramonita haemastoma;Mississippi_River_Delta_779.scor;oyster drill;True
+206;Pteriomorphia;206;Infraclass;accepted;Animalia;Mollusca;Bivalvia;;;;;Mississippi_River_Delta_779.scor;oyster spat;True
+140657;Crassostrea virginica;140657;Species;accepted;Animalia;Mollusca;Bivalvia;Ostreida;Ostreidae;Crassostrea;Crassostrea virginica;Mississippi_River_Delta_779.scor;sack oyster;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Mississippi_River_Delta_779.scor;sea birds;True
+140657;Crassostrea virginica;140657;Species;accepted;Animalia;Mollusca;Bivalvia;Ostreida;Ostreidae;Crassostrea;Crassostrea virginica;Mississippi_River_Delta_779.scor;seed oyster;True
+125438;Atherinidae;125438;Family;accepted;Animalia;Chordata;Teleostei;Atheriniformes;Atherinidae;;;Mississippi_River_Delta_779.scor;silversides;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mississippi_River_Delta_779.scor;Zoobenthos;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mississippi_River_Delta_779.scor;Zooplankton;True
+Anatidae;Anatidae;136973;Family;accepted;Animalia;Chordata;Aves;Anseriformes;Anatidae;;;Mount_St_Michel_Bay_742.scor;anatidés;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Mount_St_Michel_Bay_742.scor;céphalopodes;True
+137722;Crepidula;137722;Genus;accepted;Animalia;Mollusca;Gastropoda;Littorinimorpha;Calyptraeidae;Crepidula;;Mount_St_Michel_Bay_742.scor;Crepidule;True
+1065;Arthropoda;1065;Phylum;accepted;Animalia;Arthropoda;;;;;;Mount_St_Michel_Bay_742.scor;gros crustacés;True
+206;Pteriomorphia;206;Infraclass;accepted;Animalia;Mollusca;Bivalvia;;;;;Mount_St_Michel_Bay_742.scor;huîtres;True
+206;Pteriomorphia;206;Infraclass;accepted;Animalia;Mollusca;Bivalvia;;;;;Mount_St_Michel_Bay_742.scor;huîtres2;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Mount_St_Michel_Bay_742.scor;juvenile cephal;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Mount_St_Michel_Bay_742.scor;juvéniles poiss;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mount_St_Michel_Bay_742.scor;macrobenthos;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mount_St_Michel_Bay_742.scor;Macrobenthos2;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Mount_St_Michel_Bay_742.scor;Macrophytes;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mount_St_Michel_Bay_742.scor;Meiobenthos;True
+105;Bivalvia;105;Class;accepted;Animalia;Mollusca;Bivalvia;;;;;Mount_St_Michel_Bay_742.scor;Moules;True
+Ovis;Ovis;993625;Genus;accepted;Animalia;Chordata;Mammalia;Artiodactyla;Bovidae;Ovis;;Mount_St_Michel_Bay_742.scor;mouton;True
+125546;Mugilidae;125546;Family;accepted;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;;;Mount_St_Michel_Bay_742.scor;Mulets;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Mount_St_Michel_Bay_742.scor;oiseaux limicol;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mount_St_Michel_Bay_742.scor;petites espèces;True
+148736;Pinnipedia;148736;Infraorder;accepted;Animalia;Chordata;Mammalia;Carnivora;;;;Mount_St_Michel_Bay_742.scor;phoques;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Mount_St_Michel_Bay_742.scor;poissons adulte;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Mount_St_Michel_Bay_742.scor;zooplancton her;True
+Engraulis encrasicolus;Engraulis encrasicolus;126426;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus;North_Aegean_495.scor;Adult anchovy;True
+Sardina pilchardus;Sardina pilchardus;126421;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardina;Sardina pilchardus;North_Aegean_495.scor;Adult sardine;True
+Lophius;Lophius;125802;Genus;accepted;Animalia;Chordata;Teleostei;Lophiiformes;Lophiidae;Lophius;;North_Aegean_495.scor;Anglerfish;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;North_Aegean_495.scor;Benthic cephalopods;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Aegean_495.scor;Benthic invert. (no crustacea);True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;North_Aegean_495.scor;Benthopelagic cephalopods;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;North_Aegean_495.scor;BepeFish;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;North_Aegean_495.scor;Crabs;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;North_Aegean_495.scor;DemeFish1;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;North_Aegean_495.scor;DemeFish2;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;North_Aegean_495.scor;DemeFish3;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;North_Aegean_495.scor;DemeFish4;True
+2688;Cetacea;2688;Infraorder;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;North_Aegean_495.scor;dolphins;True
+1517532;Carangiformes;1517532;Order;accepted;Animalia;Chordata;Teleostei;Carangiformes;;;;North_Aegean_495.scor;Flatfishes;True
+Merluccius merluccius;Merluccius merluccius;126484;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius merluccius;North_Aegean_495.scor;Hake;True
+Trachurus;Trachurus;125946;Genus;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;;North_Aegean_495.scor;Horse mackerel;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Aegean_495.scor;Jellyfish+ mnemiopsis;True
+Engraulis encrasicolus;Engraulis encrasicolus;126426;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus;North_Aegean_495.scor;Juv anchovy;True
+Sardina pilchardus;Sardina pilchardus;126421;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardina;Sardina pilchardus;North_Aegean_495.scor;Juv sardine;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;North_Aegean_495.scor;Large pelagic fishes;True
+Caretta caretta;Caretta caretta;137205;Species;accepted;Animalia;Chordata;;Testudines;Cheloniidae;Caretta;Caretta caretta;North_Aegean_495.scor;Loggerhead turtle;True
+Scomber;Scomber;126063;Genus;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;;North_Aegean_495.scor;Mackerel;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Aegean_495.scor;Macrozooplankton;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;North_Aegean_495.scor;Medium pelagic fish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Aegean_495.scor;mesozooplankton;True
+Mullus;Mullus;126034;Genus;accepted;Animalia;Chordata;Teleostei;Mulliformes;Mullidae;Mullus;;North_Aegean_495.scor;Mullets;True
+Nephrops norvegicus;Nephrops norvegicus;107254;Species;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Nephropidae;Nephrops;Nephrops norvegicus;North_Aegean_495.scor;Norway lobster;True
+10313;Gadiformes;10313;Order;accepted;Animalia;Chordata;Teleostei;Gadiformes;;;;North_Aegean_495.scor;Other gadiforms;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;North_Aegean_495.scor;Other Small pelagic fishes;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;North_Aegean_495.scor;picarels and bogue;True
+883;Polychaeta;883;Class;accepted;Animalia;Annelida;Polychaeta;;;;;North_Aegean_495.scor;Polychaetes;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;North_Aegean_495.scor;"rays &amp; skates";True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;North_Aegean_495.scor;Sea birds;True
+368408;Selachii;368408;Infraclass;accepted;Animalia;Chordata;Elasmobranchii;;;;;North_Aegean_495.scor;sharks;True
+106674;Caridea;106674;Infraorder;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;North_Aegean_495.scor;Shrimps;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Aegean_495.scor;Suprabenthos;True
+Trachurus;Trachurus;125946;Genus;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;;North_Benguela_503.scor;Adult horse mac;True
+Engraulis encrasicolus;Engraulis encrasicolus;126426;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus;North_Benguela_503.scor;Anchovy;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Benguela_503.scor;Benthic-feeding;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;North_Benguela_503.scor;cephalopods;True
+2688;Cetacea;2688;Infraorder;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;North_Benguela_503.scor;Cetaceans;True
+1517375;Chondrichthyes;1517375;Parvphylum;accepted;Animalia;Chordata;;;;;;North_Benguela_503.scor;Chondrichthyans;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Benguela_503.scor;Gelatinous zoop;True
+Trachurus;Trachurus;125946;Genus;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;;North_Benguela_503.scor;Juvenile horse;True
+Merluccius capensis;Merluccius capensis;217746;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius capensis;North_Benguela_503.scor;Large M. capens;True
+Merluccius parado;Merluccius paradoxus;217745;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius paradoxus;North_Benguela_503.scor;Large M. parado;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Benguela_503.scor;Large pelagics;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Benguela_503.scor;Macrobenthos;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Benguela_503.scor;Macrozooplankto;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Benguela_503.scor;Meiobenthos;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Benguela_503.scor;Mesopelagics;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Benguela_503.scor;Mesozooplankton;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Benguela_503.scor;Microzooplankto;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Benguela_503.scor;Other small pel;True
+Sufflogobius bibarbatus;Sufflogobius bibarbatus;219573;Species;accepted;Animalia;Chordata;Teleostei;Gobiiformes;Gobiidae;Sufflogobius;Sufflogobius bibarbatus;North_Benguela_503.scor;Pelagic Goby;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;North_Benguela_503.scor;Pelagic-feeding;True
+Sardinops sagax;Sardinops sagax;217452;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardinops;Sardinops sagax;North_Benguela_503.scor;Sardine;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;North_Benguela_503.scor;Seabirds;True
+Arctocephalus pusillus pusillus;Arctocephalus pusillus pusillus;231438;Subspecies;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Arctocephalus;;North_Benguela_503.scor;Seals;True
+Merluccius capensis;Merluccius capensis;217746;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius capensis;North_Benguela_503.scor;Small M. capens;True
+Engraulis ringens;Engraulis ringens;272287;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis ringens;Northern_Humboldt_Current_488.scor;anchovy;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Northern_Humboldt_Current_488.scor;benthic elasmobranchs;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Northern_Humboldt_Current_488.scor;butter fishes;True
+277553;Galeichthys peruvianus;277553;Species;accepted;Animalia;Chordata;Teleostei;Siluriformes;Ariidae;Galeichthys;Galeichthys peruvianus;Northern_Humboldt_Current_488.scor;catfish;True
+2688;Cetacea;2688;Infraorder;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Northern_Humboldt_Current_488.scor;cetaceans;True
+1517375;Chondrichthyes;1517375;Parvphylum;accepted;Animalia;Chordata;;;;;;Northern_Humboldt_Current_488.scor;chondrichtlyans;True
+151822;Congrinae;151822;Subfamily;accepted;Animalia;Chordata;Teleostei;Anguilliformes;Congridae;;;Northern_Humboldt_Current_488.scor;conger;True
+7;Chromista;7;Kingdom;accepted;Chromista;;;;;;;Northern_Humboldt_Current_488.scor;Diatoms;True
+1517532;Carangiformes;1517532;Order;accepted;Animalia;Chordata;Teleostei;Carangiformes;;;;Northern_Humboldt_Current_488.scor;flatfishes;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Northern_Humboldt_Current_488.scor;gelatinous zooplankton;True
+Trachurus murphyi;Trachurus murphyi;273303;Species;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;Trachurus murphyi;Northern_Humboldt_Current_488.scor;horse mackerels;True
+Dosidicus gigas;Dosidicus gigas;342291;Species;accepted;Animalia;Mollusca;Cephalopoda;Oegopsida;Ommastrephidae;Dosidicus;Dosidicus gigas;Northern_Humboldt_Current_488.scor;jumbo squid;True
+1524920;Merluccius peruanus;1524920;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius peruanus;Northern_Humboldt_Current_488.scor;large hake;True
+Scomber japonicus;Scomber japonicus;127022;Species;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;Scomber japonicus;Northern_Humboldt_Current_488.scor;mackerels;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Northern_Humboldt_Current_488.scor;macrobenthos;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Northern_Humboldt_Current_488.scor;macrozooplankton;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Northern_Humboldt_Current_488.scor;medium demersal fish;True
+1524920;Merluccius peruanus;1524920;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius peruanus;Northern_Humboldt_Current_488.scor;medium hake;True
+125558;Sciaenidae;125558;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;;;Northern_Humboldt_Current_488.scor;medium sciaenids;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Northern_Humboldt_Current_488.scor;mesopelagics;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Northern_Humboldt_Current_488.scor;mesozooplankton;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Northern_Humboldt_Current_488.scor;Microzooplankton;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Northern_Humboldt_Current_488.scor;other cephalopods;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Northern_Humboldt_Current_488.scor;other large pelagics;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Northern_Humboldt_Current_488.scor;other small pelagics;True
+148736;Pinnipedia;148736;Infraorder;accepted;Animalia;Chordata;Mammalia;Carnivora;;;;Northern_Humboldt_Current_488.scor;pinnipeds;True
+Sardinops sagax;Sardinops sagax;217452;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardinops;Sardinops sagax;Northern_Humboldt_Current_488.scor;sardine;True
+Prionotus stephanophrys;Prionotus stephanophrys;276291;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Triglidae;Prionotus;Prionotus stephanophrys;Northern_Humboldt_Current_488.scor;sea robin;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Northern_Humboldt_Current_488.scor;seabirds;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Northern_Humboldt_Current_488.scor;small demersals;True
+1524920;Merluccius peruanus;1524920;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius peruanus;Northern_Humboldt_Current_488.scor;small hake;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Portofino_731.scor;"Amberjack &amp; dentex +";True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Portofino_731.scor;Cephalopods;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Portofino_731.scor;Decapods +;True
+Diplodus;Diplodus;126076;Genus;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Diplodus;;Portofino_731.scor;Diplodus +;True
+2688;Cetacea;2688;Infraorder;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Portofino_731.scor;Dolphins;True
+127036;Epinephelus marginatus;127036;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Epinephelidae;Epinephelus;Epinephelus marginatus;Portofino_731.scor;Dusky grouper - large;True
+127036;Epinephelus marginatus;127036;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Epinephelidae;Epinephelus;Epinephelus marginatus;Portofino_731.scor;Dusky grouper - medium;True
+127036;Epinephelus marginatus;127036;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Epinephelidae;Epinephelus;Epinephelus marginatus;Portofino_731.scor;Dusky grouper - small;True
+1806;Echinodermata;1806;Phylum;accepted;Animalia;Echinodermata;;;;;;Portofino_731.scor;Echinoderms +;True
+125537;Gobiidae;125537;Family;accepted;Animalia;Chordata;Teleostei;Gobiiformes;Gobiidae;;;Portofino_731.scor;Gobies +;True
+1341;Octocorallia;1341;Class;accepted;Animalia;Cnidaria;Octocorallia;;;;;Portofino_731.scor;Gorgonians;True
+Trachurus;Trachurus;125946;Genus;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;;Portofino_731.scor;Horse mackerels +;True
+125595;Scorpaenidae;125595;Family;accepted;Animalia;Chordata;Teleostei;Perciformes;Scorpaenidae;;;Portofino_731.scor;Large-scaled scorpionfishes +;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Portofino_731.scor;Macrofauna +;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Portofino_731.scor;Meiofauna;True
+125546;Mugilidae;125546;Family;accepted;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;;;Portofino_731.scor;Mullets;True
+Pagellus;Pagellus;126079;Genus;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Pagellus;;Portofino_731.scor;Pagellus;True
+Posidonia oceanica;Posidonia oceanica;145794;Species;accepted;Plantae;Tracheophyta;Magnoliopsida;Alismatales;Posidoniaceae;Posidonia;Posidonia oceanica;Portofino_731.scor;Posidonia;True
+Sarpa salpa;Sarpa salpa;127064;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Sarpa;Sarpa salpa;Portofino_731.scor;Salema - adults;True
+Sarpa salpa;Sarpa salpa;127064;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Sarpa;Sarpa salpa;Portofino_731.scor;Salema - juveniles;True
+Atherina presbyter;Atherina presbyter;272030;Species;accepted;Animalia;Chordata;Teleostei;Atheriniformes;Atherinidae;Atherina;Atherina presbyter;Portofino_731.scor;Sand smelts +;True
+11014;Perciformes;11014;Order;accepted;Animalia;Chordata;Teleostei;Perciformes;;;;Portofino_731.scor;"Scorpionfishes &amp; combers +";True
+123082;Echinoidea;123082;Class;accepted;Animalia;Echinodermata;Echinoidea;;;;;Portofino_731.scor;Sea urchins;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Portofino_731.scor;Sea worms;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Portofino_731.scor;Seaweeds;True
+125559;Scombridae;125559;Family;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;;;Portofino_731.scor;Small tunas +;True
+Mullus surmuletus;Mullus surmuletus;126986;Species;accepted;Animalia;Chordata;Teleostei;Mulliformes;Mullidae;Mullus;Mullus surmuletus;Portofino_731.scor;Stripped red mullets +;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Portofino_731.scor;Suspensivores +;True
+125541;Labridae;125541;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Labridae;;;Portofino_731.scor;Wrasses +;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Portofino_731.scor;Zooplankton - large;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Portofino_731.scor;Zooplankton - small;True
+882;Annelida;882;Phylum;accepted;Animalia;Annelida;;;;;;Ria_Formosa_125.scor;Annelida;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Ria_Formosa_125.scor;Benthic ff;True
+105;Bivalvia;105;Class;accepted;Animalia;Mollusca;Bivalvia;;;;;Ria_Formosa_125.scor;Bivalvia;True
+1066;Crustacea;1066;Subphylum;accepted;Animalia;Arthropoda;;;;;;Ria_Formosa_125.scor;Crustacea;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Ria_Formosa_125.scor;Detritivorous f;True
+101;Gastropoda;101;Class;accepted;Animalia;Mollusca;Gastropoda;;;;;Ria_Formosa_125.scor;Gasteropoda;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Ria_Formosa_125.scor;Pelagic-benthic ff;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Ria_Formosa_125.scor;Planktonic f;True
+151523;Sparus aurata;151523;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Sparus;Sparus aurata;Ria_Formosa_125.scor;S. auratus;True
+127066;Spondyliosoma cantharus;127066;Species;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Spondyliosoma;Spondyliosoma cantharus;Ria_Formosa_125.scor;S. cantharus;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Ria_Formosa_125.scor;Small b-p ff;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Ria_Formosa_125.scor;Zooplankton;True
+148724;Mysticeti;148724;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Sierra_Leone_137.scor;Baleen whales;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Benthos;True
+280725;Ethmalosa fimbriata;280725;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Ethmalosa;Ethmalosa fimbriata;Sierra_Leone_137.scor;Bongo shad;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Carnivorous zooplankton;True
+154157;Siluriformes;154157;Order;accepted;Animalia;Chordata;Teleostei;Siluriformes;;;;Sierra_Leone_137.scor;Catfish;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Sierra_Leone_137.scor;Cephalopods;True
+125558;Sciaenidae;125558;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;;;Sierra_Leone_137.scor;Croackers;True
+1066;Crustacea;1066;Subphylum;accepted;Animalia;Arthropoda;;;;;;Sierra_Leone_137.scor;Crustaceans;True
+Polydactylus quadrifilis;Polydactylus quadrifilis;276599;Species;accepted;Animalia;Chordata;Teleostei;Carangaria incertae sedis;Polynemidae;Polydactylus;Polydactylus quadrifilis;Sierra_Leone_137.scor;Gaint African Threadfin;True
+125561;Serranidae;125561;Family;accepted;Animalia;Chordata;Teleostei;Perciformes;Serranidae;;;Sierra_Leone_137.scor;Groupers;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Herbivorous zooplankton;True
+125523;Carangidae;125523;Family;accepted;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;;;Sierra_Leone_137.scor;Jacks;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Sierra_Leone_137.scor;L Coastal Sharks and Rays;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Sierra_Leone_137.scor;L Deep Sharks and Rays;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Large Bathydem predators;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Large Bathypelagic predators;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Large demersal invert feeders;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Large demersal predators;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Large pelagic predators;True
+125559;Scombridae;125559;Family;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;;;Sierra_Leone_137.scor;Large Tuna;True
+Galeoides decadactylus;Galeoides decadactylus;126997;Species;accepted;Animalia;Chordata;Teleostei;Carangaria incertae sedis;Polynemidae;Galeoides;Galeoides decadactylus;Sierra_Leone_137.scor;Lesser African Threadfin;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;M Bathypelagic invert feeders;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Sierra_Leone_137.scor;M Coastal Sharks and Rays;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Sierra_Leone_137.scor;M Deep Sharks and Rays;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Medium demersal invert feeders;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Medium demersal predators;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Mesopelagics;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Sierra_Leone_137.scor;Mullets and other herbivores;True
+Pentanemus quinquarius;Pentanemus quinquarius;282202;Species;accepted;Animalia;Chordata;Teleostei;Carangaria incertae sedis;Polynemidae;Pentanemus;Pentanemus quinquarius;Sierra_Leone_137.scor;Royal Threadfin;True
+Sardinella;Sardinella;125721;Genus;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Sardinella;;Sierra_Leone_137.scor;Sardinellas;True
+125559;Scombridae;125559;Family;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;;;Sierra_Leone_137.scor;Scads and mackerels;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Sierra_Leone_137.scor;Seabirds;True
+11014;Perciformes;11014;Order;accepted;Animalia;Chordata;Teleostei;Perciformes;;;;Sierra_Leone_137.scor;Sickle-and spadefish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;SM Bathydem invert feeders;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Small Bathypelagic predators;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Small demersal invert feeders;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Small demersal predators;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Small pelagic invert feeders;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Sierra_Leone_137.scor;Small pelagic predators;True
+125559;Scombridae;125559;Family;accepted;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;;;Sierra_Leone_137.scor;Small Tuna;True
+2688;Cetacea;2688;Infraorder;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Sierra_Leone_137.scor;Toothed whales and dolphins;True
+2689;Testudines;2689;Order;accepted;Animalia;Chordata;;Testudines;;;;Sierra_Leone_137.scor;Turtles;True
+Atheresthes stomias;Atheresthes stomias;279792;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Atheresthes;Atheresthes stomias;Strait_of_Georgia_477.scor;arrowtooth ad.;True
+Atheresthes stomias;Atheresthes stomias;279792;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Atheresthes;Atheresthes stomias;Strait_of_Georgia_477.scor;arrowtooth juv.;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Strait_of_Georgia_477.scor;birds demer pisciv;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Strait_of_Georgia_477.scor;birds pelag pisciv;True
+Aves;Aves;1836;Class;accepted;Animalia;Chordata;Aves;;;;;Strait_of_Georgia_477.scor;birds zooplanktiv;True
+105;Bivalvia;105;Class;accepted;Animalia;Mollusca;Bivalvia;;;;;Strait_of_Georgia_477.scor;bivalves;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Strait_of_Georgia_477.scor;carn. zooplankton;True
+Oncorhynchus tshawytscha;Oncorhynchus tshawytscha;158075;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus tshawytscha;Strait_of_Georgia_477.scor;chinook ad.;True
+Oncorhynchus tshawytscha;Oncorhynchus tshawytscha;158075;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus tshawytscha;Strait_of_Georgia_477.scor;chinook juv.;True
+Oncorhynchus keta;Oncorhynchus keta;127183;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus keta;Strait_of_Georgia_477.scor;chum;True
+Oncorhynchus kisutch;Oncorhynchus kisutch;127184;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus kisutch;Strait_of_Georgia_477.scor;coho ad.;True
+Oncorhynchus kisutch;Oncorhynchus kisutch;127184;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus kisutch;Strait_of_Georgia_477.scor;coho juv.;True
+1130;Decapoda;1130;Order;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Strait_of_Georgia_477.scor;crabs;True
+Squalus acanthias;Squalus acanthias;105923;Species;accepted;Animalia;Chordata;Elasmobranchii;Squaliformes;Squalidae;Squalus;Squalus acanthias;Strait_of_Georgia_477.scor;dogfish;True
+1806;Echinodermata;1806;Phylum;accepted;Animalia;Echinodermata;;;;;;Strait_of_Georgia_477.scor;echinoderms;True
+1517532;Carangiformes;1517532;Order;accepted;Animalia;Chordata;Teleostei;Carangiformes;;;;Strait_of_Georgia_477.scor;flatfish other;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Strait_of_Georgia_477.scor;herb. zooplankton;True
+Clupea pallasii;Clupea pallasii;151159;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii;Strait_of_Georgia_477.scor;herring ad.;True
+Clupea pallasii;Clupea pallasii;151159;Species;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii;Strait_of_Georgia_477.scor;herring juv.;True
+1267;Cnidaria;1267;Phylum;accepted;Animalia;Cnidaria;;;;;;Strait_of_Georgia_477.scor;jellies;True
+1128;Euphausiacea;1128;Order;accepted;Animalia;Arthropoda;Malacostraca;Euphausiacea;;;;Strait_of_Georgia_477.scor;krill;True
+11707;Cephalopoda;11707;Class;accepted;Animalia;Mollusca;Cephalopoda;;;;;Strait_of_Georgia_477.scor;large squids;True
+Ophiodon elongatus;Ophiodon elongatus;240745;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Hexagrammidae;Ophiodon;Ophiodon elongatus;Strait_of_Georgia_477.scor;lingcod;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Strait_of_Georgia_477.scor;macrophytes;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Strait_of_Georgia_477.scor;misc. pred. pelagics;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Strait_of_Georgia_477.scor;misc. small demersals;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Strait_of_Georgia_477.scor;misc. small pelagics;True
+125498;Myctophidae;125498;Family;accepted;Animalia;Chordata;Teleostei;Myctophiformes;Myctophidae;;;Strait_of_Georgia_477.scor;myctophids;True
+148724;Mysticeti;148724;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Strait_of_Georgia_477.scor;mysticetae;True
+148723;Odontoceti;148723;Superfamily;accepted;Animalia;Chordata;Mammalia;Cetartiodactyla;;;;Strait_of_Georgia_477.scor;odontocetae;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Strait_of_Georgia_477.scor;other benthos;True
+Gadus macrocephalus;Gadus macrocephalus;254538;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus macrocephalus;Strait_of_Georgia_477.scor;P. cod ad.;True
+Gadus macrocephalus;Gadus macrocephalus;254538;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus macrocephalus;Strait_of_Georgia_477.scor;P. cod juv.;True
+Hippoglossus stenolepis;Hippoglossus stenolepis;274290;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus stenolepis;Strait_of_Georgia_477.scor;P. halibut ad.;True
+Hippoglossus stenolepis;Hippoglossus stenolepis;274290;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus stenolepis;Strait_of_Georgia_477.scor;P. halibut juv.;True
+Merluccius productus;Merluccius productus;272458;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius productus;Strait_of_Georgia_477.scor;Pac. hake;True
+Sebastes alutus;Sebastes alutus;254573;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;Sebastes alutus;Strait_of_Georgia_477.scor;Pac. Ocean perch;True
+10193;Elasmobranchii;10193;Class;accepted;Animalia;Chordata;Elasmobranchii;;;;;Strait_of_Georgia_477.scor;pelagic sharks;True
+Oncorhynchus gorbuscha;Oncorhynchus gorbuscha;127182;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus gorbuscha;Strait_of_Georgia_477.scor;pink;True
+300735;Gadus chalcogrammus;300735;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus;Strait_of_Georgia_477.scor;pollock ad.;True
+300735;Gadus chalcogrammus;300735;Species;accepted;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus;Strait_of_Georgia_477.scor;pollock juv.;True
+1821;Chordata;1821;Phylum;accepted;Animalia;Chordata;;;;;;Strait_of_Georgia_477.scor;rajidae / ratfish;True
+Lepidopsetta;Lepidopsetta;269638;Genus;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Lepidopsetta;;Strait_of_Georgia_477.scor;rock sole;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Strait_of_Georgia_477.scor;rockfish other;True
+Anoplopoma fimbria;Anoplopoma fimbria;159463;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Anoplopomatidae;Anoplopoma;Anoplopoma fimbria;Strait_of_Georgia_477.scor;sablefish ad.;True
+Anoplopoma fimbria;Anoplopoma fimbria;159463;Species;accepted;Animalia;Chordata;Teleostei;Perciformes;Anoplopomatidae;Anoplopoma;Anoplopoma fimbria;Strait_of_Georgia_477.scor;sablefish juv.;True
+Lamna ditropis;Lamna ditropis;271421;Species;accepted;Animalia;Chordata;Elasmobranchii;Lamniformes;Lamnidae;Lamna;Lamna ditropis;Strait_of_Georgia_477.scor;salmon shark;True
+254999;Eumetopias jubatus;254999;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus;Strait_of_Georgia_477.scor;sea lions;True
+Callorhinus ursinus;Callorhinus ursinus;254997;Species;accepted;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Callorhinus;Callorhinus ursinus;Strait_of_Georgia_477.scor;seals;True
+106674;Caridea;106674;Infraorder;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Strait_of_Georgia_477.scor;shrimps;True
+325342;Decapodiformes;325342;Superorder;accepted;Animalia;Mollusca;Cephalopoda;;;;;Strait_of_Georgia_477.scor;small squids;True
+Oncorhynchus nerka;Oncorhynchus nerka;254569;Species;accepted;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus nerka;Strait_of_Georgia_477.scor;sockeye;True
+Limanda aspera;Limanda aspera;254562;Species;accepted;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Limanda;Limanda aspera;Strait_of_Georgia_477.scor;yellowfin sole;True
+154659;Ariidae;154659;Family;accepted;Animalia;Chordata;Teleostei;Siluriformes;Ariidae;;;Terminos_Lagoon_243.scor;Ariidae;True
+3;Plantae;3;Kingdom;accepted;Plantae;;;;;;;Terminos_Lagoon_243.scor;Benthic autotrophs;True
+106673;Brachyura;106673;Infraorder;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;;;;Terminos_Lagoon_243.scor;Brachyurans;True
+125465;Engraulidae;125465;Family;accepted;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;;;Terminos_Lagoon_243.scor;Engraulidae;True
+151456;Gerreidae;151456;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Gerreidae;;;Terminos_Lagoon_243.scor;Gerreidae;True
+125538;Haemulidae;125538;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;;;Terminos_Lagoon_243.scor;Haemulidae;True
+151453;Lutjanidae;151453;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;;;Terminos_Lagoon_243.scor;Lutjanidae;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Terminos_Lagoon_243.scor;Meiofauna;True
+1065;Arthropoda;1065;Phylum;accepted;Animalia;Arthropoda;;;;;;Terminos_Lagoon_243.scor;Microcrustaceans;True
+51;Mollusca;51;Phylum;accepted;Animalia;Mollusca;;;;;;Terminos_Lagoon_243.scor;Molluscs;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Terminos_Lagoon_243.scor;Other fish;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Terminos_Lagoon_243.scor;Other macroinvertebrates;True
+106727;Penaeidae;106727;Family;accepted;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;;;Terminos_Lagoon_243.scor;Penaeids;True
+883;Polychaeta;883;Class;accepted;Animalia;Annelida;Polychaeta;;;;;Terminos_Lagoon_243.scor;Polychaetes;True
+125558;Sciaenidae;125558;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;;;Terminos_Lagoon_243.scor;Scianidae;True
+125564;Sparidae;125564;Family;accepted;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;;;Terminos_Lagoon_243.scor;Sparidae;True
+125612;Tetraodontidae;125612;Family;accepted;Animalia;Chordata;Teleostei;Tetraodontiformes;Tetraodontidae;;;Terminos_Lagoon_243.scor;Tetraodontidae;True
+2;Animalia;2;Kingdom;accepted;Animalia;;;;;;;Terminos_Lagoon_243.scor;Zooplankton;True

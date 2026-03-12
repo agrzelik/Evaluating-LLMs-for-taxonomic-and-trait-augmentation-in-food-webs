@@ -1,0 +1,1009 @@
+;file_name;node;kingdom_best_all;kingdom_best_all_score;phylum_best_all;phylum_best_all_score;class_best_all;class_best_all_score;order_best_all;order_best_all_score;family_best_all;family_best_all_score;genus_best_all;genus_best_all_score;species_best_all;species_best_all_score
+0;Aegean_Sea_760;Anglerfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Lophiiformes;1.0;Lophiidae;0.748125;Lophius;0.748125;Lophius piscatorius;0.48750000000000004
+1;Aegean_Sea_760;Benthic invertebrates;Animalia;0.9375;Annelida;0.240625;Polychaeta;0.2375;Phyllodocida;0.233125;Nephtyidae;0.234375;Mytilus;0.231875;Mytilus galloprovincialis;0.215
+2;Aegean_Sea_760;Benthic small crustaceans;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.995;Amphipoda;0.738125;Ampeliscidae;0.2325;Ampelisca;0.22625;Gammarus aequicauda;0.209375
+3;Aegean_Sea_760;Detritus;;;;;;;;;;;;;;
+4;Aegean_Sea_760;Dolphins;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.740625;Delphinidae;1.0;Tursiops;0.46875;Tursiops truncatus;0.25
+5;Aegean_Sea_760;European anchovy;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Engraulidae;1.0;Engraulis;1.0;Engraulis encrasicolus;0.5
+6;Aegean_Sea_760;European hake;Animalia;0.9968750000000001;Chordata;0.9968750000000001;Actinopterygii;0.9968750000000001;Gadiformes;0.9968750000000001;Merlucciidae;0.994375;Merluccius;0.9968750000000001;Merluccius merluccius;0.748125
+7;Aegean_Sea_760;European pilchard;Animalia;0.99875;Chordata;0.99875;Actinopterygii;0.9975;Clupeiformes;0.9962500000000001;Clupeidae;0.9975;Sardina;0.98375;pilchardus;0.4493749999999999
+8;Aegean_Sea_760;Flatfishes;Animalia;0.9975;Chordata;0.9975;Actinopterygii;0.9975;Pleuronectiformes;0.9975;Soleidae;0.74625;Solea;0.73375;Solea solea;0.49875
+9;Aegean_Sea_760;Gurnards;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9975;Scorpaeniformes;0.7424999999999999;Triglidae;0.9325;Chelidonichthys;0.241875;Chelidonichthys lucerna;0.238125
+10;Aegean_Sea_760;Horse mackerels;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.721875;Carangidae;1.0;Trachurus;1.0;Trachurus trachurus;0.35625
+11;Aegean_Sea_760;Jellyfish;Animalia;0.9962500000000001;Cnidaria;0.9962500000000001;Scyphozoa;0.99375;Semaeostomeae;0.45625000000000004;Ulmaridae;0.4875;Aurelia;0.741875;Aurelia aurita;0.475
+12;Aegean_Sea_760;Large pelagics;Animalia;0.994375;Chordata;0.994375;Actinopterygii;0.994375;Scombriformes;0.7424999999999999;Scombridae;0.7475;Thunnus;0.738125;Thunnus thynnus;0.49312500000000004
+13;Aegean_Sea_760;Lobsters;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Nephropidae;0.65625;Palinurus;0.240625;Palinurus elephas;0.240625
+14;Aegean_Sea_760;Mackerels;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.7381249999999999;Scombridae;1.0;Scomber;1.0;Scomber scombrus;0.49375
+15;Aegean_Sea_760;Macrozooplankton;Animalia;0.968125;Arthropoda;0.7475;Malacostraca;0.74625;Euphausiacea;0.745625;Euphausiidae;0.496875;Meganyctiphanes;0.229375;Meganyctiphanes norvegica;0.210625
+16;Aegean_Sea_760;Medium pelagics;Animalia;0.9375;Chordata;0.9375;Actinopterygii;0.9375;Scombriformes;0.4875;Scombridae;0.4975;Scomber;0.4975;Scomber scombrus;0.249375
+17;Aegean_Sea_760;Medium-large demersals 1;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.47375;Merlucciidae;0.4975;Merluccius;0.496875;Merluccius merluccius;0.496875
+18;Aegean_Sea_760;Medium-large demersals 2;Animalia;1.0;Chordata;1.0;Actinopterygii;0.998125;Gadiformes;0.5;Merlucciidae;0.5;Merluccius;0.48750000000000004;Pagellus erythrinus;0.246875
+19;Aegean_Sea_760;Micro/Mesozooplankton;Animalia;1.0;Arthropoda;0.95625;Copepoda;0.484375;Calanoida;0.48750000000000004;Acartiidae;0.2375;Acartia;0.2375;Acartia clausi;0.225
+20;Aegean_Sea_760;Monk seal;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;0.994375;Phocidae;0.999375;Monachus;0.999375;Monachus monachus;0.49312500000000004
+21;Aegean_Sea_760;Norway lobster;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Nephropidae;0.975;Nephrops;1.0;Nephrops norvegicus;0.5
+22;Aegean_Sea_760;Octopus and cuttlefish;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Octopoda;0.49875;Octopodidae;0.49624999999999997;Octopus;0.49624999999999997;Octopus vulgaris;0.48250000000000004
+23;Aegean_Sea_760;Other gadiforms;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Merlucciidae;0.225;Merluccius;0.225;Merluccius merluccius;0.225
+24;Aegean_Sea_760;Other small pelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Engraulidae;0.75;Engraulis;0.75;Engraulis encrasicolus;0.4625
+25;Aegean_Sea_760;Phytoplankton;Chromista;0.434375;Bacillariophyta;0.239375;Bacillariophyceae;0.43937500000000007;Thalassiosirales;0.229375;Thalassiosiraceae;0.229375;Thalassiosira;0.23374999999999999;Thalassiosira rotula;0.225
+26;Aegean_Sea_760;Picarels and bogue;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.425;Sparidae;0.6812499999999999;Spicara;0.49375;smaris;0.246875
+27;Aegean_Sea_760;Piscivorous deep sea fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Stomiiformes;0.23625;Stomiidae;0.239375;Stomias;0.234375;Micromesistius poutassou;0.140625
+28;Aegean_Sea_760;Planktivorous deep sea fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Stomiiformes;0.744375;Gonostomatidae;0.4975;Cyclothone;0.5;Maurolicus muelleri;0.246875
+29;Aegean_Sea_760;Polychaetes;Animalia;1.0;Annelida;1.0;Polychaeta;1.0;Nereidida;0.175;Nereididae;0.22812500000000002;Nereis;0.215625;Nereis diversicolor;0.18125
+30;Aegean_Sea_760;Rays and skates;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.740625;Rajiformes;0.740625;Rajidae;0.75;Raja;0.75;Raja clavata;0.475
+31;Aegean_Sea_760;Red mullets;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.975;Mullidae;1.0;Mullus;0.5;Mullus barbatus;0.49375
+32;Aegean_Sea_760;Rockfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.975;Scorpaenidae;0.99125;Scorpaena;0.48;Scorpaena scrofa;0.2275
+33;Aegean_Sea_760;Sea turtles;Animalia;1.0;Chordata;1.0;Reptilia;1.0;Testudines;1.0;Cheloniidae;0.75;Caretta;0.75;Caretta caretta;0.4625
+34;Aegean_Sea_760;Seabirds;Animalia;1.0;Chordata;1.0;Aves;1.0;Procellariiformes;0.47500000000000003;Procellariidae;0.48125;Calonectris;0.48125;Calonectris diomedea;0.46875
+35;Aegean_Sea_760;Sharks;Animalia;0.75;Chordata;0.75;Chondrichthyes;0.5625;Carcharhiniformes;0.5625;Pentanchidae;0.1875;Galeus;0.2375;Prionace glauca;0.16875
+36;Aegean_Sea_760;Shelf crabs;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Portunidae;0.48750000000000004;Liocarcinus;0.240625;Liocarcinus depurator;0.23125
+37;Aegean_Sea_760;Shrimps;Animalia;0.9968750000000001;Arthropoda;0.9962500000000001;Malacostraca;0.9962500000000001;Decapoda;0.9962500000000001;Aristeidae;0.23374999999999999;Aristeus;0.241875;Aristeus antennatus;0.238125
+38;Aegean_Sea_760;Slope crabs;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Geryonidae;0.48750000000000004;Chaceon;0.48750000000000004;Chaceon mediterraneus;0.475
+39;Aegean_Sea_760;Small demersals 1;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gobiiformes;0.23125;Gobiidae;0.5;Gobius;0.2375;Gobius niger;0.221875
+40;Aegean_Sea_760;Small demersals 2;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gobiiformes;0.445625;Gobiidae;0.44687499999999997;Mullus;0.24375;Mullus barbatus;0.234375
+41;Aegean_Sea_760;Small demersals 3;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gobiiformes;0.24875;Atherinidae;0.25;Gobius;0.25;Spicara smaris;0.234375
+42;Aegean_Sea_760;Squids;Animalia;1.0;Mollusca;1.0;Cephalopoda;0.999375;Teuthida;0.621875;Loliginidae;0.4975;Loligo;0.485;Loligo vulgaris;0.475
+43;Aleutian_Islands_252;Adult pollock;Animalia;1.0;Chordata;1.0;Actinopterygii;0.995;Gadiformes;0.995;Gadidae;0.995;Gadus;0.9925;Gadus chalcogrammus;0.740625
+44;Aleutian_Islands_252;Arrowtooth;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9975;Pleuronectiformes;0.995;Pleuronectidae;0.9975;Atheresthes;0.9925;Atheresthes stomias;0.746875
+45;Aleutian_Islands_252;Atka mackerel;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.35;Hexagrammidae;0.75;Pleurogrammus;0.746875;Pleurogrammus monopterygius;0.75
+46;Aleutian_Islands_252;Baleen whales;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9874999999999999;Multiple (Balaenopteridae, Balaenidae, Eschrichtiidae, Neobalaenidae);0.22812500000000002;Multiple;0.16875;Multiple;0.16249999999999998
+47;Aleutian_Islands_252;Benthic inverts;Animalia;0.75;Mollusca, Echinodermata, Annelida, Cnidaria;0.16875;;;;;;;;;;
+48;Aleutian_Islands_252;Birds;Animalia;0.75;Chordata;0.75;Aves;0.75;Charadriiformes, Pelecaniformes, Accipitriformes;0.1625;Alcidae, Phalacrocoracidae, Accipitridae;0.1625;Multiple;0.0875;Multiple;0.0875
+49;Aleutian_Islands_252;Cephalopods;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Teuthida;0.23124999999999998;Gonatidae;0.246875;Berryteuthis;0.24562499999999998;Berryteuthis magister;0.24375
+50;Aleutian_Islands_252;Deep L;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.7375;Liparidae;0.35;Sebastes;0.24375;Sebastes alutus;0.234375
+51;Aleutian_Islands_252;Dem S M;Animalia;0.75;Chordata;0.75;Actinopterygii;0.745625;Gadiformes;0.18625;Gadidae;0.18562499999999998;Sebastes;0.184375;;
+52;Aleutian_Islands_252;Detritus;;;;;;;;;;;;;;
+53;Aleutian_Islands_252;Epiben carnivores;Animalia;1.0;Chordata;0.246875;Actinopterygii;0.24375;Gadiformes, Scorpaeniformes, Pleuronectiformes;0.171875;;;Sebastes;0.221875;Sebastes alutus;0.228125
+54;Aleutian_Islands_252;Flatfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.4375;Limanda;0.2375;Limanda aspera;0.240625
+55;Aleutian_Islands_252;Halibut;Animalia;0.999375;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.748125;Hippoglossus;0.999375;Hippoglossus stenolepis;0.74375
+56;Aleutian_Islands_252;Herring;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;1.0;Clupea;1.0;Clupea pallasii;0.5
+57;Aleutian_Islands_252;Juvenile pollock;Animalia;0.9975;Chordata;0.9975;Actinopterygii;0.995;Gadiformes;0.995;Gadidae;0.9918750000000001;Gadus;0.9887499999999999;Gadus chalcogrammus;0.745625
+58;Aleutian_Islands_252;Large pelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;0.7;Scombriformes;0.246875;Scombridae;0.25;Thunnus;0.24375;Thunnus albacares;0.2
+59;Aleutian_Islands_252;Large pred demersals;Animalia;0.99875;Chordata;0.99875;Actinopterygii;0.99625;Gadiformes;0.7475;Gadidae;0.746875;Gadus;0.49875;Gadus chalcogrammus;0.24125
+60;Aleutian_Islands_252;Large zooplankton;Animalia;1.0;Arthropoda;1.0;Copepoda;0.639375;Calanoida;0.703125;Euphausiidae;0.25;Euphausia;0.25;Euphausia pacifica;0.240625
+61;Aleutian_Islands_252;Macrophytes;Chromista;0.6656249999999999;Ochrophyta;0.9824999999999999;Phaeophyceae;0.9824999999999999;Laminariales;0.9824999999999999;Laminariaceae;0.730625;Nereocystis;0.473125;Nereocystis luetkeana;0.47312499999999996
+62;Aleutian_Islands_252;Myctophids;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Myctophiformes;1.0;Myctophidae;1.0;Stenobrachius;0.234375;Stenobrachius leucopsarus;0.2375
+63;Aleutian_Islands_252;POP;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.9874999999999999;Sebastidae;0.45625000000000004;Sebastes;1.0;Sebastes alutus;0.49375
+64;Aleutian_Islands_252;Pacific cod;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;1.0;Gadus;1.0;Gadus macrocephalus;0.75
+65;Aleutian_Islands_252;Phytoplankton;Chromista;0.6375000000000001;Bacillariophyta;1.0;Coscinodiscophyceae;0.36874999999999997;Thalassiosirales;1.0;Thalassiosiraceae;1.0;Thalassiosira;0.7375;Thalassiosira nordenskioeldii;0.489375
+66;Aleutian_Islands_252;Rockfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.9874999999999999;Sebastidae;0.47500000000000003;Sebastes;1.0;Sebastes aleutianus;0.225
+67;Aleutian_Islands_252;SSL Adults;Animalia;1.0;Chordata;1.0;Mammalia;0.9975;Carnivora;0.9975;Otariidae;0.9975;Eumetopias;0.9975;Eumetopias jubatus;0.74625
+68;Aleutian_Islands_252;SSL embryo;Animalia;0.93375;Chordata;0.93375;Mammalia;0.93375;Carnivora;0.93375;Otariidae;0.93375;Eumetopias;0.746875;Eumetopias jubatus;0.49875
+69;Aleutian_Islands_252;SSL juveniles;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Otariidae;0.9990625;Eumetopias;0.9990625;Eumetopias jubatus;0.75
+70;Aleutian_Islands_252;SSL pups;Animalia;0.9375;Chordata;0.9375;Mammalia;0.9375;Carnivora;0.935;Otariidae;0.9375;Eumetopias;0.75;Eumetopias jubatus;0.49312500000000004
+71;Aleutian_Islands_252;Sablefish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.5531250000000001;Anoplopomatidae;1.0;Anoplopoma;1.0;Anoplopoma fimbria;0.75
+72;Aleutian_Islands_252;Salmon;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Salmoniformes;0.984375;Salmonidae;1.0;Oncorhynchus;1.0;Oncorhynchus keta;0.48124999999999996
+73;Aleutian_Islands_252;Sandlance;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.7125;Ammodytidae;1.0;Ammodytes;1.0;Ammodytes hexapterus;0.5
+74;Aleutian_Islands_252;Sea otters;Animalia;0.9975;Chordata;0.9975;Mammalia;0.9975;Carnivora;0.9975;Mustelidae;0.9975;Enhydra;0.9975;Enhydra lutris;0.7100000000000001
+75;Aleutian_Islands_252;Shark and skates;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Rajiformes;0.22812500000000002;Rajidae;0.17812499999999998;Bathyraja;0.215625;Bathyraja aleutica;0.22812500000000002
+76;Aleutian_Islands_252;Shark mammal eater;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Lamniformes;0.75;Lamnidae;0.75;Carcharodon;0.48750000000000004;Carcharodon carcharias;0.47875
+77;Aleutian_Islands_252;Shrimps;Animalia;0.993125;Arthropoda;0.993125;Malacostraca;0.9924999999999999;Decapoda;0.9924999999999999;Pandalidae;0.240625;Pandalus;0.2375;Pandalus borealis;0.225
+78;Aleutian_Islands_252;Small mammals;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora, Rodentia;0.221875;Mustelidae, Cricetidae;0.215625;Mustela, Microtus;0.21250000000000002;Multiple;0.10625
+79;Aleutian_Islands_252;Small pelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;0.75;Clupea;0.7312500000000001;Clupea pallasii;0.73125
+80;Aleutian_Islands_252;Small zooplankton;Animalia;1.0;Arthropoda;1.0;Copepoda;0.9956250000000001;Cyclopoida;0.7225;Oithonidae;0.2425;Oithona;0.24312499999999998;similis;0.23062500000000002
+81;Aleutian_Islands_252;Toothed whales;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9874999999999999;Multiple (Physeteridae, Kogiidae, Ziphiidae);0.234375;Multiple;0.171875;Multiple;0.16875
+82;Aleutian_Islands_252;Transient orca;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9874999999999999;Delphinidae;0.999375;Orcinus;1.0;Orcinus orca;0.75
+83;Australia_North_West_Shelf_405;AdCarangids;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;1.0;Carangidae;1.0;Caranx;0.234375;;
+84;Australia_North_West_Shelf_405;BenPhytoplankton;Chromista;0.4125;Bacillariophyta;0.48750000000000004;Bacillariophyceae;0.48125;Naviculales;0.475;Naviculaceae;0.47500000000000003;Navicula;0.475;Navicula phyllepta;0.21875
+85;Australia_North_West_Shelf_405;Coastal sharks;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.998125;Carcharhiniformes;0.998125;Carcharhinidae;0.7375;Carcharhinus;0.2375;;
+86;Australia_North_West_Shelf_405;ComPrawns;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Penaeidae;1.0;Penaeus;0.7125;Penaeus merguiensis;0.234375
+87;Australia_North_West_Shelf_405;Detritus;;;;;;;;;;;;;Detritus;0.0125
+88;Australia_North_West_Shelf_405;DpLgFish;Animalia;1.0;Chordata;1.0;Actinopterygii;0.7124999999999999;Perciformes;0.375;Epinephelidae;0.23125;Scomberomorus;0.234375;Scomberomorus spp.;0.203125
+89;Australia_North_West_Shelf_405;DpLizard;Animalia;1.0;Chordata;1.0;Actinopterygii;0.998125;Aulopiformes;0.729375;Synodontidae;0.7468750000000001;Saurida;0.240625;Saurida undosquamis;0.234375
+90;Australia_North_West_Shelf_405;DpMedFish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.475;Lutjanidae;0.246875;Pristipomoides;0.24375;Pristipomoides filamentosus;0.240625
+91;Australia_North_West_Shelf_405;DpMullidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9375;Mullidae;1.0;;;;
+92;Australia_North_West_Shelf_405;DpNemipterids;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.98375;Nemipteridae;0.98875;Nemipterus;0.48375;;
+93;Australia_North_West_Shelf_405;DpPonyfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9375;Leiognathidae;1.0;;;;
+94;Australia_North_West_Shelf_405;DpSmFish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Aulopiformes;0.234375;Synodontidae;0.240625;Saurida;0.228125;elongata;0.215625
+95;Australia_North_West_Shelf_405;FryPBream;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.69375;Sparidae;1.0;Acanthopagrus;0.485;;
+96;Australia_North_West_Shelf_405;JuvCarangids;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.9874999999999999;Carangidae;1.0;Caranx;0.21250000000000002;;
+97;Australia_North_West_Shelf_405;LgZooplankton;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.25;Euphausiacea;0.25;Euphausiidae;0.25;Nyctiphanes;0.24375;Nyctiphanes australis;0.234375
+98;Australia_North_West_Shelf_405;Macrofauna;Animalia;0.75;Annelida;0.33749999999999997;Polychaeta;0.33749999999999997;Canalipalpata;0.11875;Arenicolidae;0.14375;Arenicola;0.1375;Arenicola marina;0.06875
+99;Australia_North_West_Shelf_405;Megabenthos;Animalia;1.0;Echinodermata;0.49375;Holothuroidea;0.49;Aspidochirotida;0.159375;Holothuriidae;0.48750000000000004;Holothuria;0.485;Holothuria atra;0.22375
+100;Australia_North_West_Shelf_405;Microphytobenthos;Chromista;0.6749999999999999;Bacillariophyta;0.7312500000000001;Bacillariophyceae;0.48750000000000004;Naviculales;0.234375;Naviculaceae, Chlorellaceae, Oscillatoriaceae;0.16562500000000002;Navicula;0.240625;Navicula sp.;0.19374999999999998
+101;Australia_North_West_Shelf_405;PelPhytoplankton;Chromista;0.6375000000000001;Bacillariophyta;0.7312500000000001;Bacillariophyceae;0.485;Thalassiosirales;0.48125;Thalassiosiraceae;0.48125;Thalassiosira;0.48125;Thalassiosira pseudonana;0.228125
+102;Australia_North_West_Shelf_405;Rays;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Myliobatiformes;0.69375;Dasyatidae;0.225;;;;
+103;Australia_North_West_Shelf_405;RedEmperor;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.7125;Lutjanidae;1.0;Lutjanus;1.0;Lutjanus sebae;0.75
+104;Australia_North_West_Shelf_405;SessEpibenthos;Animalia;0.75;Arthropoda;0.1875;Thecostraca;0.184375;Sessilia;0.184375;Balanidae;0.184375;Balanus;0.175;Balanus amphitrite;0.165625
+105;Australia_North_West_Shelf_405;ShLethrinids;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.6375;Lethrinidae;1.0;Lethrinus;0.75;;
+106;Australia_North_West_Shelf_405;ShLgFish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.2375;Lutjanidae;0.49062500000000003;Lutjanus;0.24375;Lutjanus bohar;0.240625
+107;Australia_North_West_Shelf_405;ShLizard;Animalia;0.9975;Chordata;0.9975;Actinopterygii;0.995;Aulopiformes;0.740625;Synodontidae;0.739375;Synodus;0.245625;Synodus variegatus;0.215625
+108;Australia_North_West_Shelf_405;ShLutjanids;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9625;Lutjanidae;1.0;Lutjanus;0.48750000000000004;;
+109;Australia_North_West_Shelf_405;ShMedFish;Animalia;0.996875;Chordata;0.996875;Actinopterygii;0.996875;Perciformes;0.234375;Lutjanidae;0.49062500000000003;Lutjanus;0.246875;Lutjanus sebae;0.24375
+110;Australia_North_West_Shelf_405;ShMullidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9499999999999998;Mullidae;1.0;;;;
+111;Australia_North_West_Shelf_405;ShNemipterirds;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.975;Nemipteridae;1.0;Nemipterus;0.49375;;
+112;Australia_North_West_Shelf_405;ShSerranids;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.975;Serranidae;1.0;Epinephelus;0.240625;;
+113;Australia_North_West_Shelf_405;ShSmFish;Animalia;0.99375;Chordata;0.99375;Actinopterygii;0.989375;Atheriniformes;0.235625;Atherinidae;0.2375;Atherinomorus;0.22812500000000002;Atherinomorus vaigiensis;0.22625
+114;Australia_North_West_Shelf_405;ShSweetlip;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9874999999999999;Haemulidae;1.0;Plectorhinchus;0.246875;Plectorhinchus lineatus;0.240625
+115;Australia_North_West_Shelf_405;ShTriggerFish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Tetraodontiformes;1.0;Balistidae;1.0;Rhinecanthus;0.240625;Rhinecanthus aculeatus;0.23125
+116;Australia_North_West_Shelf_405;SmTunas;Animalia;0.745;Chordata;0.745;Actinopterygii;0.7425;Scombriformes;0.7375;Scombridae;0.7475;Euthynnus;0.180625;Euthynnus affinis;0.184375
+117;Australia_North_West_Shelf_405;SmZooplankton;Animalia;0.75;Arthropoda;0.75;Copepoda;0.48125;Calanoida;0.25;Acartiidae;0.240625;Acartia;0.240625;Acartia tonsa;0.21250000000000002
+118;Australia_North_West_Shelf_405;SmallPelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;0.6875;Sardinops;0.225;Sardinops sagax;0.2125
+119;Australia_North_West_Shelf_405;Squid;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Teuthida;0.98125;Loliginidae;0.23;Sepioteuthis;0.228125;Sepioteuthis lessoniana;0.21875
+120;Bamboung_180;Barracudas +;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Sphyraeniformes;0.4875;Sphyraenidae;0.96875;Sphyraena;0.9875;Sphyraena barracuda;0.240625
+121;Bamboung_180;Breton africain;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.734375;Sciaenidae;0.25;Pseudotolithus;0.25;Pseudotolithus senegalensis;0.24375
+122;Bamboung_180;Carangues;Animalia;0.995;Chordata;0.995;Actinopterygii;0.995;Carangiformes;0.995;Carangidae;0.995;Caranx;0.97625;hippos;0.2125
+123;Bamboung_180;Crabes;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Portunidae;0.228125;;;;
+124;Bamboung_180;Crevettes;Animalia;0.75;Arthropoda;0.75;Malacostraca;0.75;Decapoda;0.75;Penaeidae;0.5531250000000001;Penaeus;0.365625;Penaeus kerathurus;0.18125
+125;Bamboung_180;Dauphins;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.740625;Delphinidae;1.0;Tursiops;1.0;Tursiops truncatus;0.75
+126;Bamboung_180;Detritus;;;;;;;;;;;;;;
+127;Bamboung_180;Diagramme +;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.95;Haemulidae;0.740625;Plectorhinchus;0.2875;Diagramma pictum;0.153125
+128;Bamboung_180;Elops;Animalia;1.0;Chordata;1.0;Actinopterygii;0.995;Elopiformes;0.9874999999999999;Elopidae;0.9874999999999999;Elops;0.995;Elops senegalensis;0.4875
+129;Bamboung_180;Ethmalose;Animalia;1.0;Chordata;1.0;Actinopterygii;0.998125;Clupeiformes;1.0;Clupeidae;1.0;Ethmalosa;0.999375;Ethmalosa fimbriata;0.744375
+130;Bamboung_180;Gerres;Animalia;1.0;Chordata;1.0;Actinopterygii;0.996875;Perciformes;0.7125;Gerreidae;1.0;Gerres;1.0;Gerres oyena;0.228125
+131;Bamboung_180;Grand capitaine;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.315625;Polynemidae;0.315625;Polydactylus;0.334375;quadrifilis;0.265625
+132;Bamboung_180;Macrobenthos;Animalia;1.0;Mollusca;0.246875;Bivalvia;0.246875;Arcida;0.215625;Arcidae;0.24375;Anadara;0.24375;Anadara senilis;0.240625
+133;Bamboung_180;Meiobenthos;Animalia;0.875;Nematoda;0.478125;Chromadorea;0.234375;Rhabditida;0.10625000000000001;Rhabditidae;0.1125;Terschellingia;0.2375;Terschellingia longicaudata;0.203125
+134;Bamboung_180;Microphytobenth;Chromista;0.42500000000000004;Bacillariophyta;0.228125;Bacillariophyceae;0.478125;Naviculales;0.47062499999999996;Naviculaceae;0.47187500000000004;Navicula;0.471875;Navicula perminuta;0.235625
+135;Bamboung_180;Mulets;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Mugiliformes;0.7312500000000001;Mugilidae;1.0;Mugil;1.0;Mugil cephalus;0.48124999999999996
+136;Bamboung_180;Mâchoirons mari;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Mugiliformes;0.2125;Mugilidae;0.21875;Mugil;0.21875;Mugil cephalus;0.2125
+137;Bamboung_180;Oiseaux;Animalia;1.0;Chordata;1.0;Aves;1.0;Charadriiformes;0.225;Sternidae;0.225;Sterna;0.23125;Sterna hirundo;0.225
+138;Bamboung_180;Otolithes +;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.490625;Sciaenidae;0.74375;Otolithes;0.246875;Pseudotolithus senegalensis;0.240625
+139;Bamboung_180;Petits benthoph;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gobiiformes;0.46875000000000006;Gobiidae;0.7031249999999999;;;;
+140;Bamboung_180;Phytoplancton;Chromista;0.45;Ochrophyta;0.225;Bacillariophyceae;0.221875;Thalassiosirales;0.48750000000000004;Skeletonemataceae;0.23125;Skeletonema;0.24375;Skeletonema costatum;0.234375
+141;Bamboung_180;Pomadasys;Animalia;0.75;Chordata;0.75;Actinopterygii;0.7475;Perciformes;0.7;Haemulidae;0.745;Pomadasys;0.745;;
+142;Bamboung_180;Pompaneau +;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.9874999999999999;Carangidae;1.0;Trachinotus;0.95625;Trachinotus ovatus;0.1675
+143;Bamboung_180;Raies;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.75;Myliobatiformes;0.7375;Dasyatidae;0.5;Dasyatis;0.45625;Dasyatis pastinaca;0.425
+144;Bamboung_180;Requins;Animalia;0.75;Chordata;0.75;Chondrichthyes;0.5531250000000001;Carcharhiniformes;0.75;Carcharhinidae;0.75;Carcharhinus;0.75;Carcharhinus leucas;0.1875
+145;Bamboung_180;Sardinelle +;Animalia;0.75;Chordata;0.75;Actinopterygii;0.7475;Clupeiformes;0.7475;Clupeidae;0.7475;Sardinella;0.74375;Sardinella aurita;0.17875
+146;Bamboung_180;Sole-langue +;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;0.995;Soleidae;0.48625;Solea;0.48625;Solea senegalensis;0.2425
+147;Bamboung_180;Tilapias;Animalia;0.7468750000000001;Chordata;0.7468750000000001;Actinopterygii;0.744375;Cichliformes;0.741875;Cichlidae;0.740625;Tilapia;0.271875;Oreochromis niloticus;0.17625000000000002
+148;Bamboung_180;Tétrodon +;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Tetraodontiformes;1.0;Tetraodontidae;0.995;;;spp.;0.1125
+149;Bamboung_180;Vivaneaux +;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Lutjaniformes;0.485;Lutjanidae;0.75;Lutjanus;0.75;Lutjanus goreensis;0.234375
+150;Bamboung_180;Zooplancton;Animalia;0.6875;Arthropoda;0.375;Copepoda;0.32187499999999997;Calanoida;0.37187499999999996;Acartiidae;0.184375;Acartia;0.184375;Acartia tonsa;0.178125
+151;Bay_of_Biscay_335;Anchovy;Animalia;0.9962500000000001;Chordata;0.9962500000000001;Actinopterygii;0.99375;Clupeiformes;0.9962500000000001;Engraulidae;0.9956250000000001;Engraulis;0.993125;Engraulis encrasicolus;0.745
+152;Bay_of_Biscay_335;Bacteria;Bacteria;1.0;Proteobacteria;0.74625;Alphaproteobacteria;0.49875;Pelagibacterales;0.4875;Pelagibacteraceae;0.49375;Pelagibacter;0.49375;Candidatus Pelagibacter ubique;0.218125
+153;Bay_of_Biscay_335;Benthic cephalopods;Animalia;0.9975;Mollusca;0.995;Cephalopoda;0.995;;;;;;;;
+154;Bay_of_Biscay_335;Benthic meiofauna;Animalia;0.75;Nematoda;0.5625;Chromadorea;0.175;Monhysterida;0.13124999999999998;;;;;;
+155;Bay_of_Biscay_335;Benthivorous demersal fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.45625000000000004;Merlucciidae;0.240625;Merluccius;0.2375;Merluccius merluccius;0.2375
+156;Bay_of_Biscay_335;Bottlenose dolphins;Animalia;1.0;Chordata;1.0;Mammalia;0.999375;Cetacea;0.9874999999999999;Delphinidae;0.999375;Tursiops;0.99875;Tursiops truncatus;0.9874999999999999
+157;Bay_of_Biscay_335;Carnivorous benthic invertebrates;Animalia;1.0;Arthropoda;0.246875;Malacostraca;0.24375;Decapoda;0.24375;Nephropidae;0.2375;Nephrops;0.240625;Nephrops norvegicus;0.2375
+158;Bay_of_Biscay_335;Common dolphins;Animalia;0.75;Chordata;0.75;Mammalia;0.75;Cetacea;0.7375;Delphinidae;0.75;Delphinus;0.7425;Delphinus delphis;0.74
+159;Bay_of_Biscay_335;Detritus;Metazoa;0.00625;;;;;;;;;;;;
+160;Bay_of_Biscay_335;Discards;Animalia;0.6875;Chordata;0.6875;Actinopterygii;0.4375;Gadiformes;0.25;Merlucciidae;0.25;Merluccius;0.25;Merluccius merluccius;0.25
+161;Bay_of_Biscay_335;Harbour porpoises;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.703125;Phocoenidae;1.0;Phocoena;1.0;Phocoena phocoena;0.75
+162;Bay_of_Biscay_335;Horse mackerel;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.9874999999999999;Carangidae;1.0;Trachurus;1.0;Trachurus trachurus;0.740625
+163;Bay_of_Biscay_335;Large phytoplankton;Chromista;0.6375000000000001;Bacillariophyta;0.46875;Coscinodiscophyceae;0.7000000000000001;Thalassiosirales;0.2375;Thalassiosiraceae;0.2375;Thalassiosira;0.240625;Thalassiosira nordenskioeldii;0.23124999999999998
+164;Bay_of_Biscay_335;Long-finned pilot whales;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.740625;Delphinidae;0.995;Globicephala;0.9975;Globicephala melas;0.75
+165;Bay_of_Biscay_335;Mackerel;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.9874999999999999;Scombridae;1.0;Scomber;1.0;Scomber scombrus;0.740625
+166;Bay_of_Biscay_335;Macrozooplankton;Animalia;0.996875;Arthropoda;0.996875;Copepoda;0.49624999999999997;Calanoida;0.27;Calanidae;0.27;Calanus;0.34562499999999996;Meganyctiphanes norvegica;0.244375
+167;Bay_of_Biscay_335;Mesozooplankton;Animalia;1.0;Arthropoda;1.0;Copepoda;0.746875;Calanoida;0.7312500000000001;Calanidae;0.7312500000000001;Calanus;0.7312500000000001;Calanus helgolandicus;0.48
+168;Bay_of_Biscay_335;Microzooplankton;Eukaryota/Protista;0.16249999999999998;Ciliophora;0.63125;Spirotrichea;0.44062500000000004;Tintinnida;0.22812500000000002;Tintinnidae;0.234375;Noctiluca;0.2375;Noctiluca scintillans;0.240625
+169;Bay_of_Biscay_335;Necrophagous benthic invertebrates;Animalia;0.75;Arthropoda;0.1875;Malacostraca;0.184375;Amphipoda;0.184375;Nereididae;0.1875;Hediste;0.1875;Hediste diversicolor;0.1875
+170;Bay_of_Biscay_335;Pelagic cephalopods;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Teuthida;0.4000000000000001;;;Illex;0.23124999999999998;Illex coindetii;0.228125
+171;Bay_of_Biscay_335;Piscivorous and benthivorous demersal fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.484375;Gadidae;0.46562499999999996;Pollachius;0.23125;Solea solea;0.2
+172;Bay_of_Biscay_335;Piscivorous demersal fish;Animalia;0.95625;Chordata;0.95625;Actinopterygii;0.95625;Gadiformes;0.48750000000000004;Merlucciidae;0.48124999999999996;Merluccius;0.48750000000000004;Merluccius merluccius;0.246875
+173;Bay_of_Biscay_335;Pursuit divers seabirds;Animalia;0.9375;Chordata;0.9375;Aves;0.9375;Charadriiformes;0.35625;Sulidae;0.246875;Morus;0.24375;Morus bassanus;0.240625
+174;Bay_of_Biscay_335;Sardine;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;0.999375;Sardina;0.99375;Sardina pilchardus;0.75
+175;Bay_of_Biscay_335;Small phytoplankton;Bacteria;0.334375;Cyanobacteria;0.3625;Cyanophyceae;0.321875;Mamiellales;0.234375;Mamiellaceae;0.23124999999999998;Micromonas;0.24375;Micromonas pusilla;0.23125
+176;Bay_of_Biscay_335;Sprat;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;1.0;Sprattus;1.0;Sprattus sprattus;0.75
+177;Bay_of_Biscay_335;Striped dolphins;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9812500000000001;Delphinidae;0.9962500000000001;Stenella;0.96625;Stenella coeruleoalba;0.9706250000000001
+178;Bay_of_Biscay_335;Sub-surface deposit feeders invertebrates;Animalia;0.9375;Annelida;0.5;Polychaeta;0.49375;Amphiurida;0.23125;Arenicolidae;0.5;Arenicola;0.5;Arenicola marina;0.5
+179;Bay_of_Biscay_335;Suprabenthic invertebrates;Animalia;0.9375;Arthropoda;0.75;Malacostraca;0.75;Mysida;0.25;Mysidae;0.25;Neomysis;0.25;Neomysis integer;0.24375
+180;Bay_of_Biscay_335;Suprabenthivorous demersal fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.5;Gadidae;0.5;Trisopterus;0.5;Trisopterus minutus;0.2375
+181;Bay_of_Biscay_335;Surface feeders seabirds;Animalia;1.0;Chordata;1.0;Aves;1.0;Charadriiformes;0.74625;Laridae;0.744375;Larus;0.7368750000000001;Larus michahellis;0.2325
+182;Bay_of_Biscay_335;Surface suspension and deposit feeders inv;Animalia;0.9375;Mollusca;0.75;Bivalvia;0.75;Mytilida;0.49375;Mytilidae;0.5;Mytilus;0.5;Mytilus edulis;0.25
+183;British_Columbia_Coast_478;Detritus;;;;;;;;;;;;;;
+184;British_Columbia_Coast_478;P. cod ad.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;1.0;Gadus;0.728125;Gadus macrocephalus;0.49
+185;British_Columbia_Coast_478;P. cod juv.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;0.9937499999999999;Gadus;0.7375;Gadus macrocephalus;0.475
+186;British_Columbia_Coast_478;P. halibut ad.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.99125;Hippoglossus;1.0;Hippoglossus stenolepis;0.7462500000000001
+187;British_Columbia_Coast_478;P. halibut juv.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.999375;Hippoglossus;0.99625;Hippoglossus stenolepis;0.745
+188;British_Columbia_Coast_478;Pac. Ocean perch;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.740625;Sebastidae;0.4625;Sebastes;1.0;Sebastes alutus;0.74375
+189;British_Columbia_Coast_478;Pac. hake;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Merlucciidae;1.0;Merluccius;1.0;Merluccius productus;0.75
+190;British_Columbia_Coast_478;arrowtooth ad.;Animalia;0.993125;Chordata;0.993125;Actinopterygii;0.993125;Pleuronectiformes;0.993125;Pleuronectidae;0.9906250000000001;Atheresthes;0.993125;Atheresthes stomias;0.75
+191;British_Columbia_Coast_478;arrowtooth juv.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;1.0;Atheresthes;1.0;Atheresthes stomias;0.75
+192;British_Columbia_Coast_478;birds demer pisciv;Animalia;1.0;Chordata;1.0;Aves;1.0;Charadriiformes;0.44375;Alcidae;0.246875;Brachyramphus;0.24375;Brachyramphus marmoratus;0.234375
+193;British_Columbia_Coast_478;birds pelag pisciv;Animalia;1.0;Chordata;1.0;Aves;1.0;Charadriiformes;0.21875;Alcidae;0.24375;Uria;0.24375;Uria aalge;0.2375
+194;British_Columbia_Coast_478;birds zooplanktiv;Animalia;1.0;Chordata;1.0;Aves;1.0;Charadriiformes;0.23125;Alcidae;0.2375;Ptychoramphus;0.240625;Ptychoramphus aleuticus;0.240625
+195;British_Columbia_Coast_478;bivalves;Animalia;0.75;Mollusca;0.75;Bivalvia;0.75;Mytilida;0.175;Mytilidae;0.175;Mytilus;0.175;Mytilus trossulus;0.1625
+196;British_Columbia_Coast_478;carn. zooplankton;Animalia;1.0;Arthropoda;0.740625;Copepoda;0.75;Calanoida;0.49375;Calanidae;0.49375;Calanus;0.48750000000000004;Sagitta elegans;0.215625
+197;British_Columbia_Coast_478;chinook;Animalia;0.9968750000000001;Chordata;0.9968750000000001;Actinopterygii;0.994375;Salmoniformes;0.9912500000000001;Salmonidae;0.99625;Oncorhynchus;0.995625;Oncorhynchus tshawytscha;0.7490625
+198;British_Columbia_Coast_478;chum;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Salmoniformes;0.9874999999999999;Salmonidae;1.0;Oncorhynchus;1.0;Oncorhynchus keta;0.75
+199;British_Columbia_Coast_478;coho;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Salmoniformes;0.744375;Salmonidae;0.7468750000000001;Oncorhynchus;0.7478125000000001;Oncorhynchus kisutch;0.5625
+200;British_Columbia_Coast_478;crabs;Animalia;0.75;Arthropoda;0.75;Malacostraca;0.75;Decapoda;0.75;Cancridae;0.5531250000000001;Cancer;0.3625;Cancer magister;0.18125
+201;British_Columbia_Coast_478;dogfish;Animalia;0.9962500000000001;Chordata;0.9962500000000001;Chondrichthyes;0.993125;Squaliformes;0.9925;Squalidae;0.990625;Squalus;0.993125;Squalus suckleyi;0.48062499999999997
+202;British_Columbia_Coast_478;echinoderms;Animalia;1.0;Echinodermata;1.0;Echinoidea;0.41875;Camptosteoidea;0.03125;Strongylocentrotidae;0.15;Strongylocentrotus;0.175;Strongylocentrotus franciscanus;0.171875
+203;British_Columbia_Coast_478;flatfish other;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Pleuronectiformes;0.75;Pleuronectidae;0.1875;;;Pleuronectiformes spp.;0.0125
+204;British_Columbia_Coast_478;herb. zooplankton;Animalia;0.748125;Arthropoda;0.748125;Copepoda;0.7475;Calanoida;0.56125;Calanidae;0.371875;Calanus;0.371875;Calanus pacificus;0.16562500000000002
+205;British_Columbia_Coast_478;herring ad.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;1.0;Clupea;0.990625;Clupea pallasii;0.75
+206;British_Columbia_Coast_478;herring juv.;Animalia;0.99875;Chordata;0.99875;Actinopterygii;0.99625;Clupeiformes;0.9946875;Clupeidae;0.9940625;Clupea;0.9928125;Clupea pallasii;0.748125
+207;British_Columbia_Coast_478;jellies;Animalia;1.0;Cnidaria;1.0;Scyphozoa;0.7475;Semaeostomeae;0.74625;Ulmaridae;0.4875;Aurelia;0.75;Aurelia labiata;0.234375
+208;British_Columbia_Coast_478;krill;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Euphausiacea;1.0;Euphausiidae;0.5;Euphausia;0.5;Euphausia pacifica;0.48124999999999996
+209;British_Columbia_Coast_478;large squids;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Oegopsida;0.71875;Gonatidae;0.5;Gonatus;0.5;Gonatus onyx;0.23124999999999998
+210;British_Columbia_Coast_478;lingcod;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.2125;Hexagrammidae;0.5;Ophiodon;0.9312499999999999;Ophiodon elongatus;0.7125
+211;British_Columbia_Coast_478;macrophytes;Chromista;0.45;Ochrophyta;0.48750000000000004;Phaeophyceae;0.48750000000000004;Laminariales;0.48750000000000004;Laminariaceae;0.228125;Nereocystis;0.23125;Nereocystis luetkeana;0.234375
+212;British_Columbia_Coast_478;misc. pred. pelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.45625;Scombridae;0.48125;Scomber;0.15625;Oncorhynchus tshawytscha;0.08750000000000001
+213;British_Columbia_Coast_478;misc. small demersals;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.42500000000000004;Scorpaenidae;0.39375;Sebastes;0.38749999999999996;;
+214;British_Columbia_Coast_478;misc. small pelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Engraulidae;0.4125;Clupea;0.225;Clupea pallasii;0.225
+215;British_Columbia_Coast_478;myctophids;Animalia;0.7456250000000001;Chordata;0.74375;Actinopterygii;0.74125;Myctophiformes;0.73875;Myctophidae;0.74125;Stenobrachius;0.184375;Stenobrachius leucopsarus;0.184375
+216;British_Columbia_Coast_478;mysticetae;Animalia;0.99875;Chordata;1.0;Mammalia;1.0;Cetacea;0.8450000000000001;Multiple (Balaenopteridae, Eschrichtiidae, Balaenidae);0.209375;Multiple;0.125;Multiple;0.115625
+217;British_Columbia_Coast_478;odontocetae;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9812500000000001;Multiple (Delphinidae, Phocoenidae, Monodontidae, Ziphiidae);0.184375;Multiple;0.1375;Multiple;0.128125
+218;British_Columbia_Coast_478;other benthos;Animalia;1.0;Annelida;0.2375;Polychaeta;0.228125;Terebellida;0.23125;Cirratulidae;0.2375;Aphelochaeta;0.234375;Aphelochaeta sp.;0.21250000000000002
+219;British_Columbia_Coast_478;pelagic sharks;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Lamniformes;0.45625;Lamnidae;0.23125;Lamna;0.225;nasus;0.184375
+220;British_Columbia_Coast_478;phytoplankton;Chromista;0.42187500000000006;Bacillariophyta;0.2375;Coscinodiscophyceae;0.221875;Thalassiosirales;0.2375;Thalassiosiraceae;0.48125;Thalassiosira;0.49375;Thalassiosira pseudonana;0.47500000000000003
+221;British_Columbia_Coast_478;pink;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9975;Salmoniformes;0.994375;Salmonidae;0.9975;Oncorhynchus;1.0;Oncorhynchus gorbuscha;0.75
+222;British_Columbia_Coast_478;pollock ad.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;1.0;Gadus;0.994375;Gadus chalcogrammus;0.740625
+223;British_Columbia_Coast_478;pollock juv.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;0.999375;Gadus;0.996875;Gadus chalcogrammus;0.746875
+224;British_Columbia_Coast_478;rajidae / ratfish;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Rajiformes;0.740625;Rajidae;0.725;Bathyraja;0.215625;Bathyraja interrupta;0.2
+225;British_Columbia_Coast_478;rock sole;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;1.0;Lepidopsetta;1.0;Lepidopsetta bilineata;0.5
+226;British_Columbia_Coast_478;rockfish other;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.73125;Sebastidae;0.45625;Sebastes;1.0;;
+227;British_Columbia_Coast_478;sablefish ad.;Animalia;1.0;Chordata;1.0;Actinopterygii;0.996875;Scorpaeniformes;0.73125;Anoplopomatidae;1.0;Anoplopoma;1.0;Anoplopoma fimbria;0.75
+228;British_Columbia_Coast_478;sablefish juv.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.73125;Anoplopomatidae;1.0;Anoplopoma;1.0;Anoplopoma fimbria;0.75
+229;British_Columbia_Coast_478;salmon shark;Animalia;0.75;Chordata;0.75;Chondrichthyes;0.559375;Lamniformes;0.75;Lamnidae;0.75;Lamna;0.75;Lamna ditropis;0.5625
+230;British_Columbia_Coast_478;sea lions;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Otariidae;1.0;Multiple (Eumetopias, Zalophus, Neophoca);0.184375;Multiple;0.16875
+231;British_Columbia_Coast_478;seals;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Phocidae;1.0;Multiple (Phoca, Halichoerus, Erignathus);0.184375;Multiple;0.15
+232;British_Columbia_Coast_478;shrimps;Animalia;0.9962500000000001;Arthropoda;0.9962500000000001;Malacostraca;0.99375;Decapoda;0.99375;Pandalidae;0.71125;Pandalus;0.71125;;
+233;British_Columbia_Coast_478;small squids;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Myopsida;0.45625000000000004;Loliginidae;0.4875;Doryteuthis;0.4875;Doryteuthis opalescens;0.45625000000000004
+234;British_Columbia_Coast_478;sockeye;Animalia;0.995;Chordata;0.995;Actinopterygii;0.9925;Salmoniformes;0.989375;Salmonidae;0.9925;Oncorhynchus;0.99;Oncorhynchus nerka;0.748125
+235;British_Columbia_Coast_478;yellowfin sole;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;1.0;Limanda;1.0;Limanda aspera;0.5
+236;Celestun_247;Con.mic.zoo.fit;Animalia;0.5;Arthropoda;0.5;Malacostraca;0.25;Mysida;0.24375;Mysidae;0.24375;Neomysis;0.229375;Neomysis americana;0.2125
+237;Celestun_247;Con.micro.zoopl;Animalia;0.5;Arthropoda;0.246875;Copepoda;0.240625;Calanoida;0.24375;Acartiidae;0.24375;Acartia;0.24375;Sagitta enflata;0.21875
+238;Celestun_247;Con.microcr.zoo;Animalia;0.9375;Arthropoda;0.9375;Copepoda;0.5;Calanoida;0.5;Acartiidae;0.5;Acartia;0.5;Acartia tonsa;0.25
+239;Celestun_247;Cons.mic.fitopl;Animalia;0.246875;Arthropoda;0.245;Copepoda;0.239375;Calanoida;0.240625;Acartiidae;0.24375;Acartia;0.245625;Acartia tonsa;0.243125
+240;Celestun_247;Cons.microrustr;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.5;Mysida;0.25;Mysidae;0.25;Americamysis;0.25;Americamysis bahia;0.24375
+241;Celestun_247;Detritus;;;;;;;;;;;;;;
+242;Celestun_247;Fitoplanctofag.;Chromista;0.47500000000000003;Bacillariophyta;0.48124999999999996;Bacillariophyceae;0.2375;Thalassiosirales;0.48124999999999996;Thalassiosiraceae;0.234375;Skeletonema;0.240625;Thalassiosira pseudonana;0.23125
+243;Celestun_247;Fitoplancton;Eukaryota;0.24375;Bacillariophyta;0.24375;Coscinodiscophyceae;0.228125;Thalassiosirales;0.24375;Thalassiosiraceae;0.240625;Thalassiosira;0.2375;Skeletonema costatum;0.234375
+244;Celestun_247;Insectos;Animalia;1.0;Arthropoda;1.0;Insecta;1.0;Diptera;0.48750000000000004;Chironomidae;0.49375;Chironomus;0.475;Chironomus riparius;0.425
+245;Celestun_247;Macrocrustaceos;Animalia;0.9375;Arthropoda;0.9375;Malacostraca;0.9375;Decapoda;0.75;Portunidae;0.23625000000000002;Callinectes;0.22999999999999998;Callinectes sapidus;0.21562499999999998
+246;Celestun_247;Macrofitas;Plantae;0.9375;Tracheophyta;0.5;Magnoliopsida;0.2375;Alismatales;0.5;Rhizophoraceae;0.23125;Rhizophora;0.225;Rhizophora mangle;0.225
+247;Celestun_247;Microcrustaceos;Animalia;0.9375;Arthropoda;0.9375;Copepoda;0.47000000000000003;Calanoida;0.48;Acartiidae;0.234375;Acartia;0.2375;Acartia tonsa;0.233125
+248;Celestun_247;Moluscus;Animalia;0.9375;Mollusca;0.9375;Bivalvia;0.5;Ostreida;0.45;Ostreidae;0.5;Crassostrea;0.5;Crassostrea virginica;0.48124999999999996
+249;Celestun_247;Omnivoros;Animalia;0.9375;Chordata;0.9375;Actinopterygii;0.9375;Perciformes;0.465625;Mugilidae;0.25;Mugil;0.25;Lagodon rhomboides;0.240625
+250;Celestun_247;Otros peces;Animalia;0.9912500000000001;Chordata;0.9912500000000001;Actinopterygii;0.989375;Perciformes;0.23;Mugilidae;0.24562499999999998;Mugil;0.245;Mugil cephalus;0.243125
+251;Celestun_247;Piscivoros;Animalia;0.96875;Chordata;0.96875;Actinopterygii;0.96875;Centropomiformes;0.228125;Centropomidae;0.5;Centropomus;0.5;Centropomus undecimalis;0.25
+252;Celestun_247;Poliquetos;Animalia;0.75;Annelida;0.75;Polychaeta;0.75;Nereidida;0.125;Nereididae;0.184375;Nereis;0.18125;Nereis diversicolor;0.13125
+253;Celestun_247;Zooplanktofagos;Animalia;0.5625;Chordata;0.375;Actinopterygii;0.375;Clupeiformes;0.375;Engraulidae;0.375;Anchoa;0.1875;Anchoa mitchilli;0.18125
+254;Celestun_247;Zooplankton;Animalia;0.690625;Arthropoda;0.36875;Copepoda;0.18125;Calanoida;0.178125;Calanidae;0.1625;Acartia, Paracalanus, Temora;0.165625;Multiple species;0.078125
+255;Central_Gulf_of_California_239;Carangidae;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Carangiformes;0.73625;Carangidae;0.749375;Caranx;0.184375;Caranx caballus;0.15625
+256;Central_Gulf_of_California_239;Clupaeidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;0.703125;Sardinops;0.16875;;
+257;Central_Gulf_of_California_239;Crabs;Animalia;0.74375;Arthropoda;0.74375;Malacostraca;0.736875;Decapoda;0.736875;Brachyura;0.12187500000000001;;;;
+258;Central_Gulf_of_California_239;Detritus;;;;;;;;;;;;;;
+259;Central_Gulf_of_California_239;Discarded fish;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Perciformes;0.14375;;;;;;
+260;Central_Gulf_of_California_239;Haemulidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.975;Haemulidae;1.0;Haemulon;0.2375;;
+261;Central_Gulf_of_California_239;Lutjanidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.6593749999999999;Lutjanidae;1.0;Lutjanus;0.20625;;
+262;Central_Gulf_of_California_239;Meiobenthos;Animalia;0.54375;Nematoda;0.1625;Multiple;0.078125;Rhabditida;0.15625;Rhabditidae;0.15625;Turbatrix;0.134375;Turbatrix aceti;0.128125
+263;Central_Gulf_of_California_239;Myctophidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Myctophiformes;1.0;Myctophidae;1.0;;;;
+264;Central_Gulf_of_California_239;Other fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;;;;;;;;
+265;Central_Gulf_of_California_239;Other macrocrus;Animalia;0.75;Arthropoda;0.5625;Malacostraca;0.5625;Decapoda;0.175;Macrouridae;0.065625;;;;
+266;Central_Gulf_of_California_239;Other molluscs;Animalia;1.0;Mollusca;1.0;Cephalopoda, Bivalvia, Gastropoda;0.21249999999999997;Oegopsida, Octopoda, Venerida, Mytilida;0.19687500000000002;Ommastrephidae, Octopodidae, Pinnidae, Veneridae;0.2;Dosidicus, Octopus, Pinna, Protothaca, Megapitaria;0.203125;;
+267;Central_Gulf_of_California_239;Paralichthydae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Paralichthyidae;0.9750000000000001;Paralichthys;0.2375;;
+268;Central_Gulf_of_California_239;Phytoplankton;Chromista;0.228125;Bacillariophyta;0.2375;Bacillariophyceae;0.23125;Thalassiosirales;0.23124999999999998;Thalassiosiraceae;0.23124999999999998;Thalassiosira;0.2375;Thalassiosira pseudonana;0.226875
+269;Central_Gulf_of_California_239;Polychaeta;Animalia;0.75;Annelida;0.75;Polychaeta;0.7375;;;;;;;;
+270;Central_Gulf_of_California_239;Red crab;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Munididae;0.5625;Pleuroncodes;0.975;planipes;0.42375
+271;Central_Gulf_of_California_239;Sciaenidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.721875;Sciaenidae;1.0;Cynoscion;0.2375;Multiple species;0.09375
+272;Central_Gulf_of_California_239;Scombridae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.740625;Scombridae;1.0;Thunnus;0.2375;Thunnus albacares;0.21875
+273;Central_Gulf_of_California_239;Scorp/Triglidae;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Scorpaeniformes;0.7375;Scorpaenidae;0.33749999999999997;Scorpaena;0.09375;;
+274;Central_Gulf_of_California_239;Sea birds;Animalia;1.0;Chordata;1.0;Aves;1.0;Suliformes;0.234375;Phalacrocoracidae;0.2375;Phalacrocorax;0.21875;Phalacrocorax penicillatus;0.203125
+275;Central_Gulf_of_California_239;Sea mammals;Animalia;0.75;Chordata;0.75;Mammalia;0.75;Cetacea, Carnivora;0.171875;Delphinidae, Phocidae, Balaenopteridae;0.1675;Tursiops, Zalophus, Balaenoptera;0.165625;Multiple species;0.10625
+276;Central_Gulf_of_California_239;Serranidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9874999999999999;Serranidae;1.0;Epinephelus;0.234375;Epinephelus labriformis;0.22375
+277;Central_Gulf_of_California_239;Sharks / Rays;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.75;Carcharhiniformes;0.23125;Triakidae;0.22812500000000002;Mustelus;0.23125;Mustelus henlei;0.215625
+278;Central_Gulf_of_California_239;Shrimp;Animalia;0.99875;Arthropoda;0.99875;Malacostraca;0.99875;Decapoda;0.99875;Penaeidae;0.703125;;;;
+279;Central_Gulf_of_California_239;Squid;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Teuthida;0.42500000000000004;Ommastrephidae;0.246875;Dosidicus;0.246875;Dosidicus gigas;0.246875
+280;Central_Gulf_of_California_239;Stomatopods;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.5625;Stomatopoda;0.75;;;Squilla;0.20625;Squilla empusa;0.16875
+281;Central_Gulf_of_California_239;Zooplankton;Animalia;0.53125;Arthropoda;0.18125;Copepoda;0.178125;Calanoida;0.175;Calanidae;0.171875;Calanus;0.159375;Calanus finmarchicus;0.046875
+282;Denmark_Faroe_Islands_46;Baleen whales;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9874999999999999;Balaenopteridae;0.22812500000000002;Balaenoptera;0.196875;;
+283;Denmark_Faroe_Islands_46;Benthos;Animalia;0.9874999999999999;Mixed (Arthropoda, Echinodermata, Mollusca, etc.);0.13437500000000002;;;;;;;;;;
+284;Denmark_Faroe_Islands_46;Blue Whiting;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;1.0;Micromesistius;0.9975;Micromesistius poutassou;0.748125
+285;Denmark_Faroe_Islands_46;Cod;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;1.0;Gadus;0.99875;Gadus morhua;0.75
+286;Denmark_Faroe_Islands_46;Detritus;;;;;;;;;;;;;;
+287;Denmark_Faroe_Islands_46;Greenland Halibut;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9975;Pleuronectiformes;0.9975;Pleuronectidae;0.9874999999999999;Reinhardtius;0.9975;Reinhardtius hippoglossoides;0.74625
+288;Denmark_Faroe_Islands_46;Haddock;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;1.0;Melanogrammus;1.0;Melanogrammus aeglefinus;0.74625
+289;Denmark_Faroe_Islands_46;Herring;Animalia;1.0;Chordata;1.0;Actinopterygii;0.99625;Clupeiformes;0.9962500000000001;Clupeidae;0.99375;Clupea;0.9924999999999999;Clupea harengus;0.75
+290;Denmark_Faroe_Islands_46;Lrg. Zooplankton;Animalia;0.9375;Arthropoda;0.9375;Copepoda;0.240625;Calanoida;0.49062500000000003;Calanidae;0.49062500000000003;Calanus;0.4875;Calanus finmarchicus;0.49062500000000003
+291;Denmark_Faroe_Islands_46;Mackerel;Animalia;0.9975;Chordata;0.9975;Actinopterygii;0.9975;Scombriformes;0.9825;Scombridae;0.9975;Scomber;0.9975;Scomber scombrus;0.748125
+292;Denmark_Faroe_Islands_46;Nekton;Animalia;1.0;Chordata;1.0;Actinopterygii;0.73625;Gadiformes;0.49875;Gadidae;0.499375;Gadus;0.4975;Gadus morhua;0.4975
+293;Denmark_Faroe_Islands_46;Other deep water;Animalia;0.74875;Chordata;0.44375;Actinopterygii;0.4425;Gadiformes;0.3725;Macrouridae;0.371875;Coryphaenoides;0.18562499999999998;Coryphaenoides rupestris;0.17875
+294;Denmark_Faroe_Islands_46;Other demersal fish;Animalia;0.9956250000000001;Chordata;0.9956250000000001;Actinopterygii;0.930625;Gadiformes;0.435;Gadidae;0.42249999999999993;Gadus;0.4075;Gadus morhua;0.38125000000000003
+295;Denmark_Faroe_Islands_46;Other pelagics;Animalia;1.0;Chordata;0.7312500000000001;Actinopterygii;0.7124999999999999;;;;;;;;
+296;Denmark_Faroe_Islands_46;Phytoplankton;Eukaryota;0.45;Bacillariophyta;0.390625;Prymnesiophyceae;0.234375;Thalassiosirales;0.234375;Phaeocystaceae;0.234375;Phaeocystis;0.24375;Phaeocystis pouchetii;0.2425
+297;Denmark_Faroe_Islands_46;Redfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.975;Sebastidae;0.45999999999999996;Sebastes;1.0;Sebastes mentella;0.246875
+298;Denmark_Faroe_Islands_46;Saithe;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;0.995;Pollachius;0.995;Pollachius virens;0.749375
+299;Denmark_Faroe_Islands_46;Seabirds;Animalia;0.7375;Chordata;0.7375;Aves;0.7375;;;;;;;;
+300;Denmark_Faroe_Islands_46;Sm. Zooplankton;Animalia;0.9375;Arthropoda;0.9375;Copepoda;0.74375;Cyclopoida;0.44375000000000003;Oithonidae;0.47500000000000003;Oithona;0.48750000000000004;Oithona similis;0.475
+301;Denmark_Faroe_Islands_46;Toothed mammals;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9375;;;;;;
+302;Eastern_Bering_Sea_183;Adult pollock;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;0.99875;Gadus;0.9806250000000001;Gadus chalcogrammus;0.744375
+303;Eastern_Bering_Sea_183;Baleen whales;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.5;Eschrichtiidae;0.24375;Eschrichtius;0.24375;Eschrichtius robustus;0.24375
+304;Eastern_Bering_Sea_183;Beaked whales;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.7374999999999999;Ziphiidae;1.0;Berardius;0.23125;Berardius bairdii;0.225
+305;Eastern_Bering_Sea_183;Benth. Par. feeders;Animalia;1.0;Annelida;0.2375;Polychaeta;0.23125;Canalipalpata;0.225;Cirratulidae;0.23125;Aphelochaeta;0.225;Aphelochaeta sp.;0.2
+306;Eastern_Bering_Sea_183;Cephalopods;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Teuthida;0.234375;Ommastrephidae;0.2375;Todarodes;0.234375;Todarodes pacificus;0.21875
+307;Eastern_Bering_Sea_183;Deepwater fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.5;Moridae;0.25;Antimora;0.3125;Antimora microlepis;0.2125
+308;Eastern_Bering_Sea_183;Detritus;;;;;;;;;;;;;Detritus;0.00625
+309;Eastern_Bering_Sea_183;Epifauna;Animalia;1.0;Annelida;0.234375;Polychaeta;0.228125;Phyllodocida;0.228125;Nereididae;0.2375;Alitta;0.228125;Alitta virens;0.19374999999999998
+310;Eastern_Bering_Sea_183;Herb. Zoops;Animalia;1.0;Arthropoda;1.0;Copepoda;1.0;Calanoida;0.75;Calanidae;0.49062500000000003;Calanus;0.484375;Calanus glacialis;0.215625
+311;Eastern_Bering_Sea_183;Infauna;Animalia;0.75;Annelida;0.1875;Polychaeta;0.184375;Capitellida;0.18125;Capitellidae;0.184375;Capitella;0.184375;Capitella capitata;0.16875
+312;Eastern_Bering_Sea_183;Jellyfish;Animalia;1.0;Cnidaria;1.0;Scyphozoa;0.7312500000000001;Semaeostomeae;0.44375;Ulmaridae;0.221875;Aurelia;0.23125;Aurelia aurita;0.234375
+313;Eastern_Bering_Sea_183;Juvenile Pollock;Animalia;1.0;Chordata;1.0;Actinopterygii;0.999375;Gadiformes;0.999375;Gadidae;0.99875;Gadus;0.99;Gadus chalcogrammus;0.749375
+314;Eastern_Bering_Sea_183;Large Zoops;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.45499999999999996;Euphausiacea;0.46749999999999997;Euphausiidae;0.46749999999999997;Thysanoessa;0.23125;Thysanoessa raschii;0.225
+315;Eastern_Bering_Sea_183;Large flatfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.7093750000000001;Hippoglossus;0.48750000000000004;Hippoglossus stenolepis;0.246875
+316;Eastern_Bering_Sea_183;Other demersal fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.228125;Gadidae;0.234375;Anoplopoma;0.21875;Anoplopoma fimbria;0.21875
+317;Eastern_Bering_Sea_183;Pelagics;Animalia;0.994375;Chordata;0.993125;Actinopterygii;0.99;Clupeiformes;0.24125;Clupeidae;0.240625;Clupea;0.2375;Clupea pallasii;0.24
+318;Eastern_Bering_Sea_183;Phytoplankton;Chromista;0.6593749999999999;Bacillariophyta;0.48750000000000004;Coscinodiscophyceae;0.47375;Thalassiosirales;0.48625;Thalassiosiraceae;0.7206250000000001;Thalassiosira;0.476875;Thalassiosira nordenskioeldii;0.484375
+319;Eastern_Bering_Sea_183;Pisc. Birds;Animalia;1.0;Chordata;1.0;Aves;1.0;Charadriiformes;0.2375;Alcidae;0.246875;Uria;0.246875;Uria lomvia;0.246875
+320;Eastern_Bering_Sea_183;Seals;Animalia;0.99875;Chordata;0.99875;Mammalia;0.99875;Carnivora;0.9975;Phocidae;0.984375;Phoca;0.228125;vitulina;0.234375
+321;Eastern_Bering_Sea_183;Small flatfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.70625;Limanda;0.48750000000000004;Limanda aspera;0.240625
+322;Eastern_Bering_Sea_183;Sperm whales;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.721875;Physeteridae;0.995;Physeter;0.995625;Physeter macrocephalus;0.75
+323;Eastern_Bering_Sea_183;Steller sea lions;Animalia;0.995;Chordata;0.995;Mammalia;0.995;Carnivora;0.995;Otariidae;0.995;Eumetopias;0.995;Eumetopias jubatus;0.749375
+324;Eastern_Bering_Sea_183;Toothed whales;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.5;Delphinidae;0.234375;Orcinus;0.228125;Orcinus orca;0.228125
+325;Eastern_Bering_Sea_183;Walrus & bearded;Animalia;0.1875;Chordata;0.1875;Mammalia;0.1875;Carnivora;0.1875;Odobenidae, Phocidae;0.15000000000000002;Odobenus, Erignathus;0.15000000000000002;rosmarus, barbatus;0.11875
+326;Galapagos_Floreana_Rocky_Reef_48;Anemones;Animalia;1.0;Cnidaria;1.0;Anthozoa;0.743125;Actiniaria;1.0;;;;;;
+327;Galapagos_Floreana_Rocky_Reef_48;Asteroids;Animalia;1.0;Echinodermata;1.0;Asteroidea;1.0;Forcipulatida;0.225;Heliasteridae;0.234375;Heliaster;0.2375;helianthus;0.19187500000000002
+328;Galapagos_Floreana_Rocky_Reef_48;Bacalao;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.721875;Serranidae;0.7125;Mycteroperca;0.464375;Mycteroperca olfax;0.228125
+329;Galapagos_Floreana_Rocky_Reef_48;Benthic algae;Plantae;0.33125000000000004;Chlorophyta;0.240625;Ulvophyceae;0.240625;Ulvales, Fucales, Corallinales;0.20937499999999998;Ulvaceae;0.2375;Ulva;0.240625;Ulva lactuca;0.221875
+330;Galapagos_Floreana_Rocky_Reef_48;Birds;Animalia;1.0;Chordata;1.0;Aves;1.0;Suliformes;0.2375;Sulidae;0.5;Sula;0.25;Sula nebouxii;0.246875
+331;Galapagos_Floreana_Rocky_Reef_48;Carnivorous zooplankton;Animalia;1.0;Chaetognatha;0.47500000000000003;Copepoda;0.4625000000000001;Aphragmophora;0.45625;Sagittidae;0.47500000000000003;Sagitta;0.228125;Sagitta sp.;0.2
+332;Galapagos_Floreana_Rocky_Reef_48;Chitons;Animalia;1.0;Mollusca;1.0;Polyplacophora;1.0;Chitonida;0.23875000000000002;Acanthopleuridae;0.228125;Acanthopleura;0.228125;Acanthopleura echinata;0.210625
+333;Galapagos_Floreana_Rocky_Reef_48;Detritivorous fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.69375;Acanthuridae;0.246875;Kyphosus;0.24375;Kyphosus elegans;0.228125
+334;Galapagos_Floreana_Rocky_Reef_48;Detritus;;;;;;;;;;;;;;
+335;Galapagos_Floreana_Rocky_Reef_48;Eucidaris urchin;Animalia;1.0;Echinodermata;1.0;Echinoidea;1.0;Cidaroida;0.5;Cidaridae;0.6875;Eucidaris;0.93125;Eucidaris thouarsii;0.234375
+336;Galapagos_Floreana_Rocky_Reef_48;Filter + suspension feeders;Animalia;0.7375;Mollusca;0.175;Bivalvia;0.175;Multiple;0.10625;Multiple;0.10625;Multiple;0.096875;Multiple;0.095
+337;Galapagos_Floreana_Rocky_Reef_48;Herbivorous zooplankton;Animalia;1.0;Arthropoda;0.7093749999999999;Copepoda;0.48625;Calanoida;0.48625;Calanidae;0.234375;Calanus;0.421875;Calanus finmarchicus;0.109375
+338;Galapagos_Floreana_Rocky_Reef_48;Hexaplex gastropod;Animalia;0.75;Mollusca;0.75;Gastropoda;0.75;Neogastropoda;0.725;Muricidae;0.75;Hexaplex;0.75;Hexaplex sp.;0.14375
+339;Galapagos_Floreana_Rocky_Reef_48;Large benthic invertebrate eaters;Animalia;1.0;Chordata;0.75;Actinopterygii;0.75;Perciformes;0.46875;Epinephelidae;0.48125;Octopus;0.2125;Octopus spp.;0.184375
+340;Galapagos_Floreana_Rocky_Reef_48;Lytechinus urchin;Animalia;1.0;Echinodermata;1.0;Echinoidea;1.0;Camarodonta;0.995;Toxopneustidae;0.9375;Lytechinus;0.9499999999999998;Lytechinus semituberculatus;0.24375
+341;Galapagos_Floreana_Rocky_Reef_48;Marine iguana;Animalia;0.998125;Chordata;0.999375;Reptilia;0.999375;Squamata;0.999375;Iguanidae;0.995;Amblyrhynchus;0.999375;Amblyrhynchus cristatus;0.75
+342;Galapagos_Floreana_Rocky_Reef_48;Microphytobenthos;Chromista;0.6749999999999999;Bacillariophyta;0.48750000000000004;Bacillariophyceae;0.48125;Naviculales;0.22499999999999998;Naviculaceae;0.221875;Navicula;0.21875;;
+343;Galapagos_Floreana_Rocky_Reef_48;Non-commercial reef predators;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.45625;Serranidae;0.471875;Scorpaena;0.240625;mystes;0.215625
+344;Galapagos_Floreana_Rocky_Reef_48;Octopods;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Octopoda;1.0;Octopodidae;0.49375;Octopus;0.684375;vulgaris;0.15625
+345;Galapagos_Floreana_Rocky_Reef_48;Omnivorous reef fishes;Animalia;0.9375;Chordata;0.9375;Actinopterygii;0.931875;Labriformes;0.47750000000000004;Labridae;0.5;Thalassoma;0.24375;lucasanum;0.2325
+346;Galapagos_Floreana_Rocky_Reef_48;Other commercial reef predators;Animalia;0.9375;Chordata;0.9375;Actinopterygii;0.9375;Perciformes;0.7375;Lutjanidae;0.5;Lutjanus;0.5;Lutjanus argentiventris;0.246875
+347;Galapagos_Floreana_Rocky_Reef_48;Other herbivorous fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.73125;Acanthuridae;0.2375;Kyphosus;0.228125;Kyphosus elegans;0.20625
+348;Galapagos_Floreana_Rocky_Reef_48;Other sea cucumbers;Animalia;0.8718750000000001;Echinodermata;0.8718750000000001;Holothuroidea;0.8718750000000001;Aspidochirotida;0.225;Holothuriidae;0.41062499999999996;Holothuria;0.41125;Holothuria atra;0.125
+349;Galapagos_Floreana_Rocky_Reef_48;Other urchins;Animalia;1.0;Echinodermata;1.0;Echinoidea;0.998125;Cidaroida;0.22312500000000002;Cidaridae;0.24125;Eucidaris;0.2375;Eucidaris galapagensis;0.220625
+350;Galapagos_Floreana_Rocky_Reef_48;Parrotfishes;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Labriformes;0.73125;Scaridae;0.9874999999999999;Scarus;0.740625;Scarus ghobban;0.19374999999999998
+351;Galapagos_Floreana_Rocky_Reef_48;Pelagic planktivores;Animalia;0.9375;Chordata;0.9375;Actinopterygii;0.9375;Clupeiformes;0.5;Clupeidae;0.5;Sardinops;0.5;Sardinops sagax;0.246875
+352;Galapagos_Floreana_Rocky_Reef_48;Pelagic predators;Animalia;1.0;Chordata;1.0;Actinopterygii;0.7475;Scombriformes;0.49375;Scombridae;0.49875;Thunnus;0.4975;Thunnus albacares;0.5
+353;Galapagos_Floreana_Rocky_Reef_48;Pepino sea cucumber;Animalia;0.9375;Echinodermata;0.9375;Holothuroidea;0.9375;Holothuriida;0.45;Stichopodidae;0.5;Isostichopus;0.475;Isostichopus fuscus;0.25
+354;Galapagos_Floreana_Rocky_Reef_48;Phytoplankton;Eukaryota;0.23125;Ochrophyta;0.2375;Bacillariophyceae;0.2375;Thalassiosirales;0.24375;Thalassiosiraceae;0.24375;Thalassiosira;0.471875;Thalassiosira pseudonana;0.22499999999999998
+355;Galapagos_Floreana_Rocky_Reef_48;Planktivorous reef fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.975;Pomacentridae;1.0;Chromis;0.5;Chromis atrilobata;0.246875
+356;Galapagos_Floreana_Rocky_Reef_48;Sea lions;Animalia;0.9971875;Chordata;0.9971875;Mammalia;0.995;Carnivora;0.995;Otariidae;0.9937499999999999;Zalophus;0.9924999999999999;Zalophus wollebaeki;0.5
+357;Galapagos_Floreana_Rocky_Reef_48;Sea turtles;Animalia;1.0;Chordata;1.0;Reptilia;1.0;Testudines;1.0;Cheloniidae;1.0;Chelonia;0.71875;Chelonia mydas;0.5
+358;Galapagos_Floreana_Rocky_Reef_48;Sharks;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Carcharhiniformes;0.46249999999999997;Carcharhinidae;0.225;;;;
+359;Galapagos_Floreana_Rocky_Reef_48;Shrimps and small crabs;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;;;;;;
+360;Galapagos_Floreana_Rocky_Reef_48;Slipper lobster;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Scyllaridae;0.75;Scyllarides;0.7125;pacificus;0.0875
+361;Galapagos_Floreana_Rocky_Reef_48;Small benthic invertebrate eaters;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.45937500000000003;Labridae;0.4875;Halichoeres;0.2375;dispilus;0.209375
+362;Galapagos_Floreana_Rocky_Reef_48;Small crustaceans;Animalia;0.9931249999999999;Arthropoda;0.9931249999999999;Malacostraca;0.23124999999999998;Multiple;0.1375;Multiple;0.11875;Multiple;0.10625000000000001;Multiple;0.103125
+363;Galapagos_Floreana_Rocky_Reef_48;Small gastropods;Animalia;1.0;Mollusca;1.0;Gastropoda;1.0;Littorinimorpha;0.21250000000000002;Tegulidae;0.234375;Tegula;0.23124999999999998;Tegula atra;0.15000000000000002
+364;Galapagos_Floreana_Rocky_Reef_48;Spiny lobsters;Animalia;0.9975;Arthropoda;0.9975;Malacostraca;0.995;Decapoda;0.995;Palinuridae;0.995;Panulirus;0.995;penicillatus;0.20124999999999998
+365;Galapagos_Floreana_Rocky_Reef_48;Stony corals;Animalia;1.0;Cnidaria;1.0;Anthozoa;0.75;Scleractinia;1.0;Poritidae;0.24375;Porites;0.240625;Porites lobata;0.228125
+366;Galapagos_Floreana_Rocky_Reef_48;Toothed cetaceans;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.975;Delphinidae;0.5;Tursiops;0.478125;Tursiops truncatus;0.228125
+367;Galapagos_Floreana_Rocky_Reef_48;Tripneustes urchin;Animalia;1.0;Echinodermata;1.0;Echinoidea;1.0;Camarodonta;0.740625;Toxopneustidae;0.97125;Tripneustes;1.0;Tripneustes depressus;0.7375
+368;Galapagos_Floreana_Rocky_Reef_48;Worms and ophioroids;Animalia;1.0;Annelida, Echinodermata;0.2375;Polychaeta, Ophiuroidea;0.23625;;;;;;;;
+369;Grand_Banks_of_Newfoundland_105;Aplaice +35cm;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.99875;Hippoglossoides;0.995;Hippoglossoides platessoides;0.75
+370;Grand_Banks_of_Newfoundland_105;Aplaice<=35cm;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;1.0;Hippoglossoides;0.994375;Hippoglossoides platessoides;0.7475
+371;Grand_Banks_of_Newfoundland_105;Arctic Squid;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Oegopsida;0.726875;Gonatidae;1.0;Gonatus;0.96875;Gonatus fabricii;0.653125
+372;Grand_Banks_of_Newfoundland_105;Arctic cod;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;1.0;Boreogadus;0.75;Boreogadus saida;0.73125
+373;Grand_Banks_of_Newfoundland_105;Bivalves;Animalia;1.0;Mollusca;1.0;Bivalvia;1.0;;;;;;;;
+374;Grand_Banks_of_Newfoundland_105;Capelin;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Osmeriformes;0.74125;Osmeridae;0.9775;Mallotus;0.9925;Mallotus villosus;0.75
+375;Grand_Banks_of_Newfoundland_105;Cetaceans;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.975;;;;;;
+376;Grand_Banks_of_Newfoundland_105;Cod  <40 cm;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Gadiformes;0.75;Gadidae;0.75;Gadus;0.74625;Gadus morhua;0.740625
+377;Grand_Banks_of_Newfoundland_105;Cod + 40cm;Animalia;1.0;Chordata;0.99875;Actinopterygii;0.9975;Gadiformes;1.0;Gadidae;1.0;Gadus;1.0;Gadus morhua;1.0
+378;Grand_Banks_of_Newfoundland_105;Cod <40 cm;Animalia;0.5;Chordata;0.5;Actinopterygii;0.5;Gadiformes;0.5;Gadidae;0.5;Gadus;0.5;morhua;0.22812500000000002
+379;Grand_Banks_of_Newfoundland_105;Detritus;;;;;;;;;;;;;;
+380;Grand_Banks_of_Newfoundland_105;Dogfish;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Squaliformes;0.998125;Squalidae;1.0;Squalus;1.0;Squalus acanthias;0.74
+381;Grand_Banks_of_Newfoundland_105;Ducks;Animalia;0.995;Chordata;0.995;Aves;0.995;Anseriformes;0.995;Anatidae;0.9925;Anas;0.24125;Anas platyrhynchos;0.23125
+382;Grand_Banks_of_Newfoundland_105;Echinoderms;Animalia;0.7475;Echinodermata;0.7475;;;;;;;;;;
+383;Grand_Banks_of_Newfoundland_105;G. Halibut +65cm;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;1.0;Reinhardtius;0.75;Reinhardtius hippoglossoides;0.5
+384;Grand_Banks_of_Newfoundland_105;G. Halibut Juv.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.971875;Reinhardtius;0.75;Reinhardtius hippoglossoides;0.5
+385;Grand_Banks_of_Newfoundland_105;Greenland cod;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.995;Gadidae;0.995;Gadus;0.9925;Gadus ogac;0.5531250000000001
+386;Grand_Banks_of_Newfoundland_105;Grey seals;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Phocidae;1.0;Halichoerus;1.0;Halichoerus grypus;0.75
+387;Grand_Banks_of_Newfoundland_105;Harp Seals;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Phocidae;0.999375;Pagophilus;0.99875;Pagophilus groenlandicus;0.748125
+388;Grand_Banks_of_Newfoundland_105;Herring;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;0.999375;Clupeidae;0.99875;Clupea;0.9968750000000001;Clupea harengus;0.744375
+389;Grand_Banks_of_Newfoundland_105;Hooded Seals;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Phocidae;1.0;Cystophora;0.740625;Cystophora cristata;0.455
+390;Grand_Banks_of_Newfoundland_105;Juv. Dem. Pisc (- 40cm);Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;1.0;Gadus;0.7300000000000001;morhua;0.246875
+391;Grand_Banks_of_Newfoundland_105;L. Dem. Pisc (+40 cm);Animalia;0.99375;Chordata;0.99375;Actinopterygii;0.99375;Gadiformes;0.99375;Gadidae;0.99375;Gadus;0.73125;morhua;0.23875
+392;Grand_Banks_of_Newfoundland_105;L.Dem.Feeders (+ 30cm);Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.5;Gadidae;0.5;Melanogrammus;0.5;aeglefinus;0.24375
+393;Grand_Banks_of_Newfoundland_105;L.Zooplankton;Animalia;1.0;Arthropoda;1.0;Copepoda;1.0;Calanoida;0.75;Calanidae;0.5;Calanus;0.5;Calanus finmarchicus;0.234375
+394;Grand_Banks_of_Newfoundland_105;Large Crabs  +95 cm;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Oregoniidae;0.209375;Chionoecetes;0.47500000000000003;Chionoecetes opilio;0.46875
+395;Grand_Banks_of_Newfoundland_105;Lobster;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Nephropidae;0.993125;Homarus;1.0;Homarus americanus;0.75
+396;Grand_Banks_of_Newfoundland_105;Lumpfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.684375;Cyclopteridae;0.96875;Cyclopterus;0.96875;Cyclopterus lumpus;0.7312500000000001
+397;Grand_Banks_of_Newfoundland_105;O.Benthic Inver;Animalia;0.734375;Echinodermata;0.266875;Malacostraca;0.18625;Decapoda;0.18562499999999998;Nephropidae;0.184375;Nephrops;0.18562499999999998;Nephrops norvegicus;0.1875
+398;Grand_Banks_of_Newfoundland_105;O.S.Demersals;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Gadiformes;0.373125;Gadidae;0.373125;Gadus;0.18625;Gadus morhua;0.184375
+399;Grand_Banks_of_Newfoundland_105;Phytoplankton;Chromista;0.6375000000000001;Bacillariophyta;0.48750000000000004;Bacillariophyceae;0.47812499999999997;Thalassiosirales;0.484375;Thalassiosiraceae;0.48750000000000004;Thalassiosira;0.48124999999999996;Thalassiosira spp.;0.20937499999999998
+400;Grand_Banks_of_Newfoundland_105;Piscivorous Birds;Animalia;0.9918750000000001;Chordata;0.9918750000000001;Aves;0.99;Suliformes;0.47125000000000006;Sulidae;0.4875;Morus;0.484375;Morus bassanus;0.48250000000000004
+401;Grand_Banks_of_Newfoundland_105;Planktivorous Birds;Animalia;1.0;Chordata;1.0;Aves;1.0;Charadriiformes;0.75;Laridae;0.4975;Rissa;0.49875;Rissa tridactyla;0.49875
+402;Grand_Banks_of_Newfoundland_105;Polychaetes;Animalia;0.995;Annelida;0.995;Polychaeta;0.9749999999999999;;;;;;;;
+403;Grand_Banks_of_Newfoundland_105;Redfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.9874999999999999;Sebastidae;0.425;Sebastes;1.0;S. mentella;0.225
+404;Grand_Banks_of_Newfoundland_105;S.Dem.Feeders;Animalia;0.99375;Chordata;0.99375;Actinopterygii;0.99375;Pleuronectiformes;0.24375;Pleuronectidae;0.25;Limanda;0.25;Pollachius virens;0.234375
+405;Grand_Banks_of_Newfoundland_105;S.Zooplankton;Animalia;0.5;Arthropoda;0.5;Copepoda;0.4875;Calanoida;0.246875;Paracalanidae;0.23125;Pseudocalanus;0.24375;Pseudocalanus spp.;0.21875
+406;Grand_Banks_of_Newfoundland_105;Salmon;Animalia;1.0;Chordata;1.0;Actinopterygii;0.995625;Salmoniformes;0.979375;Salmonidae;0.99875;Salmo;0.984375;Salmo salar;0.75
+407;Grand_Banks_of_Newfoundland_105;Sandlance;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.48749999999999993;Ammodytidae;1.0;Ammodytes;1.0;Ammodytes americanus;0.22812500000000002
+408;Grand_Banks_of_Newfoundland_105;Shortfinned squid;Animalia;0.75;Mollusca;0.75;Cephalopoda;0.75;Oegopsida;0.5625;Ommastrephidae;0.75;Illex;0.75;Illex illecebrosus;0.5625
+409;Grand_Banks_of_Newfoundland_105;Shrimp;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Pandalidae;0.999375;Pandalus;0.998125;Pandalus borealis;0.75
+410;Grand_Banks_of_Newfoundland_105;Skates;Animalia;0.9962500000000001;Chordata;0.9962500000000001;Chondrichthyes;0.99375;Rajiformes;0.9887499999999999;Rajidae;0.9887499999999999;Raja;0.221875;;
+411;Grand_Banks_of_Newfoundland_105;Small Crabs  - 95 cm;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Oregoniidae;0.35;Chionoecetes;0.740625;Chionoecetes opilio;0.746875
+412;Grand_Banks_of_Newfoundland_105;Small Mesopelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Myctophiformes;0.49062500000000003;Myctophidae;0.49062500000000003;Myctophum;0.234375;Myctophum punctatum;0.21875
+413;Grand_Banks_of_Newfoundland_105;Small Pelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;0.46875;Clupeidae;0.45625000000000004;Mallotus;0.2375;Mallotus villosus;0.24375
+414;Grand_Banks_of_Newfoundland_105;Transient Mackerel ( +29cm);Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.9900000000000001;Scombridae;1.0;Scomber;1.0;Scomber scombrus;0.5
+415;Grand_Banks_of_Newfoundland_105;Transient Pelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;0.746875;Scombriformes;0.228125;Scombridae;0.5;Thunnus;0.5;Thunnus thynnus;0.2425
+416;Grand_Banks_of_Newfoundland_105;Walrus;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;0.99125;Odobenidae;1.0;Odobenus;0.999375;Odobenus rosmarus;0.75
+417;Grand_Banks_of_Newfoundland_105;Winter flounder;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;1.0;Pseudopleuronectes;0.993125;Pseudopleuronectes americanus;0.7424999999999999
+418;Grand_Banks_of_Newfoundland_105;Witch flounder;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.999375;Glyptocephalus;1.0;Glyptocephalus cynoglossus;0.74625
+419;Grand_Banks_of_Newfoundland_105;Yellowtail Flounders;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;1.0;Limanda;0.9937499999999999;Limanda ferruginea;0.75
+420;Gulf_of_California_450;Benthic inv.;Animalia;0.9874999999999999;Multiple;0.075;;;;;;;;;;
+421;Gulf_of_California_450;Callinectes sp.;Animalia;0.9975;Arthropoda;0.9975;Malacostraca;0.9975;Decapoda;0.9975;Portunidae;0.9962500000000001;Callinectes;0.9887499999999999;Callinectes bellicosus;0.229375
+422;Gulf_of_California_450;Cephalopoda;Animalia;0.9924999999999999;Mollusca;0.99125;Cephalopoda;0.99125;;;;;;;;
+423;Gulf_of_California_450;Coastal birds;Animalia;1.0;Chordata;1.0;Aves;1.0;Charadriiformes;0.23124999999999998;Laridae;0.228125;;;;
+424;Gulf_of_California_450;Detritus;;;;;;;;;;;;;;
+425;Gulf_of_California_450;Elasmobranchi (RAYS);Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Myliobatiformes;0.49375;Myliobatidae;0.21875;Myliobatis;0.2125;Dasyatis pastinaca;0.053125000000000006
+426;Gulf_of_California_450;Elasmobranchi (SHARKS);Animalia;1.0;Chordata;1.0;Chondrichthyes;0.75;;;;;;;;
+427;Gulf_of_California_450;Farfantepenaeus californiensis (ADULTS);Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Penaeidae;1.0;Farfantepenaeus;1.0;Farfantepenaeus californiensis;0.5625
+428;Gulf_of_California_450;Farfantepenaeus californiensis (JUVENILES);Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;0.740625;Penaeidae;1.0;Farfantepenaeus;0.98125;californiensis;0.48125
+429;Gulf_of_California_450;Flat fishes;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Paralichthyidae;0.239375;Paralichthys;0.23625000000000002;Paralichthys californicus;0.225
+430;Gulf_of_California_450;Haemulidae;Animalia;1.0;Chordata;1.0;Actinopterygii;0.995;Perciformes;0.975;Haemulidae;1.0;Orthopristis;0.196875;reddingi;0.171875
+431;Gulf_of_California_450;Litopenaeus stylirostris (ADULTS);Animalia;0.99875;Arthropoda;0.99875;Malacostraca;0.99875;Decapoda;0.99875;Penaeidae;0.995;Litopenaeus;0.9959375;Litopenaeus stylirostris;0.6749999999999999
+432;Gulf_of_California_450;Litopenaeus stylirostris (JUVENILES);Animalia;1.0;Arthropoda;1.0;Malacostraca;0.9975;Decapoda;0.650625;Penaeidae;0.995;Litopenaeus;0.97625;stylirostris;0.485
+433;Gulf_of_California_450;Macrophytes;Plantae;0.46125;Tracheophyta;0.475;Liliopsida;0.4625;Alismatales;0.475;Zosteraceae;0.24375;Zostera;0.24375;Ruppia maritima;0.2375
+434;Gulf_of_California_450;Marine birds;Animalia;0.75;Chordata;0.75;Aves;0.75;;;;;;;;
+435;Gulf_of_California_450;Merluccidae;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Gadiformes;0.525;Merluccidae;0.75;;;;
+436;Gulf_of_California_450;Mojarras;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.975;Gerreidae;1.0;Diapterus;0.234375;;
+437;Gulf_of_California_450;Myctophidos;Animalia;0.999375;Chordata;1.0;Actinopterygii;0.999375;Myctophiformes;1.0;Myctophidae;1.0;Benthosema;0.233125;Benthosema panamense;0.225
+438;Gulf_of_California_450;Mysticeti;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.4375;;;;;;
+439;Gulf_of_California_450;Odontoceti;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.85;;;;;;
+440;Gulf_of_California_450;Other fishes;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;;;;;;;;
+441;Gulf_of_California_450;Phocoena sinus;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.49375;Phocoenidae;0.98125;Phocoena;0.98125;Phocoena sinus;0.734375
+442;Gulf_of_California_450;Phytoplankton;Chromista;0.6562500000000001;Bacillariophyta;0.47500000000000003;Bacillariophyceae;0.44375000000000003;Thalassiosirales;0.721875;Thalassiosiraceae;0.721875;Thalassiosira;0.475;Thalassiosira pseudonana;0.475
+443;Gulf_of_California_450;Polychaeta;Animalia;0.743125;Annelida;0.743125;Polychaeta;0.6768750000000001;;;;;;;;
+444;Gulf_of_California_450;Rhinobatidae;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Rhinopristiformes;0.7218749999999999;Rhinobatidae;0.99375;Rhinobatos;0.22812500000000002;;
+445;Gulf_of_California_450;Sciaenidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.721875;Sciaenidae;0.9375;Cynoscion;0.215625;;
+446;Gulf_of_California_450;Serranidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.975;Serranidae;1.0;Epinephelus;0.20937499999999998;;
+447;Gulf_of_California_450;Sicyonia penicillata;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;0.7312500000000001;Sicyoniidae;1.0;Sicyonia;1.0;penicillata;0.49375
+448;Gulf_of_California_450;Small pelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;0.99875;Clupeidae;0.49875;Sardinops;0.49812500000000004;sagax;0.240625
+449;Gulf_of_California_450;Stomatopoda;Animalia;0.75;Arthropoda;0.75;Malacostraca;0.5;Stomatopoda;0.75;;;;;;
+450;Gulf_of_California_450;Totoaba macdonaldi (ADULTS);Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.41874999999999996;Sciaenidae;0.8937499999999999;Totoaba;0.91875;Totoaba macdonaldi;0.66875
+451;Gulf_of_California_450;Totoaba macdonaldi (JUVENILES);Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.740625;Sciaenidae;0.9375;Totoaba;0.9375;Totoaba macdonaldi;0.6875
+452;Gulf_of_California_450;Zalophus californianus;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Otariidae;0.999375;Zalophus;0.998125;Zalophus californianus;0.73875
+453;Gulf_of_California_450;Zooplankton;Animalia;0.99375;Arthropoda;0.75;Copepoda;0.75;Calanoida;0.5;Acartiidae;0.24875;Acartia;0.24875;Acartia tonsa;0.22625
+454;Hudson_Bay_446;Arctic Char;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Salmoniformes;0.9912500000000001;Salmonidae;0.9975;Salvelinus;0.9975;Salvelinus alpinus;0.75
+455;Hudson_Bay_446;Atlantic Salmon;Animalia;0.999375;Chordata;1.0;Actinopterygii;1.0;Salmoniformes;0.999375;Salmonidae;1.0;Salmo;0.999375;Salmo salar;0.749375
+456;Hudson_Bay_446;Bearded Seal;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Phocidae;0.75;Erignathus;0.9125;Erignathus barbatus;0.65
+457;Hudson_Bay_446;Beluga E;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.985;Monodontidae;0.995625;Delphinapterus;0.993125;Delphinapterus leucas;0.75
+458;Hudson_Bay_446;Beluga James;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.985625;Monodontidae;1.0;Delphinapterus;1.0;Delphinapterus leucas;0.744375
+459;Hudson_Bay_446;Beluga W;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9874999999999999;Monodontidae;1.0;Delphinapterus;1.0;Delphinapterus leucas;0.740625
+460;Hudson_Bay_446;Bivalves;Animalia;0.9375;Mollusca;0.9375;Bivalvia;0.9375;Mytilida;0.45625000000000004;Mytilidae;0.45625000000000004;Mytilus;0.45625000000000004;Mya truncata;0.23125
+461;Hudson_Bay_446;Bowhead;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.740625;Balaenidae;0.9375;Balaena;0.9375;Balaena mysticetus;0.6875
+462;Hudson_Bay_446;Brackish Fish;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Gasterosteiformes;0.175;Gasterosteidae;0.18125;Gasterosteus;0.18125;Gasterosteus aculeatus;0.175
+463;Hudson_Bay_446;Capelin;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Osmeriformes;0.99375;Osmeridae;0.9962500000000001;Mallotus;0.99125;Mallotus villosus;0.75
+464;Hudson_Bay_446;Cephalopods;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;;;;;;;;
+465;Hudson_Bay_446;Copepods;Animalia;1.0;Arthropoda;1.0;Copepoda;0.75;Multiple;0.078125;;;;;;
+466;Hudson_Bay_446;Crustaceans;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.48750000000000004;Decapoda;0.246875;Pandalidae;0.245;Pandalus;0.245625;Pandalus borealis;0.24625
+467;Hudson_Bay_446;Echinoderms;Animalia;0.9375;Echinodermata;0.9375;Echinoidea;0.75;Camarodonta;0.46875;Strongylocentrotidae;0.740625;Strongylocentrotus;0.75;Strongylocentrotus droebachiensis;0.5
+468;Hudson_Bay_446;Euphausids;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Euphausiacea;1.0;Euphausiidae;0.25;Thysanoessa;0.234375;Thysanoessa raschii;0.234375
+469;Hudson_Bay_446;Gadiformes;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;0.234375;;;;
+470;Hudson_Bay_446;Harbour Seal;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Phocidae;0.99625;Phoca;0.98875;Phoca vitulina;0.75
+471;Hudson_Bay_446;Harp seal;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Phocidae;0.999375;Pagophilus;0.996875;Pagophilus groenlandicus;0.749375
+472;Hudson_Bay_446;Ice Algae;Chromista;0.6375000000000001;Bacillariophyta;0.42500000000000004;Bacillariophyceae;0.23125;Naviculales;0.1875;Melosiraceae;0.221875;Melosira;0.24375;Melosira arctica;0.2375
+473;Hudson_Bay_446;Ice Detritus;;;;;;;;;;;;;;
+474;Hudson_Bay_446;Killer Whale;Animalia;0.99875;Chordata;0.99875;Mammalia;1.0;Cetacea;0.9874999999999999;Delphinidae;0.99875;Orcinus;0.99875;Orcinus orca;0.75
+475;Hudson_Bay_446;MacroZooplankton;Animalia;1.0;Multiple;0.15000000000000002;Multiple;0.15000000000000002;;;;;;;;
+476;Hudson_Bay_446;Marine Worms;Animalia;0.96875;Annelida;0.96875;Polychaeta;0.958125;Phyllodocida;0.746875;Nereididae;0.746875;Alitta;0.246875;Alitta virens;0.24375
+477;Hudson_Bay_446;MicroZooplankton;Protista;0.18125000000000002;Ciliophora;0.48750000000000004;Dinophyceae;0.23125;Tintinnida;0.2375;Strombidiidae;0.2375;Oxyrrhis;0.2375;Oxyrrhis marina;0.2375
+478;Hudson_Bay_446;Narwhal;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9874999999999999;Monodontidae;1.0;Monodon;1.0;Monodon monoceros;0.75
+479;Hudson_Bay_446;Other Benthos;Animalia;0.875;Mollusca;0.24375;Bivalvia;0.24375;Venerida;0.215625;Tellinidae;0.24375;Macoma;0.234375;Macoma balthica;0.21562499999999998
+480;Hudson_Bay_446;Other Marine Fish;Animalia;0.9962500000000001;Chordata;0.9962500000000001;Actinopterygii;0.9962500000000001;Gadiformes;0.215625;Gadidae;0.21875;Gadus;0.215625;Gadus morhua;0.203125
+481;Hudson_Bay_446;Other MesoZooplankton;Animalia;1.0;Arthropoda;1.0;Copepoda;1.0;Calanoida;0.75;Calanidae;0.75;Calanus;0.740625;Calanus finmarchicus;0.22375
+482;Hudson_Bay_446;Pelagic Detritus;;;;;;;;;;;;;;
+483;Hudson_Bay_446;Polar Bear Foxe;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;0.9975;Ursidae;0.9975;Ursus;0.9968750000000001;Ursus maritimus;0.740625
+484;Hudson_Bay_446;Polar Bear WHB;Animalia;0.9981249999999999;Chordata;0.9981249999999999;Mammalia;0.9981249999999999;Carnivora;0.995625;Ursidae;0.995;Ursus;0.991875;Ursus maritimus;0.740625
+485;Hudson_Bay_446;Primary Production;Chromista;0.44375;Bacillariophyta;0.2375;Bacillariophyceae;0.2375;Multiple;0.09999999999999999;Multiple;0.09999999999999999;Multiple;0.0875;Multiple species;0.0875
+486;Hudson_Bay_446;Ringed Seal;Animalia;0.9968750000000001;Chordata;0.9968750000000001;Mammalia;0.9968750000000001;Carnivora;0.9968750000000001;Phocidae;0.993125;Pusa;0.98875;Pusa hispida;0.7468750000000001
+487;Hudson_Bay_446;SH Polar Bear;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Ursidae;1.0;Ursus;1.0;Ursus maritimus;0.74875
+488;Hudson_Bay_446;Sandlance;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9825;Ammodytidae;0.995;Ammodytes;0.995;Ammodytes americanus;0.231875
+489;Hudson_Bay_446;Sculpins/ Zoarcids;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.71875;Cottidae;0.4125;Myoxocephalus;0.225;Myoxocephalus scorpioides;0.15
+490;Hudson_Bay_446;Seabirds;Animalia;0.75;Chordata;0.75;Aves;0.75;Charadriiformes;0.18625;Laridae;0.184375;Larus;0.18125;hyperboreus;0.17375000000000002
+491;Hudson_Bay_446;Sharks/Rays;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.75;;;;;;;;
+492;Hudson_Bay_446;Walrus N;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;0.995;Odobenidae;1.0;Odobenus;0.999375;Odobenus rosmarus;0.75
+493;Hudson_Bay_446;Walrus S;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;0.9874999999999999;Odobenidae;1.0;Odobenus;1.0;Odobenus rosmarus;0.75
+494;Jalisco_and_Colima_Coast_307;Adultos Lutjanu;Animalia;0.990625;Chordata;0.990625;Actinopterygii;0.9881249999999999;Perciformes;0.9543750000000001;Lutjanidae;0.9881249999999999;Lutjanus;0.985625;Lutjanus guttatus;0.233125
+495;Jalisco_and_Colima_Coast_307;Anguilas y more;Animalia;0.99375;Chordata;0.99375;Actinopterygii;0.9893749999999999;Anguilliformes;0.9893749999999999;Anguillidae;0.20500000000000002;Anguilla;0.195625;rostrata;0.0825
+496;Jalisco_and_Colima_Coast_307;Aves marinas;Animalia;1.0;Chordata;1.0;Aves;1.0;Suliformes;0.24375;Sulidae;0.246875;Sula;0.24375;leucogaster;0.240625
+497;Jalisco_and_Colima_Coast_307;Braquiuros;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Portunidae;0.24375;Callinectes;0.246875;Callinectes arcuatus;0.235625
+498;Jalisco_and_Colima_Coast_307;Carángidos;Animalia;1.0;Chordata;1.0;Actinopterygii;0.99875;Carangiformes;0.978125;Carangidae;1.0;Caranx;0.2375;hippos;0.190625
+499;Jalisco_and_Colima_Coast_307;Detritus;;;;;;;;;;;;;;
+500;Jalisco_and_Colima_Coast_307;Dorado;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.44375000000000003;Coryphaenidae;1.0;Coryphaena;1.0;Coryphaena hippurus;0.75
+501;Jalisco_and_Colima_Coast_307;Equinodermos;Animalia;1.0;Echinodermata;1.0;Echinoidea;0.628125;Cidaroida;0.24375;Cidaridae;0.246875;Eucidaris;0.246875;Eucidaris thouarsii;0.234375
+502;Jalisco_and_Colima_Coast_307;Escómbridos;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.740625;Scombridae;0.75;Thunnus;0.225;Thunnus albacares;0.2125
+503;Jalisco_and_Colima_Coast_307;Estomatópodos;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.5625;Stomatopoda;0.75;;;;;;
+504;Jalisco_and_Colima_Coast_307;Fitoplancton;Eukarya;0.234375;"Bacillariophyta; Dinoflagellata; Haptophyta";0.225;Bacillariophyceae;0.234375;Thalassiosirales;0.234375;Thalassiosiraceae;0.234375;Thalassiosira;0.240625;Thalassiosira oceanica;0.19375
+505;Jalisco_and_Colima_Coast_307;Gasterosteidos;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gasterosteiformes;0.975;Gasterosteidae;1.0;Gasterosteus;0.375;Gasterosteus aculeatus;0.146875
+506;Jalisco_and_Colima_Coast_307;Gerreidos;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.6593749999999999;Gerreidae;1.0;Diapterus;0.24375;Diapterus peruvianus;0.221875
+507;Jalisco_and_Colima_Coast_307;Haemúlidos;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.4875;Haemulidae;0.9624999999999999;Anisotremus;0.240625;Anisotremus interruptus;0.24375
+508;Jalisco_and_Colima_Coast_307;Infauna;Animalia;1.0;Annelida;0.48750000000000004;Polychaeta;0.48750000000000004;Capitellida;0.234375;Capitellidae;0.24375;Capitella;0.240625;Capitella capitata;0.228125
+509;Jalisco_and_Colima_Coast_307;Juveniles Lutja;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9956250000000001;Perciformes;0.9674999999999999;Lutjanidae;0.993125;Lutjanus;0.995;Lutjanus guttatus;0.234375
+510;Jalisco_and_Colima_Coast_307;Mamíferos marin;Animalia;0.9375;Chordata;0.9375;Mammalia;0.9375;Cetacea;0.49375;Delphinidae;0.25;Tursiops;0.24375;Tursiops truncatus;0.23125
+511;Jalisco_and_Colima_Coast_307;Moluscos;Animalia;0.875;Mollusca;0.875;Bivalvia;0.5;Pectinida;0.24375;Pectinidae;0.25;Argopecten;0.25;Argopecten ventricosus;0.2375
+512;Jalisco_and_Colima_Coast_307;Ophidiidos;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Ophidiiformes;1.0;Ophidiidae;1.0;Ophidion;0.23125;Ophidion spp.;0.18125000000000002
+513;Jalisco_and_Colima_Coast_307;Otros crustáceo;Animalia;0.75;Arthropoda;0.75;Crustacea;0.25;Decapoda;0.1875;;;;;;
+514;Jalisco_and_Colima_Coast_307;Otros lutjánido;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.61875;Lutjanidae;1.0;Lutjanus;0.23125;spp.;0.2
+515;Jalisco_and_Colima_Coast_307;Otros macroinve;Animalia;0.75;Annelida;0.36875;Polychaeta;0.3625;;;;;;;;
+516;Jalisco_and_Colima_Coast_307;Otros peces;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;0.226875;Clupeidae;0.22999999999999998;Sardinops;0.21625;Sardinops sagax;0.2125
+517;Jalisco_and_Colima_Coast_307;Peneidos;Animalia;0.9962500000000001;Arthropoda;0.9962500000000001;Malacostraca;0.9962500000000001;Decapoda;0.9962500000000001;Penaeidae;0.9962500000000001;Litopenaeus;0.48125;Litopenaeus vannamei;0.475
+518;Jalisco_and_Colima_Coast_307;Picudos;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Sphyraeniformes;0.234375;Sphyraenidae;0.246875;Sphyraena;0.240625;Multiple species;0.15625
+519;Jalisco_and_Colima_Coast_307;Pleuronéctidos;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.275;Paralichthys;0.425;Paralichthys californicus;0.2375
+520;Jalisco_and_Colima_Coast_307;Pulpo;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Octopoda;0.7312500000000001;Octopodidae;0.73125;Octopus;0.746875;Octopus vulgaris;0.221875
+521;Jalisco_and_Colima_Coast_307;Rayas;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Myliobatiformes;0.46875;Dasyatidae;0.23125;Hypanus;0.221875;Dasyatis spp.;0.1875
+522;Jalisco_and_Colima_Coast_307;Sardinas;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Clupeiformes;0.75;Clupeidae;0.75;Sardinops;0.5625;Sardinops sagax;0.375
+523;Jalisco_and_Colima_Coast_307;Sciánidos;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.475;Sciaenidae;0.925;Cynoscion;0.48750000000000004;Cynoscion othonopterus;0.21562499999999998
+524;Jalisco_and_Colima_Coast_307;Serranidos;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.975;Serranidae;1.0;Mycteroperca;0.2375;Mycteroperca rosacea;0.23
+525;Jalisco_and_Colima_Coast_307;Sierra;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.9874999999999999;Scombridae;0.9874999999999999;Scomberomorus;0.995;Scomberomorus sierra;0.498125
+526;Jalisco_and_Colima_Coast_307;Synodontidos;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Aulopiformes;0.995;Synodontidae;0.995;Synodus;0.49624999999999997;foetens;0.171875
+527;Jalisco_and_Colima_Coast_307;Tetraodóntidos;Animalia;0.9968750000000001;Chordata;0.9968750000000001;Actinopterygii;0.9968750000000001;Tetraodontiformes;0.9968750000000001;Tetraodontidae;0.993125;Sphoeroides;0.480625;Sphoeroides annulatus;0.234375
+528;Jalisco_and_Colima_Coast_307;Tiburones;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.75;Carcharhiniformes;0.24875;Carcharhinidae;0.25;Carcharhinus;0.25;Carcharhinus falciformis;0.215625
+529;Jalisco_and_Colima_Coast_307;Tortugas marina;Animalia;1.0;Chordata;1.0;Reptilia;0.995;Testudines;1.0;Cheloniidae;0.75;Chelonia;0.49875;Chelonia mydas;0.249375
+530;Jalisco_and_Colima_Coast_307;Zooplancton;Animalia;0.75;Arthropoda;0.4625;Copepoda;0.4625;Calanoida;0.375;Acartiidae;0.1875;Acartia;0.1875;Acartia tonsa;0.1625
+531;Jurien_Bay_456;Bait;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Clupeiformes;0.75;Clupeidae;0.5;Sardinops;0.5;Sardinops sagax;0.49375
+532;Jurien_Bay_456;Baldchin grouper;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.678125;Labridae;0.5625;Choerodon;0.5625;Choerodon rubescens;0.35
+533;Jurien_Bay_456;Breaksea cod;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.7125;Serranidae;0.7125;Epinephelides;0.44187499999999996;armatus;0.21375
+534;Jurien_Bay_456;Carnivorous Jellyfish;Animalia;1.0;Cnidaria;1.0;Scyphozoa;0.75;Semaeostomeae;0.22499999999999998;Ulmaridae;0.240625;Aurelia;0.246875;aurita;0.240625
+535;Jurien_Bay_456;Chaetognaths;Animalia;1.0;Chaetognatha;1.0;Sagittoidea;0.6187499999999999;Aphragmophora;0.23;Sagittidae;0.7156250000000001;Sagitta;0.73125;Sagitta setosa;0.216875
+536;Jurien_Bay_456;Corraline algae;Plantae;0.7125;Rhodophyta;0.9125;Florideophyceae;0.49375;Corallinales;1.0;Corallinaceae;0.4375;Corallina;0.240625;Lithothamnion glaciale;0.17812499999999998
+537;Jurien_Bay_456;Cuttlefish;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Sepiida;0.995;Sepiidae;0.9975;Sepia;1.0;Sepia apama;0.228125
+538;Jurien_Bay_456;Dead Carcasses;Animalia;0.175;Chordata;0.175;Actinopterygii;0.175;Perciformes;0.1625;Sparidae;0.175;Chrysophrys;0.16875;Chrysophrys auratus;0.16875
+539;Jurien_Bay_456;Deposit feed. invert.;Animalia;0.990625;Annelida;0.49125;Polychaeta;0.48125;Capitellida;0.421875;Capitellidae;0.240625;Capitella;0.2375;Capitella capitata;0.225
+540;Jurien_Bay_456;Detached algae other;Chromista;0.21875;Ochrophyta;0.484375;Phaeophyceae;0.484375;Laminariales;0.478125;Lessoniaceae;0.23125;Ecklonia;0.2375;Ecklonia radiata;0.240625
+541;Jurien_Bay_456;Detached brown algae;Chromista;0.64875;Ochrophyta;0.9750000000000001;Phaeophyceae;0.9750000000000001;Laminariales;0.2375;Lessoniaceae;0.23125;Ecklonia;0.225;Ecklonia radiata;0.20625
+542;Jurien_Bay_456;Detached seagrass;Plantae;1.0;Tracheophyta;0.4625;Liliopsida;0.7125;Alismatales;0.75;Posidoniaceae;0.25;Posidonia;0.240625;Posidonia australis;0.21875
+543;Jurien_Bay_456;Detritus;Plantae;0.05625;Tracheophyta (or Magnoliophyta);0.04375;Liliopsida;0.053125;Alismatales;0.05625;Posidoniaceae;0.059375;Posidonia;0.059375;Posidonia australis;0.05625
+544;Jurien_Bay_456;Dhufish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.41875;Glaucosomatidae;1.0;Glaucosoma;1.0;Glaucosoma hebraicum;0.75
+545;Jurien_Bay_456;Dolphins;Animalia;0.8725;Chordata;0.8725;Mammalia;0.8725;Cetacea;0.8562500000000001;Delphinidae;0.8562500000000001;Tursiops;0.48750000000000004;Tursiops aduncus;0.23124999999999998
+546;Jurien_Bay_456;Ecklonia;Chromista;0.740625;Ochrophyta;0.725;Phaeophyceae;0.8312499999999999;Laminariales;0.9875;Lessoniaceae;0.99375;Ecklonia;1.0;Ecklonia radiata;0.71875
+547;Jurien_Bay_456;Ephemeral seagrasses;Plantae;1.0;Tracheophyta;0.75;Liliopsida;0.740625;Alismatales;1.0;Hydrocharitaceae;0.496875;Zostera;0.24375;Zostera muelleri;0.233125
+548;Jurien_Bay_456;Infauna;Animalia;1.0;Annelida;0.5;Polychaeta;0.5;Capitellida;0.25;Capitellidae;0.25;Capitella;0.25;Capitella capitata;0.2375
+549;Jurien_Bay_456;Infaunal bivalves;Animalia;1.0;Mollusca;1.0;Bivalvia;1.0;Venerida;0.2375;Tellinidae;0.48125;Tellina;0.240625;Tellina deltoidalis;0.221875
+550;Jurien_Bay_456;Inshore ass. carnivore;Animalia;0.996875;Chordata;0.75;Actinopterygii;0.75;Perciformes;0.42500000000000004;Sparidae;0.24375;Pagrus;0.23625000000000002;Pagrus auratus;0.23125
+551;Jurien_Bay_456;Inshore benthopelagic carnivore;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.73125;Sillaginidae;0.71875;Sillago;0.4875;Sillago schomburgkii;0.20625
+552;Jurien_Bay_456;Inshore pelagic zooplankton feed;Animalia;0.75;Chordata;0.525;Actinopterygii;0.52125;Clupeiformes;0.52125;Engraulidae;0.52125;Engraulis;0.52125;Engraulis australis;0.34375
+553;Jurien_Bay_456;Inshore reef ass. herbivore;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Acanthuriformes;0.234375;Acanthuridae;0.48750000000000004;Acanthurus;0.225;Acanthurus triostegus;0.2
+554;Jurien_Bay_456;Inshore reef ass. omnivore;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Labriformes;0.228125;Labridae;0.234375;Lethrinus;0.21875;Lethrinus nebulosus;0.2
+555;Jurien_Bay_456;Inshore reef ass. zoobenthos feed.;Animalia;0.726875;Mollusca, Annelida;0.171875;Gastropoda, Bivalvia, Polychaeta;0.16875;Multiple;0.09375;Multiple;0.090625;Multiple;0.084375;Multiple species;0.084375
+556;Jurien_Bay_456;Inshore sand ass. omnivore;Animalia;0.9375;Chordata;0.75;Actinopterygii;0.75;Perciformes;0.37499999999999994;Sillaginidae;0.5;Sillago;0.25;Sillago ciliata;0.24062499999999998
+557;Jurien_Bay_456;Inshore seagrass ass. omnivore;Animalia;0.90625;Chordata;0.75;Actinopterygii;0.75;Perciformes;0.475;Sparidae;0.25;Acanthopagrus;0.25;Acanthopagrus butcheri;0.2375
+558;Jurien_Bay_456;Inshore seagrass ass. zoob. feed.;Animalia;1.0;Chordata;0.75;Actinopterygii;0.75;Gobiiformes;0.24375;Gobiidae;0.246875;Favonigobius;0.234375;Syngnathus typhle;0.115625
+559;Jurien_Bay_456;Intertidal birds;Animalia;1.0;Chordata;1.0;Aves;1.0;Charadriiformes;1.0;Haematopodidae;0.24375;Haematopus;0.240625;Haematopus fuliginosus;0.23125
+560;Jurien_Bay_456;King wrasse;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Labriformes;0.46875;Labridae;1.0;Achoerodus;0.24375;gouldii;0.240625
+561;Jurien_Bay_456;Large Carn. Gastropods;Animalia;0.8125;Mollusca;0.75;Gastropoda;0.75;Neogastropoda;0.2375;Muricidae;0.2375;Dentex;0.0;Dentex dentex;0.0
+562;Jurien_Bay_456;Large Crabs;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;0.7312500000000001;Portunidae;0.234375;Portunus;0.240625;Leptograpsus variegatus;0.23125
+563;Jurien_Bay_456;Large Herb. Gastropods;Animalia;1.0;Mollusca;1.0;Gastropoda;0.9375;Patellogastropoda;0.21875;Nacellidae;0.23125;Cellana;0.23125;Cellana tramoserica;0.20625
+564;Jurien_Bay_456;Large Phytoplankton;Chromista;0.43750000000000006;Bacillariophyta;0.48750000000000004;Bacillariophyceae;0.20625;Chaetocerotales;0.21250000000000002;Chaetocerotaceae;0.48125;Chaetoceros;0.48750000000000004;Chaetoceros socialis;0.215625
+565;Jurien_Bay_456;Large Zooplankton;Animalia;0.9375;Arthropoda;0.740625;Malacostraca;0.740625;Euphausiacea;0.73125;Euphausiidae;0.73125;Euphausia;0.7125;Euphausia superba;0.146875
+566;Jurien_Bay_456;Large coastal sharks;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.75;Carcharhiniformes;0.75;Carcharhinidae;0.5;Carcharhinus;0.24375;Carcharhinus leucas;0.234375
+567;Jurien_Bay_456;Large mobile carn. invert.;Animalia;1.0;Mollusca;0.75;Cephalopoda;0.75;Octopoda;0.75;Octopodidae;0.5;Octopus;0.5;Octopus tetricus;0.20937499999999998
+568;Jurien_Bay_456;Large mobile herb. invert.;Animalia;1.0;Echinodermata;0.471875;Gastropoda;0.228125;Holothuriida;0.215625;Holothuriidae;0.2125;Holothuria;0.20625;Holothuria leucospilota;0.18125000000000002
+569;Jurien_Bay_456;Lobster - Adolescent;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Palinuridae;0.9375;Panulirus;0.75;Panulirus cygnus;0.4375
+570;Jurien_Bay_456;Lobster Adult;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Palinuridae;1.0;Panulirus;0.75;Panulirus cygnus;0.5
+571;Jurien_Bay_456;Lobster- Juvenile;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Palinuridae;1.0;Panulirus;0.993125;Panulirus cygnus;0.749375
+572;Jurien_Bay_456;Lobster-post puerulus;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.9981249999999999;Decapoda;0.9981249999999999;Palinuridae;0.9981249999999999;Panulirus;0.9981249999999999;Panulirus cygnus;0.7481249999999999
+573;Jurien_Bay_456;Low algae;Plantae;0.328125;Chlorophyta;0.2375;Ulvophyceae;0.234375;Ulvales, Gracilariales, Ectocarpales;0.1875;Ulvaceae;0.23124999999999998;Ulva;0.2375;Ulva lactuca;0.23124999999999998
+574;Jurien_Bay_456;Microbial heterotrophs;Bacteria;0.484375;Proteobacteria;0.240625;Alphaproteobacteria;0.2375;Rickettsiales;0.171875;Pelagibacteraceae;0.225;Pelagibacter;0.234375;Pelagibacter ubique;0.225
+575;Jurien_Bay_456;Microphytobenthos;Chromista;0.4125;Bacillariophyta;0.48750000000000004;Bacillariophyceae;0.48125;Naviculales;0.45625;Naviculaceae;0.425;Navicula;0.23125;Cocconeis scutellum;0.20937499999999998
+576;Jurien_Bay_456;NDR benthopelagic carnivore;Animalia;0.9375;Chordata;0.75;Actinopterygii;0.4975;Carangiformes;0.215625;Carangidae;0.23125;Trachurus;0.23125;Trachurus declivis;0.215625
+577;Jurien_Bay_456;NDR pelagic zooplankton Feed.;Animalia;1.0;Arthropoda;0.75;Copepoda;0.46875;Calanoida;0.240625;Engraulidae;0.0625;Engraulis;0.0625;Engraulis australis;0.053125
+578;Jurien_Bay_456;NDR reef aa. zooplankton feed;Animalia;0.9375;Chordata;0.28125;Actinopterygii;0.28125;Calanoida;0.25;Calanidae;0.240625;Calanus;0.24375;Sardinops sagax;0.129375
+579;Jurien_Bay_456;NDR reef ass. carnivore;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.44375000000000003;Labridae;0.475;Bodianus;0.22812500000000002;Chrysophrys auratus;0.21250000000000002
+580;Jurien_Bay_456;NDR reef ass. herbivore;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.715625;Pomacentridae;0.48125;Kyphosus;0.25;Kyphosus sydneyanus;0.2375
+581;Jurien_Bay_456;NDR reef ass. omnivore;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.45625;Labridae;0.240625;Choerodon;0.2375;Choerodon rubescens;0.228125
+582;Jurien_Bay_456;NDR reef ass. zoobenthos feed.;Animalia;1.0;Chordata;0.5;Actinopterygii;0.5;Amphiurida;0.240625;Sparidae;0.25;Pagrus;0.25;Pagrus auratus;0.234375
+583;Jurien_Bay_456;NDR sand ass. carnivore;Animalia;0.6875;Chordata;0.33125;Actinopterygii;0.3625;Perciformes;0.346875;Platycephalidae;0.184375;Platycephalus;0.1875;Platycephalus bassensis;0.15625
+584;Jurien_Bay_456;NDR sand ass. omnivore;Animalia;0.75;Chordata;0.3125;Actinopterygii;0.375;Perciformes;0.3625;Sillaginidae;0.375;Sillago;0.375;Sillago ciliata;0.184375
+585;Jurien_Bay_456;NDR sand ass. zoobenthos feed.;Animalia;0.93125;Chordata;0.46875;Actinopterygii;0.49375;Gobiiformes;0.240625;Gobiidae;0.2425;Favonigobius;0.239375;Favonigobius lateralis;0.229375
+586;Jurien_Bay_456;NDR seagrass ass. carnivore;Animalia;1.0;Chordata;0.25;Actinopterygii;0.249375;Gobiiformes;0.24875;Gobiidae;0.249375;Amblygobius;0.2475;Amblygobius phalaena;0.24375
+587;Jurien_Bay_456;NDR seagrass ass. omnivore;Animalia;1.0;Arthropoda;0.4625;Malacostraca;0.4625;Amphipoda;0.4625;Sparidae;0.24375;Acanthopagrus;0.24375;Acanthopagrus butcheri;0.228125
+588;Jurien_Bay_456;Octopus;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Octopoda;0.7218749999999999;Octopodidae;0.740625;Octopus;0.740625;Octopus tetricus;0.2
+589;Jurien_Bay_456;Perenial seagrasses;Plantae;1.0;Tracheophyta;0.74375;Liliopsida;0.74375;Alismatales;1.0;Posidoniaceae;1.0;Posidonia;0.740625;Posidonia australis;0.49375
+590;Jurien_Bay_456;Photo. corals/sponges;Animalia;0.7456250000000001;Cnidaria, Porifera;0.31125;Anthozoa, Demospongiae;0.31;Scleractinia;0.186875;Acroporidae;0.18375;Acropora;0.18375;Acropora millepora;0.175
+591;Jurien_Bay_456;Pink snapper;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.45625;Sparidae;1.0;Pagrus;1.0;Pagrus auratus;0.75
+592;Jurien_Bay_456;Rays;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Myliobatiformes;0.721875;Myliobatidae;0.2375;Myliobatis;0.234375;Myliobatis australis;0.215625
+593;Jurien_Bay_456;Roe abalone;Animalia;1.0;Mollusca;1.0;Gastropoda;1.0;Vetigastropoda;0.498125;Haliotidae;0.999375;Haliotis;0.999375;Haliotis roei;0.74875
+594;Jurien_Bay_456;Sargassum;Chromista;0.73125;Ochrophyta;0.7375;Phaeophyceae;0.978125;Fucales;0.9937499999999999;Sargassaceae;0.9937499999999999;Sargassum;1.0;spinuligerum;0.18125000000000002
+595;Jurien_Bay_456;Sea lions;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Otariidae;1.0;Neophoca;0.4875;Neophoca cinerea;0.25
+596;Jurien_Bay_456;Sea turtles;Animalia;1.0;Chordata;1.0;Reptilia;1.0;Testudines;1.0;Cheloniidae;0.75;Chelonia;0.25;mydas;0.25
+597;Jurien_Bay_456;Seagrass epiphytes;Plantae;0.3375;Bacillariophyta;0.2375;Bacillariophyceae;0.2375;Naviculales;0.234375;Naviculaceae;0.23125;Navicula;0.240625;Navicula sp.;0.20625
+598;Jurien_Bay_456;Sessile bivalves;Animalia;1.0;Mollusca;1.0;Bivalvia;1.0;Mytilida;0.234375;Mytilidae;0.2425;Mytilus;0.22999999999999998;Mytilus galloprovincialis;0.20625
+599;Jurien_Bay_456;Sessile epibenthos;Animalia;1.0;Arthropoda;0.491875;Thecostraca;0.23124999999999998;Sessilia;0.5;Balanidae;0.5;Amphibalanus;0.2375;Amphibalanus amphitrite;0.23625
+600;Jurien_Bay_456;Small Gastropods;Animalia;0.75;Mollusca;0.75;Gastropoda;0.75;Neogastropoda;0.165625;Nassariidae;0.175;Nassarius;0.18125;Nassarius spp.;0.1625
+601;Jurien_Bay_456;Small Phytoplankton;Viridiplantae;0.4625;Chlorophyta;0.46875000000000006;Mamiellophyceae;0.23124999999999998;Mamiellales;0.46562500000000007;Mamiellaceae;0.46875000000000006;Micromonas;0.23124999999999998;Ostreococcus tauri;0.228125
+602;Jurien_Bay_456;Small Zooplankton;Animalia;1.0;Arthropoda;0.75;Copepoda;0.75;Calanoida;0.24375;Acartiidae;0.246875;Acartia;0.246875;Acartia tonsa;0.226875
+603;Jurien_Bay_456;Small coastal sharks;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Carcharhiniformes;1.0;Carcharhinidae;0.73125;Carcharhinus;0.47500000000000003;Galeorhinus australis;0.225
+604;Jurien_Bay_456;Small mobil epifauna;Animalia;0.75;Arthropoda;0.375;Malacostraca;0.375;Amphipoda;0.375;Nereididae;0.14375;Hediste;0.140625;Hediste diversicolor;0.103125
+605;Jurien_Bay_456;Small mobile herbivores;Animalia;1.0;Mollusca;0.48124999999999996;Gastropoda;0.48124999999999996;Amphipoda;0.23124999999999998;;;;;;
+606;Jurien_Bay_456;Squid;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Teuthida;0.4625000000000001;Ommastrephidae;0.48750000000000004;Nototodarus;0.640625;Nototodarus gouldi;0.234375
+607;Jurien_Bay_456;Surface diving birds;Animalia;1.0;Chordata;1.0;Aves;1.0;Suliformes;0.709375;Sulidae;0.2375;Morus;0.23125;Morus serrator;0.225
+608;Jurien_Bay_456;Turfs;Plantae;0.5906250000000001;Chlorophyta;0.240625;Florideophyceae;0.346875;Corallinales;0.353125;Corallinaceae;0.353125;Cladophora;0.2375;Cladophora spp.;0.21875
+609;Jurien_Bay_456;Water colum detritus;Chromista;0.15625;Ochrophyta;0.175;Coscinodiscophyceae;0.16875;Thalassiosirales;0.175;Thalassiosiraceae;0.175;Thalassiosira;0.175;Thalassiosira pseudonana;0.1625
+610;Jurien_Bay_456;Western foxfish;Animalia;0.9975;Chordata;0.9975;Actinopterygii;0.995;Perciformes;0.3775;Labridae;0.995;Bodianus;0.99375;Bodianus frenchii;0.44625
+611;Mauritania_650;Detritus;;;;;;;;;;;;;;
+612;Mauritania_650;Selaciens L inv;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.9874999999999999;Carcharhiniformes;0.140625;;;;;;
+613;Mauritania_650;Selaciens L pred;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;;;;;;;;
+614;Mauritania_650;bathydem S inv;Animalia;0.6875;Arthropoda;0.375;Malacostraca;0.375;Decapoda;0.375;Munididae;0.184375;Munida;0.184375;Munida rugosa;0.16875
+615;Mauritania_650;bathydem S pred;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.225;Scorpaenidae;0.225;Helicolenus;0.221875;Helicolenus dactylopterus;0.221875
+616;Mauritania_650;cephalopodes comm;Animalia;0.9375;Mollusca;0.9375;Cephalopoda;0.9375;Octopoda;0.5;Octopodidae;0.496875;Octopus;0.496875;Octopus vulgaris;0.239375
+617;Mauritania_650;cephalopodes non-comm;Animalia;0.9375;Mollusca;0.9375;Cephalopoda;0.9375;Teuthida;0.44375;Histioteuthidae;0.215625;Histioteuthis;0.215625;Loligo vulgaris;0.16875
+618;Mauritania_650;chinchards;Animalia;1.0;Chordata;1.0;Actinopterygii;0.99875;Carangiformes;0.9912500000000001;Carangidae;1.0;Trachurus;1.0;Trachurus trachurus;0.409375
+619;Mauritania_650;clupeides;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Clupeiformes;0.75;Clupeidae;0.75;Sardina;0.36875;pilchardus;0.18125
+620;Mauritania_650;crustaces comm;Animalia;0.995625;Arthropoda;0.995;Malacostraca;0.926875;Decapoda;0.735625;Penaeidae;0.234375;Penaeus;0.225;Penaeus notialis;0.21250000000000002
+621;Mauritania_650;crustaces non-comm;Animalia;0.75;Arthropoda;0.75;Malacostraca;0.3125;Amphipoda;0.18125;Calanidae;0.178125;Calanus;0.18125;Calanus helgolandicus;0.15
+622;Mauritania_650;dauphins;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.75;Delphinidae;0.89375;;;;
+623;Mauritania_650;dem L inv;Animalia;1.0;Chordata;0.24375;Actinopterygii;0.24375;Gadiformes;0.24375;Merlucciidae;0.24375;Merluccius;0.24375;Merluccius merluccius;0.240625
+624;Mauritania_650;dem L pred;Animalia;0.9375;Chordata;0.9375;Actinopterygii;0.9375;Perciformes;0.49375;Epinephelidae;0.25;Epinephelus;0.25;Epinephelus aeneus;0.23125
+625;Mauritania_650;dem M inv;Animalia;1.0;Arthropoda;0.240625;Malacostraca;0.2375;Decapoda;0.23125;Clupeidae;0.234375;Sardinella;0.23125;Sardinella aurita;0.228125
+626;Mauritania_650;dem M pred;Animalia;1.0;Chordata;0.5;Actinopterygii;0.5;Gadiformes;0.2375;Merlucciidae;0.2375;Merluccius;0.25;Scomber colias;0.23625000000000002
+627;Mauritania_650;dem S inv;Animalia;1.0;Chordata;0.24;Actinopterygii;0.2425;Clupeiformes;0.23625000000000002;Engraulidae;0.239375;Engraulis;0.23625000000000002;Engraulis encrasicolus;0.221875
+628;Mauritania_650;dem S pred;Animalia;0.9375;Chordata;0.75;Actinopterygii;0.75;Perciformes;0.228125;Scorpaenidae;0.246875;Scorpaena;0.246875;Mullus barbatus;0.240625
+629;Mauritania_650;macrobenthos;Animalia;0.984375;Annelida;0.215625;Polychaeta;0.20625;Multiple;0.17812500000000003;Nereididae;0.2;Nereis;0.178125;Multiple;0.153125
+630;Mauritania_650;macrozooplancton;Animalia;0.996875;Arthropoda, Chaetognatha, Ctenophora;0.228125;Malacostraca, Sagittoidea, Tentaculata;0.190625;Euphausiacea (representative) / mixed;0.15625;Euphausiidae, Sagittidae, Pleurobrachiidae;0.2;Multiple (Meganyctiphanes, Thysanoessa, Sagitta, Pleurobrachia);0.19375000000000003;Euphausia spp. (aggregated);0.165625
+631;Mauritania_650;maquereau;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.99375;Scombridae;1.0;Scomber;1.0;Scomber colias;0.4975
+632;Mauritania_650;merlu;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9975;Gadiformes;0.9956250000000001;Merlucciidae;0.995;Merluccius;0.930625;Merluccius merluccius;0.325
+633;Mauritania_650;meso zooplancton;Animalia;0.9375;Arthropoda;0.75;Copepoda;0.75;Calanoida;0.2375;Calanidae;0.228125;Oithona;0.226875;Oithona nana;0.20625
+634;Mauritania_650;mesopel inv;Animalia;1.0;Arthropoda;0.75;Malacostraca;0.75;Decapoda;0.25;Euphausiidae;0.25;Euphausia;0.2375;Todarodes sagittatus;0.18125
+635;Mauritania_650;mesopel pred;Animalia;0.994375;Chordata;0.994375;Actinopterygii;0.9881249999999999;Myctophiformes;0.49312500000000004;Myctophidae;0.491875;Ceratoscopelus;0.23875000000000002;Ceratoscopelus maderensis;0.233125
+636;Mauritania_650;micro zooplancton;Animalia;0.9375;Arthropoda;0.75;Copepoda;0.75;Cyclopoida;0.5;Oithonidae;0.475;Oithona;0.5;Oithona nana;0.47500000000000003
+637;Mauritania_650;mugilides;Animalia;0.9962500000000001;Chordata;0.9962500000000001;Actinopterygii;0.9962500000000001;Mugiliformes;0.991875;Mugilidae;0.9956250000000001;Mugil;0.739375;cephalus;0.241875
+638;Mauritania_650;oiseaux;Animalia;0.75;Chordata;0.75;Aves;0.75;Charadriiformes;0.16875;;;;;;
+639;Mauritania_650;orque;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.740625;Delphinidae;1.0;Orcinus;1.0;Orcinus orca;0.7475
+640;Mauritania_650;pel L inv;Animalia;0.9375;Mollusca;0.75;Cephalopoda;0.75;Oegopsida;0.48125;Ommastrephidae;0.75;Illex;0.24375;coindetii;0.240625
+641;Mauritania_650;pel L pred;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.975;Scombridae;0.996875;Thunnus;0.46875;Thunnus albacares;0.23124999999999998
+642;Mauritania_650;pel M planc;Animalia;0.9325000000000001;Chordata;0.74375;Actinopterygii;0.74375;Clupeiformes;0.741875;Clupeidae;0.6875;Sardinella;0.245;Sardinella aurita;0.2425
+643;Mauritania_650;producteurs primaires;Eukarya;0.19374999999999998;Bacillariophyta;0.24375;Coscinodiscophyceae;0.225;Chaetocerotales;0.2375;Chaetocerotaceae;0.240625;Chaetoceros;0.24375;Synechococcus;0.11875
+644;Mauritania_650;raie M;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.71875;Rajiformes;0.75;Rajidae;0.75;Raja;0.73125;Dasyatis marmorata;0.0625
+645;Mauritania_650;sabres;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.73125;Trichiuridae;1.0;Trichiurus;0.75;lepturus;0.25
+646;Mauritania_650;sparides comm;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.4625;Sparidae;0.95625;Diplodus;0.2375;Diplodus bellottii;0.225
+647;Mauritania_650;thon cotier;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.73125;Scombridae;1.0;Euthynnus;0.4625;Auxis thazard;0.24375
+648;Mauritania_650;thon hauturier;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.74625;Scombridae;1.0;Thunnus;1.0;Thunnus alalunga;0.228125
+649;Mississippi_River_Delta_779;Benthic algae;Plantae;0.65625;Chlorophyta;0.7125000000000001;Ulvophyceae;0.46875;Ulvales;0.7093750000000001;Ulvaceae;0.7093750000000001;Ulva;0.7;Ulva lactuca;0.6531250000000001
+650;Mississippi_River_Delta_779;Detritus;;;;;;;;;;;;;;
+651;Mississippi_River_Delta_779;Kemp Ridley sea turtle;Animalia;0.9968750000000001;Chordata;0.9968750000000001;Reptilia;0.9918750000000001;Testudines;0.994375;Cheloniidae;0.9968750000000001;Lepidochelys;0.9968750000000001;Lepidochelys kempii;0.748125
+652;Mississippi_River_Delta_779;Phytoplankton;Chromista;0.6375000000000001;Bacillariophyta;0.7312500000000001;Bacillariophyceae;0.425;Thalassiosirales;0.45625;Thalassiosiraceae;0.46875;Thalassiosira;0.47812499999999997;Thalassiosira pseudonana;0.46875
+653;Mississippi_River_Delta_779;SAV;Plantae;1.0;Tracheophyta;0.721875;Liliopsida;0.740625;Alismatales;1.0;Zosteraceae;0.275;Zostera;0.26249999999999996;Ruppia maritima;0.2375
+654;Mississippi_River_Delta_779;Zoobenthos;Animalia;1.0;Multiple;0.040624999999999994;Multiple;0.040624999999999994;Multiple;0.040624999999999994;Multiple;0.040624999999999994;Various;0.003125;Zoobenthos;0.0
+655;Mississippi_River_Delta_779;Zooplankton;Animalia;0.99375;Arthropoda;0.49375;Copepoda;0.48124999999999996;Calanoida;0.23249999999999998;Calanidae;0.14687499999999998;Acartia;0.2375;Acartia tonsa;0.24062499999999998
+656;Mississippi_River_Delta_779;adult Atlantic croaker;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.73125;Sciaenidae;0.9375;Micropogonias;0.9375;Micropogonias undulatus;0.6875
+657;Mississippi_River_Delta_779;adult bay anchovy;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Engraulidae;1.0;Anchoa;1.0;Anchoa mitchilli;0.75
+658;Mississippi_River_Delta_779;adult black drum;Animalia;1.0;Chordata;1.0;Actinopterygii;0.98125;Perciformes;0.7125;Sciaenidae;1.0;Pogonias;1.0;Pogonias cromis;0.7375
+659;Mississippi_River_Delta_779;adult blue catfish;Animalia;0.9956250000000001;Chordata;0.9956250000000001;Actinopterygii;0.7475;Siluriformes;0.993125;Ictaluridae;0.993125;Ictalurus;0.9956250000000001;Ictalurus furcatus;0.746875
+660;Mississippi_River_Delta_779;adult blue crab;Animalia;0.75;Arthropoda;0.75;Malacostraca;0.74625;Decapoda;0.74625;Portunidae;0.74375;Callinectes;0.74375;Callinectes sapidus;0.5625
+661;Mississippi_River_Delta_779;adult brown shrimp;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Penaeidae;0.99625;Farfantepenaeus;0.98875;Farfantepenaeus aztecus;0.7418750000000001
+662;Mississippi_River_Delta_779;adult gizzard shad;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9971875;Clupeiformes;0.9971875;Clupeidae;0.9971875;Dorosoma;0.9971875;Dorosoma cepedianum;0.75
+663;Mississippi_River_Delta_779;adult grey snapper;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.975;Lutjanidae;1.0;Lutjanus;1.0;Lutjanus griseus;0.75
+664;Mississippi_River_Delta_779;adult gulf menhaden;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9968750000000001;Clupeiformes;0.995625;Clupeidae;0.9975;Brevoortia;0.990625;Brevoortia patronus;0.7218749999999999
+665;Mississippi_River_Delta_779;adult gulf sturgeon;Animalia;1.0;Chordata;1.0;Actinopterygii;0.75;Acipenseriformes;1.0;Acipenseridae;1.0;Acipenser;0.99375;Acipenser oxyrinchus desotoi;0.7256250000000001
+666;Mississippi_River_Delta_779;adult largemouth bass;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9874999999999999;Centrarchidae;1.0;Micropterus;1.0;Micropterus salmoides;0.74875
+667;Mississippi_River_Delta_779;adult pinfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.2375;Sparidae;0.990625;Lagodon;0.990625;Lagodon rhomboides;0.746875
+668;Mississippi_River_Delta_779;adult red drum;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.740625;Sciaenidae;1.0;Sciaenops;1.0;Sciaenops ocellatus;0.75
+669;Mississippi_River_Delta_779;adult sand seatrout;Animalia;0.99875;Chordata;0.999375;Actinopterygii;0.9962500000000001;Perciformes;0.970625;Sciaenidae;0.9975;Cynoscion;0.9975;Cynoscion arenarius;0.7475
+670;Mississippi_River_Delta_779;adult sea catfish;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9975;Siluriformes;0.9975;Ariidae;0.9975;Ariopsis;0.989375;Ariopsis felis;0.748125
+671;Mississippi_River_Delta_779;adult sharks;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.75;Carcharhiniformes;1.0;Carcharhinidae;0.75;Carcharhinus;0.74375;leucas;0.240625
+672;Mississippi_River_Delta_779;adult sheepshead;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.7125;Sparidae;1.0;Archosargus;0.99875;Archosargus probatocephalus;0.75
+673;Mississippi_River_Delta_779;adult silver perch;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Acanthuriformes;0.26249999999999996;Sciaenidae;0.99875;Bairdiella;0.989375;Bairdiella chrysoura;0.74875
+674;Mississippi_River_Delta_779;adult southern flounder;Animalia;0.999375;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;0.995;Paralichthyidae;1.0;Paralichthys;0.999375;Paralichthys lethostigma;0.748125
+675;Mississippi_River_Delta_779;adult spot;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.234375;Sciaenidae;1.0;Leiostomus;0.990625;Leiostomus xanthurus;0.75
+676;Mississippi_River_Delta_779;adult spotted seatrout;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.98;Sciaenidae;0.995;Cynoscion;0.995;Cynoscion nebulosus;0.75
+677;Mississippi_River_Delta_779;adult striped mullet;Animalia;1.0;Chordata;1.0;Actinopterygii;0.999375;Mugiliformes;0.999375;Mugilidae;0.999375;Mugil;0.999375;Mugil cephalus;0.749375
+678;Mississippi_River_Delta_779;adult sunfishes;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Perciformes;0.7375;Centrarchidae;0.575;Lepomis;0.575;Lepomis macrochirus;0.128125
+679;Mississippi_River_Delta_779;adult threadfin shad;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9968750000000001;Clupeiformes;0.9968750000000001;Clupeidae;0.985625;Dorosoma;0.99875;Dorosoma petenense;0.74625
+680;Mississippi_River_Delta_779;adult white shrimp;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.99875;Decapoda;0.99875;Penaeidae;0.995;Litopenaeus;0.98875;Litopenaeus setiferus;0.741875
+681;Mississippi_River_Delta_779;benthic crustaceans;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Multiple;0.103125;Multiple;0.103125;Gammarus;0.20625;Gammarus mucronatus;0.19374999999999998
+682;Mississippi_River_Delta_779;dolphins;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9874999999999999;Delphinidae;0.995;Tursiops;1.0;Tursiops truncatus;0.75
+683;Mississippi_River_Delta_779;grass shrimp;Animalia;0.994375;Arthropoda;0.9931249999999999;Malacostraca;0.99125;Decapoda;0.99125;Palaemonidae;0.9874999999999999;Palaemonetes;0.985;Palaemonetes pugio;0.49875
+684;Mississippi_River_Delta_779;juvenile bay anchovy;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Engraulidae;1.0;Anchoa;1.0;Anchoa mitchilli;0.748125
+685;Mississippi_River_Delta_779;juvenile black drum;Animalia;1.0;Chordata;1.0;Actinopterygii;0.98125;Perciformes;0.73125;Sciaenidae;0.996875;Pogonias;1.0;Pogonias cromis;0.75
+686;Mississippi_River_Delta_779;juvenile blue catfish;Animalia;1.0;Chordata;1.0;Actinopterygii;0.746875;Siluriformes;1.0;Ictaluridae;1.0;Ictalurus;0.99375;Ictalurus furcatus;0.74875
+687;Mississippi_River_Delta_779;juvenile blue crab;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Portunidae;0.995;Callinectes;0.995625;Callinectes sapidus;0.740625
+688;Mississippi_River_Delta_779;juvenile brown shrimp;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.9968750000000001;Decapoda;0.9968750000000001;Penaeidae;0.994375;Farfantepenaeus;0.989375;Farfantepenaeus aztecus;0.7424999999999999
+689;Mississippi_River_Delta_779;juvenile croaker;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.675;Sciaenidae;0.9375;Micropogonias;0.9375;Micropogonias undulatus;0.6875
+690;Mississippi_River_Delta_779;juvenile gizzard shad;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;1.0;Dorosoma;1.0;Dorosoma cepedianum;0.746875
+691;Mississippi_River_Delta_779;juvenile grey snapper;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9775;Lutjanidae;1.0;Lutjanus;1.0;Lutjanus griseus;0.75
+692;Mississippi_River_Delta_779;juvenile gulf sturgeon;Animalia;1.0;Chordata;1.0;Actinopterygii;0.75;Acipenseriformes;0.995;Acipenseridae;1.0;Acipenser;0.9875;Acipenser oxyrinchus desotoi;0.721875
+693;Mississippi_River_Delta_779;juvenile largemouth bass;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9812500000000001;Centrarchidae;1.0;Micropterus;1.0;Micropterus salmoides;0.75
+694;Mississippi_River_Delta_779;juvenile menhaden;Animalia;0.995;Chordata;0.995;Actinopterygii;0.9925;Clupeiformes;0.9918750000000001;Clupeidae;0.98875;Brevoortia;0.9925;Brevoortia patronus;0.71125
+695;Mississippi_River_Delta_779;juvenile pinfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.2375;Sparidae;1.0;Lagodon;0.9875;Lagodon rhomboides;0.75
+696;Mississippi_River_Delta_779;juvenile red drum;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.725;Sciaenidae;1.0;Sciaenops;1.0;Sciaenops ocellatus;0.75
+697;Mississippi_River_Delta_779;juvenile sand seatrout;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9875;Perciformes;0.721875;Sciaenidae;0.996875;Cynoscion;1.0;Cynoscion arenarius;0.375
+698;Mississippi_River_Delta_779;juvenile sea catfish;Animalia;1.0;Chordata;1.0;Actinopterygii;0.75;Siluriformes;1.0;Ariidae;1.0;Ariopsis;0.9781249999999999;Ariopsis felis;0.740625
+699;Mississippi_River_Delta_779;juvenile sharks;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.75;Carcharhiniformes;1.0;Carcharhinidae;0.75;Carcharhinus;0.74375;leucas;0.240625
+700;Mississippi_River_Delta_779;juvenile sheepshead;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.65625;Sparidae;1.0;Archosargus;1.0;Archosargus probatocephalus;0.75
+701;Mississippi_River_Delta_779;juvenile silver perch;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.215625;Sciaenidae;1.0;Bairdiella;0.9875;Bairdiella chrysoura;0.75
+702;Mississippi_River_Delta_779;juvenile southern flounder;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9975;Pleuronectiformes;0.9975;Paralichthyidae;0.995;Paralichthys;0.9975;Paralichthys lethostigma;0.75
+703;Mississippi_River_Delta_779;juvenile spot;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.48125;Sciaenidae;0.995;Leiostomus;0.995;Leiostomus xanthurus;0.73375
+704;Mississippi_River_Delta_779;juvenile spotted seatrout;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9625;Sciaenidae;1.0;Cynoscion;1.0;Cynoscion nebulosus;0.75
+705;Mississippi_River_Delta_779;juvenile striped mullet;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9975;Mugiliformes;0.9975;Mugilidae;0.995;Mugil;0.995;Mugil cephalus;0.75
+706;Mississippi_River_Delta_779;juvenile sunfishes;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Perciformes;0.728125;Centrarchidae;0.575;Lepomis;0.57125;Lepomis macrochirus;0.109375
+707;Mississippi_River_Delta_779;juvenile threadfin shad;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;0.995625;Dorosoma;0.995625;Dorosoma petenense;0.744375
+708;Mississippi_River_Delta_779;juvenile white shrimp;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Penaeidae;0.99375;Litopenaeus;0.993125;Litopenaeus setiferus;0.716875
+709;Mississippi_River_Delta_779;killifishes;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Cyprinodontiformes;1.0;Fundulidae;0.75;Fundulus;0.5;Fundulus grandis;0.23125
+710;Mississippi_River_Delta_779;mollusks;Animalia;1.0;Mollusca;1.0;Bivalvia;0.246875;Ostreoida;0.23125;Ostreidae;0.246875;Crassostrea;0.24875;Crassostrea virginica;0.24875
+711;Mississippi_River_Delta_779;mud crabs;Animalia;0.999375;Arthropoda;0.999375;Malacostraca;0.995;Decapoda;0.9968750000000001;Panopeidae;0.9881249999999999;Panopeus;0.9924999999999999;Panopeus herbstii;0.495625
+712;Mississippi_River_Delta_779;other shrimp;Animalia;1.0;Arthropoda;0.9975;Malacostraca;0.9975;Decapoda;0.9975;Palaemonidae;0.44625000000000004;Palaemonetes;0.445;Palaemonetes pugio;0.221875
+713;Mississippi_River_Delta_779;oyster drill;Animalia;1.0;Mollusca;1.0;Gastropoda;1.0;Neogastropoda;0.975;Muricidae;1.0;Stramonita;0.721875;Stramonita haemastoma;0.4875
+714;Mississippi_River_Delta_779;oyster spat;Animalia;1.0;Mollusca;1.0;Bivalvia;1.0;Ostreoida;0.44;Ostreidae;0.99875;Crassostrea;0.9975;Crassostrea virginica;0.729375
+715;Mississippi_River_Delta_779;sack oyster;Animalia;1.0;Mollusca;1.0;Bivalvia;1.0;Ostreoida;0.47750000000000004;Ostreidae;1.0;Crassostrea;0.9975;Crassostrea virginica;0.7218749999999999
+716;Mississippi_River_Delta_779;sea birds;Animalia;1.0;Chordata;1.0;Aves;1.0;Charadriiformes;0.234375;Laridae;0.23625;Sternula;0.22499999999999998;Sternula antillarum;0.221875
+717;Mississippi_River_Delta_779;seed oyster;Animalia;0.75;Mollusca;0.75;Bivalvia;0.75;Ostreoida;0.325;Ostreidae;0.75;Crassostrea;0.75;Crassostrea virginica;0.5625
+718;Mississippi_River_Delta_779;silversides;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Atheriniformes;1.0;Atherinopsidae;0.47500000000000003;Menidia;0.246875;Menidia beryllina;0.246875
+719;Mount_St_Michel_Bay_742;Crepidule;Animalia;1.0;Mollusca;1.0;Gastropoda;1.0;Littorinimorpha;0.74625;Calyptraeidae;1.0;Crepidula;0.999375;Crepidula fornicata;0.75
+720;Mount_St_Michel_Bay_742;Detritus;;;;;;;;;;;;;;
+721;Mount_St_Michel_Bay_742;Macrobenthos2;Animalia;1.0;Annelida;0.49062500000000003;Polychaeta;0.42500000000000004;Phyllodocida;0.24125;Nereididae;0.24375;Nereis;0.239375;Nereis diversicolor;0.213125
+722;Mount_St_Michel_Bay_742;Macrophytes;Plantae;0.613125;Tracheophyta;0.48875;Liliopsida;0.475;Alismatales;0.48125;Zosteraceae;0.49;Zostera;0.49;Zostera noltei;0.228125
+723;Mount_St_Michel_Bay_742;Meiobenthos;Animalia;0.7181249999999999;Nematoda, Arthropoda, Foraminifera;0.146875;;;;;;;;;;
+724;Mount_St_Michel_Bay_742;Moules;Animalia;1.0;Mollusca;1.0;Bivalvia;1.0;Mytilida;0.515625;Mytilidae;0.996875;Mytilus;1.0;Mytilus edulis;0.75
+725;Mount_St_Michel_Bay_742;Mulets;Animalia;1.0;Chordata;1.0;Actinopterygii;0.748125;Mugiliformes;0.995;Mugilidae;0.995;Chelon;0.495625;Chelon labrosus;0.24875
+726;Mount_St_Michel_Bay_742;Phytobenthos1;Chromista;0.53625;Bacillariophyta;0.375;Bacillariophyceae;0.546875;Cocconeidales;0.1625;Cocconeidaceae;0.16875;Cocconeis;0.1875;Cocconeis scutellum;0.1875
+727;Mount_St_Michel_Bay_742;Phytoplancton;Eukaryota;0.20937499999999998;Bacillariophyta;0.46874999999999994;Bacillariophyceae;0.228125;Thalassiosirales;0.23125;Thalassiosiraceae;0.234375;Thalassiosira;0.24062499999999998;Thalassiosira rotula;0.234375
+728;Mount_St_Michel_Bay_742;anatidés;Animalia;1.0;Chordata;0.999375;Aves;0.998125;Anseriformes;0.998125;Anatidae;0.998125;Anas;0.203125;;
+729;Mount_St_Michel_Bay_742;céphalopodes;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Sepiida;0.240625;Sepiidae;0.24375;Sepia;0.239375;Sepia officinalis;0.23625
+730;Mount_St_Michel_Bay_742;gros crustacés;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Cancridae;0.221875;Cancer;0.23125;Cancer pagurus;0.226875
+731;Mount_St_Michel_Bay_742;huîtres;Animalia;1.0;Mollusca;1.0;Bivalvia;1.0;Ostreida;0.596875;Ostreidae;1.0;Crassostrea;0.746875;Crassostrea gigas;0.5
+732;Mount_St_Michel_Bay_742;huîtres2;Animalia;0.75;Mollusca;0.75;Bivalvia;0.7462500000000001;Ostreida;0.6843750000000001;Ostreidae;0.7425;Crassostrea;0.7406250000000001;Crassostrea gigas;0.561875
+733;Mount_St_Michel_Bay_742;juvenile cephal;Animalia;0.9375;Mollusca;0.9375;Cephalopoda;0.9375;Sepiida;0.48375;Sepiidae;0.49125;Sepia;0.49375;Sepia officinalis;0.25
+734;Mount_St_Michel_Bay_742;juvéniles poiss;Animalia;0.75;Chordata;0.75;Actinopterygii;0.5625;Perciformes;0.16875;Moronidae;0.175;Dicentrarchus;0.18125;Dicentrarchus labrax;0.18125
+735;Mount_St_Michel_Bay_742;macrobenthos;Animalia;1.0;Mollusca, Echinodermata, Arthropoda;0.23124999999999998;Bivalvia, Gastropoda, Echinoidea, Asteroidea;0.225;;;;;;;;
+736;Mount_St_Michel_Bay_742;mouton;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Artiodactyla;0.99125;Bovidae;0.999375;Ovis;0.99875;Ovis aries;0.75
+737;Mount_St_Michel_Bay_742;oiseaux limicol;Animalia;0.99375;Chordata;0.9918750000000001;Aves;0.9893749999999999;Charadriiformes;0.986875;Scolopacidae;0.48;Calidris;0.47312499999999996;Calidris alpina;0.470625
+738;Mount_St_Michel_Bay_742;petites espèces;Animalia;0.746875;Mollusca;0.25;Gastropoda;0.25;Littorinimorpha;0.24375;Hydrobiidae;0.25;Peringia;0.245;Peringia ulvae;0.2425
+739;Mount_St_Michel_Bay_742;phoques;Animalia;0.74875;Chordata;0.74875;Mammalia;0.74875;Carnivora;0.74875;Phocidae;0.74875;Phoca;0.560625;Phoca vitulina;0.558125
+740;Mount_St_Michel_Bay_742;phytobenthos 2;Chromista;0.45;Bacillariophyta;0.48750000000000004;Bacillariophyceae;0.47500000000000003;Naviculales;0.225;Cylindrothecaceae;0.21875;Cylindrotheca;0.2375;Cylindrotheca closterium;0.2375
+741;Mount_St_Michel_Bay_742;poissons adulte;Animalia;0.936875;Chordata;0.936875;Actinopterygii;0.936875;Gadiformes;0.20625;Moronidae;0.24375;Dicentrarchus;0.25;Dicentrarchus labrax;0.25
+742;Mount_St_Michel_Bay_742;zooplancton her;Animalia;1.0;Arthropoda;1.0;Copepoda;0.71875;Calanoida;0.48750000000000004;Calanidae;0.48124999999999996;Calanus;0.48750000000000004;Calanus helgolandicus;0.48
+743;North_Aegean_495;Adult anchovy;Animalia;1.0;Chordata;1.0;Actinopterygii;0.995625;Clupeiformes;0.9968750000000001;Engraulidae;0.9975;Engraulis;1.0;Engraulis encrasicolus;0.75
+744;North_Aegean_495;Adult sardine;Animalia;1.0;Chordata;1.0;Actinopterygii;0.99875;Clupeiformes;1.0;Clupeidae;0.99875;Sardina;0.99875;Sardina pilchardus;0.75
+745;North_Aegean_495;Anglerfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Lophiiformes;1.0;Lophiidae;0.7268749999999999;Lophius;0.48312499999999997;Lophius piscatorius;0.24
+746;North_Aegean_495;Benthic cephalopods;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Sepiida;0.240625;Sepiidae;0.24375;Sepia;0.2375;Sepia officinalis;0.234375
+747;North_Aegean_495;Benthic invert. (no crustacea);Animalia;0.8125;Mollusca;0.246875;Bivalvia;0.246875;Mytiloida;0.2375;Mytilidae;0.246875;Mytilus;0.24375;Mytilus galloprovincialis;0.234375
+748;North_Aegean_495;Benthopelagic cephalopods;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Teuthida;0.38125000000000003;Ommastrephidae;0.2;Todarodes;0.203125;Todarodes sagittatus;0.19999999999999998
+749;North_Aegean_495;BepeFish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.7312500000000001;Sparidae;0.740625;Boops;0.484375;Boops boops;0.246875
+750;North_Aegean_495;Crabs;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Brachyura;0.153125;;;;
+751;North_Aegean_495;DemeFish1;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.65375;Mullidae;0.48000000000000004;Mullus;0.7156250000000001;Mullus barbatus;0.71875
+752;North_Aegean_495;DemeFish2;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.24562499999999998;Sparidae;0.49375;Pagellus;0.245;Pagellus erythrinus;0.2425
+753;North_Aegean_495;DemeFish3;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.42999999999999994;Sparidae;0.7387499999999999;Pagellus;0.47375000000000006;Pagellus erythrinus;0.244375
+754;North_Aegean_495;DemeFish4;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.48125;Mullidae;0.25;Mullus;0.25;Mullus barbatus;0.25
+755;North_Aegean_495;Detritus;;;;;;;;;;;;;;
+756;North_Aegean_495;Discards;Animalia;0.186875;Chordata;0.186875;Actinopterygii;0.18625;Carangiformes;0.184375;Carangidae;0.185;Trachurus;0.18562499999999998;Trachurus mediterraneus;0.1775
+757;North_Aegean_495;Flatfishes;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.240625;Platichthys;0.2375;Platichthys flesus;0.228125
+758;North_Aegean_495;Hake;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Gadiformes;0.75;Merlucciidae;0.75;Merluccius;0.75;Merluccius merluccius;0.5625
+759;North_Aegean_495;Horse mackerel;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.9874999999999999;Carangidae;0.995;Trachurus;1.0;Trachurus trachurus;0.40625
+760;North_Aegean_495;Jellyfish+ mnemiopsis;Animalia;1.0;Ctenophora;0.5;Tentaculata;0.5;Lobata;0.5;Mnemiidae;0.18125;Mnemiopsis;0.49375;Mnemiopsis leidyi;0.49375
+761;North_Aegean_495;Juv anchovy;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9975;Clupeiformes;1.0;Engraulidae;1.0;Engraulis;1.0;Engraulis encrasicolus;0.75
+762;North_Aegean_495;Juv sardine;Animalia;0.994375;Chordata;0.994375;Actinopterygii;0.9925;Clupeiformes;0.9925;Clupeidae;0.9925;Sardina;0.9893749999999999;Sardina pilchardus;0.7468750000000001
+763;North_Aegean_495;Large pelagic fishes;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.984375;Scombridae;0.70625;Thunnus;0.475;Thunnus thynnus;0.475
+764;North_Aegean_495;Loggerhead turtle;Animalia;1.0;Chordata;1.0;Reptilia;0.99875;Testudines;1.0;Cheloniidae;0.999375;Caretta;0.999375;Caretta caretta;0.75
+765;North_Aegean_495;Mackerel;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.9874999999999999;Scombridae;1.0;Scomber;1.0;Scomber scombrus;0.75
+766;North_Aegean_495;Macrozooplankton;Animalia;1.0;Arthropoda;0.75;Malacostraca;0.75;Euphausiacea;0.75;Euphausiidae;0.5;Euphausia;0.25;Euphausia krohnii;0.225
+767;North_Aegean_495;Medium pelagic fish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.9874999999999999;Carangidae;1.0;Trachurus;0.48750000000000004;Trachurus trachurus;0.39375
+768;North_Aegean_495;Mullets;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Mugiliformes;1.0;Mugilidae;1.0;Mugil;0.464375;Mugil cephalus;0.239375
+769;North_Aegean_495;Norway lobster;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Nephropidae;0.975;Nephrops;1.0;Nephrops norvegicus;0.75
+770;North_Aegean_495;Other Small pelagic fishes;Animalia;0.9956250000000001;Chordata;0.9956250000000001;Actinopterygii;0.993125;Clupeiformes;0.991875;Engraulidae;0.48375;Engraulis;0.4775;Engraulis encrasicolus;0.48
+771;North_Aegean_495;Other gadiforms;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9874999999999999;Gadiformes;0.9874999999999999;;;;;;
+772;North_Aegean_495;Polychaetes;Animalia;1.0;Annelida;1.0;Polychaeta;0.95625;;;;;;;;
+773;North_Aegean_495;Sea birds;Animalia;0.75;Chordata;0.75;Aves;0.75;Charadriiformes;0.1875;Laridae;0.1875;Larus;0.1875;michahellis;0.184375
+774;North_Aegean_495;Shrimps;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;Caridea;0.18125;;;;
+775;North_Aegean_495;Suprabenthos;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Mysida;0.49875;Mysidae;0.5;Mesopodopsis;0.241875;Gastrosaccus spinifer;0.23625000000000002
+776;North_Aegean_495;dolphins;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.995;Delphinidae;0.9987499999999999;Tursiops;0.4996875;Tursiops truncatus;0.25
+777;North_Aegean_495;mesozooplankton;Animalia;1.0;Arthropoda;1.0;Copepoda;0.75;Calanoida;0.7375;Calanidae;0.4875;Calanus;0.48750000000000004;Calanus helgolandicus;0.48750000000000004
+778;North_Aegean_495;micro-;Eukarya;0.19374999999999998;Haptophyta;0.228125;;;;;;;;;;
+779;North_Aegean_495;phyto;Chromista;0.4125;Bacillariophyta;0.4625;Coccolithophyceae;0.234375;Isochrysidales;0.2375;Noëlaerhabdaceae;0.23124999999999998;Emiliania;0.246875;huxleyi;0.246875
+780;North_Aegean_495;picarels and bogue;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.48750000000000004;Sparidae;0.63125;Spicara;0.464375;Spicara smaris;0.25
+781;North_Aegean_495;"rays &amp; skates";Animalia;0.748125;Chordata;0.748125;Chondrichthyes;0.748125;Rajiformes;0.7362500000000001;Rajidae;0.739375;Raja;0.469375;Raja clavata;0.444375
+782;North_Aegean_495;sharks;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Carcharhiniformes;0.48125;Scyliorhinidae;0.233125;Scyliorhinus;0.23625;Scyliorhinus canicula;0.22625
+783;North_Benguela_503;Adult horse mac;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.9874999999999999;Carangidae;0.995;Trachurus;1.0;Trachurus capensis;0.246875
+784;North_Benguela_503;Anchovy;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Clupeiformes;0.75;Engraulidae;0.75;Engraulis;0.75;encrasicolus;0.125
+785;North_Benguela_503;Benthic-feeding;Animalia;0.9375;Chordata;0.75;Actinopterygii;0.75;Scorpaeniformes;0.240625;Triglidae;0.25;Chelidonichthys;0.246875;Chelidonichthys capensis;0.24125000000000002
+786;North_Benguela_503;Cetaceans;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9562499999999999;Delphinidae;0.2;Tursiops;0.19687500000000002;Tursiops truncatus;0.1875
+787;North_Benguela_503;Chondrichthyans;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.75;Multiple;0.05625;Multiple;0.05625;Multiple;0.05625;Multiple;0.05625
+788;North_Benguela_503;Detritus;;;;;;;;;;;;;;
+789;North_Benguela_503;Gelatinous zoop;Animalia;0.740625;Cnidaria;0.678125;Scyphozoa;0.678125;Semaeostomeae;0.47062500000000007;Pelagiidae;0.245;Pelagia;0.24125;Pelagia noctiluca;0.228125
+790;North_Benguela_503;Juvenile horse;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.9874999999999999;Carangidae;1.0;Trachurus;1.0;Trachurus capensis;0.24375
+791;North_Benguela_503;Large M. capens;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.75;Merlucciidae;0.746875;Merluccius;0.75;Merluccius capensis;0.4996875
+792;North_Benguela_503;Large M. parado;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9375;Gadiformes;0.75;Merlucciidae;0.75;Merluccius;0.75;Merluccius paradoxus;0.5
+793;North_Benguela_503;Large pelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.4625000000000001;Scombridae;0.5;Thunnus;0.48124999999999996;Thunnus albacares;0.225
+794;North_Benguela_503;Macrobenthos;Animalia;0.75;Annelida;0.184375;Polychaeta;0.18125;Nereidida;0.16875;Nereididae;0.18125;Nereis;0.178125;Nereis diversicolor;0.1625
+795;North_Benguela_503;Macrozooplankto;Animalia;0.48750000000000004;Arthropoda;0.75;Malacostraca;0.75;Euphausiacea;0.5;Euphausiidae;0.5;Euphausia;0.5;Euphausia lucens;0.20937499999999998
+796;North_Benguela_503;Meiobenthos;Animalia;0.48124999999999996;Nematoda;0.49062500000000003;Chromadorea;0.48125;Enoplida;0.178125;;;;;Nematoda indet.;0.128125
+797;North_Benguela_503;Mesopelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Myctophiformes;0.489375;Myctophidae;0.241875;Lampanyctus;0.229375;Lampanyctus crocodilus;0.18125000000000002
+798;North_Benguela_503;Mesozooplankton;Animalia;0.5;Arthropoda;0.75;Copepoda;0.42812500000000003;Calanoida;0.48750000000000004;Calanidae;0.48750000000000004;Calanoides;0.240625;Calanoides carinatus;0.23125
+799;North_Benguela_503;Microzooplankto;Eukaryota;0.24375;Ciliophora;0.246875;Oligotrichea;0.2375;Tintinnida;0.190625;Tintinnidae;0.190625;Strombidium;0.234375;Strombidium sp.;0.228125
+800;North_Benguela_503;Other small pel;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;0.5;Engraulidae;0.2375;Engraulis;0.25;Engraulis capensis;0.24375
+801;North_Benguela_503;Pelagic Goby;Animalia;0.999375;Chordata;0.999375;Actinopterygii;0.999375;Gobiiformes;0.999375;Gobiidae;0.9975;Sufflogobius;0.4825;bibarbatus;0.24375
+802;North_Benguela_503;Pelagic-feeding;Animalia;1.0;Chordata;0.75;Actinopterygii;0.75;Clupeiformes;0.25;Clupeidae;0.25;Sardinops;0.246875;Sardinops sagax;0.246875
+803;North_Benguela_503;Phytoplankton;Chromista;0.371875;Bacillariophyta;0.375;Bacillariophyceae;0.18125;Thalassiosirales;0.1875;Thalassiosiraceae;0.1875;Thalassiosira;0.1875;Thalassiosira oceanica;0.175
+804;North_Benguela_503;Sardine;Animalia;0.75;Chordata;0.75;Actinopterygii;0.7475;Clupeiformes;0.7462500000000001;Clupeidae;0.7437499999999999;Sardinops;0.358125;sagax;0.175
+805;North_Benguela_503;Seabirds;Animalia;1.0;Chordata;1.0;Aves;1.0;Multiple;0.11875;Multiple;0.11875;Multiple;0.1125;Multiple;0.1125
+806;North_Benguela_503;Seals;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Phocidae;0.403125;Arctocephalus;0.16875;Arctocephalus pusillus;0.175
+807;North_Benguela_503;Small M. capens;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.75;Merlucciidae;0.75;Merluccius;0.75;Merluccius capensis;0.5
+808;North_Benguela_503;cephalopods;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;;;;;;;;
+809;Northern_Humboldt_Current_488;Detritus;;;;;;;;;;;;;;
+810;Northern_Humboldt_Current_488;Diatoms;Chromista;0.54375;Bacillariophyta;0.5625;Bacillariophyceae;0.75;Thalassiosirales;0.375;Thalassiosiraceae;0.375;Thalassiosira;0.375;Thalassiosira spp.;0.16875
+811;Northern_Humboldt_Current_488;Dino and silicoflagellates;Chromista;0.31562500000000004;Dinoflagellata;0.221875;Dinophyceae;0.696875;Gonyaulacales;0.44375000000000003;Gonyaulacaceae;0.215625;Scrippsiella;0.21250000000000002;Scrippsiella trochoidea;0.203125
+812;Northern_Humboldt_Current_488;Microzooplankton;Protista;0.3875;Dinoflagellata;0.1875;Dinophyceae;0.2;Oxyrrhinida;0.18125;Oxyrrhinidae;0.18750000000000003;Oxyrrhis;0.2125;Oxyrrhis marina;0.215625
+813;Northern_Humboldt_Current_488;anchovy;Animalia;0.99875;Chordata;0.99875;Actinopterygii;0.99875;Clupeiformes;0.99875;Engraulidae;0.99875;Engraulis;0.9918750000000001;Engraulis ringens;0.7474999999999999
+814;Northern_Humboldt_Current_488;benthic elasmobranchs;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.47375;Carcharhiniformes;0.48125;Triakidae;0.48125;Mustelus;0.234375;Mustelus whitneyi;0.221875
+815;Northern_Humboldt_Current_488;butter fishes;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.31875;Stromateidae;0.740625;Peprilus;0.240625;Stromateus stellatus;0.203125
+816;Northern_Humboldt_Current_488;catfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Siluriformes;1.0;Ariidae;0.5;Galeichthys;0.23125;peruvianus;0.221875
+817;Northern_Humboldt_Current_488;cetaceans;Animalia;0.6825;Chordata;0.6825;Mammalia;0.6825;Cetacea;0.675;Delphinidae;0.5531250000000001;Tursiops;0.17375000000000002;truncatus;0.16875
+818;Northern_Humboldt_Current_488;chondrichtlyans;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Carcharhiniformes;0.240625;Carcharhinidae;0.18125;Mustelus;0.21875;whitneyi;0.20625
+819;Northern_Humboldt_Current_488;conger;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Anguilliformes;0.75;Congridae;0.75;Conger;0.54375;Conger conger;0.25
+820;Northern_Humboldt_Current_488;flatfishes;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Paralichthyidae;0.5;Paralichthys;0.24375;Paralichthys adspersus;0.239375
+821;Northern_Humboldt_Current_488;gelatinous zooplankton;Animalia;0.6799999999999999;Cnidaria;0.420625;Scyphozoa;0.244375;Semaeostomeae;0.2325;Ulmaridae;0.234375;Aurelia;0.240625;Aurelia aurita;0.215625
+822;Northern_Humboldt_Current_488;horse mackerels;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.975;Carangidae;1.0;Trachurus;0.9912500000000001;Trachurus murphyi;0.75
+823;Northern_Humboldt_Current_488;jumbo squid;Animalia;0.9975;Mollusca;0.9962500000000001;Cephalopoda;0.994375;Oegopsida;0.9837499999999999;Ommastrephidae;0.995;Dosidicus;0.995;Dosidicus gigas;0.75
+824;Northern_Humboldt_Current_488;large hake;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Merlucciidae;1.0;Merluccius;0.995;Merluccius gayi;0.475
+825;Northern_Humboldt_Current_488;mackerels;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.9874999999999999;Scombridae;1.0;Scomber;1.0;Scomber japonicus;0.48750000000000004
+826;Northern_Humboldt_Current_488;macrobenthos;Animalia;0.9625;Mollusca;0.246875;Bivalvia;0.246875;Venerida;0.240625;Mesodesmatidae;0.245;Mesodesma;0.245625;Mesodesma donacium;0.239375
+827;Northern_Humboldt_Current_488;macrozooplankton;Animalia;0.98875;Arthropoda;0.7475;Malacostraca;0.74625;Euphausiacea;0.745625;Euphausiidae;0.49624999999999997;Euphausia;0.49624999999999997;Euphausia mucronata;0.4625000000000001
+828;Northern_Humboldt_Current_488;medium demersal fish;Animalia;1.0;Chordata;1.0;Actinopterygii;0.996875;Gadiformes;0.749375;Merlucciidae;0.749375;Merluccius;0.7468750000000001;Merluccius gayi;0.2375
+829;Northern_Humboldt_Current_488;medium hake;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.998125;Merlucciidae;0.9968750000000001;Merluccius;0.9968750000000001;Merluccius gayi;0.240625
+830;Northern_Humboldt_Current_488;medium sciaenids;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.675;Sciaenidae;0.9375;Cynoscion;0.21875;Cynoscion analis;0.2
+831;Northern_Humboldt_Current_488;mesopelagics;Animalia;1.0;Chordata;0.998125;Actinopterygii;0.995;Myctophiformes;0.743125;Myctophidae;0.495625;Benthosema;0.234375;Benthosema panamense;0.20937499999999998
+832;Northern_Humboldt_Current_488;mesozooplankton;Animalia;1.0;Arthropoda;0.75;Maxillopoda;0.35625;Calanoida;0.47812499999999997;Acartiidae;0.228125;Acartia;0.23125;Acartia tonsa;0.20937499999999998
+833;Northern_Humboldt_Current_488;other cephalopods;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Octopoda;0.215625;Octopodidae;0.1875;Octopus;0.16249999999999998;Octopus mimus;0.140625
+834;Northern_Humboldt_Current_488;other large pelagics;Animalia;0.9975;Chordata;0.9975;Actinopterygii;0.995;Scombriformes;0.9843749999999999;Scombridae;0.9975;Thunnus;0.4975;albacares;0.235625
+835;Northern_Humboldt_Current_488;other small pelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Engraulidae;0.75;Engraulis;0.75;Engraulis ringens;0.475
+836;Northern_Humboldt_Current_488;pinnipeds;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Carnivora;1.0;Otariidae;0.75;Otaria;0.484375;flavescens;0.240625
+837;Northern_Humboldt_Current_488;sardine;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;0.99375;Sardinops;0.9875;Sardinops sagax;0.7425
+838;Northern_Humboldt_Current_488;sea robin;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.7125;Triglidae;0.99375;Prionotus;0.75;Prionotus stephanophrys;0.190625
+839;Northern_Humboldt_Current_488;seabirds;Animalia;1.0;Chordata;1.0;Aves;1.0;Suliformes;0.2375;Sulidae;0.25;Sula;0.25;variegata;0.240625
+840;Northern_Humboldt_Current_488;small demersals;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.20625;Sciaenidae;0.234375;Cilus;0.221875;Cilus gilberti;0.2125
+841;Northern_Humboldt_Current_488;small hake;Animalia;0.9968750000000001;Chordata;0.9968750000000001;Actinopterygii;0.9968750000000001;Gadiformes;0.9968750000000001;Merlucciidae;0.994375;Merluccius;0.9968750000000001;Merluccius gayi;0.5
+842;Portofino_731;Amberjack & dentex +;Animalia;0.375;Chordata;0.375;Actinopterygii;0.375;Carangiformes;0.36875;Carangidae;0.375;Seriola;0.375;Seriola dumerili;0.1875
+843;Portofino_731;Cephalopods;Animalia;0.75;Mollusca;0.75;Cephalopoda;0.75;;;;;;;;
+844;Portofino_731;Decapods +;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;1.0;;;;;;
+845;Portofino_731;Detritus;;;;;;;;;;;;;;
+846;Portofino_731;Diplodus +;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.75;Sparidae;1.0;Diplodus;1.0;sargus;0.225
+847;Portofino_731;Dolphins;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.4875;Delphinidae;0.93125;Tursiops;0.5;Tursiops truncatus;0.25
+848;Portofino_731;Dusky grouper - large;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9874999999999999;Serranidae;0.995;Epinephelus;1.0;Epinephelus marginatus;0.5
+849;Portofino_731;Dusky grouper - medium;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.979375;Serranidae;0.99375;Epinephelus;1.0;Epinephelus marginatus;0.5
+850;Portofino_731;Dusky grouper - small;Animalia;1.0;Chordata;1.0;Actinopterygii;0.99875;Perciformes;0.98625;Serranidae;0.99875;Epinephelus;0.99875;Epinephelus marginatus;0.75
+851;Portofino_731;Echinoderms +;Animalia;1.0;Echinodermata;1.0;Echinoidea;1.0;Camarodonta;0.75;Parechinidae;0.98125;Paracentrotus;0.75;Paracentrotus lividus;0.45625
+852;Portofino_731;Gobies +;Animalia;0.995;Chordata;0.995;Actinopterygii;0.995;Gobiiformes;0.9925;Gobiidae;0.9925;Gobius;0.4625;niger;0.2325
+853;Portofino_731;Gorgonians;Animalia;1.0;Cnidaria;1.0;Anthozoa;1.0;Alcyonacea;0.70625;Plexauridae;0.240625;Paramuricea;0.45625;Paramuricea clavata;0.45625
+854;Portofino_731;Horse mackerels +;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.44375;Carangidae;1.0;Trachurus;1.0;Trachurus trachurus;0.48124999999999996
+855;Portofino_731;Large-scaled scorpionfishes +;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.9874999999999999;Scorpaenidae;1.0;Scorpaena;1.0;Scorpaena scrofa;0.475
+856;Portofino_731;Macrofauna +;Animalia;0.875;Mollusca;0.75;Bivalvia;0.75;Mytilida;0.5;Mytilidae;0.5;Mytilus;0.5;Mytilus galloprovincialis;0.240625
+857;Portofino_731;Meiofauna;Animalia;1.0;Nematoda;0.41874999999999996;"Chromadorea; Copepoda; Gastrotricha; Kinorhyncha";0.15625;"Monhysterida; Harpacticoida; Chaetonotida; Kinorhyncha";0.171875;"Monhysteridae; Tisbidae; Chaetonotidae; Kinorhynchidae";0.1875;"Monhystera; Tisbe; Chaetonotus; Echinoderes";0.18437499999999998;;
+858;Portofino_731;Mullets;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Mugiliformes;0.995625;Mugilidae;0.9962500000000001;Mugil;0.49375;Mugil cephalus;0.23625000000000002
+859;Portofino_731;Pagellus;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.75;Sparidae;1.0;Pagellus;1.0;erythrinus;0.24375
+860;Portofino_731;Phytoplankton;Chromista;0.42375;Haptophyta;0.239375;Prymnesiophyceae;0.236875;Phaeocystales;0.2325;Phaeocystaceae;0.23125;Phaeocystis;0.2425;Phaeocystis globosa;0.23124999999999998
+861;Portofino_731;Posidonia;Plantae;1.0;Tracheophyta;0.745625;Liliopsida;0.73875;Alismatales;0.995;Posidoniaceae;0.9968750000000001;Posidonia;0.9975;Posidonia oceanica;0.75
+862;Portofino_731;Salema - adults;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.9625;Sparidae;1.0;Sarpa;1.0;Sarpa salpa;1.0
+863;Portofino_731;Salema - juveniles;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.9625;Sparidae;1.0;Sarpa;1.0;Sarpa salpa;0.9874999999999999
+864;Portofino_731;Sand smelts +;Animalia;0.9962500000000001;Chordata;0.9962500000000001;Actinopterygii;0.99375;Atheriniformes;0.99;Atherinidae;0.99375;Atherina;0.9918750000000001;Atherina boyeri;0.748125
+865;Portofino_731;Scorpionfishes & combers +;Animalia;0.1875;Chordata;0.1875;Actinopterygii;0.1875;Scorpaeniformes, Perciformes;0.13749999999999998;Scorpaenidae, Serranidae;0.1625;Scorpaena, Serranus;0.1625;;
+866;Portofino_731;Sea urchins;Animalia;1.0;Echinodermata;1.0;Echinoidea;1.0;Echinoida;0.15625;Parechinidae;0.225;Paracentrotus;0.49375;Paracentrotus lividus;0.5
+867;Portofino_731;Sea worms;Animalia;1.0;Annelida;1.0;Polychaeta;0.984375;Phyllodocida;0.740625;Nereididae;1.0;Hediste;0.48125;Hediste diversicolor;0.48124999999999996
+868;Portofino_731;Seaweeds;Chromista;0.54375;Ochrophyta;0.5625;Phaeophyceae;0.56;Fucales;0.3725;Sargassaceae;0.17375000000000002;Ericaria;0.18125;Ericaria amentacea;0.178125
+869;Portofino_731;Small tunas +;Animalia;0.998125;Chordata;0.998125;Actinopterygii;0.99;Scombriformes;0.978125;Scombridae;0.99;Auxis;0.23625000000000002;Auxis rochei;0.236875
+870;Portofino_731;Stripped red mullets +;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9874999999999999;Mullidae;1.0;Mullus;1.0;Mullus surmuletus;0.740625
+871;Portofino_731;Suspensivores +;Animalia;0.925;Mollusca;0.25;Bivalvia;0.25;Mytilida;0.25;Mytilidae;0.25;Mytilus;0.25;Mytilus galloprovincialis;0.25
+872;Portofino_731;Wrasses +;Animalia;1.0;Chordata;1.0;Actinopterygii;0.99375;Labriformes;0.734375;Labridae;1.0;Symphodus;0.24375;melops;0.234375
+873;Portofino_731;Zooplankton - large;Animalia;1.0;Arthropoda;1.0;Copepoda;0.748125;Calanoida;0.74625;Calanidae;0.74625;Calanus;0.748125;Calanus helgolandicus;0.49375
+874;Portofino_731;Zooplankton - small;Animalia;1.0;Arthropoda;1.0;Copepoda;1.0;Cyclopoida;0.748125;Oithonidae;0.740625;Oithona;0.740625;Oithona similis;0.46875
+875;Ria_Formosa_125;Annelida;Animalia;1.0;Annelida;1.0;Polychaeta;0.9874999999999999;Phyllodocida;0.49375;Nereididae;0.49375;Hediste;0.49375;Hediste diversicolor;0.49
+876;Ria_Formosa_125;Benthic ff;Animalia;1.0;Arthropoda;0.25;Malacostraca;0.25;Decapoda;0.25;Portunidae;0.25;Carcinus;0.25;Carcinus maenas;0.25
+877;Ria_Formosa_125;Bivalvia;Animalia;0.995;Mollusca;0.995;Bivalvia;0.995;;;;;;;;
+878;Ria_Formosa_125;Crustacea;Animalia;0.75;Arthropoda;0.75;Malacostraca;0.5625;Decapoda;0.375;Portunidae;0.375;Carcinus;0.375;Carcinus maenas;0.375
+879;Ria_Formosa_125;Detritivorous f;Animalia;0.9375;Chordata;0.75;Actinopterygii;0.75;Mugiliformes;0.74625;Mugilidae;0.75;Mugil;0.5;Mugil cephalus;0.25
+880;Ria_Formosa_125;Detritus;;;;;;;;;;;;;;
+881;Ria_Formosa_125;Gasteropoda;Animalia;1.0;Mollusca;1.0;Gastropoda;1.0;Littorinimorpha;0.2375;Hydrobiidae;0.234375;Peringia;0.234375;Peringia ulvae;0.23125
+882;Ria_Formosa_125;Pelagic-benthic ff;Animalia;1.0;Chordata;0.66875;Actinopterygii;0.66875;Mugiliformes;0.24375;Mugilidae;0.246875;Mugil;0.240625;Mugil cephalus;0.23125
+883;Ria_Formosa_125;Phytoplankton;Chromista;0.6531250000000001;Bacillariophyta;0.45625;Bacillariophyceae;0.44999999999999996;Thalassiosirales;0.46875000000000006;Skeletonemataceae;0.228125;Skeletonema;0.234375;Skeletonema costatum;0.22375
+884;Ria_Formosa_125;Planktonic f;Animalia;1.0;Arthropoda;0.25;Copepoda;0.246875;Calanoida;0.25;Acartiidae;0.25;Acartia;0.249375;Acartia tonsa;0.243125
+885;Ria_Formosa_125;S. auratus;Animalia;1.0;Chordata;1.0;Actinopterygii;0.975;Spariformes;0.740625;Sparidae;1.0;Sparus;0.75;Sparus aurata;0.5
+886;Ria_Formosa_125;S. cantharus;Animalia;0.875;Chordata;0.8125;Actinopterygii;0.75;Spariformes;0.5;Sparidae;0.75;Spondyliosoma;0.75;Spondyliosoma cantharus;0.5
+887;Ria_Formosa_125;Small b-p ff;Animalia;1.0;Mollusca;0.5;Bivalvia;0.5;Venerida;0.49375;Cardiidae;0.241875;Cerastoderma;0.249375;Cerastoderma edule;0.249375
+888;Ria_Formosa_125;Zooplankton;Animalia;1.0;Arthropoda;0.75;Copepoda;0.36875;Calanoida;0.5;Acartiidae;0.24375;Acartia;0.24375;Acartia clausi;0.234375
+889;Sierra_Leone_137;Baleen whales;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.740625;Balaenopteridae;0.25;Balaenoptera;0.23125;;
+890;Sierra_Leone_137;Benthos;Animalia;0.75;Annelida;0.1875;Bivalvia;0.1875;Phyllodocida;0.1875;Nereididae;0.1875;Nereis;0.175;Nereis diversicolor;0.14375
+891;Sierra_Leone_137;Bongo shad;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;0.475;Ethmalosa;0.6875;Ethmalosa fimbriata;0.4375
+892;Sierra_Leone_137;Carnivorous zooplankton;Animalia;1.0;Arthropoda;0.49375;Copepoda;0.484375;Calanoida;0.24375;Calanidae;0.228125;Sagitta;0.234375;Sagitta enflata;0.225
+893;Sierra_Leone_137;Catfish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Siluriformes;1.0;Ariidae;0.75;Carlarius;0.23125;Carlarius heudelotii;0.23125
+894;Sierra_Leone_137;Cephalopods;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Octopoda;0.203125;Ommastrephidae;0.225;Octopus;0.215625;Octopus vulgaris;0.20500000000000002
+895;Sierra_Leone_137;Croackers;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;1.0;Sciaenidae;1.0;Pseudotolithus;0.746875;Pseudotolithus senegallus;0.228125
+896;Sierra_Leone_137;Crustaceans;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Euphausiacea;0.240625;Penaeidae;0.24375;Euphausia;0.2375;Penaeus notialis;0.221875
+897;Sierra_Leone_137;Detritus;;;;;;;;;;;;;;
+898;Sierra_Leone_137;Gaint African Threadfin;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.73125;Polynemidae;1.0;Polydactylus;1.0;Polydactylus quadrifilis;0.75
+899;Sierra_Leone_137;Groupers;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.975;Serranidae;0.45;Epinephelus;1.0;Epinephelus aeneus;0.225
+900;Sierra_Leone_137;Herbivorous zooplankton;Animalia;1.0;Arthropoda;1.0;Copepoda;0.346875;Calanoida;0.484375;Paracalanidae;0.240625;Paracalanus;0.24375;Acartia tonsa;0.23625000000000002
+901;Sierra_Leone_137;Jacks;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.9975;Carangidae;1.0;Caranx;1.0;Caranx hippos;0.75
+902;Sierra_Leone_137;L Coastal Sharks and Rays;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.74625;Carcharhiniformes;0.745625;Carcharhinidae;0.49875;Carcharhinus;0.49875;Carcharhinus limbatus;0.22562500000000002
+903;Sierra_Leone_137;L Deep Sharks and Rays;Animalia;1.0;Chordata;1.0;Chondrichthyes;1.0;Squaliformes;0.22499999999999998;Centrophoridae, Somniosidae, Etmopteridae, Squalidae, Carcharhinidae;0.20625;Centrophorus, Centroscymnus, Etmopterus, Squalus, Prionace;0.203125;;
+904;Sierra_Leone_137;Large Bathydem predators;Animalia;1.0;Chordata;1.0;Actinopterygii;0.749375;Gadiformes;0.240625;Moridae;0.24375;Antimora;0.240625;Antimora rostrata;0.23125
+905;Sierra_Leone_137;Large Bathypelagic predators;Animalia;0.9975;Chordata;0.9975;Actinopterygii;0.9925;Stomiiformes;0.46875;Alepisauridae;0.244375;Alepisaurus;0.24375;Alepisaurus ferox;0.243125
+906;Sierra_Leone_137;Large Tuna;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.721875;Scombridae;1.0;Thunnus;0.75;Thunnus obesus;0.22812500000000002
+907;Sierra_Leone_137;Large demersal invert feeders;Animalia;0.9375;Chordata;0.9375;Actinopterygii;0.934375;Perciformes;0.7062499999999999;Mullidae;0.23125;Upeneus;0.2375;Upeneus africanus;0.228125
+908;Sierra_Leone_137;Large demersal predators;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.47187500000000004;Serranidae;0.24375;Epinephelus;0.240625;agennes, aeneus;0.11875000000000001
+909;Sierra_Leone_137;Large pelagic predators;Animalia;0.993125;Chordata;0.993125;Actinopterygii;0.9712500000000001;Scombriformes;0.740625;Scombridae;0.749375;Thunnus;0.749375;Thunnus albacares;0.499375
+910;Sierra_Leone_137;Lesser African Threadfin;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.4375;Polynemidae;0.9875;Galeoides;0.7375;Galeoides decadactylus;0.484375
+911;Sierra_Leone_137;M Bathypelagic invert feeders;Animalia;1.0;Chordata;0.75;Actinopterygii;0.75;Stomiiformes;0.4875;Gonostomatidae;0.49374999999999997;Cyclothone;0.24375;Cyclothone microdon;0.23625000000000002
+912;Sierra_Leone_137;M Coastal Sharks and Rays;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.746875;Carcharhiniformes;0.75;Carcharhinidae;0.23625000000000002;Carcharhinus;0.23625000000000002;Carcharhinus leucas;0.215625
+913;Sierra_Leone_137;M Deep Sharks and Rays;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.7312500000000001;Squaliformes;0.740625;Centrophoridae;0.475;Centrophorus;0.46875;Centrophorus granulosus;0.45
+914;Sierra_Leone_137;Medium demersal invert feeders;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9975;Pleuronectiformes;0.485;Soleidae;0.49;Solea;0.49;Solea senegalensis;0.49
+915;Sierra_Leone_137;Medium demersal predators;Animalia;0.875;Chordata;0.875;Actinopterygii;0.875;Perciformes;0.409375;Serranidae;0.23125;Cephalopholis;0.225;Merluccius polli;0.19375
+916;Sierra_Leone_137;Mesopelagics;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Myctophiformes;0.7256250000000001;Myctophidae;0.7256250000000001;Maurolicus;0.22999999999999998;Maurolicus muelleri;0.215625
+917;Sierra_Leone_137;Mullets and other herbivores;Animalia;1.0;Chordata;0.9975;Actinopterygii;0.9975;Mugiliformes;0.9925;Mugilidae;0.995;Mugil;0.744375;Mugil cephalus;0.48250000000000004
+918;Sierra_Leone_137;Primary producers;Chromista;0.71875;Bacillariophyta;0.49375;Bacillariophyceae;0.484375;Thalassiosirales;0.73125;Thalassiosiraceae;0.48125;Thalassiosira;0.49;Thalassiosira weissflogii;0.240625
+919;Sierra_Leone_137;Royal Threadfin;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.4375;Polynemidae;0.978125;Polydactylus;0.7375;Polydactylus quadrifilis;0.45625
+920;Sierra_Leone_137;SM Bathydem invert feeders;Animalia;1.0;Arthropoda;0.5;Malacostraca;0.5;Decapoda;0.5;Penaeidae;0.24375;Parapenaeus;0.25;Parapenaeus longirostris;0.2375
+921;Sierra_Leone_137;Sardinellas;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;0.75;Sardinella;0.93125;Sardinella aurita;0.4125
+922;Sierra_Leone_137;Scads and mackerels;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Carangiformes;0.984375;Carangidae;1.0;Trachurus;0.74375;Trachurus trecae;0.48125
+923;Sierra_Leone_137;Seabirds;Animalia;1.0;Chordata;1.0;Aves;1.0;Suliformes, Charadriiformes;0.21874999999999997;Sulidae, Phalacrocoracidae, Laridae, Sternidae, Fregatidae;0.21250000000000002;Sula, Phalacrocorax, Larus, Sterna, Fregata;0.20625;;
+924;Sierra_Leone_137;Sickle-and spadefish;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.6499999999999999;Ephippidae;0.75;Chaetodipterus;0.475;Chaetodipterus faber;0.4375
+925;Sierra_Leone_137;Small Bathypelagic predators;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Stomiiformes;1.0;Stomiidae;0.48750000000000004;Vinciguerria;0.2375;Vinciguerria attenuata;0.234375
+926;Sierra_Leone_137;Small Tuna;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scombriformes;0.73125;Scombridae;1.0;Euthynnus;0.24375;Euthynnus alletteratus;0.246875
+927;Sierra_Leone_137;Small demersal invert feeders;Animalia;1.0;Chordata;0.75;Actinopterygii;0.75;Perciformes;0.228125;Sparidae;0.246875;Pseudupeneus;0.2375;Pseudupeneus prayensis;0.2375
+928;Sierra_Leone_137;Small demersal predators;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;0.23125;Merlucciidae;0.240625;Merluccius;0.240625;Merluccius polli;0.23125
+929;Sierra_Leone_137;Small pelagic invert feeders;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Clupeidae;0.75;Sardinella;0.74375;Sardinella maderensis;0.24562499999999998
+930;Sierra_Leone_137;Small pelagic predators;Animalia;0.99875;Chordata;0.99875;Actinopterygii;0.9962500000000001;Scombriformes;0.985;Scombridae;0.9962500000000001;Scomber;0.74875;Scomber colias;0.5
+931;Sierra_Leone_137;Toothed whales and dolphins;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.73125;Delphinidae, Physeteridae;0.203125;Tursiops, Delphinus, Physeter, Globicephala, Stenella;0.1875;;
+932;Sierra_Leone_137;Turtles;Animalia;0.9975;Chordata;0.9975;Reptilia;0.995;Testudines;0.995;Cheloniidae, Dermochelyidae;0.22312500000000002;Chelonia, Caretta, Eretmochelys, Dermochelys, Lepidochelys;0.20125;;
+933;Strait_of_Georgia_477;Detritus;;;;;;;;;;;;;;
+934;Strait_of_Georgia_477;P. cod ad.;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Gadiformes;0.75;Gadidae;0.75;Gadus;0.54375;Gadus macrocephalus;0.375
+935;Strait_of_Georgia_477;P. cod juv.;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Gadiformes;0.75;Gadidae;0.75;Gadus;0.56;Gadus macrocephalus;0.37375
+936;Strait_of_Georgia_477;P. halibut ad.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.7468750000000001;Hippoglossus;0.75;Hippoglossus stenolepis;0.5
+937;Strait_of_Georgia_477;P. halibut juv.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;1.0;Hippoglossus;1.0;Hippoglossus stenolepis;0.75
+938;Strait_of_Georgia_477;Pac. Ocean perch;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;1.0;Sebastidae;0.49375;Sebastes;1.0;Sebastes alutus;0.7375
+939;Strait_of_Georgia_477;Pac. hake;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Merlucciidae;0.9925;Merluccius;0.994375;Merluccius productus;0.746875
+940;Strait_of_Georgia_477;arrowtooth ad.;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9978125;Pleuronectiformes;0.9978125;Pleuronectidae;0.995625;Atheresthes;0.993125;Atheresthes stomias;0.7475
+941;Strait_of_Georgia_477;arrowtooth juv.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;0.99625;Pleuronectidae;0.99625;Atheresthes;0.99375;Atheresthes stomias;0.74875
+942;Strait_of_Georgia_477;birds demer pisciv;Animalia;1.0;Chordata;1.0;Aves;1.0;Suliformes;0.453125;Phalacrocoracidae;0.240625;Nannopterum;0.240625;Nannopterum auritum;0.22812500000000002
+943;Strait_of_Georgia_477;birds pelag pisciv;Animalia;1.0;Chordata;1.0;Aves;1.0;Suliformes;0.246875;Phalacrocoracidae;0.246875;Phalacrocorax;0.24375;Phalacrocorax auritus;0.240625
+944;Strait_of_Georgia_477;birds zooplanktiv;Animalia;1.0;Chordata;1.0;Aves;1.0;Charadriiformes;0.421875;Alcidae;0.421875;Brachyramphus;0.234375;Brachyramphus marmoratus;0.22499999999999998
+945;Strait_of_Georgia_477;bivalves;Animalia;0.9375;Mollusca;0.9375;Bivalvia;0.9375;Mytilida;0.49375;Mytilidae;0.5;Mytilus;0.74375;Mytilus trossulus;0.48124999999999996
+946;Strait_of_Georgia_477;carn. zooplankton;Animalia;1.0;Chaetognatha;0.49375;Hydrozoa;0.2375;Calanoida;0.240625;Sagittidae;0.48125;Sagitta;0.49375;Sagitta elegans;0.48750000000000004
+947;Strait_of_Georgia_477;chinook ad.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Salmoniformes;0.9962500000000001;Salmonidae;1.0;Oncorhynchus;0.998125;Oncorhynchus tshawytscha;0.75
+948;Strait_of_Georgia_477;chinook juv.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Salmoniformes;0.995;Salmonidae;1.0;Oncorhynchus;1.0;Oncorhynchus tshawytscha;0.75
+949;Strait_of_Georgia_477;chum;Animalia;1.0;Chordata;1.0;Actinopterygii;0.9968750000000001;Salmoniformes;0.994375;Salmonidae;1.0;Oncorhynchus;0.999375;Oncorhynchus keta;0.75
+950;Strait_of_Georgia_477;coho ad.;Animalia;0.9968750000000001;Chordata;0.9968750000000001;Actinopterygii;0.994375;Salmoniformes;0.9881250000000001;Salmonidae;0.9968750000000001;Oncorhynchus;0.9968750000000001;Oncorhynchus kisutch;0.7125
+951;Strait_of_Georgia_477;coho juv.;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Salmoniformes;0.743125;Salmonidae;0.75;Oncorhynchus;0.75;Oncorhynchus kisutch;0.5625
+952;Strait_of_Georgia_477;crabs;Animalia;0.9625;Arthropoda;0.9625;Malacostraca;0.9625;Decapoda;0.9625;Cancridae;0.4875;Cancer;0.46875;Cancer magister;0.221875
+953;Strait_of_Georgia_477;dogfish;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.7474999999999999;Squaliformes;1.0;Squalidae;1.0;Squalus;1.0;Squalus acanthias;0.38125
+954;Strait_of_Georgia_477;echinoderms;Animalia;1.0;Echinodermata;1.0;Multiple (Echinoidea, Asteroidea, Holothuroidea, Ophiuroidea);0.19374999999999998;Multiple;0.15625;Multiple;0.15;Multiple;0.1375;Multiple;0.13124999999999998
+955;Strait_of_Georgia_477;flatfish other;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;0.47500000000000003;;;;
+956;Strait_of_Georgia_477;herb. zooplankton;Animalia;1.0;Arthropoda;1.0;Copepoda;0.75;Calanoida;1.0;Calanidae;0.75;Calanus;0.7375;Calanus pacificus;0.496875
+957;Strait_of_Georgia_477;herring ad.;Animalia;0.99875;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;0.999375;Clupeidae;0.999375;Clupea;0.99625;Clupea pallasii;0.748125
+958;Strait_of_Georgia_477;herring juv.;Animalia;0.9962500000000001;Chordata;0.9962500000000001;Actinopterygii;0.9962500000000001;Clupeiformes;0.994375;Clupeidae;0.994375;Clupea;0.993125;Clupea pallasii;0.7475
+959;Strait_of_Georgia_477;jellies;Animalia;1.0;Cnidaria;1.0;Scyphozoa;1.0;Semaeostomeae;0.9450000000000001;Ulmaridae;0.703125;Aurelia;1.0;Aurelia aurita;0.4375
+960;Strait_of_Georgia_477;krill;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.999375;Euphausiacea;0.995;Euphausiidae;0.99875;Euphausia;0.996875;Euphausia pacifica;0.749375
+961;Strait_of_Georgia_477;large squids;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Oegopsida;0.45375;Gonatidae;0.236875;Gonatus;0.236875;Gonatus onyx;0.226875
+962;Strait_of_Georgia_477;lingcod;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.215625;Hexagrammidae;0.5;Ophiodon;0.9625;Ophiodon elongatus;0.7124999999999999
+963;Strait_of_Georgia_477;macrophytes;Plantae;0.935;Tracheophyta;0.45625000000000004;Liliopsida;0.44375;Alismatales;0.46875000000000006;Zosteraceae;0.47500000000000003;Zostera;0.47875000000000006;Zostera marina;0.47250000000000003
+964;Strait_of_Georgia_477;misc. pred. pelagics;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Scombriformes;0.165625;Scombridae;0.159375;;;;
+965;Strait_of_Georgia_477;misc. small demersals;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Gobiiformes;0.171875;Gobiidae;0.171875;;;;
+966;Strait_of_Georgia_477;misc. small pelagics;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;Clupeiformes;0.75;Clupeidae;0.375;Clupea;0.375;Clupea pallasii;0.3625
+967;Strait_of_Georgia_477;myctophids;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Myctophiformes;0.9874999999999999;Myctophidae;1.0;;;;
+968;Strait_of_Georgia_477;mysticetae;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.9375;Multiple;0.09375;Multiple;0.09375;Multiple;0.09375
+969;Strait_of_Georgia_477;odontocetae;Animalia;1.0;Chordata;1.0;Mammalia;1.0;Cetacea;0.946875;Multiple;0.08125;Multiple;0.08125;Multiple;0.08125
+970;Strait_of_Georgia_477;other benthos;Animalia;0.98125;Annelida;0.21250000000000002;Polychaeta;0.190625;Multiple;0.103125;Multiple;0.09375;Multiple;0.078125;Multiple;0.07
+971;Strait_of_Georgia_477;pelagic sharks;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.6875;Lamniformes;0.5;Lamnidae;0.5;Lamna;0.5;Lamna ditropis;0.234375
+972;Strait_of_Georgia_477;phytoplankton;Chromista;0.40625000000000006;Bacillariophyta;0.21875;Bacillariophyceae;0.22375;Thalassiosirales;0.45937500000000003;Skeletonemataceae;0.223125;Skeletonema;0.23124999999999998;Thalassiosira pseudonana;0.22375
+973;Strait_of_Georgia_477;pink;Animalia;0.999375;Chordata;0.999375;Actinopterygii;0.993125;Salmoniformes;0.985625;Salmonidae;0.993125;Oncorhynchus;0.9975;Oncorhynchus gorbuscha;0.744375
+974;Strait_of_Georgia_477;pollock ad.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;1.0;Gadus;0.7100000000000001;Gadus chalcogrammus;0.48750000000000004
+975;Strait_of_Georgia_477;pollock juv.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Gadiformes;1.0;Gadidae;1.0;Gadus;0.7125;Gadus chalcogrammus;0.49375
+976;Strait_of_Georgia_477;rajidae / ratfish;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.675;Rajiformes;0.5;Rajidae;0.5;Raja;0.45;binoculata;0.184375
+977;Strait_of_Georgia_477;rock sole;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;1.0;Lepidopsetta;1.0;Lepidopsetta bilineata;0.75
+978;Strait_of_Georgia_477;rockfish other;Animalia;1.0;Chordata;1.0;Actinopterygii;0.995;Scorpaeniformes;0.975;Sebastidae;0.48375;Sebastes;1.0;;
+979;Strait_of_Georgia_477;sablefish ad.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.54375;Anoplopomatidae;1.0;Anoplopoma;1.0;Anoplopoma fimbria;0.75
+980;Strait_of_Georgia_477;sablefish juv.;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Scorpaeniformes;0.6937500000000001;Anoplopomatidae;1.0;Anoplopoma;1.0;Anoplopoma fimbria;0.75
+981;Strait_of_Georgia_477;salmon shark;Animalia;1.0;Chordata;1.0;Chondrichthyes;0.9962500000000001;Lamniformes;0.9962500000000001;Lamnidae;0.9962500000000001;Lamna;0.9962500000000001;Lamna ditropis;0.74
+982;Strait_of_Georgia_477;sea lions;Animalia;0.75;Chordata;0.75;Mammalia;0.75;Carnivora;0.74875;Otariidae;0.75;Zalophus;0.16562500000000002;Zalophus californianus;0.140625
+983;Strait_of_Georgia_477;seals;Animalia;0.75;Chordata;0.75;Mammalia;0.75;Carnivora;0.75;Phocidae;0.75;Phoca;0.18;Phoca vitulina;0.176875
+984;Strait_of_Georgia_477;shrimps;Animalia;0.936875;Arthropoda;0.936875;Malacostraca;0.936875;Decapoda;0.936875;Pandalidae;0.749375;Pandalus;0.746875;Pandalus platyceros;0.49125
+985;Strait_of_Georgia_477;small squids;Animalia;1.0;Mollusca;1.0;Cephalopoda;1.0;Teuthida;0.403125;Loliginidae;0.48125;Doryteuthis;0.47500000000000003;Rossia pacifica;0.23125
+986;Strait_of_Georgia_477;sockeye;Animalia;0.75;Chordata;0.75;Actinopterygii;0.745625;Salmoniformes;0.7393750000000001;Salmonidae;0.7475;Oncorhynchus;0.75;Oncorhynchus nerka;0.5625
+987;Strait_of_Georgia_477;yellowfin sole;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Pleuronectiformes;1.0;Pleuronectidae;1.0;Limanda;0.9874999999999999;Limanda aspera;0.73125
+988;Terminos_Lagoon_243;Ariidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Siluriformes;1.0;Ariidae;1.0;;;;
+989;Terminos_Lagoon_243;Benthic autotrophs;Plantae;0.92375;Tracheophyta;0.59875;Liliopsida;0.65125;Alismatales;0.70875;Hydrocharitaceae;0.721875;Thalassia;0.729375;Thalassia testudinum;0.73
+990;Terminos_Lagoon_243;Brachyurans;Animalia;1.0;Arthropoda;1.0;Malacostraca;1.0;Decapoda;0.346875;;;Callinectes;0.184375;;
+991;Terminos_Lagoon_243;Detritus;;;;;;;;;;;;;;
+992;Terminos_Lagoon_243;Engraulidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Clupeiformes;1.0;Engraulidae;1.0;;;;
+993;Terminos_Lagoon_243;Gerreidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9375;Gerreidae;1.0;;;;
+994;Terminos_Lagoon_243;Haemulidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.9499999999999998;Haemulidae;1.0;;;;
+995;Terminos_Lagoon_243;Lutjanidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.978125;Lutjanidae;1.0;Lutjanus;0.22499999999999998;;
+996;Terminos_Lagoon_243;Meiofauna;Animalia;1.0;Nematoda;0.6112500000000001;Chromadorea, Copepoda, Ostracoda, Kinorhyncha, Tardigrada;0.175;Multiple;0.06875;Multiple;0.059375;Multiple;0.05125;Multiple;0.044375
+997;Terminos_Lagoon_243;Microcrustaceans;Animalia;0.75;Arthropoda;0.75;Copepoda;0.35;Harpacticoida;0.175;;;;;;
+998;Terminos_Lagoon_243;Molluscs;Animalia;0.989375;Mollusca;0.989375;Bivalvia;0.460625;Venerida;0.239375;Veneridae;0.240625;Ruditapes;0.235625;philippinarum;0.215625
+999;Terminos_Lagoon_243;Other fish;Animalia;0.75;Chordata;0.75;Actinopterygii;0.75;;;;;;;;
+1000;Terminos_Lagoon_243;Other macroinvertebrates;Animalia;0.75;Echinodermata;0.175;Echinoidea;0.175;Spatangoida;0.16875;Laganidae;0.08124999999999999;Echinocardium;0.1;cordatum;0.1
+1001;Terminos_Lagoon_243;Penaeids;Animalia;1.0;Arthropoda;1.0;Malacostraca;0.9937499999999999;Decapoda;0.9937499999999999;Penaeidae;0.9931249999999999;Penaeus;0.46125;;
+1002;Terminos_Lagoon_243;Phytoplankton;Chromista;0.6375000000000001;Bacillariophyta;0.413125;Bacillariophyceae;0.7012500000000002;Thalassiosirales;0.46249999999999997;Thalassiosiraceae;0.46249999999999997;Thalassiosira;0.47000000000000003;Thalassiosira pseudonana;0.225
+1003;Terminos_Lagoon_243;Polychaetes;Animalia;1.0;Annelida;1.0;Polychaeta;0.989375;Phyllodocida;0.23875;Nereididae;0.234375;Nereis;0.209375;virens;0.17812499999999998
+1004;Terminos_Lagoon_243;Scianidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Perciformes;0.975;Sciaenidae;0.740625;;;;
+1005;Terminos_Lagoon_243;Sparidae;Animalia;1.0;Chordata;1.0;Actinopterygii;1.0;Spariformes;0.4125;Sparidae;1.0;Archosargus;0.228125;;
+1006;Terminos_Lagoon_243;Tetraodontidae;Animalia;0.9962500000000001;Chordata;0.994375;Actinopterygii;0.9918750000000001;Tetraodontiformes;0.9893749999999999;Tetraodontidae;0.9893749999999999;Sphoeroides;0.203125;;
+1007;Terminos_Lagoon_243;Zooplankton;Animalia;0.740625;Arthropoda;0.54375;Copepoda;0.365625;Calanoida;0.18125;Calanidae;0.178125;Calanus;0.175;Calanus helgolandicus;0.11875

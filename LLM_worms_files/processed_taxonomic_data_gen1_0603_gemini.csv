@@ -1,0 +1,1009 @@
+;QueryName;Status;FileName;OriginalName;ScientificName;AphiaID;Rank;Kingdom;Phylum;Class;Order;Family;Genus;Species
+0;NO_DATA;Not Found;Aegean_Sea_760;Anglerfish;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+1;Benthic Invertebrata;Not Found;Aegean_Sea_760;Benthic invertebrates;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+2;Crustacea;accepted;Aegean_Sea_760;Benthic small crustaceans;Crustacea;1066.0;Subphylum;Animalia;Arthropoda;None;None;None;None;Nan
+3;NO_DATA;Not Found;Aegean_Sea_760;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+4;Delphinidae;accepted;Aegean_Sea_760;Dolphins;Delphinidae;136980.0;Family;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;None;Nan
+5;Engraulis encrasicolus;accepted;Aegean_Sea_760;European anchovy;Engraulis encrasicolus;126426.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus
+6;NO_DATA;Not Found;Aegean_Sea_760;European hake;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+7;Sardina pilchardus;accepted;Aegean_Sea_760;European pilchard;Sardina pilchardus;126421.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardina;Sardina pilchardus
+8;NO_DATA;Not Found;Aegean_Sea_760;Flatfishes;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+9;Triglidae;accepted;Aegean_Sea_760;Gurnards;Triglidae;125598.0;Family;Animalia;Chordata;Teleostei;Perciformes;Triglidae;None;Nan
+10;Trachurus trachurus;accepted;Aegean_Sea_760;Horse mackerels;Trachurus trachurus;126822.0;Species;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;Trachurus trachurus
+11;Medusozoa;accepted;Aegean_Sea_760;Jellyfish;Medusozoa;1740301.0;Subphylum;Animalia;Cnidaria;None;None;None;None;Nan
+12;NO_DATA;Not Found;Aegean_Sea_760;Large pelagics;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+13;Nephropidae;accepted;Aegean_Sea_760;Lobsters;Nephropidae;106741.0;Family;Animalia;Arthropoda;Malacostraca;Decapoda;Nephropidae;None;Nan
+14;Scomber scombrus;accepted;Aegean_Sea_760;Mackerels;Scomber scombrus;127023.0;Species;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;Scomber scombrus
+15;Macrozooplankton;Not Found;Aegean_Sea_760;Macrozooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+16;NO_DATA;Not Found;Aegean_Sea_760;Medium pelagics;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+17;Pagellus erythrinus;accepted;Aegean_Sea_760;Medium-large demersals 1;Pagellus erythrinus;127060.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Pagellus;Pagellus erythrinus
+18;Merluccius merluccius;accepted;Aegean_Sea_760;Medium-large demersals 2;Merluccius merluccius;126484.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius merluccius
+19;Zooplankton;Not Found;Aegean_Sea_760;Micro/Mesozooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+20;Monachus monachus;accepted;Aegean_Sea_760;Monk seal;Monachus monachus;137081.0;Species;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Monachus;Monachus monachus
+21;Nephrops norvegicus;accepted;Aegean_Sea_760;Norway lobster;Nephrops norvegicus;107254.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Nephropidae;Nephrops;Nephrops norvegicus
+22;Octopodidae, Sepiidae;Not Found;Aegean_Sea_760;Octopus and cuttlefish;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+23;Gadiformes;accepted;Aegean_Sea_760;Other gadiforms;Gadiformes;10313.0;Order;Animalia;Chordata;Teleostei;Gadiformes;None;None;Nan
+24;Engraulis encrasicolus;accepted;Aegean_Sea_760;Other small pelagics;Engraulis encrasicolus;126426.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus
+25;Phytoplankton;Not Found;Aegean_Sea_760;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+26;Spicara smaris;accepted;Aegean_Sea_760;Picarels and bogue;Spicara smaris;126830.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Spicara;Spicara smaris
+27;Actinopterygii;accepted;Aegean_Sea_760;Piscivorous deep sea fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+28;Cyclothone braueri;accepted;Aegean_Sea_760;Planktivorous deep sea fish;Cyclothone braueri;127284.0;Species;Animalia;Chordata;Teleostei;Stomiiformes;Gonostomatidae;Cyclothone;Cyclothone braueri
+29;Polychaeta;accepted;Aegean_Sea_760;Polychaetes;Polychaeta;883.0;Class;Animalia;Annelida;Polychaeta;None;None;None;Nan
+30;Batoidea;accepted;Aegean_Sea_760;Rays and skates;Batoidea;368409.0;Infraclass;Animalia;Chordata;Elasmobranchii;None;None;None;Nan
+31;Mullus barbatus;accepted;Aegean_Sea_760;Red mullets;Mullus barbatus;126985.0;Species;Animalia;Chordata;Teleostei;Mulliformes;Mullidae;Mullus;Mullus barbatus
+32;Scorpaenidae;accepted;Aegean_Sea_760;Rockfish;Scorpaenidae;125595.0;Family;Animalia;Chordata;Teleostei;Perciformes;Scorpaenidae;None;Nan
+33;Chelonioidea;accepted;Aegean_Sea_760;Sea turtles;Chelonioidea;987094.0;Superfamily;Animalia;Chordata;None;Testudines;None;None;Nan
+34;Aves;accepted;Aegean_Sea_760;Seabirds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+35;Selachimorpha;superseded rank;Aegean_Sea_760;Sharks;Selachimorpha;1779682.0;Superorder;Animalia;Chordata;Elasmobranchii;None;None;None;Nan
+36;Brachyura;accepted;Aegean_Sea_760;Shelf crabs;Brachyura;106673.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+37;Caridea;accepted;Aegean_Sea_760;Shrimps;Caridea;106674.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+38;Brachyura;accepted;Aegean_Sea_760;Slope crabs;Brachyura;106673.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+39;NO_DATA;Not Found;Aegean_Sea_760;Small demersals 1;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+40;Sardina pilchardus;accepted;Aegean_Sea_760;Small demersals 2;Sardina pilchardus;126421.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardina;Sardina pilchardus
+41;Spicara smaris;accepted;Aegean_Sea_760;Small demersals 3;Spicara smaris;126830.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Spicara;Spicara smaris
+42;Teuthida;nomen dubium;Aegean_Sea_760;Squids;Teuthida;11716.0;Order;Animalia;Mollusca;Cephalopoda;Teuthida;None;None;Nan
+43;Gadus chalcogrammus;accepted;Aleutian_Islands_252;Adult pollock;Gadus chalcogrammus;300735.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus
+44;Atheresthes stomias;accepted;Aleutian_Islands_252;Arrowtooth;Atheresthes stomias;279792.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Atheresthes;Atheresthes stomias
+45;Pleurogrammus monopterygius;accepted;Aleutian_Islands_252;Atka mackerel;Pleurogrammus monopterygius;282289.0;Species;Animalia;Chordata;Teleostei;Perciformes;Hexagrammidae;Pleurogrammus;Pleurogrammus monopterygius
+46;Mysticeti;accepted;Aleutian_Islands_252;Baleen whales;Mysticeti;148724.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+47;Benthos;junior subjective synonym;Aleutian_Islands_252;Benthic inverts;Benthosaurus;296146.0;Genus;Animalia;Chordata;Teleostei;Aulopiformes;Ipnopidae;Benthosaurus;Nan
+48;Aves;accepted;Aleutian_Islands_252;Birds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+49;Cephalopoda;accepted;Aleutian_Islands_252;Cephalopods;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+50;NO_DATA;Not Found;Aleutian_Islands_252;Deep L;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+51;NO_DATA;Not Found;Aleutian_Islands_252;Dem S M;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+52;Detritus;Not Found;Aleutian_Islands_252;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+53;NO_DATA;Not Found;Aleutian_Islands_252;Epiben carnivores;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+54;Pleuronectiformes;accepted;Aleutian_Islands_252;Flatfish;Pleuronectiformes;10331.0;Order;Animalia;Chordata;Teleostei;Pleuronectiformes;None;None;Nan
+55;Hippoglossus stenolepis;accepted;Aleutian_Islands_252;Halibut;Hippoglossus stenolepis;274290.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus stenolepis
+56;Clupea pallasii;accepted;Aleutian_Islands_252;Herring;Clupea pallasii;151159.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii
+57;Gadus chalcogrammus;accepted;Aleutian_Islands_252;Juvenile pollock;Gadus chalcogrammus;300735.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus
+58;Actinopterygii;accepted;Aleutian_Islands_252;Large pelagics;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+59;NO_DATA;Not Found;Aleutian_Islands_252;Large pred demersals;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+60;Zooplankton;Not Found;Aleutian_Islands_252;Large zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+61;Macrophyta;Not Found;Aleutian_Islands_252;Macrophytes;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+62;Myctophidae;accepted;Aleutian_Islands_252;Myctophids;Myctophidae;125498.0;Family;Animalia;Chordata;Teleostei;Myctophiformes;Myctophidae;None;Nan
+63;Sebastes alutus;accepted;Aleutian_Islands_252;POP;Sebastes alutus;254573.0;Species;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;Sebastes alutus
+64;Gadus macrocephalus;accepted;Aleutian_Islands_252;Pacific cod;Gadus macrocephalus;254538.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus macrocephalus
+65;Phytoplankton;Not Found;Aleutian_Islands_252;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+66;Sebastes;accepted;Aleutian_Islands_252;Rockfish;Sebastes;126175.0;Genus;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;Nan
+67;Eumetopias jubatus;accepted;Aleutian_Islands_252;SSL Adults;Eumetopias jubatus;254999.0;Species;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus
+68;Eumetopias jubatus;accepted;Aleutian_Islands_252;SSL embryo;Eumetopias jubatus;254999.0;Species;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus
+69;Eumetopias jubatus;accepted;Aleutian_Islands_252;SSL juveniles;Eumetopias jubatus;254999.0;Species;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus
+70;Eumetopias jubatus;accepted;Aleutian_Islands_252;SSL pups;Eumetopias jubatus;254999.0;Species;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus
+71;Anoplopoma fimbria;accepted;Aleutian_Islands_252;Sablefish;Anoplopoma fimbria;159463.0;Species;Animalia;Chordata;Teleostei;Perciformes;Anoplopomatidae;Anoplopoma;Anoplopoma fimbria
+72;Oncorhynchus;accepted;Aleutian_Islands_252;Salmon;Oncorhynchus;126140.0;Genus;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Nan
+73;Ammodytes hexapterus;accepted;Aleutian_Islands_252;Sandlance;Ammodytes hexapterus;254510.0;Species;Animalia;Chordata;Teleostei;Perciformes;Ammodytidae;Ammodytes;Ammodytes hexapterus
+74;Enhydra lutris;accepted;Aleutian_Islands_252;Sea otters;Enhydra lutris;242598.0;Species;Animalia;Chordata;Mammalia;Carnivora;Mustelidae;Enhydra;Enhydra lutris
+75;Chondrichthyes;accepted;Aleutian_Islands_252;Shark and skates;Chondrichthyes;1517375.0;Parvphylum;Animalia;Chordata;None;None;None;None;Nan
+76;Carcharodon carcharias;accepted;Aleutian_Islands_252;Shark mammal eater;Carcharodon carcharias;105838.0;Species;Animalia;Chordata;Elasmobranchii;Lamniformes;Lamnidae;Carcharodon;Carcharodon carcharias
+77;Caridea;accepted;Aleutian_Islands_252;Shrimps;Caridea;106674.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+78;Mammalia;accepted;Aleutian_Islands_252;Small mammals;Mammalia;1837.0;Class;Animalia;Chordata;Mammalia;None;None;None;Nan
+79;Clupea pallasii;accepted;Aleutian_Islands_252;Small pelagics;Clupea pallasii;151159.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii
+80;Zooplankton;Not Found;Aleutian_Islands_252;Small zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+81;Odontoceti;accepted;Aleutian_Islands_252;Toothed whales;Odontoceti;148723.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+82;Orcinus orca;accepted;Aleutian_Islands_252;Transient orca;Orcinus orca;137102.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Orcinus;Orcinus orca
+83;Carangidae;accepted;Australia_North_West_Shelf_405;AdCarangids;Carangidae;125523.0;Family;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;None;Nan
+84;NO_DATA;Not Found;Australia_North_West_Shelf_405;BenPhytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+85;Carcharhinidae;accepted;Australia_North_West_Shelf_405;Coastal sharks;Carcharhinidae;105689.0;Family;Animalia;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;None;Nan
+86;Penaeidae;accepted;Australia_North_West_Shelf_405;ComPrawns;Penaeidae;106727.0;Family;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;None;Nan
+87;Detritus;Not Found;Australia_North_West_Shelf_405;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+88;NO_DATA;Not Found;Australia_North_West_Shelf_405;DpLgFish;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+89;Synodontidae;accepted;Australia_North_West_Shelf_405;DpLizard;Synodontidae;125449.0;Family;Animalia;Chordata;Teleostei;Aulopiformes;Synodontidae;None;Nan
+90;Actinopterygii;accepted;Australia_North_West_Shelf_405;DpMedFish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+91;Mullidae;accepted;Australia_North_West_Shelf_405;DpMullidae;Mullidae;125547.0;Family;Animalia;Chordata;Teleostei;Mulliformes;Mullidae;None;Nan
+92;Nemipteridae;accepted;Australia_North_West_Shelf_405;DpNemipterids;Nemipteridae;151459.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Nemipteridae;None;Nan
+93;Leiognathidae;accepted;Australia_North_West_Shelf_405;DpPonyfish;Leiognathidae;125542.0;Family;Animalia;Chordata;Teleostei;Acanthuriformes;Leiognathidae;None;Nan
+94;Actinopterygii;accepted;Australia_North_West_Shelf_405;DpSmFish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+95;Sparidae;accepted;Australia_North_West_Shelf_405;FryPBream;Sparidae;125564.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;None;Nan
+96;Carangidae;accepted;Australia_North_West_Shelf_405;JuvCarangids;Carangidae;125523.0;Family;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;None;Nan
+97;Copepoda;accepted;Australia_North_West_Shelf_405;LgZooplankton;Copepoda;1080.0;Class;Animalia;Arthropoda;Copepoda;None;None;None;Nan
+98;NO_DATA;Not Found;Australia_North_West_Shelf_405;Macrofauna;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+99;NO_DATA;Not Found;Australia_North_West_Shelf_405;Megabenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+100;Microphytobenthos;Not Found;Australia_North_West_Shelf_405;Microphytobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+101;NO_DATA;Not Found;Australia_North_West_Shelf_405;PelPhytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+102;Batoidea;accepted;Australia_North_West_Shelf_405;Rays;Batoidea;368409.0;Infraclass;Animalia;Chordata;Elasmobranchii;None;None;None;Nan
+103;Lutjanus sebae;accepted;Australia_North_West_Shelf_405;RedEmperor;Lutjanus sebae;218499.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;Lutjanus;Lutjanus sebae
+104;NO_DATA;Not Found;Australia_North_West_Shelf_405;SessEpibenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+105;Lethrinidae;accepted;Australia_North_West_Shelf_405;ShLethrinids;Lethrinidae;151458.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lethrinidae;None;Nan
+106;Actinopterygii;accepted;Australia_North_West_Shelf_405;ShLgFish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+107;Synodontidae;accepted;Australia_North_West_Shelf_405;ShLizard;Synodontidae;125449.0;Family;Animalia;Chordata;Teleostei;Aulopiformes;Synodontidae;None;Nan
+108;Lutjanidae;accepted;Australia_North_West_Shelf_405;ShLutjanids;Lutjanidae;151453.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;None;Nan
+109;Actinopterygii;accepted;Australia_North_West_Shelf_405;ShMedFish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+110;Mullidae;accepted;Australia_North_West_Shelf_405;ShMullidae;Mullidae;125547.0;Family;Animalia;Chordata;Teleostei;Mulliformes;Mullidae;None;Nan
+111;Nemipteridae;accepted;Australia_North_West_Shelf_405;ShNemipterirds;Nemipteridae;151459.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Nemipteridae;None;Nan
+112;Serranidae;accepted;Australia_North_West_Shelf_405;ShSerranids;Serranidae;125561.0;Family;Animalia;Chordata;Teleostei;Perciformes;Serranidae;None;Nan
+113;Actinopterygii;accepted;Australia_North_West_Shelf_405;ShSmFish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+114;Haemulidae;accepted;Australia_North_West_Shelf_405;ShSweetlip;Haemulidae;125538.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;None;Nan
+115;Balistidae;accepted;Australia_North_West_Shelf_405;ShTriggerFish;Balistidae;125607.0;Family;Animalia;Chordata;Teleostei;Tetraodontiformes;Balistidae;None;Nan
+116;Thunnini;Not Found;Australia_North_West_Shelf_405;SmTunas;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+117;Copepoda;accepted;Australia_North_West_Shelf_405;SmZooplankton;Copepoda;1080.0;Class;Animalia;Arthropoda;Copepoda;None;None;None;Nan
+118;Clupeidae;accepted;Australia_North_West_Shelf_405;SmallPelagics;Clupeidae;125464.0;Family;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;None;Nan
+119;Teuthida;nomen dubium;Australia_North_West_Shelf_405;Squid;Teuthida;11716.0;Order;Animalia;Mollusca;Cephalopoda;Teuthida;None;None;Nan
+120;Sphyraena;accepted;Bamboung_180;Barracudas +;Sphyraena;126084.0;Genus;Animalia;Chordata;Teleostei;Carangaria incertae sedis;Sphyraenidae;Sphyraena;Nan
+121;Lutjanus agennes;accepted;Bamboung_180;Breton africain;Lutjanus agennes;276520.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;Lutjanus;Lutjanus agennes
+122;Caranx hippos;accepted;Bamboung_180;Carangues;Caranx hippos;126803.0;Species;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Caranx;Caranx hippos
+123;Brachyura;accepted;Bamboung_180;Crabes;Brachyura;106673.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+124;Dendrobranchiata;accepted;Bamboung_180;Crevettes;Dendrobranchiata;106669.0;Suborder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+125;Tursiops truncatus;accepted;Bamboung_180;Dauphins;Tursiops truncatus;137111.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Tursiops;Tursiops truncatus
+126;Detritus;Not Found;Bamboung_180;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+127;Plectorhinchus;accepted;Bamboung_180;Diagramme +;Plectorhinchus;126010.0;Genus;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;Plectorhinchus;Nan
+128;Elops senegalensis;accepted;Bamboung_180;Elops;Elops senegalensis;275406.0;Species;Animalia;Chordata;Teleostei;Elopiformes;Elopidae;Elops;Elops senegalensis
+129;Ethmalosa fimbriata;accepted;Bamboung_180;Ethmalose;Ethmalosa fimbriata;280725.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Ethmalosa;Ethmalosa fimbriata
+130;Gerres nigri;accepted;Bamboung_180;Gerres;Gerres nigri;276963.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Gerreidae;Gerres;Gerres nigri
+131;Polydactylus quadrifilis;accepted;Bamboung_180;Grand capitaine;Polydactylus quadrifilis;276599.0;Species;Animalia;Chordata;Teleostei;Carangaria incertae sedis;Polynemidae;Polydactylus;Polydactylus quadrifilis
+132;Macrobenthos;Not Found;Bamboung_180;Macrobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+133;Meiobenthos;Not Found;Bamboung_180;Meiobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+134;Microphytobenthos;Not Found;Bamboung_180;Microphytobenth;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+135;Mugil cephalus;accepted;Bamboung_180;Mulets;Mugil cephalus;126983.0;Species;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;Mugil;Mugil cephalus
+136;Arius latiscutatus;unaccepted;Bamboung_180;Mâchoirons mari;Arius latiscutatus;275576.0;Species;Animalia;Chordata;Teleostei;Siluriformes;Ariidae;Arius;Arius latiscutatus
+137;Aves;accepted;Bamboung_180;Oiseaux;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+138;Pseudotolithus senegalensis;accepted;Bamboung_180;Otolithes +;Pseudotolithus senegalensis;127008.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Pseudotolithus;Pseudotolithus senegalensis
+139;Teleostei;accepted;Bamboung_180;Petits benthoph;Teleostei;293496.0;Class;Animalia;Chordata;Teleostei;None;None;None;Nan
+140;Phytoplankton;Not Found;Bamboung_180;Phytoplancton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+141;Pomadasys;accepted;Bamboung_180;Pomadasys;Pomadasys;126011.0;Genus;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;Pomadasys;Nan
+142;Trachinotus ovatus;accepted;Bamboung_180;Pompaneau +;Trachinotus ovatus;126819.0;Species;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachinotus;Trachinotus ovatus
+143;Myliobatoidei;Not Found;Bamboung_180;Raies;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+144;Carcharhinus leucas;accepted;Bamboung_180;Requins;Carcharhinus leucas;105792.0;Species;Animalia;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;Carcharhinus;Carcharhinus leucas
+145;Sardinella maderensis;accepted;Bamboung_180;Sardinelle +;Sardinella maderensis;126423.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Sardinella;Sardinella maderensis
+146;Cynoglossus senegalensis;accepted;Bamboung_180;Sole-langue +;Cynoglossus senegalensis;274226.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Cynoglossidae;Cynoglossus;Cynoglossus senegalensis
+147;Cichlidae;accepted;Bamboung_180;Tilapias;Cichlidae;151383.0;Family;Animalia;Chordata;Teleostei;Cichliformes;Cichlidae;None;Nan
+148;Tetraodontidae;accepted;Bamboung_180;Tétrodon +;Tetraodontidae;125612.0;Family;Animalia;Chordata;Teleostei;Tetraodontiformes;Tetraodontidae;None;Nan
+149;Lutjanus;accepted;Bamboung_180;Vivaneaux +;Lutjanus;159791.0;Genus;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;Lutjanus;Nan
+150;Zooplankton;Not Found;Bamboung_180;Zooplancton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+151;NO_DATA;Not Found;Bay_of_Biscay_335;Anchovy;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+152;Bacteria;accepted;Bay_of_Biscay_335;Bacteria;Bacteria;6.0;Kingdom;Bacteria;None;None;None;None;None;Nan
+153;Cephalopoda;accepted;Bay_of_Biscay_335;Benthic cephalopods;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+154;NO_DATA;Not Found;Bay_of_Biscay_335;Benthic meiofauna;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+155;NO_DATA;Not Found;Bay_of_Biscay_335;Benthivorous demersal fish;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+156;Tursiops truncatus;accepted;Bay_of_Biscay_335;Bottlenose dolphins;Tursiops truncatus;137111.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Tursiops;Tursiops truncatus
+157;NO_DATA;Not Found;Bay_of_Biscay_335;Carnivorous benthic invertebrates;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+158;Delphinus delphis;accepted;Bay_of_Biscay_335;Common dolphins;Delphinus delphis;137094.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Delphinus;Delphinus delphis
+159;NO_DATA;Not Found;Bay_of_Biscay_335;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+160;NO_DATA;Not Found;Bay_of_Biscay_335;Discards;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+161;Phocoena phocoena;accepted;Bay_of_Biscay_335;Harbour porpoises;Phocoena phocoena;137117.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Phocoenidae;Phocoena;Phocoena phocoena
+162;NO_DATA;Not Found;Bay_of_Biscay_335;Horse mackerel;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+163;Phytoplankton;Not Found;Bay_of_Biscay_335;Large phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+164;Globicephala melas;accepted;Bay_of_Biscay_335;Long-finned pilot whales;Globicephala melas;137097.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Globicephala;Globicephala melas
+165;NO_DATA;Not Found;Bay_of_Biscay_335;Mackerel;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+166;NO_DATA;Not Found;Bay_of_Biscay_335;Macrozooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+167;Mesozooplankton;Not Found;Bay_of_Biscay_335;Mesozooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+168;Microzooplankton;Not Found;Bay_of_Biscay_335;Microzooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+169;NO_DATA;Not Found;Bay_of_Biscay_335;Necrophagous benthic invertebrates;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+170;Cephalopoda;accepted;Bay_of_Biscay_335;Pelagic cephalopods;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+171;Actinopterygii;accepted;Bay_of_Biscay_335;Piscivorous and benthivorous demersal fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+172;Actinopterygii;accepted;Bay_of_Biscay_335;Piscivorous demersal fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+173;Aves;accepted;Bay_of_Biscay_335;Pursuit divers seabirds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+174;NO_DATA;Not Found;Bay_of_Biscay_335;Sardine;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+175;Phytoplankton;Not Found;Bay_of_Biscay_335;Small phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+176;Sprattus sprattus;accepted;Bay_of_Biscay_335;Sprat;Sprattus sprattus;126425.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Sprattus;Sprattus sprattus
+177;Stenella coeruleoalba;accepted;Bay_of_Biscay_335;Striped dolphins;Stenella coeruleoalba;137107.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Stenella;Stenella coeruleoalba
+178;NO_DATA;Not Found;Bay_of_Biscay_335;Sub-surface deposit feeders invertebrates;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+179;NO_DATA;Not Found;Bay_of_Biscay_335;Suprabenthic invertebrates;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+180;Actinopterygii;accepted;Bay_of_Biscay_335;Suprabenthivorous demersal fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+181;Aves;accepted;Bay_of_Biscay_335;Surface feeders seabirds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+182;NO_DATA;Not Found;Bay_of_Biscay_335;Surface suspension and deposit feeders inv;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+183;Detritus;Not Found;British_Columbia_Coast_478;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+184;Gadus macrocephalus;accepted;British_Columbia_Coast_478;P. cod ad.;Gadus macrocephalus;254538.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus macrocephalus
+185;Gadus macrocephalus;accepted;British_Columbia_Coast_478;P. cod juv.;Gadus macrocephalus;254538.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus macrocephalus
+186;Hippoglossus stenolepis;accepted;British_Columbia_Coast_478;P. halibut ad.;Hippoglossus stenolepis;274290.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus stenolepis
+187;Hippoglossus stenolepis;accepted;British_Columbia_Coast_478;P. halibut juv.;Hippoglossus stenolepis;274290.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus stenolepis
+188;NO_DATA;Not Found;British_Columbia_Coast_478;Pac. Ocean perch;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+189;Merluccius productus;accepted;British_Columbia_Coast_478;Pac. hake;Merluccius productus;272458.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius productus
+190;Atheresthes stomias;accepted;British_Columbia_Coast_478;arrowtooth ad.;Atheresthes stomias;279792.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Atheresthes;Atheresthes stomias
+191;Atheresthes stomias;accepted;British_Columbia_Coast_478;arrowtooth juv.;Atheresthes stomias;279792.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Atheresthes;Atheresthes stomias
+192;Aves;accepted;British_Columbia_Coast_478;birds demer pisciv;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+193;Aves;accepted;British_Columbia_Coast_478;birds pelag pisciv;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+194;Aves;accepted;British_Columbia_Coast_478;birds zooplanktiv;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+195;Bivalvia;accepted;British_Columbia_Coast_478;bivalves;Bivalvia;105.0;Class;Animalia;Mollusca;Bivalvia;None;None;None;Nan
+196;Zooplankton;Not Found;British_Columbia_Coast_478;carn. zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+197;Oncorhynchus tshawytscha;accepted;British_Columbia_Coast_478;chinook;Oncorhynchus tshawytscha;158075.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus tshawytscha
+198;Oncorhynchus keta;accepted;British_Columbia_Coast_478;chum;Oncorhynchus keta;127183.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus keta
+199;NO_DATA;Not Found;British_Columbia_Coast_478;coho;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+200;Brachyura;accepted;British_Columbia_Coast_478;crabs;Brachyura;106673.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+201;Squalus;accepted;British_Columbia_Coast_478;dogfish;Squalus;105782.0;Genus;Animalia;Chordata;Elasmobranchii;Squaliformes;Squalidae;Squalus;Nan
+202;Echinodermata;accepted;British_Columbia_Coast_478;echinoderms;Echinodermata;1806.0;Phylum;Animalia;Echinodermata;None;None;None;None;Nan
+203;Pleuronectiformes;accepted;British_Columbia_Coast_478;flatfish other;Pleuronectiformes;10331.0;Order;Animalia;Chordata;Teleostei;Pleuronectiformes;None;None;Nan
+204;Zooplankton;Not Found;British_Columbia_Coast_478;herb. zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+205;Clupea pallasii;accepted;British_Columbia_Coast_478;herring ad.;Clupea pallasii;151159.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii
+206;Clupea pallasii;accepted;British_Columbia_Coast_478;herring juv.;Clupea pallasii;151159.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii
+207;Medusozoa;accepted;British_Columbia_Coast_478;jellies;Medusozoa;1740301.0;Subphylum;Animalia;Cnidaria;None;None;None;None;Nan
+208;Euphausiacea;accepted;British_Columbia_Coast_478;krill;Euphausiacea;1128.0;Order;Animalia;Arthropoda;Malacostraca;Euphausiacea;None;None;Nan
+209;Teuthida;nomen dubium;British_Columbia_Coast_478;large squids;Teuthida;11716.0;Order;Animalia;Mollusca;Cephalopoda;Teuthida;None;None;Nan
+210;Ophiodon elongatus;accepted;British_Columbia_Coast_478;lingcod;Ophiodon elongatus;240745.0;Species;Animalia;Chordata;Teleostei;Perciformes;Hexagrammidae;Ophiodon;Ophiodon elongatus
+211;Macrophyta;Not Found;British_Columbia_Coast_478;macrophytes;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+212;NO_DATA;Not Found;British_Columbia_Coast_478;misc. pred. pelagics;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+213;NO_DATA;Not Found;British_Columbia_Coast_478;misc. small demersals;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+214;Engraulidae;accepted;British_Columbia_Coast_478;misc. small pelagics;Engraulidae;125465.0;Family;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;None;Nan
+215;Myctophidae;accepted;British_Columbia_Coast_478;myctophids;Myctophidae;125498.0;Family;Animalia;Chordata;Teleostei;Myctophiformes;Myctophidae;None;Nan
+216;NO_DATA;Not Found;British_Columbia_Coast_478;mysticetae;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+217;NO_DATA;Not Found;British_Columbia_Coast_478;odontocetae;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+218;Benthos;junior subjective synonym;British_Columbia_Coast_478;other benthos;Benthosaurus;296146.0;Genus;Animalia;Chordata;Teleostei;Aulopiformes;Ipnopidae;Benthosaurus;Nan
+219;Carcharhiniformes;accepted;British_Columbia_Coast_478;pelagic sharks;Carcharhiniformes;10210.0;Order;Animalia;Chordata;Elasmobranchii;Carcharhiniformes;None;None;Nan
+220;Phytoplankton;Not Found;British_Columbia_Coast_478;phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+221;Oncorhynchus gorbuscha;accepted;British_Columbia_Coast_478;pink;Oncorhynchus gorbuscha;127182.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus gorbuscha
+222;Gadus chalcogrammus;accepted;British_Columbia_Coast_478;pollock ad.;Gadus chalcogrammus;300735.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus
+223;Gadus chalcogrammus;accepted;British_Columbia_Coast_478;pollock juv.;Gadus chalcogrammus;300735.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus
+224;Rajidae;accepted;British_Columbia_Coast_478;rajidae / ratfish;Rajidae;105711.0;Family;Animalia;Chordata;Elasmobranchii;Rajiformes;Rajidae;None;Nan
+225;Lepidopsetta bilineata;accepted;British_Columbia_Coast_478;rock sole;Lepidopsetta bilineata;281305.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Lepidopsetta;Lepidopsetta bilineata
+226;Sebastes;accepted;British_Columbia_Coast_478;rockfish other;Sebastes;126175.0;Genus;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;Nan
+227;Anoplopoma fimbria;accepted;British_Columbia_Coast_478;sablefish ad.;Anoplopoma fimbria;159463.0;Species;Animalia;Chordata;Teleostei;Perciformes;Anoplopomatidae;Anoplopoma;Anoplopoma fimbria
+228;Anoplopoma fimbria;accepted;British_Columbia_Coast_478;sablefish juv.;Anoplopoma fimbria;159463.0;Species;Animalia;Chordata;Teleostei;Perciformes;Anoplopomatidae;Anoplopoma;Anoplopoma fimbria
+229;NO_DATA;Not Found;British_Columbia_Coast_478;salmon shark;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+230;NO_DATA;Not Found;British_Columbia_Coast_478;sea lions;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+231;NO_DATA;Not Found;British_Columbia_Coast_478;seals;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+232;Caridea;accepted;British_Columbia_Coast_478;shrimps;Caridea;106674.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+233;Teuthida;nomen dubium;British_Columbia_Coast_478;small squids;Teuthida;11716.0;Order;Animalia;Mollusca;Cephalopoda;Teuthida;None;None;Nan
+234;Oncorhynchus nerka;accepted;British_Columbia_Coast_478;sockeye;Oncorhynchus nerka;254569.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus nerka
+235;Limanda aspera;accepted;British_Columbia_Coast_478;yellowfin sole;Limanda aspera;254562.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Limanda;Limanda aspera
+236;Microzooplankton and Phytoplankton consumers;Not Found;Celestun_247;Con.mic.zoo.fit;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+237;Microzooplankton consumers;Not Found;Celestun_247;Con.micro.zoopl;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+238;Zooplankton;Not Found;Celestun_247;Con.microcr.zoo;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+239;Microphytobenthos consumers;Not Found;Celestun_247;Cons.mic.fitopl;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+240;Microcrustacea;Not Found;Celestun_247;Cons.microrustr;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+241;Detritus;Not Found;Celestun_247;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+242;Phytoplankton;Not Found;Celestun_247;Fitoplanctofag.;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+243;Phytoplankton;Not Found;Celestun_247;Fitoplancton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+244;Insecta;accepted;Celestun_247;Insectos;Insecta;1307.0;Subclass;Animalia;Arthropoda;Hexapoda;None;None;None;Nan
+245;Macrocrustacea;Not Found;Celestun_247;Macrocrustaceos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+246;Macrophyta;Not Found;Celestun_247;Macrofitas;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+247;Microcrustacea;Not Found;Celestun_247;Microcrustaceos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+248;Mollusca;accepted;Celestun_247;Moluscus;Mollusca;51.0;Phylum;Animalia;Mollusca;None;None;None;None;Nan
+249;Omnivora;Not Found;Celestun_247;Omnivoros;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+250;Pisces;unaccepted;Celestun_247;Otros peces;Pisces;11676.0;Superclass;Animalia;Chordata;None;None;None;None;Nan
+251;Piscivora;Not Found;Celestun_247;Piscivoros;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+252;Polychaeta;accepted;Celestun_247;Poliquetos;Polychaeta;883.0;Class;Animalia;Annelida;Polychaeta;None;None;None;Nan
+253;Zooplankton;Not Found;Celestun_247;Zooplanktofagos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+254;Zooplankton;Not Found;Celestun_247;Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+255;Carangidae;accepted;Central_Gulf_of_California_239;Carangidae;Carangidae;125523.0;Family;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;None;Nan
+256;Clupeidae;accepted;Central_Gulf_of_California_239;Clupaeidae;Clupeidae;125464.0;Family;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;None;Nan
+257;Brachyura;accepted;Central_Gulf_of_California_239;Crabs;Brachyura;106673.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+258;NO_DATA;Not Found;Central_Gulf_of_California_239;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+259;Actinopterygii;accepted;Central_Gulf_of_California_239;Discarded fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+260;Haemulidae;accepted;Central_Gulf_of_California_239;Haemulidae;Haemulidae;125538.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;None;Nan
+261;Lutjanidae;accepted;Central_Gulf_of_California_239;Lutjanidae;Lutjanidae;151453.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;None;Nan
+262;NO_DATA;Not Found;Central_Gulf_of_California_239;Meiobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+263;Myctophidae;accepted;Central_Gulf_of_California_239;Myctophidae;Myctophidae;125498.0;Family;Animalia;Chordata;Teleostei;Myctophiformes;Myctophidae;None;Nan
+264;Actinopterygii;accepted;Central_Gulf_of_California_239;Other fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+265;Crustacea;accepted;Central_Gulf_of_California_239;Other macrocrus;Crustacea;1066.0;Subphylum;Animalia;Arthropoda;None;None;None;None;Nan
+266;Mollusca;accepted;Central_Gulf_of_California_239;Other molluscs;Mollusca;51.0;Phylum;Animalia;Mollusca;None;None;None;None;Nan
+267;Paralichthyidae;accepted;Central_Gulf_of_California_239;Paralichthydae;Paralichthyidae;154168.0;Family;Animalia;Chordata;Teleostei;Pleuronectiformes;Paralichthyidae;None;Nan
+268;NO_DATA;Not Found;Central_Gulf_of_California_239;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+269;NO_DATA;Not Found;Central_Gulf_of_California_239;Polychaeta;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+270;Pleuroncodes planipes;junior objective synonym;Central_Gulf_of_California_239;Red crab;Pleuroncodes planipes;392683.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Munididae;Pleuroncodes;Pleuroncodes planipes
+271;Sciaenidae;accepted;Central_Gulf_of_California_239;Sciaenidae;Sciaenidae;125558.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;None;Nan
+272;Scombridae;accepted;Central_Gulf_of_California_239;Scombridae;Scombridae;125559.0;Family;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;None;Nan
+273;Scorpaeniformes;unaccepted;Central_Gulf_of_California_239;Scorp/Triglidae;Scorpaeniformes;10329.0;Order;Animalia;Chordata;Teleostei;Scorpaeniformes;None;None;Nan
+274;Aves;accepted;Central_Gulf_of_California_239;Sea birds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+275;Mammalia;accepted;Central_Gulf_of_California_239;Sea mammals;Mammalia;1837.0;Class;Animalia;Chordata;Mammalia;None;None;None;Nan
+276;Serranidae;accepted;Central_Gulf_of_California_239;Serranidae;Serranidae;125561.0;Family;Animalia;Chordata;Teleostei;Perciformes;Serranidae;None;Nan
+277;Chondrichthyes;accepted;Central_Gulf_of_California_239;Sharks / Rays;Chondrichthyes;1517375.0;Parvphylum;Animalia;Chordata;None;None;None;None;Nan
+278;Dendrobranchiata;accepted;Central_Gulf_of_California_239;Shrimp;Dendrobranchiata;106669.0;Suborder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+279;Teuthida;nomen dubium;Central_Gulf_of_California_239;Squid;Teuthida;11716.0;Order;Animalia;Mollusca;Cephalopoda;Teuthida;None;None;Nan
+280;NO_DATA;Not Found;Central_Gulf_of_California_239;Stomatopods;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+281;NO_DATA;Not Found;Central_Gulf_of_California_239;Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+282;Mysticeti;accepted;Denmark_Faroe_Islands_46;Baleen whales;Mysticeti;148724.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+283;NO_DATA;Not Found;Denmark_Faroe_Islands_46;Benthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+284;Micromesistius poutassou;accepted;Denmark_Faroe_Islands_46;Blue Whiting;Micromesistius poutassou;126439.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Micromesistius;Micromesistius poutassou
+285;Gadus morhua;accepted;Denmark_Faroe_Islands_46;Cod;Gadus morhua;126436.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus morhua
+286;Detritus;Not Found;Denmark_Faroe_Islands_46;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+287;Reinhardtius hippoglossoides;accepted;Denmark_Faroe_Islands_46;Greenland Halibut;Reinhardtius hippoglossoides;127144.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Reinhardtius;Reinhardtius hippoglossoides
+288;Melanogrammus aeglefinus;accepted;Denmark_Faroe_Islands_46;Haddock;Melanogrammus aeglefinus;126437.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Melanogrammus;Melanogrammus aeglefinus
+289;Clupea harengus;accepted;Denmark_Faroe_Islands_46;Herring;Clupea harengus;126417.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea harengus
+290;Zooplankton;Not Found;Denmark_Faroe_Islands_46;Lrg. Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+291;Scomber scombrus;accepted;Denmark_Faroe_Islands_46;Mackerel;Scomber scombrus;127023.0;Species;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;Scomber scombrus
+292;Nekton;Not Found;Denmark_Faroe_Islands_46;Nekton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+293;NO_DATA;Not Found;Denmark_Faroe_Islands_46;Other deep water;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+294;NO_DATA;Not Found;Denmark_Faroe_Islands_46;Other demersal fish;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+295;NO_DATA;Not Found;Denmark_Faroe_Islands_46;Other pelagics;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+296;Phytoplankton;Not Found;Denmark_Faroe_Islands_46;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+297;Sebastes;accepted;Denmark_Faroe_Islands_46;Redfish;Sebastes;126175.0;Genus;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;Nan
+298;Pollachius virens;accepted;Denmark_Faroe_Islands_46;Saithe;Pollachius virens;126441.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Pollachius;Pollachius virens
+299;Aves;accepted;Denmark_Faroe_Islands_46;Seabirds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+300;Zooplankton;Not Found;Denmark_Faroe_Islands_46;Sm. Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+301;Odontoceti;accepted;Denmark_Faroe_Islands_46;Toothed mammals;Odontoceti;148723.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+302;Gadus chalcogrammus;accepted;Eastern_Bering_Sea_183;Adult pollock;Gadus chalcogrammus;300735.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus
+303;Mysticeti;accepted;Eastern_Bering_Sea_183;Baleen whales;Mysticeti;148724.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+304;Ziphiidae;accepted;Eastern_Bering_Sea_183;Beaked whales;Ziphiidae;136986.0;Family;Animalia;Chordata;Mammalia;Cetartiodactyla;Ziphiidae;None;Nan
+305;NO_DATA;Not Found;Eastern_Bering_Sea_183;Benth. Par. feeders;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+306;Cephalopoda;accepted;Eastern_Bering_Sea_183;Cephalopods;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+307;Actinopterygii;accepted;Eastern_Bering_Sea_183;Deepwater fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+308;Detritus;Not Found;Eastern_Bering_Sea_183;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+309;NO_DATA;Not Found;Eastern_Bering_Sea_183;Epifauna;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+310;Zooplankton;Not Found;Eastern_Bering_Sea_183;Herb. Zoops;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+311;NO_DATA;Not Found;Eastern_Bering_Sea_183;Infauna;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+312;Medusozoa;accepted;Eastern_Bering_Sea_183;Jellyfish;Medusozoa;1740301.0;Subphylum;Animalia;Cnidaria;None;None;None;None;Nan
+313;Gadus chalcogrammus;accepted;Eastern_Bering_Sea_183;Juvenile Pollock;Gadus chalcogrammus;300735.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus
+314;Zooplankton;Not Found;Eastern_Bering_Sea_183;Large Zoops;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+315;Pleuronectiformes;accepted;Eastern_Bering_Sea_183;Large flatfish;Pleuronectiformes;10331.0;Order;Animalia;Chordata;Teleostei;Pleuronectiformes;None;None;Nan
+316;Actinopterygii;accepted;Eastern_Bering_Sea_183;Other demersal fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+317;Actinopterygii;accepted;Eastern_Bering_Sea_183;Pelagics;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+318;Phytoplankton;Not Found;Eastern_Bering_Sea_183;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+319;Aves;accepted;Eastern_Bering_Sea_183;Pisc. Birds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+320;Phocidae;accepted;Eastern_Bering_Sea_183;Seals;Phocidae;136976.0;Family;Animalia;Chordata;Mammalia;Carnivora;Phocidae;None;Nan
+321;Pleuronectiformes;accepted;Eastern_Bering_Sea_183;Small flatfish;Pleuronectiformes;10331.0;Order;Animalia;Chordata;Teleostei;Pleuronectiformes;None;None;Nan
+322;Physeter macrocephalus;accepted;Eastern_Bering_Sea_183;Sperm whales;Physeter macrocephalus;137119.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Physeteridae;Physeter;Physeter macrocephalus
+323;Eumetopias jubatus;accepted;Eastern_Bering_Sea_183;Steller sea lions;Eumetopias jubatus;254999.0;Species;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Eumetopias;Eumetopias jubatus
+324;Odontoceti;accepted;Eastern_Bering_Sea_183;Toothed whales;Odontoceti;148723.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+325;NO_DATA;Not Found;Eastern_Bering_Sea_183;Walrus & bearded;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+326;Actiniaria;accepted;Galapagos_Floreana_Rocky_Reef_48;Anemones;Actiniaria;1360.0;Order;Animalia;Cnidaria;Hexacorallia;Actiniaria;None;None;Nan
+327;Asteroidea;accepted;Galapagos_Floreana_Rocky_Reef_48;Asteroids;Asteroidea;123080.0;Class;Animalia;Echinodermata;Asteroidea;None;None;None;Nan
+328;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Bacalao;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+329;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Benthic algae;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+330;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Birds;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+331;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Carnivorous zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+332;Polyplacophora;accepted;Galapagos_Floreana_Rocky_Reef_48;Chitons;Polyplacophora;55.0;Class;Animalia;Mollusca;Polyplacophora;None;None;None;Nan
+333;Actinopterygii;accepted;Galapagos_Floreana_Rocky_Reef_48;Detritivorous fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+334;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+335;Eucidaris;accepted;Galapagos_Floreana_Rocky_Reef_48;Eucidaris urchin;Eucidaris;204525.0;Genus;Animalia;Echinodermata;Echinoidea;Cidaroida;Cidaridae;Eucidaris;Nan
+336;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Filter + suspension feeders;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+337;Zooplankton;Not Found;Galapagos_Floreana_Rocky_Reef_48;Herbivorous zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+338;Hexaplex;accepted;Galapagos_Floreana_Rocky_Reef_48;Hexaplex gastropod;Hexaplex;138194.0;Genus;Animalia;Mollusca;Gastropoda;Neogastropoda;Muricidae;Hexaplex;Nan
+339;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Large benthic invertebrate eaters;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+340;Lytechinus semituberculatus;accepted;Galapagos_Floreana_Rocky_Reef_48;Lytechinus urchin;Lytechinus semituberculatus;513379.0;Species;Animalia;Echinodermata;Echinoidea;Camarodonta;Toxopneustidae;Lytechinus;Lytechinus semituberculatus
+341;Amblyrhynchus cristatus;accepted;Galapagos_Floreana_Rocky_Reef_48;Marine iguana;Amblyrhynchus cristatus;344019.0;Species;Animalia;Chordata;None;Sauria;Iguanidae;Amblyrhynchus;Amblyrhynchus cristatus
+342;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Microphytobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+343;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Non-commercial reef predators;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+344;Octopus;accepted;Galapagos_Floreana_Rocky_Reef_48;Octopods;Octopus;138268.0;Genus;Animalia;Mollusca;Cephalopoda;Octopoda;Octopodidae;Octopus;Nan
+345;Actinopterygii;accepted;Galapagos_Floreana_Rocky_Reef_48;Omnivorous reef fishes;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+346;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Other commercial reef predators;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+347;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Other herbivorous fish;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+348;Holothuroidea;accepted;Galapagos_Floreana_Rocky_Reef_48;Other sea cucumbers;Holothuroidea;123083.0;Class;Animalia;Echinodermata;Holothuroidea;None;None;None;Nan
+349;Echinoidea;accepted;Galapagos_Floreana_Rocky_Reef_48;Other urchins;Echinoidea;123082.0;Class;Animalia;Echinodermata;Echinoidea;None;None;None;Nan
+350;Scaridae;unaccepted;Galapagos_Floreana_Rocky_Reef_48;Parrotfishes;Scaridae;398089.0;Genus;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Labridae;Scaridae;Nan
+351;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Pelagic planktivores;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+352;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Pelagic predators;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+353;Isostichopus fuscus;accepted;Galapagos_Floreana_Rocky_Reef_48;Pepino sea cucumber;Isostichopus fuscus;529516.0;Species;Animalia;Echinodermata;Holothuroidea;Synallactida;Stichopodidae;Isostichopus;Isostichopus fuscus
+354;Phytoplankton;Not Found;Galapagos_Floreana_Rocky_Reef_48;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+355;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Planktivorous reef fish;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+356;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Sea lions;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+357;Cheloniidae;accepted;Galapagos_Floreana_Rocky_Reef_48;Sea turtles;Cheloniidae;136999.0;Family;Animalia;Chordata;None;Testudines;Cheloniidae;None;Nan
+358;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Sharks;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+359;Decapoda;accepted;Galapagos_Floreana_Rocky_Reef_48;Shrimps and small crabs;Decapoda;1130.0;Order;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+360;Scyllarides spp.;Not Found;Galapagos_Floreana_Rocky_Reef_48;Slipper lobster;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+361;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Small benthic invertebrate eaters;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+362;Crustacea;accepted;Galapagos_Floreana_Rocky_Reef_48;Small crustaceans;Crustacea;1066.0;Subphylum;Animalia;Arthropoda;None;None;None;None;Nan
+363;Gastropoda;accepted;Galapagos_Floreana_Rocky_Reef_48;Small gastropods;Gastropoda;101.0;Class;Animalia;Mollusca;Gastropoda;None;None;None;Nan
+364;Panulirus spp.;Not Found;Galapagos_Floreana_Rocky_Reef_48;Spiny lobsters;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+365;Scleractinia;accepted;Galapagos_Floreana_Rocky_Reef_48;Stony corals;Scleractinia;1363.0;Order;Animalia;Cnidaria;Hexacorallia;Scleractinia;None;None;Nan
+366;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Toothed cetaceans;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+367;Tripneustes depressus;accepted;Galapagos_Floreana_Rocky_Reef_48;Tripneustes urchin;Tripneustes depressus;513619.0;Species;Animalia;Echinodermata;Echinoidea;Camarodonta;Toxopneustidae;Tripneustes;Tripneustes depressus
+368;NO_DATA;Not Found;Galapagos_Floreana_Rocky_Reef_48;Worms and ophioroids;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+369;Hippoglossoides platessoides;accepted;Grand_Banks_of_Newfoundland_105;Aplaice +35cm;Hippoglossoides platessoides;127137.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossoides;Hippoglossoides platessoides
+370;Hippoglossoides platessoides;accepted;Grand_Banks_of_Newfoundland_105;Aplaice<=35cm;Hippoglossoides platessoides;127137.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossoides;Hippoglossoides platessoides
+371;Gonatus fabricii;accepted;Grand_Banks_of_Newfoundland_105;Arctic Squid;Gonatus fabricii;153097.0;Species;Animalia;Mollusca;Cephalopoda;Oegopsida;Gonatidae;Gonatus;Gonatus fabricii
+372;Boreogadus saida;accepted;Grand_Banks_of_Newfoundland_105;Arctic cod;Boreogadus saida;126433.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Boreogadus;Boreogadus saida
+373;NO_DATA;Not Found;Grand_Banks_of_Newfoundland_105;Bivalves;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+374;Mallotus villosus;accepted;Grand_Banks_of_Newfoundland_105;Capelin;Mallotus villosus;126735.0;Species;Animalia;Chordata;Teleostei;Osmeriformes;Osmeridae;Mallotus;Mallotus villosus
+375;Cetacea;accepted;Grand_Banks_of_Newfoundland_105;Cetaceans;Cetacea;2688.0;Infraorder;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+376;Gadus morhua;accepted;Grand_Banks_of_Newfoundland_105;Cod  <40 cm;Gadus morhua;126436.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus morhua
+377;Gadus morhua;accepted;Grand_Banks_of_Newfoundland_105;Cod + 40cm;Gadus morhua;126436.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus morhua
+378;Gadus morhua;accepted;Grand_Banks_of_Newfoundland_105;Cod <40 cm;Gadus morhua;126436.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus morhua
+379;Detritus;Not Found;Grand_Banks_of_Newfoundland_105;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+380;Squalus acanthias;accepted;Grand_Banks_of_Newfoundland_105;Dogfish;Squalus acanthias;105923.0;Species;Animalia;Chordata;Elasmobranchii;Squaliformes;Squalidae;Squalus;Squalus acanthias
+381;Anas platyrhynchos;accepted;Grand_Banks_of_Newfoundland_105;Ducks;Anas platyrhynchos;148791.0;Species;Animalia;Chordata;Aves;Anseriformes;Anatidae;Anas;Anas platyrhynchos
+382;NO_DATA;Not Found;Grand_Banks_of_Newfoundland_105;Echinoderms;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+383;Hippoglossus hippoglossus;accepted;Grand_Banks_of_Newfoundland_105;G. Halibut +65cm;Hippoglossus hippoglossus;127138.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus hippoglossus
+384;Hippoglossus hippoglossus;accepted;Grand_Banks_of_Newfoundland_105;G. Halibut Juv.;Hippoglossus hippoglossus;127138.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus hippoglossus
+385;Gadus ogac;unaccepted;Grand_Banks_of_Newfoundland_105;Greenland cod;Gadus ogac;158926.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus ogac
+386;Halichoerus grypus;accepted;Grand_Banks_of_Newfoundland_105;Grey seals;Halichoerus grypus;137080.0;Species;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Halichoerus;Halichoerus grypus
+387;Pagophilus groenlandicus;accepted;Grand_Banks_of_Newfoundland_105;Harp Seals;Pagophilus groenlandicus;159019.0;Species;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Pagophilus;Pagophilus groenlandicus
+388;Clupea harengus;accepted;Grand_Banks_of_Newfoundland_105;Herring;Clupea harengus;126417.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea harengus
+389;Cystophora cristata;accepted;Grand_Banks_of_Newfoundland_105;Hooded Seals;Cystophora cristata;137078.0;Species;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Cystophora;Cystophora cristata
+390;Gadidae;accepted;Grand_Banks_of_Newfoundland_105;Juv. Dem. Pisc (- 40cm);Gadidae;125469.0;Family;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;None;Nan
+391;Gadidae;accepted;Grand_Banks_of_Newfoundland_105;L. Dem. Pisc (+40 cm);Gadidae;125469.0;Family;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;None;Nan
+392;Pleuronectidae;accepted;Grand_Banks_of_Newfoundland_105;L.Dem.Feeders (+ 30cm);Pleuronectidae;125579.0;Family;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;None;Nan
+393;Zooplankton;Not Found;Grand_Banks_of_Newfoundland_105;L.Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+394;Chionoecetes opilio;accepted;Grand_Banks_of_Newfoundland_105;Large Crabs  +95 cm;Chionoecetes opilio;107315.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Oregoniidae;Chionoecetes;Chionoecetes opilio
+395;NO_DATA;Not Found;Grand_Banks_of_Newfoundland_105;Lobster;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+396;Cyclopterus lumpus;accepted;Grand_Banks_of_Newfoundland_105;Lumpfish;Cyclopterus lumpus;127214.0;Species;Animalia;Chordata;Teleostei;Perciformes;Cyclopteridae;Cyclopterus;Cyclopterus lumpus
+397;Invertebrata;Not Found;Grand_Banks_of_Newfoundland_105;O.Benthic Inver;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+398;NO_DATA;Not Found;Grand_Banks_of_Newfoundland_105;O.S.Demersals;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+399;Phytoplankton;Not Found;Grand_Banks_of_Newfoundland_105;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+400;Morus bassanus;accepted;Grand_Banks_of_Newfoundland_105;Piscivorous Birds;Morus bassanus;148776.0;Species;Animalia;Chordata;Aves;Pelecaniformes;Sulidae;Morus;Morus bassanus
+401;Hydrobates leucorhous;accepted;Grand_Banks_of_Newfoundland_105;Planktivorous Birds;Hydrobates leucorhous;1773443.0;Species;Animalia;Chordata;Aves;Procellariiformes;Hydrobatidae;Hydrobates;Hydrobates leucorhous
+402;NO_DATA;Not Found;Grand_Banks_of_Newfoundland_105;Polychaetes;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+403;Sebastes;accepted;Grand_Banks_of_Newfoundland_105;Redfish;Sebastes;126175.0;Genus;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;Nan
+404;Actinopterygii;accepted;Grand_Banks_of_Newfoundland_105;S.Dem.Feeders;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+405;Zooplankton;Not Found;Grand_Banks_of_Newfoundland_105;S.Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+406;Salmo salar;accepted;Grand_Banks_of_Newfoundland_105;Salmon;Salmo salar;127186.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Salmo;Salmo salar
+407;Ammodytes;accepted;Grand_Banks_of_Newfoundland_105;Sandlance;Ammodytes;125909.0;Genus;Animalia;Chordata;Teleostei;Perciformes;Ammodytidae;Ammodytes;Nan
+408;Illex illecebrosus;unaccepted;Grand_Banks_of_Newfoundland_105;Shortfinned squid;Illex illecebrosus;748978.0;Species;Animalia;Mollusca;Cephalopoda;Oegopsida;Ommastrephidae;Illex;Illex illecebrosus
+409;NO_DATA;Not Found;Grand_Banks_of_Newfoundland_105;Shrimp;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+410;Rajidae;accepted;Grand_Banks_of_Newfoundland_105;Skates;Rajidae;105711.0;Family;Animalia;Chordata;Elasmobranchii;Rajiformes;Rajidae;None;Nan
+411;Chionoecetes opilio;accepted;Grand_Banks_of_Newfoundland_105;Small Crabs  - 95 cm;Chionoecetes opilio;107315.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Oregoniidae;Chionoecetes;Chionoecetes opilio
+412;Myctophidae;accepted;Grand_Banks_of_Newfoundland_105;Small Mesopelagics;Myctophidae;125498.0;Family;Animalia;Chordata;Teleostei;Myctophiformes;Myctophidae;None;Nan
+413;NO_DATA;Not Found;Grand_Banks_of_Newfoundland_105;Small Pelagics;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+414;Scomber scombrus;accepted;Grand_Banks_of_Newfoundland_105;Transient Mackerel ( +29cm);Scomber scombrus;127023.0;Species;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;Scomber scombrus
+415;NO_DATA;Not Found;Grand_Banks_of_Newfoundland_105;Transient Pelagics;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+416;Odobenus rosmarus;accepted;Grand_Banks_of_Newfoundland_105;Walrus;Odobenus rosmarus;137077.0;Species;Animalia;Chordata;Mammalia;Carnivora;Odobenidae;Odobenus;Odobenus rosmarus
+417;Pseudopleuronectes americanus;accepted;Grand_Banks_of_Newfoundland_105;Winter flounder;Pseudopleuronectes americanus;158885.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Pseudopleuronectes;Pseudopleuronectes americanus
+418;Glyptocephalus cynoglossus;accepted;Grand_Banks_of_Newfoundland_105;Witch flounder;Glyptocephalus cynoglossus;127136.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Glyptocephalus;Glyptocephalus cynoglossus
+419;Limanda ferruginea;unaccepted;Grand_Banks_of_Newfoundland_105;Yellowtail Flounders;Limanda ferruginea;158879.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Limanda;Limanda ferruginea
+420;NO_DATA;Not Found;Gulf_of_California_450;Benthic inv.;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+421;Callinectes;accepted;Gulf_of_California_450;Callinectes sp.;Callinectes;106921.0;Genus;Animalia;Arthropoda;Malacostraca;Decapoda;Portunidae;Callinectes;Nan
+422;Cephalopoda;accepted;Gulf_of_California_450;Cephalopoda;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+423;Aves;accepted;Gulf_of_California_450;Coastal birds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+424;Detritus;Not Found;Gulf_of_California_450;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+425;Elasmobranchii;accepted;Gulf_of_California_450;Elasmobranchi (RAYS);Elasmobranchii;10193.0;Class;Animalia;Chordata;Elasmobranchii;None;None;None;Nan
+426;Elasmobranchii;accepted;Gulf_of_California_450;Elasmobranchi (SHARKS);Elasmobranchii;10193.0;Class;Animalia;Chordata;Elasmobranchii;None;None;None;Nan
+427;Farfantepenaeus californiensis;unaccepted;Gulf_of_California_450;Farfantepenaeus californiensis (ADULTS);Farfantepenaeus californiensis;377431.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Farfantepenaeus;Farfantepenaeus californiensis
+428;Farfantepenaeus californiensis;unaccepted;Gulf_of_California_450;Farfantepenaeus californiensis (JUVENILES);Farfantepenaeus californiensis;377431.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Farfantepenaeus;Farfantepenaeus californiensis
+429;Pleuronectiformes;accepted;Gulf_of_California_450;Flat fishes;Pleuronectiformes;10331.0;Order;Animalia;Chordata;Teleostei;Pleuronectiformes;None;None;Nan
+430;Haemulidae;accepted;Gulf_of_California_450;Haemulidae;Haemulidae;125538.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;None;Nan
+431;Litopenaeus stylirostris;unaccepted;Gulf_of_California_450;Litopenaeus stylirostris (ADULTS);Litopenaeus stylirostris;377458.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Litopenaeus;Litopenaeus stylirostris
+432;Litopenaeus stylirostris;unaccepted;Gulf_of_California_450;Litopenaeus stylirostris (JUVENILES);Litopenaeus stylirostris;377458.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Litopenaeus;Litopenaeus stylirostris
+433;Macrophytes;Not Found;Gulf_of_California_450;Macrophytes;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+434;Aves;accepted;Gulf_of_California_450;Marine birds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+435;Merluccidae;Not Found;Gulf_of_California_450;Merluccidae;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+436;Gerreidae;accepted;Gulf_of_California_450;Mojarras;Gerreidae;151456.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Gerreidae;None;Nan
+437;Myctophidae;accepted;Gulf_of_California_450;Myctophidos;Myctophidae;125498.0;Family;Animalia;Chordata;Teleostei;Myctophiformes;Myctophidae;None;Nan
+438;Mysticeti;accepted;Gulf_of_California_450;Mysticeti;Mysticeti;148724.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+439;Odontoceti;accepted;Gulf_of_California_450;Odontoceti;Odontoceti;148723.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+440;Actinopterygii;accepted;Gulf_of_California_450;Other fishes;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+441;Phocoena sinus;accepted;Gulf_of_California_450;Phocoena sinus;Phocoena sinus;343897.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Phocoenidae;Phocoena;Phocoena sinus
+442;Phytoplankton;Not Found;Gulf_of_California_450;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+443;Polychaeta;accepted;Gulf_of_California_450;Polychaeta;Polychaeta;883.0;Class;Animalia;Annelida;Polychaeta;None;None;None;Nan
+444;Rhinobatidae;accepted;Gulf_of_California_450;Rhinobatidae;Rhinobatidae;105712.0;Family;Animalia;Chordata;Elasmobranchii;Rhinopristiformes;Rhinobatidae;None;Nan
+445;Sciaenidae;accepted;Gulf_of_California_450;Sciaenidae;Sciaenidae;125558.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;None;Nan
+446;Serranidae;accepted;Gulf_of_California_450;Serranidae;Serranidae;125561.0;Family;Animalia;Chordata;Teleostei;Perciformes;Serranidae;None;Nan
+447;Sicyonia penicillata;accepted;Gulf_of_California_450;Sicyonia penicillata;Sicyonia penicillata;377649.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Sicyoniidae;Sicyonia;Sicyonia penicillata
+448;Clupeiformes;accepted;Gulf_of_California_450;Small pelagics;Clupeiformes;10297.0;Order;Animalia;Chordata;Teleostei;Clupeiformes;None;None;Nan
+449;Stomatopoda;accepted;Gulf_of_California_450;Stomatopoda;Stomatopoda;14355.0;Order;Animalia;Arthropoda;Malacostraca;Stomatopoda;None;None;Nan
+450;Totoaba macdonaldi;accepted;Gulf_of_California_450;Totoaba macdonaldi (ADULTS);Totoaba macdonaldi;283019.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Totoaba;Totoaba macdonaldi
+451;Totoaba macdonaldi;accepted;Gulf_of_California_450;Totoaba macdonaldi (JUVENILES);Totoaba macdonaldi;283019.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Totoaba;Totoaba macdonaldi
+452;Zalophus californianus;accepted;Gulf_of_California_450;Zalophus californianus;Zalophus californianus;255003.0;Species;Animalia;Chordata;Mammalia;Carnivora;Otariidae;Zalophus;Zalophus californianus
+453;Zooplankton;Not Found;Gulf_of_California_450;Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+454;Salvelinus alpinus;accepted;Hudson_Bay_446;Arctic Char;Salvelinus alpinus;127188.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Salvelinus;Salvelinus alpinus
+455;Salmo salar;accepted;Hudson_Bay_446;Atlantic Salmon;Salmo salar;127186.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Salmo;Salmo salar
+456;Erignathus barbatus;accepted;Hudson_Bay_446;Bearded Seal;Erignathus barbatus;137079.0;Species;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Erignathus;Erignathus barbatus
+457;Delphinapterus leucas;accepted;Hudson_Bay_446;Beluga E;Delphinapterus leucas;137115.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Monodontidae;Delphinapterus;Delphinapterus leucas
+458;Delphinapterus leucas;accepted;Hudson_Bay_446;Beluga James;Delphinapterus leucas;137115.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Monodontidae;Delphinapterus;Delphinapterus leucas
+459;Delphinapterus leucas;accepted;Hudson_Bay_446;Beluga W;Delphinapterus leucas;137115.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Monodontidae;Delphinapterus;Delphinapterus leucas
+460;Bivalvia;accepted;Hudson_Bay_446;Bivalves;Bivalvia;105.0;Class;Animalia;Mollusca;Bivalvia;None;None;None;Nan
+461;Balaena mysticetus;accepted;Hudson_Bay_446;Bowhead;Balaena mysticetus;137086.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Balaenidae;Balaena;Balaena mysticetus
+462;Actinopterygii;accepted;Hudson_Bay_446;Brackish Fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+463;Mallotus villosus;accepted;Hudson_Bay_446;Capelin;Mallotus villosus;126735.0;Species;Animalia;Chordata;Teleostei;Osmeriformes;Osmeridae;Mallotus;Mallotus villosus
+464;Cephalopoda;accepted;Hudson_Bay_446;Cephalopods;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+465;Copepoda;accepted;Hudson_Bay_446;Copepods;Copepoda;1080.0;Class;Animalia;Arthropoda;Copepoda;None;None;None;Nan
+466;Crustacea;accepted;Hudson_Bay_446;Crustaceans;Crustacea;1066.0;Subphylum;Animalia;Arthropoda;None;None;None;None;Nan
+467;Echinodermata;accepted;Hudson_Bay_446;Echinoderms;Echinodermata;1806.0;Phylum;Animalia;Echinodermata;None;None;None;None;Nan
+468;Euphausiacea;accepted;Hudson_Bay_446;Euphausids;Euphausiacea;1128.0;Order;Animalia;Arthropoda;Malacostraca;Euphausiacea;None;None;Nan
+469;Gadiformes;accepted;Hudson_Bay_446;Gadiformes;Gadiformes;10313.0;Order;Animalia;Chordata;Teleostei;Gadiformes;None;None;Nan
+470;Phoca vitulina;accepted;Hudson_Bay_446;Harbour Seal;Phoca vitulina;137084.0;Species;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Phoca;Phoca vitulina
+471;Pagophilus groenlandicus;accepted;Hudson_Bay_446;Harp seal;Pagophilus groenlandicus;159019.0;Species;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Pagophilus;Pagophilus groenlandicus
+472;Bacillariophyta;accepted;Hudson_Bay_446;Ice Algae;Bacillariophyta;148898.0;Phylum;Chromista;Bacillariophyta;None;None;None;None;Nan
+473;NO_DATA;Not Found;Hudson_Bay_446;Ice Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+474;NO_DATA;Not Found;Hudson_Bay_446;Killer Whale;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+475;Macrozooplankton;Not Found;Hudson_Bay_446;MacroZooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+476;Annelida;accepted;Hudson_Bay_446;Marine Worms;Annelida;882.0;Phylum;Animalia;Annelida;None;None;None;None;Nan
+477;Microzooplankton;Not Found;Hudson_Bay_446;MicroZooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+478;NO_DATA;Not Found;Hudson_Bay_446;Narwhal;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+479;Benthos;junior subjective synonym;Hudson_Bay_446;Other Benthos;Benthosaurus;296146.0;Genus;Animalia;Chordata;Teleostei;Aulopiformes;Ipnopidae;Benthosaurus;Nan
+480;Actinopterygii;accepted;Hudson_Bay_446;Other Marine Fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+481;Zooplankton;Not Found;Hudson_Bay_446;Other MesoZooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+482;NO_DATA;Not Found;Hudson_Bay_446;Pelagic Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+483;NO_DATA;Not Found;Hudson_Bay_446;Polar Bear Foxe;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+484;NO_DATA;Not Found;Hudson_Bay_446;Polar Bear WHB;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+485;Phytoplankton;Not Found;Hudson_Bay_446;Primary Production;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+486;Pusa hispida;accepted;Hudson_Bay_446;Ringed Seal;Pusa hispida;159021.0;Species;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Pusa;Pusa hispida
+487;NO_DATA;Not Found;Hudson_Bay_446;SH Polar Bear;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+488;Ammodytes;accepted;Hudson_Bay_446;Sandlance;Ammodytes;125909.0;Genus;Animalia;Chordata;Teleostei;Perciformes;Ammodytidae;Ammodytes;Nan
+489;Cottoidea/Zoarcidae;Not Found;Hudson_Bay_446;Sculpins/ Zoarcids;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+490;Aves;accepted;Hudson_Bay_446;Seabirds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+491;Chondrichthyes;accepted;Hudson_Bay_446;Sharks/Rays;Chondrichthyes;1517375.0;Parvphylum;Animalia;Chordata;None;None;None;None;Nan
+492;Odobenus rosmarus;accepted;Hudson_Bay_446;Walrus N;Odobenus rosmarus;137077.0;Species;Animalia;Chordata;Mammalia;Carnivora;Odobenidae;Odobenus;Odobenus rosmarus
+493;Odobenus rosmarus;accepted;Hudson_Bay_446;Walrus S;Odobenus rosmarus;137077.0;Species;Animalia;Chordata;Mammalia;Carnivora;Odobenidae;Odobenus;Odobenus rosmarus
+494;Lutjanus spp.;Not Found;Jalisco_and_Colima_Coast_307;Adultos Lutjanu;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+495;Anguilliformes;accepted;Jalisco_and_Colima_Coast_307;Anguilas y more;Anguilliformes;10295.0;Order;Animalia;Chordata;Teleostei;Anguilliformes;None;None;Nan
+496;Aves;accepted;Jalisco_and_Colima_Coast_307;Aves marinas;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+497;Brachyura;accepted;Jalisco_and_Colima_Coast_307;Braquiuros;Brachyura;106673.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+498;Carangidae;accepted;Jalisco_and_Colima_Coast_307;Carángidos;Carangidae;125523.0;Family;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;None;Nan
+499;Detritus;Not Found;Jalisco_and_Colima_Coast_307;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+500;Coryphaena hippurus;accepted;Jalisco_and_Colima_Coast_307;Dorado;Coryphaena hippurus;126846.0;Species;Animalia;Chordata;Teleostei;Carangiformes;Coryphaenidae;Coryphaena;Coryphaena hippurus
+501;Echinodermata;accepted;Jalisco_and_Colima_Coast_307;Equinodermos;Echinodermata;1806.0;Phylum;Animalia;Echinodermata;None;None;None;None;Nan
+502;Scombridae;accepted;Jalisco_and_Colima_Coast_307;Escómbridos;Scombridae;125559.0;Family;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;None;Nan
+503;Stomatopoda;accepted;Jalisco_and_Colima_Coast_307;Estomatópodos;Stomatopoda;14355.0;Order;Animalia;Arthropoda;Malacostraca;Stomatopoda;None;None;Nan
+504;Phytoplankton;Not Found;Jalisco_and_Colima_Coast_307;Fitoplancton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+505;Gasterosteidae;accepted;Jalisco_and_Colima_Coast_307;Gasterosteidos;Gasterosteidae;125476.0;Family;Animalia;Chordata;Teleostei;Perciformes;Gasterosteidae;None;Nan
+506;Gerreidae;accepted;Jalisco_and_Colima_Coast_307;Gerreidos;Gerreidae;151456.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Gerreidae;None;Nan
+507;Haemulidae;accepted;Jalisco_and_Colima_Coast_307;Haemúlidos;Haemulidae;125538.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;None;Nan
+508;Infauna;Not Found;Jalisco_and_Colima_Coast_307;Infauna;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+509;Lutjanus spp.;Not Found;Jalisco_and_Colima_Coast_307;Juveniles Lutja;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+510;Mammalia;accepted;Jalisco_and_Colima_Coast_307;Mamíferos marin;Mammalia;1837.0;Class;Animalia;Chordata;Mammalia;None;None;None;Nan
+511;Mollusca;accepted;Jalisco_and_Colima_Coast_307;Moluscos;Mollusca;51.0;Phylum;Animalia;Mollusca;None;None;None;None;Nan
+512;Ophidiidae;accepted;Jalisco_and_Colima_Coast_307;Ophidiidos;Ophidiidae;125505.0;Family;Animalia;Chordata;Teleostei;Ophidiiformes;Ophidiidae;None;Nan
+513;Crustacea;accepted;Jalisco_and_Colima_Coast_307;Otros crustáceo;Crustacea;1066.0;Subphylum;Animalia;Arthropoda;None;None;None;None;Nan
+514;Lutjanus spp.;Not Found;Jalisco_and_Colima_Coast_307;Otros lutjánido;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+515;NO_DATA;Not Found;Jalisco_and_Colima_Coast_307;Otros macroinve;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+516;Teleostei;accepted;Jalisco_and_Colima_Coast_307;Otros peces;Teleostei;293496.0;Class;Animalia;Chordata;Teleostei;None;None;None;Nan
+517;Penaeidae;accepted;Jalisco_and_Colima_Coast_307;Peneidos;Penaeidae;106727.0;Family;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;None;Nan
+518;Istiophoridae;accepted;Jalisco_and_Colima_Coast_307;Picudos;Istiophoridae;125539.0;Family;Animalia;Chordata;Teleostei;Carangiformes;Istiophoridae;None;Nan
+519;Pleuronectidae;accepted;Jalisco_and_Colima_Coast_307;Pleuronéctidos;Pleuronectidae;125579.0;Family;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;None;Nan
+520;Octopoda;accepted;Jalisco_and_Colima_Coast_307;Pulpo;Octopoda;11718.0;Order;Animalia;Mollusca;Cephalopoda;Octopoda;None;None;Nan
+521;Batoidea;accepted;Jalisco_and_Colima_Coast_307;Rayas;Batoidea;368409.0;Infraclass;Animalia;Chordata;Elasmobranchii;None;None;None;Nan
+522;Sardinops sagax;accepted;Jalisco_and_Colima_Coast_307;Sardinas;Sardinops sagax;217452.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardinops;Sardinops sagax
+523;Sciaenidae;accepted;Jalisco_and_Colima_Coast_307;Sciánidos;Sciaenidae;125558.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;None;Nan
+524;Serranidae;accepted;Jalisco_and_Colima_Coast_307;Serranidos;Serranidae;125561.0;Family;Animalia;Chordata;Teleostei;Perciformes;Serranidae;None;Nan
+525;Scomberomorus;accepted;Jalisco_and_Colima_Coast_307;Sierra;Scomberomorus;126064.0;Genus;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomberomorus;Nan
+526;Synodontidae;accepted;Jalisco_and_Colima_Coast_307;Synodontidos;Synodontidae;125449.0;Family;Animalia;Chordata;Teleostei;Aulopiformes;Synodontidae;None;Nan
+527;Tetraodontidae;accepted;Jalisco_and_Colima_Coast_307;Tetraodóntidos;Tetraodontidae;125612.0;Family;Animalia;Chordata;Teleostei;Tetraodontiformes;Tetraodontidae;None;Nan
+528;Selachimorpha;superseded rank;Jalisco_and_Colima_Coast_307;Tiburones;Selachimorpha;1779682.0;Superorder;Animalia;Chordata;Elasmobranchii;None;None;None;Nan
+529;Chelonioidea;accepted;Jalisco_and_Colima_Coast_307;Tortugas marina;Chelonioidea;987094.0;Superfamily;Animalia;Chordata;None;Testudines;None;None;Nan
+530;Zooplankton;Not Found;Jalisco_and_Colima_Coast_307;Zooplancton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+531;NO_DATA;Not Found;Jurien_Bay_456;Bait;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+532;Choerodon rubescens;accepted;Jurien_Bay_456;Baldchin grouper;Choerodon rubescens;277278.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Labridae;Choerodon;Choerodon rubescens
+533;Epinephelides armatus;accepted;Jurien_Bay_456;Breaksea cod;Epinephelides armatus;280694.0;Species;Animalia;Chordata;Teleostei;Perciformes;Anthiadidae;Epinephelides;Epinephelides armatus
+534;Medusozoa;accepted;Jurien_Bay_456;Carnivorous Jellyfish;Medusozoa;1740301.0;Subphylum;Animalia;Cnidaria;None;None;None;None;Nan
+535;Chaetognatha;accepted;Jurien_Bay_456;Chaetognaths;Chaetognatha;2081.0;Phylum;Animalia;Chaetognatha;None;None;None;None;Nan
+536;Corallinales;accepted;Jurien_Bay_456;Corraline algae;Corallinales;15308.0;Order;Plantae;Rhodophyta;Florideophyceae;Corallinales;None;None;Nan
+537;Sepiida;accepted;Jurien_Bay_456;Cuttlefish;Sepiida;11713.0;Order;Animalia;Mollusca;Cephalopoda;Sepiida;None;None;Nan
+538;NO_DATA;Not Found;Jurien_Bay_456;Dead Carcasses;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+539;NO_DATA;Not Found;Jurien_Bay_456;Deposit feed. invert.;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+540;Algae;Not Found;Jurien_Bay_456;Detached algae other;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+541;Phaeophyceae;accepted;Jurien_Bay_456;Detached brown algae;Phaeophyceae;830.0;Class;Chromista;Ochrophyta;Phaeophyceae;None;None;None;Nan
+542;NO_DATA;Not Found;Jurien_Bay_456;Detached seagrass;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+543;NO_DATA;Not Found;Jurien_Bay_456;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+544;Glaucosoma hebraicum;accepted;Jurien_Bay_456;Dhufish;Glaucosoma hebraicum;279190.0;Species;Animalia;Chordata;Teleostei;Acropomatiformes;Glaucosomatidae;Glaucosoma;Glaucosoma hebraicum
+545;Delphinidae;accepted;Jurien_Bay_456;Dolphins;Delphinidae;136980.0;Family;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;None;Nan
+546;Ecklonia radiata;accepted;Jurien_Bay_456;Ecklonia;Ecklonia radiata;214344.0;Species;Chromista;Ochrophyta;Phaeophyceae;Laminariales;Lessoniaceae;Ecklonia;Ecklonia radiata
+547;NO_DATA;Not Found;Jurien_Bay_456;Ephemeral seagrasses;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+548;NO_DATA;Not Found;Jurien_Bay_456;Infauna;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+549;Bivalvia;accepted;Jurien_Bay_456;Infaunal bivalves;Bivalvia;105.0;Class;Animalia;Mollusca;Bivalvia;None;None;None;Nan
+550;NO_DATA;Not Found;Jurien_Bay_456;Inshore ass. carnivore;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+551;Sillago schomburgkii;accepted;Jurien_Bay_456;Inshore benthopelagic carnivore;Sillago schomburgkii;273953.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sillaginidae;Sillago;Sillago schomburgkii
+552;Acartia clausi;alternative representation;Jurien_Bay_456;Inshore pelagic zooplankton feed;Acartia clausi;104251.0;Species;Animalia;Arthropoda;Copepoda;Calanoida;Acartiidae;Acartia;Acartia clausi
+553;NO_DATA;Not Found;Jurien_Bay_456;Inshore reef ass. herbivore;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+554;NO_DATA;Not Found;Jurien_Bay_456;Inshore reef ass. omnivore;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+555;Benthos;junior subjective synonym;Jurien_Bay_456;Inshore reef ass. zoobenthos feed.;Benthosaurus;296146.0;Genus;Animalia;Chordata;Teleostei;Aulopiformes;Ipnopidae;Benthosaurus;Nan
+556;NO_DATA;Not Found;Jurien_Bay_456;Inshore sand ass. omnivore;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+557;NO_DATA;Not Found;Jurien_Bay_456;Inshore seagrass ass. omnivore;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+558;NO_DATA;Not Found;Jurien_Bay_456;Inshore seagrass ass. zoob. feed.;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+559;Charadriiformes;accepted;Jurien_Bay_456;Intertidal birds;Charadriiformes;2682.0;Order;Animalia;Chordata;Aves;Charadriiformes;None;None;Nan
+560;Coris auricularis;accepted;Jurien_Bay_456;King wrasse;Coris auricularis;273548.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Labridae;Coris;Coris auricularis
+561;Gastropoda;accepted;Jurien_Bay_456;Large Carn. Gastropods;Gastropoda;101.0;Class;Animalia;Mollusca;Gastropoda;None;None;None;Nan
+562;Brachyura;accepted;Jurien_Bay_456;Large Crabs;Brachyura;106673.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+563;Gastropoda;accepted;Jurien_Bay_456;Large Herb. Gastropods;Gastropoda;101.0;Class;Animalia;Mollusca;Gastropoda;None;None;None;Nan
+564;Phytoplankton;Not Found;Jurien_Bay_456;Large Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+565;Zooplankton;Not Found;Jurien_Bay_456;Large Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+566;Carcharhinidae;accepted;Jurien_Bay_456;Large coastal sharks;Carcharhinidae;105689.0;Family;Animalia;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;None;Nan
+567;NO_DATA;Not Found;Jurien_Bay_456;Large mobile carn. invert.;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+568;NO_DATA;Not Found;Jurien_Bay_456;Large mobile herb. invert.;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+569;Panulirus cygnus;accepted;Jurien_Bay_456;Lobster - Adolescent;Panulirus cygnus;382893.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Palinuridae;Panulirus;Panulirus cygnus
+570;Panulirus cygnus;accepted;Jurien_Bay_456;Lobster Adult;Panulirus cygnus;382893.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Palinuridae;Panulirus;Panulirus cygnus
+571;Panulirus cygnus;accepted;Jurien_Bay_456;Lobster- Juvenile;Panulirus cygnus;382893.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Palinuridae;Panulirus;Panulirus cygnus
+572;Panulirus cygnus;accepted;Jurien_Bay_456;Lobster-post puerulus;Panulirus cygnus;382893.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Palinuridae;Panulirus;Panulirus cygnus
+573;NO_DATA;Not Found;Jurien_Bay_456;Low algae;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+574;NO_DATA;Not Found;Jurien_Bay_456;Microbial heterotrophs;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+575;Microphytobenthos;Not Found;Jurien_Bay_456;Microphytobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+576;NO_DATA;Not Found;Jurien_Bay_456;NDR benthopelagic carnivore;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+577;Copepoda;accepted;Jurien_Bay_456;NDR pelagic zooplankton Feed.;Copepoda;1080.0;Class;Animalia;Arthropoda;Copepoda;None;None;None;Nan
+578;NO_DATA;Not Found;Jurien_Bay_456;NDR reef aa. zooplankton feed;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+579;Epinephelus coioides;accepted;Jurien_Bay_456;NDR reef ass. carnivore;Epinephelus coioides;218200.0;Species;Animalia;Chordata;Teleostei;Perciformes;Epinephelidae;Epinephelus;Epinephelus coioides
+580;Siganus fuscescens;accepted;Jurien_Bay_456;NDR reef ass. herbivore;Siganus fuscescens;273912.0;Species;Animalia;Chordata;Teleostei;Acanthuriformes;Siganidae;Siganus;Siganus fuscescens
+581;Pagrus auratus;accepted;Jurien_Bay_456;NDR reef ass. omnivore;Pagrus auratus;398546.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Pagrus;Pagrus auratus
+582;NO_DATA;Not Found;Jurien_Bay_456;NDR reef ass. zoobenthos feed.;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+583;NO_DATA;Not Found;Jurien_Bay_456;NDR sand ass. carnivore;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+584;NO_DATA;Not Found;Jurien_Bay_456;NDR sand ass. omnivore;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+585;NO_DATA;Not Found;Jurien_Bay_456;NDR sand ass. zoobenthos feed.;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+586;NO_DATA;Not Found;Jurien_Bay_456;NDR seagrass ass. carnivore;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+587;NO_DATA;Not Found;Jurien_Bay_456;NDR seagrass ass. omnivore;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+588;Octopoda;accepted;Jurien_Bay_456;Octopus;Octopoda;11718.0;Order;Animalia;Mollusca;Cephalopoda;Octopoda;None;None;Nan
+589;NO_DATA;Not Found;Jurien_Bay_456;Perenial seagrasses;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+590;Scleractinia, Porifera;Not Found;Jurien_Bay_456;Photo. corals/sponges;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+591;Pagrus auratus;accepted;Jurien_Bay_456;Pink snapper;Pagrus auratus;398546.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Pagrus;Pagrus auratus
+592;Batoidea;accepted;Jurien_Bay_456;Rays;Batoidea;368409.0;Infraclass;Animalia;Chordata;Elasmobranchii;None;None;None;Nan
+593;Haliotis roei;accepted;Jurien_Bay_456;Roe abalone;Haliotis roei;445351.0;Species;Animalia;Mollusca;Gastropoda;Lepetellida;Haliotidae;Haliotis;Haliotis roei
+594;Sargassum;accepted;Jurien_Bay_456;Sargassum;Sargassum;144132.0;Genus;Chromista;Ochrophyta;Phaeophyceae;Fucales;Sargassaceae;Sargassum;Nan
+595;Otariidae;accepted;Jurien_Bay_456;Sea lions;Otariidae;231386.0;Family;Animalia;Chordata;Mammalia;Carnivora;Otariidae;None;Nan
+596;Cheloniidae;accepted;Jurien_Bay_456;Sea turtles;Cheloniidae;136999.0;Family;Animalia;Chordata;None;Testudines;Cheloniidae;None;Nan
+597;NO_DATA;Not Found;Jurien_Bay_456;Seagrass epiphytes;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+598;Bivalvia;accepted;Jurien_Bay_456;Sessile bivalves;Bivalvia;105.0;Class;Animalia;Mollusca;Bivalvia;None;None;None;Nan
+599;NO_DATA;Not Found;Jurien_Bay_456;Sessile epibenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+600;Gastropoda;accepted;Jurien_Bay_456;Small Gastropods;Gastropoda;101.0;Class;Animalia;Mollusca;Gastropoda;None;None;None;Nan
+601;Phytoplankton;Not Found;Jurien_Bay_456;Small Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+602;Zooplankton;Not Found;Jurien_Bay_456;Small Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+603;Carcharhinidae;accepted;Jurien_Bay_456;Small coastal sharks;Carcharhinidae;105689.0;Family;Animalia;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;None;Nan
+604;NO_DATA;Not Found;Jurien_Bay_456;Small mobil epifauna;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+605;NO_DATA;Not Found;Jurien_Bay_456;Small mobile herbivores;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+606;Teuthida;nomen dubium;Jurien_Bay_456;Squid;Teuthida;11716.0;Order;Animalia;Mollusca;Cephalopoda;Teuthida;None;None;Nan
+607;Pelecaniformes;accepted;Jurien_Bay_456;Surface diving birds;Pelecaniformes;2684.0;Order;Animalia;Chordata;Aves;Pelecaniformes;None;None;Nan
+608;NO_DATA;Not Found;Jurien_Bay_456;Turfs;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+609;NO_DATA;Not Found;Jurien_Bay_456;Water colum detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+610;Bodianus frenchii;accepted;Jurien_Bay_456;Western foxfish;Bodianus frenchii;273531.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Labridae;Bodianus;Bodianus frenchii
+611;Detritus;Not Found;Mauritania_650;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+612;Chondrichthyes;accepted;Mauritania_650;Selaciens L inv;Chondrichthyes;1517375.0;Parvphylum;Animalia;Chordata;None;None;None;None;Nan
+613;Chondrichthyes;accepted;Mauritania_650;Selaciens L pred;Chondrichthyes;1517375.0;Parvphylum;Animalia;Chordata;None;None;None;None;Nan
+614;NO_DATA;Not Found;Mauritania_650;bathydem S inv;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+615;NO_DATA;Not Found;Mauritania_650;bathydem S pred;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+616;Cephalopoda;accepted;Mauritania_650;cephalopodes comm;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+617;Cephalopoda;accepted;Mauritania_650;cephalopodes non-comm;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+618;Trachurus trachurus;accepted;Mauritania_650;chinchards;Trachurus trachurus;126822.0;Species;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;Trachurus trachurus
+619;Clupeidae;accepted;Mauritania_650;clupeides;Clupeidae;125464.0;Family;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;None;Nan
+620;Crustacea;accepted;Mauritania_650;crustaces comm;Crustacea;1066.0;Subphylum;Animalia;Arthropoda;None;None;None;None;Nan
+621;Crustacea;accepted;Mauritania_650;crustaces non-comm;Crustacea;1066.0;Subphylum;Animalia;Arthropoda;None;None;None;None;Nan
+622;Delphinidae;accepted;Mauritania_650;dauphins;Delphinidae;136980.0;Family;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;None;Nan
+623;Benthic Invertebrates (large);Not Found;Mauritania_650;dem L inv;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+624;NO_DATA;Not Found;Mauritania_650;dem L pred;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+625;Benthic Invertebrates (medium);Not Found;Mauritania_650;dem M inv;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+626;Benthic Predators (medium);Not Found;Mauritania_650;dem M pred;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+627;Benthic Invertebrates (small);Not Found;Mauritania_650;dem S inv;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+628;Benthic Predators (small);Not Found;Mauritania_650;dem S pred;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+629;NO_DATA;Not Found;Mauritania_650;macrobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+630;Macrozooplankton;Not Found;Mauritania_650;macrozooplancton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+631;Scomber scombrus;accepted;Mauritania_650;maquereau;Scomber scombrus;127023.0;Species;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;Scomber scombrus
+632;Merluccius merluccius;accepted;Mauritania_650;merlu;Merluccius merluccius;126484.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius merluccius
+633;Mesozooplankton;Not Found;Mauritania_650;meso zooplancton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+634;Sergestes;accepted;Mauritania_650;mesopel inv;Sergestes;106829.0;Genus;Animalia;Arthropoda;Malacostraca;Decapoda;Sergestidae;Sergestes;Nan
+635;Stomias;accepted;Mauritania_650;mesopel pred;Stomias;126220.0;Genus;Animalia;Chordata;Teleostei;Stomiiformes;Stomiidae;Stomias;Nan
+636;Zooplankton;Not Found;Mauritania_650;micro zooplancton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+637;Mugilidae;accepted;Mauritania_650;mugilides;Mugilidae;125546.0;Family;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;None;Nan
+638;Aves;accepted;Mauritania_650;oiseaux;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+639;Orcinus orca;accepted;Mauritania_650;orque;Orcinus orca;137102.0;Species;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;Orcinus;Orcinus orca
+640;NO_DATA;Not Found;Mauritania_650;pel L inv;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+641;NO_DATA;Not Found;Mauritania_650;pel L pred;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+642;NO_DATA;Not Found;Mauritania_650;pel M planc;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+643;Phytoplankton;Not Found;Mauritania_650;producteurs primaires;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+644;Raja;accepted;Mauritania_650;raie M;Raja;105766.0;Genus;Animalia;Chordata;Elasmobranchii;Rajiformes;Rajidae;Raja;Nan
+645;Trichiuridae;accepted;Mauritania_650;sabres;Trichiuridae;125571.0;Family;Animalia;Chordata;Teleostei;Scombriformes;Trichiuridae;None;Nan
+646;Sparidae;accepted;Mauritania_650;sparides comm;Sparidae;125564.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;None;Nan
+647;Euthynnus;accepted;Mauritania_650;thon cotier;Euthynnus;126058.0;Genus;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Euthynnus;Nan
+648;Thunnus;accepted;Mauritania_650;thon hauturier;Thunnus;126065.0;Genus;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Thunnus;Nan
+649;Benthic algae;Not Found;Mississippi_River_Delta_779;Benthic algae;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+650;Detritus;Not Found;Mississippi_River_Delta_779;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+651;NO_DATA;Not Found;Mississippi_River_Delta_779;Kemp Ridley sea turtle;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+652;Phytoplankton;Not Found;Mississippi_River_Delta_779;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+653;Submerged aquatic vegetation;Not Found;Mississippi_River_Delta_779;SAV;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+654;NO_DATA;Not Found;Mississippi_River_Delta_779;Zoobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+655;Zooplankton;Not Found;Mississippi_River_Delta_779;Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+656;Micropogonias undulatus;accepted;Mississippi_River_Delta_779;adult Atlantic croaker;Micropogonias undulatus;151158.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Micropogonias;Micropogonias undulatus
+657;Anchoa mitchilli;accepted;Mississippi_River_Delta_779;adult bay anchovy;Anchoa mitchilli;158699.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Anchoa;Anchoa mitchilli
+658;Pogonias cromis;accepted;Mississippi_River_Delta_779;adult black drum;Pogonias cromis;159333.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Pogonias;Pogonias cromis
+659;Ictalurus furcatus;accepted;Mississippi_River_Delta_779;adult blue catfish;Ictalurus furcatus;275329.0;Species;Animalia;Chordata;Teleostei;Siluriformes;Ictaluridae;Ictalurus;Ictalurus furcatus
+660;Callinectes sapidus;accepted;Mississippi_River_Delta_779;adult blue crab;Callinectes sapidus;107379.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Portunidae;Callinectes;Callinectes sapidus
+661;Farfantepenaeus aztecus;superseded combination;Mississippi_River_Delta_779;adult brown shrimp;Farfantepenaeus aztecus;158332.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Farfantepenaeus;Farfantepenaeus aztecus
+662;Dorosoma cepedianum;accepted;Mississippi_River_Delta_779;adult gizzard shad;Dorosoma cepedianum;159600.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Dorosoma;Dorosoma cepedianum
+663;Lutjanus griseus;accepted;Mississippi_River_Delta_779;adult grey snapper;Lutjanus griseus;159797.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;Lutjanus;Lutjanus griseus
+664;Brevoortia patronus;accepted;Mississippi_River_Delta_779;adult gulf menhaden;Brevoortia patronus;275500.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Brevoortia;Brevoortia patronus
+665;Acipenser oxyrinchus desotoi;superseded rank;Mississippi_River_Delta_779;adult gulf sturgeon;Acipenser oxyrinchus desotoi;293537.0;Subspecies;Animalia;Chordata;Chondrostei;Acipenseriformes;Acipenseridae;Acipenser;Nan
+666;Micropterus salmoides;accepted;Mississippi_River_Delta_779;adult largemouth bass;Micropterus salmoides;151295.0;Species;Animalia;Chordata;Teleostei;Centrarchiformes;Centrarchidae;Micropterus;Micropterus salmoides
+667;Lagodon rhomboides;accepted;Mississippi_River_Delta_779;adult pinfish;Lagodon rhomboides;159249.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Lagodon;Lagodon rhomboides
+668;Sciaenops ocellatus;accepted;Mississippi_River_Delta_779;adult red drum;Sciaenops ocellatus;159335.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Sciaenops;Sciaenops ocellatus
+669;Cynoscion arenarius;accepted;Mississippi_River_Delta_779;adult sand seatrout;Cynoscion arenarius;276077.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Cynoscion;Cynoscion arenarius
+670;Ariopsis felis;accepted;Mississippi_River_Delta_779;adult sea catfish;Ariopsis felis;158709.0;Species;Animalia;Chordata;Teleostei;Siluriformes;Ariidae;Ariopsis;Ariopsis felis
+671;NO_DATA;Not Found;Mississippi_River_Delta_779;adult sharks;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+672;Archosargus probatocephalus;accepted;Mississippi_River_Delta_779;adult sheepshead;Archosargus probatocephalus;159238.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Archosargus;Archosargus probatocephalus
+673;Bairdiella chrysoura;accepted;Mississippi_River_Delta_779;adult silver perch;Bairdiella chrysoura;159303.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Bairdiella;Bairdiella chrysoura
+674;Paralichthys lethostigma;accepted;Mississippi_River_Delta_779;adult southern flounder;Paralichthys lethostigma;158829.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Paralichthyidae;Paralichthys;Paralichthys lethostigma
+675;Leiostomus xanthurus;accepted;Mississippi_River_Delta_779;adult spot;Leiostomus xanthurus;159322.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Leiostomus;Leiostomus xanthurus
+676;Cynoscion nebulosus;accepted;Mississippi_River_Delta_779;adult spotted seatrout;Cynoscion nebulosus;159312.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Cynoscion;Cynoscion nebulosus
+677;Mugil cephalus;accepted;Mississippi_River_Delta_779;adult striped mullet;Mugil cephalus;126983.0;Species;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;Mugil;Mugil cephalus
+678;Lepomis;accepted;Mississippi_River_Delta_779;adult sunfishes;Lepomis;151289.0;Genus;Animalia;Chordata;Teleostei;Centrarchiformes;Centrarchidae;Lepomis;Nan
+679;Dorosoma petenense;accepted;Mississippi_River_Delta_779;adult threadfin shad;Dorosoma petenense;276310.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Dorosoma;Dorosoma petenense
+680;Litopenaeus setiferus;superseded combination;Mississippi_River_Delta_779;adult white shrimp;Litopenaeus setiferus;158336.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Litopenaeus;Litopenaeus setiferus
+681;NO_DATA;Not Found;Mississippi_River_Delta_779;benthic crustaceans;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+682;NO_DATA;Not Found;Mississippi_River_Delta_779;dolphins;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+683;Palaemonetes pugio;superseded combination;Mississippi_River_Delta_779;grass shrimp;Palaemonetes pugio;158370.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Palaemonidae;Palaemonetes;Palaemonetes pugio
+684;Anchoa mitchilli;accepted;Mississippi_River_Delta_779;juvenile bay anchovy;Anchoa mitchilli;158699.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Anchoa;Anchoa mitchilli
+685;Pogonias cromis;accepted;Mississippi_River_Delta_779;juvenile black drum;Pogonias cromis;159333.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Pogonias;Pogonias cromis
+686;Ictalurus furcatus;accepted;Mississippi_River_Delta_779;juvenile blue catfish;Ictalurus furcatus;275329.0;Species;Animalia;Chordata;Teleostei;Siluriformes;Ictaluridae;Ictalurus;Ictalurus furcatus
+687;Callinectes sapidus;accepted;Mississippi_River_Delta_779;juvenile blue crab;Callinectes sapidus;107379.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Portunidae;Callinectes;Callinectes sapidus
+688;Farfantepenaeus aztecus;superseded combination;Mississippi_River_Delta_779;juvenile brown shrimp;Farfantepenaeus aztecus;158332.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Farfantepenaeus;Farfantepenaeus aztecus
+689;Micropogonias undulatus;accepted;Mississippi_River_Delta_779;juvenile croaker;Micropogonias undulatus;151158.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Micropogonias;Micropogonias undulatus
+690;Dorosoma cepedianum;accepted;Mississippi_River_Delta_779;juvenile gizzard shad;Dorosoma cepedianum;159600.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Dorosoma;Dorosoma cepedianum
+691;Lutjanus griseus;accepted;Mississippi_River_Delta_779;juvenile grey snapper;Lutjanus griseus;159797.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;Lutjanus;Lutjanus griseus
+692;Acipenser oxyrinchus desotoi;superseded rank;Mississippi_River_Delta_779;juvenile gulf sturgeon;Acipenser oxyrinchus desotoi;293537.0;Subspecies;Animalia;Chordata;Chondrostei;Acipenseriformes;Acipenseridae;Acipenser;Nan
+693;Micropterus salmoides;accepted;Mississippi_River_Delta_779;juvenile largemouth bass;Micropterus salmoides;151295.0;Species;Animalia;Chordata;Teleostei;Centrarchiformes;Centrarchidae;Micropterus;Micropterus salmoides
+694;Brevoortia patronus;accepted;Mississippi_River_Delta_779;juvenile menhaden;Brevoortia patronus;275500.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Brevoortia;Brevoortia patronus
+695;Lagodon rhomboides;accepted;Mississippi_River_Delta_779;juvenile pinfish;Lagodon rhomboides;159249.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Lagodon;Lagodon rhomboides
+696;Sciaenops ocellatus;accepted;Mississippi_River_Delta_779;juvenile red drum;Sciaenops ocellatus;159335.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Sciaenops;Sciaenops ocellatus
+697;Cynoscion arenarius;accepted;Mississippi_River_Delta_779;juvenile sand seatrout;Cynoscion arenarius;276077.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Cynoscion;Cynoscion arenarius
+698;Ariopsis felis;accepted;Mississippi_River_Delta_779;juvenile sea catfish;Ariopsis felis;158709.0;Species;Animalia;Chordata;Teleostei;Siluriformes;Ariidae;Ariopsis;Ariopsis felis
+699;NO_DATA;Not Found;Mississippi_River_Delta_779;juvenile sharks;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+700;Archosargus probatocephalus;accepted;Mississippi_River_Delta_779;juvenile sheepshead;Archosargus probatocephalus;159238.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Archosargus;Archosargus probatocephalus
+701;Bairdiella chrysoura;accepted;Mississippi_River_Delta_779;juvenile silver perch;Bairdiella chrysoura;159303.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Bairdiella;Bairdiella chrysoura
+702;Paralichthys lethostigma;accepted;Mississippi_River_Delta_779;juvenile southern flounder;Paralichthys lethostigma;158829.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Paralichthyidae;Paralichthys;Paralichthys lethostigma
+703;Leiostomus xanthurus;accepted;Mississippi_River_Delta_779;juvenile spot;Leiostomus xanthurus;159322.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Leiostomus;Leiostomus xanthurus
+704;Cynoscion nebulosus;accepted;Mississippi_River_Delta_779;juvenile spotted seatrout;Cynoscion nebulosus;159312.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Cynoscion;Cynoscion nebulosus
+705;Mugil cephalus;accepted;Mississippi_River_Delta_779;juvenile striped mullet;Mugil cephalus;126983.0;Species;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;Mugil;Mugil cephalus
+706;Lepomis;accepted;Mississippi_River_Delta_779;juvenile sunfishes;Lepomis;151289.0;Genus;Animalia;Chordata;Teleostei;Centrarchiformes;Centrarchidae;Lepomis;Nan
+707;Dorosoma petenense;accepted;Mississippi_River_Delta_779;juvenile threadfin shad;Dorosoma petenense;276310.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Dorosoma;Dorosoma petenense
+708;Litopenaeus setiferus;superseded combination;Mississippi_River_Delta_779;juvenile white shrimp;Litopenaeus setiferus;158336.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;Litopenaeus;Litopenaeus setiferus
+709;Fundulidae;accepted;Mississippi_River_Delta_779;killifishes;Fundulidae;154194.0;Family;Animalia;Chordata;Teleostei;Cyprinodontiformes;Fundulidae;None;Nan
+710;NO_DATA;Not Found;Mississippi_River_Delta_779;mollusks;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+711;Panopeus herbstii;accepted;Mississippi_River_Delta_779;mud crabs;Panopeus herbstii;158436.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Panopeidae;Panopeus;Panopeus herbstii
+712;NO_DATA;Not Found;Mississippi_River_Delta_779;other shrimp;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+713;NO_DATA;Not Found;Mississippi_River_Delta_779;oyster drill;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+714;NO_DATA;Not Found;Mississippi_River_Delta_779;oyster spat;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+715;NO_DATA;Not Found;Mississippi_River_Delta_779;sack oyster;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+716;NO_DATA;Not Found;Mississippi_River_Delta_779;sea birds;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+717;NO_DATA;Not Found;Mississippi_River_Delta_779;seed oyster;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+718;Atherinopsidae;accepted;Mississippi_River_Delta_779;silversides;Atherinopsidae;266995.0;Family;Animalia;Chordata;Teleostei;Atheriniformes;Atherinopsidae;None;Nan
+719;Crepidula fornicata;accepted;Mount_St_Michel_Bay_742;Crepidule;Crepidula fornicata;138963.0;Species;Animalia;Mollusca;Gastropoda;Littorinimorpha;Calyptraeidae;Crepidula;Crepidula fornicata
+720;NO_DATA;Not Found;Mount_St_Michel_Bay_742;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+721;Macrobenthos;Not Found;Mount_St_Michel_Bay_742;Macrobenthos2;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+722;Fucales;accepted;Mount_St_Michel_Bay_742;Macrophytes;Fucales;844.0;Order;Chromista;Ochrophyta;Phaeophyceae;Fucales;None;None;Nan
+723;NO_DATA;Not Found;Mount_St_Michel_Bay_742;Meiobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+724;Mytilus edulis;accepted;Mount_St_Michel_Bay_742;Moules;Mytilus edulis;140480.0;Species;Animalia;Mollusca;Bivalvia;Mytilida;Mytilidae;Mytilus;Mytilus edulis
+725;Mugilidae;accepted;Mount_St_Michel_Bay_742;Mulets;Mugilidae;125546.0;Family;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;None;Nan
+726;Bacillariophyta;accepted;Mount_St_Michel_Bay_742;Phytobenthos1;Bacillariophyta;148898.0;Phylum;Chromista;Bacillariophyta;None;None;None;None;Nan
+727;Phytoplankton;Not Found;Mount_St_Michel_Bay_742;Phytoplancton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+728;Anatidae;accepted;Mount_St_Michel_Bay_742;anatidés;Anatidae;136973.0;Family;Animalia;Chordata;Aves;Anseriformes;Anatidae;None;Nan
+729;Cephalopoda;accepted;Mount_St_Michel_Bay_742;céphalopodes;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+730;Decapoda;accepted;Mount_St_Michel_Bay_742;gros crustacés;Decapoda;1130.0;Order;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+731;Crassostrea gigas;superseded combination;Mount_St_Michel_Bay_742;huîtres;Crassostrea gigas;140656.0;Species;Animalia;Mollusca;Bivalvia;Ostreida;Ostreidae;Crassostrea;Crassostrea gigas
+732;Crassostrea gigas;superseded combination;Mount_St_Michel_Bay_742;huîtres2;Crassostrea gigas;140656.0;Species;Animalia;Mollusca;Bivalvia;Ostreida;Ostreidae;Crassostrea;Crassostrea gigas
+733;Cephalopoda;accepted;Mount_St_Michel_Bay_742;juvenile cephal;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+734;Pisces (juvenile);Not Found;Mount_St_Michel_Bay_742;juvéniles poiss;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+735;NO_DATA;Not Found;Mount_St_Michel_Bay_742;macrobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+736;Ovis aries;accepted;Mount_St_Michel_Bay_742;mouton;Ovis aries;1603298.0;Species;Animalia;Chordata;Mammalia;Artiodactyla;Bovidae;Ovis;Ovis aries
+737;Charadriiformes;accepted;Mount_St_Michel_Bay_742;oiseaux limicol;Charadriiformes;2682.0;Order;Animalia;Chordata;Aves;Charadriiformes;None;None;Nan
+738;NO_DATA;Not Found;Mount_St_Michel_Bay_742;petites espèces;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+739;Phoca vitulina;accepted;Mount_St_Michel_Bay_742;phoques;Phoca vitulina;137084.0;Species;Animalia;Chordata;Mammalia;Carnivora;Phocidae;Phoca;Phoca vitulina
+740;Phytobenthos;Not Found;Mount_St_Michel_Bay_742;phytobenthos 2;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+741;Actinopterygii;accepted;Mount_St_Michel_Bay_742;poissons adulte;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+742;Copepoda;accepted;Mount_St_Michel_Bay_742;zooplancton her;Copepoda;1080.0;Class;Animalia;Arthropoda;Copepoda;None;None;None;Nan
+743;Engraulis encrasicolus;accepted;North_Aegean_495;Adult anchovy;Engraulis encrasicolus;126426.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus
+744;Sardina pilchardus;accepted;North_Aegean_495;Adult sardine;Sardina pilchardus;126421.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardina;Sardina pilchardus
+745;Lophiidae;accepted;North_Aegean_495;Anglerfish;Lophiidae;125493.0;Family;Animalia;Chordata;Teleostei;Lophiiformes;Lophiidae;None;Nan
+746;Cephalopoda;accepted;North_Aegean_495;Benthic cephalopods;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+747;NO_DATA;Not Found;North_Aegean_495;Benthic invert. (no crustacea);Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+748;Cephalopoda;accepted;North_Aegean_495;Benthopelagic cephalopods;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+749;Pagellus bogaraveo;accepted;North_Aegean_495;BepeFish;Pagellus bogaraveo;127059.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Pagellus;Pagellus bogaraveo
+750;Brachyura;accepted;North_Aegean_495;Crabs;Brachyura;106673.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+751;Mullus barbatus;accepted;North_Aegean_495;DemeFish1;Mullus barbatus;126985.0;Species;Animalia;Chordata;Teleostei;Mulliformes;Mullidae;Mullus;Mullus barbatus
+752;Pagellus erythrinus;accepted;North_Aegean_495;DemeFish2;Pagellus erythrinus;127060.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Pagellus;Pagellus erythrinus
+753;Boops boops;accepted;North_Aegean_495;DemeFish3;Boops boops;127047.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Boops;Boops boops
+754;Merluccius merluccius;accepted;North_Aegean_495;DemeFish4;Merluccius merluccius;126484.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius merluccius
+755;NO_DATA;Not Found;North_Aegean_495;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+756;NO_DATA;Not Found;North_Aegean_495;Discards;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+757;Pleuronectiformes;accepted;North_Aegean_495;Flatfishes;Pleuronectiformes;10331.0;Order;Animalia;Chordata;Teleostei;Pleuronectiformes;None;None;Nan
+758;Merluccius merluccius;accepted;North_Aegean_495;Hake;Merluccius merluccius;126484.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius merluccius
+759;Trachurus trachurus;accepted;North_Aegean_495;Horse mackerel;Trachurus trachurus;126822.0;Species;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;Trachurus trachurus
+760;Mnemiopsis leidyi;accepted;North_Aegean_495;Jellyfish+ mnemiopsis;Mnemiopsis leidyi;106401.0;Species;Animalia;Ctenophora;Tentaculata;Lobata;Bolinopsidae;Mnemiopsis;Mnemiopsis leidyi
+761;Engraulis encrasicolus;accepted;North_Aegean_495;Juv anchovy;Engraulis encrasicolus;126426.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus
+762;Sardina pilchardus;accepted;North_Aegean_495;Juv sardine;Sardina pilchardus;126421.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardina;Sardina pilchardus
+763;Scombridae;accepted;North_Aegean_495;Large pelagic fishes;Scombridae;125559.0;Family;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;None;Nan
+764;Caretta caretta;accepted;North_Aegean_495;Loggerhead turtle;Caretta caretta;137205.0;Species;Animalia;Chordata;None;Testudines;Cheloniidae;Caretta;Caretta caretta
+765;Scomber scombrus;accepted;North_Aegean_495;Mackerel;Scomber scombrus;127023.0;Species;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;Scomber scombrus
+766;Nyctiphanes couchii;accepted;North_Aegean_495;Macrozooplankton;Nyctiphanes couchii;254316.0;Species;Animalia;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Nyctiphanes;Nyctiphanes couchii
+767;Carangidae;accepted;North_Aegean_495;Medium pelagic fish;Carangidae;125523.0;Family;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;None;Nan
+768;Mugilidae;accepted;North_Aegean_495;Mullets;Mugilidae;125546.0;Family;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;None;Nan
+769;Nephrops norvegicus;accepted;North_Aegean_495;Norway lobster;Nephrops norvegicus;107254.0;Species;Animalia;Arthropoda;Malacostraca;Decapoda;Nephropidae;Nephrops;Nephrops norvegicus
+770;Clupeiformes;accepted;North_Aegean_495;Other Small pelagic fishes;Clupeiformes;10297.0;Order;Animalia;Chordata;Teleostei;Clupeiformes;None;None;Nan
+771;Gadiformes;accepted;North_Aegean_495;Other gadiforms;Gadiformes;10313.0;Order;Animalia;Chordata;Teleostei;Gadiformes;None;None;Nan
+772;Polychaeta;accepted;North_Aegean_495;Polychaetes;Polychaeta;883.0;Class;Animalia;Annelida;Polychaeta;None;None;None;Nan
+773;Aves;accepted;North_Aegean_495;Sea birds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+774;Dendrobranchiata;accepted;North_Aegean_495;Shrimps;Dendrobranchiata;106669.0;Suborder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+775;Gastrosaccus spinifer;accepted;North_Aegean_495;Suprabenthos;Gastrosaccus spinifer;120020.0;Species;Animalia;Arthropoda;Malacostraca;Mysida;Mysidae;Gastrosaccus;Gastrosaccus spinifer
+776;Delphinidae;accepted;North_Aegean_495;dolphins;Delphinidae;136980.0;Family;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;None;Nan
+777;Calanus helgolandicus;alternative representation;North_Aegean_495;mesozooplankton;Calanus helgolandicus;104466.0;Species;Animalia;Arthropoda;Copepoda;Calanoida;Calanidae;Calanus;Calanus helgolandicus
+778;NO_DATA;Not Found;North_Aegean_495;micro-;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+779;NO_DATA;Not Found;North_Aegean_495;phyto;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+780;Spicara smaris;accepted;North_Aegean_495;picarels and bogue;Spicara smaris;126830.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Spicara;Spicara smaris
+781;Raja clavata;accepted;North_Aegean_495;"rays &amp; skates";Raja clavata;105883.0;Species;Animalia;Chordata;Elasmobranchii;Rajiformes;Rajidae;Raja;Raja clavata
+782;Squalus acanthias;accepted;North_Aegean_495;sharks;Squalus acanthias;105923.0;Species;Animalia;Chordata;Elasmobranchii;Squaliformes;Squalidae;Squalus;Squalus acanthias
+783;Trachurus trachurus capensis;unaccepted;North_Benguela_503;Adult horse mac;Trachurus trachurus capensis;322749.0;Subspecies;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;Nan
+784;Engraulis encrasicolus;accepted;North_Benguela_503;Anchovy;Engraulis encrasicolus;126426.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus
+785;Teleostei;accepted;North_Benguela_503;Benthic-feeding;Teleostei;293496.0;Class;Animalia;Chordata;Teleostei;None;None;None;Nan
+786;Cetacea;accepted;North_Benguela_503;Cetaceans;Cetacea;2688.0;Infraorder;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+787;Chondrichthyes;accepted;North_Benguela_503;Chondrichthyans;Chondrichthyes;1517375.0;Parvphylum;Animalia;Chordata;None;None;None;None;Nan
+788;Detritus;Not Found;North_Benguela_503;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+789;Gelatinous zooplankton;Not Found;North_Benguela_503;Gelatinous zoop;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+790;Trachurus trachurus capensis;unaccepted;North_Benguela_503;Juvenile horse;Trachurus trachurus capensis;322749.0;Subspecies;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;Nan
+791;Merluccius capensis;accepted;North_Benguela_503;Large M. capens;Merluccius capensis;217746.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius capensis
+792;Merluccius paradoxus;accepted;North_Benguela_503;Large M. parado;Merluccius paradoxus;217745.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius paradoxus
+793;Actinopterygii;accepted;North_Benguela_503;Large pelagics;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+794;NO_DATA;Not Found;North_Benguela_503;Macrobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+795;Macrozooplankton;Not Found;North_Benguela_503;Macrozooplankto;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+796;Meiobenthos;Not Found;North_Benguela_503;Meiobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+797;NO_DATA;Not Found;North_Benguela_503;Mesopelagics;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+798;Mesozooplankton;Not Found;North_Benguela_503;Mesozooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+799;Microzooplankton;Not Found;North_Benguela_503;Microzooplankto;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+800;Actinopterygii;accepted;North_Benguela_503;Other small pel;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+801;Sufflogobius bibarbatus;accepted;North_Benguela_503;Pelagic Goby;Sufflogobius bibarbatus;219573.0;Species;Animalia;Chordata;Teleostei;Gobiiformes;Gobiidae;Sufflogobius;Sufflogobius bibarbatus
+802;Teleostei;accepted;North_Benguela_503;Pelagic-feeding;Teleostei;293496.0;Class;Animalia;Chordata;Teleostei;None;None;None;Nan
+803;Phytoplankton;Not Found;North_Benguela_503;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+804;Sardinops sagax;accepted;North_Benguela_503;Sardine;Sardinops sagax;217452.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardinops;Sardinops sagax
+805;Aves;accepted;North_Benguela_503;Seabirds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+806;Pinnipedia;accepted;North_Benguela_503;Seals;Pinnipedia;148736.0;Infraorder;Animalia;Chordata;Mammalia;Carnivora;None;None;Nan
+807;Merluccius capensis;accepted;North_Benguela_503;Small M. capens;Merluccius capensis;217746.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius capensis
+808;Cephalopoda;accepted;North_Benguela_503;cephalopods;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+809;NO_DATA;Not Found;Northern_Humboldt_Current_488;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+810;NO_DATA;Not Found;Northern_Humboldt_Current_488;Diatoms;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+811;NO_DATA;Not Found;Northern_Humboldt_Current_488;Dino and silicoflagellates;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+812;Microzooplankton;Not Found;Northern_Humboldt_Current_488;Microzooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+813;Engraulis ringens;accepted;Northern_Humboldt_Current_488;anchovy;Engraulis ringens;272287.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis ringens
+814;Elasmobranchii;accepted;Northern_Humboldt_Current_488;benthic elasmobranchs;Elasmobranchii;10193.0;Class;Animalia;Chordata;Elasmobranchii;None;None;None;Nan
+815;Stromateus stellatus;accepted;Northern_Humboldt_Current_488;butter fishes;Stromateus stellatus;273999.0;Species;Animalia;Chordata;Teleostei;Scombriformes;Stromateidae;Stromateus;Stromateus stellatus
+816;Siluriformes;accepted;Northern_Humboldt_Current_488;catfish;Siluriformes;154157.0;Order;Animalia;Chordata;Teleostei;Siluriformes;None;None;Nan
+817;Cetacea;accepted;Northern_Humboldt_Current_488;cetaceans;Cetacea;2688.0;Infraorder;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+818;Chondrichthyes;accepted;Northern_Humboldt_Current_488;chondrichtlyans;Chondrichthyes;1517375.0;Parvphylum;Animalia;Chordata;None;None;None;None;Nan
+819;Conger conger;accepted;Northern_Humboldt_Current_488;conger;Conger conger;126285.0;Species;Animalia;Chordata;Teleostei;Anguilliformes;Congridae;Conger;Conger conger
+820;Pleuronectiformes;accepted;Northern_Humboldt_Current_488;flatfishes;Pleuronectiformes;10331.0;Order;Animalia;Chordata;Teleostei;Pleuronectiformes;None;None;Nan
+821;Gelatinous zooplankton;Not Found;Northern_Humboldt_Current_488;gelatinous zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+822;Trachurus murphyi;accepted;Northern_Humboldt_Current_488;horse mackerels;Trachurus murphyi;273303.0;Species;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;Trachurus murphyi
+823;Dosidicus gigas;accepted;Northern_Humboldt_Current_488;jumbo squid;Dosidicus gigas;342291.0;Species;Animalia;Mollusca;Cephalopoda;Oegopsida;Ommastrephidae;Dosidicus;Dosidicus gigas
+824;Merluccius gayi;accepted;Northern_Humboldt_Current_488;large hake;Merluccius gayi;293628.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius gayi
+825;Scomber japonicus;accepted;Northern_Humboldt_Current_488;mackerels;Scomber japonicus;127022.0;Species;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;Scomber japonicus
+826;Macrobenthos;Not Found;Northern_Humboldt_Current_488;macrobenthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+827;Macrozooplankton;Not Found;Northern_Humboldt_Current_488;macrozooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+828;Merluccius;accepted;Northern_Humboldt_Current_488;medium demersal fish;Merluccius;125762.0;Genus;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Nan
+829;Merluccius gayi;accepted;Northern_Humboldt_Current_488;medium hake;Merluccius gayi;293628.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius gayi
+830;Cynoscion analis;accepted;Northern_Humboldt_Current_488;medium sciaenids;Cynoscion analis;276076.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;Cynoscion;Cynoscion analis
+831;Myctophiformes;accepted;Northern_Humboldt_Current_488;mesopelagics;Myctophiformes;10309.0;Order;Animalia;Chordata;Teleostei;Myctophiformes;None;None;Nan
+832;Mesozooplankton;Not Found;Northern_Humboldt_Current_488;mesozooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+833;Cephalopoda;accepted;Northern_Humboldt_Current_488;other cephalopods;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+834;Sarda chiliensis;accepted;Northern_Humboldt_Current_488;other large pelagics;Sarda chiliensis;293729.0;Species;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Sarda;Sarda chiliensis
+835;Engraulis ringens;accepted;Northern_Humboldt_Current_488;other small pelagics;Engraulis ringens;272287.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis ringens
+836;Pinnipedia;accepted;Northern_Humboldt_Current_488;pinnipeds;Pinnipedia;148736.0;Infraorder;Animalia;Chordata;Mammalia;Carnivora;None;None;Nan
+837;Sardinops sagax;accepted;Northern_Humboldt_Current_488;sardine;Sardinops sagax;217452.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Alosidae;Sardinops;Sardinops sagax
+838;Prionotus stephanophrys;accepted;Northern_Humboldt_Current_488;sea robin;Prionotus stephanophrys;276291.0;Species;Animalia;Chordata;Teleostei;Perciformes;Triglidae;Prionotus;Prionotus stephanophrys
+839;Aves;accepted;Northern_Humboldt_Current_488;seabirds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+840;NO_DATA;Not Found;Northern_Humboldt_Current_488;small demersals;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+841;Merluccius gayi peruanus;unaccepted;Northern_Humboldt_Current_488;small hake;Merluccius gayi peruanus;293629.0;Subspecies;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Nan
+842;NO_DATA;Not Found;Portofino_731;Amberjack & dentex +;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+843;Cephalopoda;accepted;Portofino_731;Cephalopods;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+844;Decapoda;accepted;Portofino_731;Decapods +;Decapoda;1130.0;Order;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+845;Detritus;Not Found;Portofino_731;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+846;Diplodus;accepted;Portofino_731;Diplodus +;Diplodus;126076.0;Genus;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Diplodus;Nan
+847;Delphinidae;accepted;Portofino_731;Dolphins;Delphinidae;136980.0;Family;Animalia;Chordata;Mammalia;Cetartiodactyla;Delphinidae;None;Nan
+848;Epinephelus marginatus;accepted;Portofino_731;Dusky grouper - large;Epinephelus marginatus;127036.0;Species;Animalia;Chordata;Teleostei;Perciformes;Epinephelidae;Epinephelus;Epinephelus marginatus
+849;Epinephelus marginatus;accepted;Portofino_731;Dusky grouper - medium;Epinephelus marginatus;127036.0;Species;Animalia;Chordata;Teleostei;Perciformes;Epinephelidae;Epinephelus;Epinephelus marginatus
+850;Epinephelus marginatus;accepted;Portofino_731;Dusky grouper - small;Epinephelus marginatus;127036.0;Species;Animalia;Chordata;Teleostei;Perciformes;Epinephelidae;Epinephelus;Epinephelus marginatus
+851;NO_DATA;Not Found;Portofino_731;Echinoderms +;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+852;Gobiidae;accepted;Portofino_731;Gobies +;Gobiidae;125537.0;Family;Animalia;Chordata;Teleostei;Gobiiformes;Gobiidae;None;Nan
+853;Alcyonacea;unaccepted;Portofino_731;Gorgonians;Alcyonacea;1365.0;Order;Animalia;Cnidaria;Octocorallia;Alcyonacea;None;None;Nan
+854;Trachurus;accepted;Portofino_731;Horse mackerels +;Trachurus;125946.0;Genus;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;Nan
+855;Scorpaena;accepted;Portofino_731;Large-scaled scorpionfishes +;Scorpaena;126171.0;Genus;Animalia;Chordata;Teleostei;Perciformes;Scorpaenidae;Scorpaena;Nan
+856;NO_DATA;Not Found;Portofino_731;Macrofauna +;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+857;Meiofauna;Not Found;Portofino_731;Meiofauna;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+858;Mugilidae;accepted;Portofino_731;Mullets;Mugilidae;125546.0;Family;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;None;Nan
+859;Pagellus;accepted;Portofino_731;Pagellus;Pagellus;126079.0;Genus;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Pagellus;Nan
+860;Phytoplankton;Not Found;Portofino_731;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+861;Posidonia oceanica;accepted;Portofino_731;Posidonia;Posidonia oceanica;145794.0;Species;Plantae;Tracheophyta;Magnoliopsida;Alismatales;Posidoniaceae;Posidonia;Posidonia oceanica
+862;Sarpa salpa;accepted;Portofino_731;Salema - adults;Sarpa salpa;127064.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Sarpa;Sarpa salpa
+863;Sarpa salpa;accepted;Portofino_731;Salema - juveniles;Sarpa salpa;127064.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Sarpa;Sarpa salpa
+864;Atherina;accepted;Portofino_731;Sand smelts +;Atherina;125659.0;Genus;Animalia;Chordata;Teleostei;Atheriniformes;Atherinidae;Atherina;Nan
+865;NO_DATA;Not Found;Portofino_731;Scorpionfishes & combers +;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+866;Echinoidea;accepted;Portofino_731;Sea urchins;Echinoidea;123082.0;Class;Animalia;Echinodermata;Echinoidea;None;None;None;Nan
+867;NO_DATA;Not Found;Portofino_731;Sea worms;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+868;Phaeophyceae;accepted;Portofino_731;Seaweeds;Phaeophyceae;830.0;Class;Chromista;Ochrophyta;Phaeophyceae;None;None;None;Nan
+869;Thunnini;Not Found;Portofino_731;Small tunas +;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+870;Mullus surmuletus;accepted;Portofino_731;Stripped red mullets +;Mullus surmuletus;126986.0;Species;Animalia;Chordata;Teleostei;Mulliformes;Mullidae;Mullus;Mullus surmuletus
+871;Suspensivores;Not Found;Portofino_731;Suspensivores +;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+872;Labridae;accepted;Portofino_731;Wrasses +;Labridae;125541.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Labridae;None;Nan
+873;NO_DATA;Not Found;Portofino_731;Zooplankton - large;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+874;NO_DATA;Not Found;Portofino_731;Zooplankton - small;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+875;Annelida;accepted;Ria_Formosa_125;Annelida;Annelida;882.0;Phylum;Animalia;Annelida;None;None;None;None;Nan
+876;NO_DATA;Not Found;Ria_Formosa_125;Benthic ff;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+877;Bivalvia;accepted;Ria_Formosa_125;Bivalvia;Bivalvia;105.0;Class;Animalia;Mollusca;Bivalvia;None;None;None;Nan
+878;Crustacea;accepted;Ria_Formosa_125;Crustacea;Crustacea;1066.0;Subphylum;Animalia;Arthropoda;None;None;None;None;Nan
+879;Liza aurata;unaccepted;Ria_Formosa_125;Detritivorous f;Liza aurata;126978.0;Species;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;Liza;Liza aurata
+880;Detritus;Not Found;Ria_Formosa_125;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+881;Gastropoda;accepted;Ria_Formosa_125;Gasteropoda;Gastropoda;101.0;Class;Animalia;Mollusca;Gastropoda;None;None;None;Nan
+882;NO_DATA;Not Found;Ria_Formosa_125;Pelagic-benthic ff;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+883;Phytoplankton;Not Found;Ria_Formosa_125;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+884;NO_DATA;Not Found;Ria_Formosa_125;Planktonic f;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+885;Sparus aurata;accepted;Ria_Formosa_125;S. auratus;Sparus aurata;151523.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Sparus;Sparus aurata
+886;Spondyliosoma cantharus;accepted;Ria_Formosa_125;S. cantharus;Spondyliosoma cantharus;127066.0;Species;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Spondyliosoma;Spondyliosoma cantharus
+887;Atherina boyeri;accepted;Ria_Formosa_125;Small b-p ff;Atherina boyeri;272027.0;Species;Animalia;Chordata;Teleostei;Atheriniformes;Atherinidae;Atherina;Atherina boyeri
+888;Zooplankton;Not Found;Ria_Formosa_125;Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+889;Mysticeti;accepted;Sierra_Leone_137;Baleen whales;Mysticeti;148724.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+890;NO_DATA;Not Found;Sierra_Leone_137;Benthos;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+891;Ilisha africana;accepted;Sierra_Leone_137;Bongo shad;Ilisha africana;281158.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Pristigasteridae;Ilisha;Ilisha africana
+892;Zooplankton;Not Found;Sierra_Leone_137;Carnivorous zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+893;Siluriformes;accepted;Sierra_Leone_137;Catfish;Siluriformes;154157.0;Order;Animalia;Chordata;Teleostei;Siluriformes;None;None;Nan
+894;Cephalopoda;accepted;Sierra_Leone_137;Cephalopods;Cephalopoda;11707.0;Class;Animalia;Mollusca;Cephalopoda;None;None;None;Nan
+895;Sciaenidae;accepted;Sierra_Leone_137;Croackers;Sciaenidae;125558.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;None;Nan
+896;Crustacea;accepted;Sierra_Leone_137;Crustaceans;Crustacea;1066.0;Subphylum;Animalia;Arthropoda;None;None;None;None;Nan
+897;Detritus;Not Found;Sierra_Leone_137;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+898;Polydactylus quadrifilis;accepted;Sierra_Leone_137;Gaint African Threadfin;Polydactylus quadrifilis;276599.0;Species;Animalia;Chordata;Teleostei;Carangaria incertae sedis;Polynemidae;Polydactylus;Polydactylus quadrifilis
+899;Epinephelus;accepted;Sierra_Leone_137;Groupers;Epinephelus;126068.0;Genus;Animalia;Chordata;Teleostei;Perciformes;Epinephelidae;Epinephelus;Nan
+900;Zooplankton;Not Found;Sierra_Leone_137;Herbivorous zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+901;Caranx hippos;accepted;Sierra_Leone_137;Jacks;Caranx hippos;126803.0;Species;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Caranx;Caranx hippos
+902;Carcharhiniformes;accepted;Sierra_Leone_137;L Coastal Sharks and Rays;Carcharhiniformes;10210.0;Order;Animalia;Chordata;Elasmobranchii;Carcharhiniformes;None;None;Nan
+903;Chondrichthyes;accepted;Sierra_Leone_137;L Deep Sharks and Rays;Chondrichthyes;1517375.0;Parvphylum;Animalia;Chordata;None;None;None;None;Nan
+904;Galeocerdo;accepted;Sierra_Leone_137;Large Bathydem predators;Galeocerdo;105720.0;Genus;Animalia;Chordata;Elasmobranchii;Carcharhiniformes;Galeocerdonidae;Galeocerdo;Nan
+905;Thunnus;accepted;Sierra_Leone_137;Large Bathypelagic predators;Thunnus;126065.0;Genus;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Thunnus;Nan
+906;Thunnus;accepted;Sierra_Leone_137;Large Tuna;Thunnus;126065.0;Genus;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Thunnus;Nan
+907;Pisces;unaccepted;Sierra_Leone_137;Large demersal invert feeders;Pisces;11676.0;Superclass;Animalia;Chordata;None;None;None;None;Nan
+908;Pisces;unaccepted;Sierra_Leone_137;Large demersal predators;Pisces;11676.0;Superclass;Animalia;Chordata;None;None;None;None;Nan
+909;Thunnus albacares;accepted;Sierra_Leone_137;Large pelagic predators;Thunnus albacares;127027.0;Species;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Thunnus;Thunnus albacares
+910;Pentanemus quinquarius;accepted;Sierra_Leone_137;Lesser African Threadfin;Pentanemus quinquarius;282202.0;Species;Animalia;Chordata;Teleostei;Carangaria incertae sedis;Polynemidae;Pentanemus;Pentanemus quinquarius
+911;Seriola;accepted;Sierra_Leone_137;M Bathypelagic invert feeders;Seriola;125944.0;Genus;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Seriola;Nan
+912;Carcharhiniformes;accepted;Sierra_Leone_137;M Coastal Sharks and Rays;Carcharhiniformes;10210.0;Order;Animalia;Chordata;Elasmobranchii;Carcharhiniformes;None;None;Nan
+913;Squaliformes;accepted;Sierra_Leone_137;M Deep Sharks and Rays;Squaliformes;10211.0;Order;Animalia;Chordata;Elasmobranchii;Squaliformes;None;None;Nan
+914;NO_DATA;Not Found;Sierra_Leone_137;Medium demersal invert feeders;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+915;Pisces;unaccepted;Sierra_Leone_137;Medium demersal predators;Pisces;11676.0;Superclass;Animalia;Chordata;None;None;None;None;Nan
+916;NO_DATA;Not Found;Sierra_Leone_137;Mesopelagics;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+917;Mugilidae;accepted;Sierra_Leone_137;Mullets and other herbivores;Mugilidae;125546.0;Family;Animalia;Chordata;Teleostei;Mugiliformes;Mugilidae;None;Nan
+918;Phytoplankton;Not Found;Sierra_Leone_137;Primary producers;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+919;Pentanemus quinquarius;accepted;Sierra_Leone_137;Royal Threadfin;Pentanemus quinquarius;282202.0;Species;Animalia;Chordata;Teleostei;Carangaria incertae sedis;Polynemidae;Pentanemus;Pentanemus quinquarius
+920;Nephrops;accepted;Sierra_Leone_137;SM Bathydem invert feeders;Nephrops;106863.0;Genus;Animalia;Arthropoda;Malacostraca;Decapoda;Nephropidae;Nephrops;Nan
+921;Sardinella;accepted;Sierra_Leone_137;Sardinellas;Sardinella;125721.0;Genus;Animalia;Chordata;Teleostei;Clupeiformes;Dorosomatidae;Sardinella;Nan
+922;Trachurus trecae;accepted;Sierra_Leone_137;Scads and mackerels;Trachurus trecae;126823.0;Species;Animalia;Chordata;Teleostei;Carangiformes;Carangidae;Trachurus;Trachurus trecae
+923;Aves;accepted;Sierra_Leone_137;Seabirds;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+924;Ephippidae;accepted;Sierra_Leone_137;Sickle-and spadefish;Ephippidae;151426.0;Family;Animalia;Chordata;Teleostei;Acanthuriformes;Ephippidae;None;Nan
+925;NO_DATA;Not Found;Sierra_Leone_137;Small Bathypelagic predators;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+926;Scombridae;accepted;Sierra_Leone_137;Small Tuna;Scombridae;125559.0;Family;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;None;Nan
+927;Pagellus;accepted;Sierra_Leone_137;Small demersal invert feeders;Pagellus;126079.0;Genus;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;Pagellus;Nan
+928;NO_DATA;Not Found;Sierra_Leone_137;Small demersal predators;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+929;Engraulis encrasicolus;accepted;Sierra_Leone_137;Small pelagic invert feeders;Engraulis encrasicolus;126426.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus
+930;Scomber colias;accepted;Sierra_Leone_137;Small pelagic predators;Scomber colias;151174.0;Species;Animalia;Chordata;Teleostei;Scombriformes;Scombridae;Scomber;Scomber colias
+931;Odontoceti;accepted;Sierra_Leone_137;Toothed whales and dolphins;Odontoceti;148723.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+932;Testudines;accepted;Sierra_Leone_137;Turtles;Testudines;2689.0;Order;Animalia;Chordata;None;Testudines;None;None;Nan
+933;Detritus;Not Found;Strait_of_Georgia_477;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+934;Gadus macrocephalus;accepted;Strait_of_Georgia_477;P. cod ad.;Gadus macrocephalus;254538.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus macrocephalus
+935;Gadus macrocephalus;accepted;Strait_of_Georgia_477;P. cod juv.;Gadus macrocephalus;254538.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus macrocephalus
+936;Hippoglossus stenolepis;accepted;Strait_of_Georgia_477;P. halibut ad.;Hippoglossus stenolepis;274290.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus stenolepis
+937;Hippoglossus stenolepis;accepted;Strait_of_Georgia_477;P. halibut juv.;Hippoglossus stenolepis;274290.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus stenolepis
+938;Sebastes alutus;accepted;Strait_of_Georgia_477;Pac. Ocean perch;Sebastes alutus;254573.0;Species;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;Sebastes alutus
+939;Merluccius productus;accepted;Strait_of_Georgia_477;Pac. hake;Merluccius productus;272458.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Merlucciidae;Merluccius;Merluccius productus
+940;Atheresthes stomias;accepted;Strait_of_Georgia_477;arrowtooth ad.;Atheresthes stomias;279792.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Atheresthes;Atheresthes stomias
+941;Atheresthes stomias;accepted;Strait_of_Georgia_477;arrowtooth juv.;Atheresthes stomias;279792.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Atheresthes;Atheresthes stomias
+942;Aves;accepted;Strait_of_Georgia_477;birds demer pisciv;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+943;Aves;accepted;Strait_of_Georgia_477;birds pelag pisciv;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+944;Aves;accepted;Strait_of_Georgia_477;birds zooplanktiv;Aves;1836.0;Class;Animalia;Chordata;Aves;None;None;None;Nan
+945;Bivalvia;accepted;Strait_of_Georgia_477;bivalves;Bivalvia;105.0;Class;Animalia;Mollusca;Bivalvia;None;None;None;Nan
+946;Sagitta elegans;unaccepted;Strait_of_Georgia_477;carn. zooplankton;Sagitta elegans;105450.0;Species;Animalia;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;Sagitta;Sagitta elegans
+947;Oncorhynchus tshawytscha;accepted;Strait_of_Georgia_477;chinook ad.;Oncorhynchus tshawytscha;158075.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus tshawytscha
+948;Oncorhynchus tshawytscha;accepted;Strait_of_Georgia_477;chinook juv.;Oncorhynchus tshawytscha;158075.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus tshawytscha
+949;Oncorhynchus keta;accepted;Strait_of_Georgia_477;chum;Oncorhynchus keta;127183.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus keta
+950;Oncorhynchus kisutch;accepted;Strait_of_Georgia_477;coho ad.;Oncorhynchus kisutch;127184.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus kisutch
+951;Oncorhynchus kisutch;accepted;Strait_of_Georgia_477;coho juv.;Oncorhynchus kisutch;127184.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus kisutch
+952;Brachyura;accepted;Strait_of_Georgia_477;crabs;Brachyura;106673.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+953;Squalus acanthias;accepted;Strait_of_Georgia_477;dogfish;Squalus acanthias;105923.0;Species;Animalia;Chordata;Elasmobranchii;Squaliformes;Squalidae;Squalus;Squalus acanthias
+954;Echinodermata;accepted;Strait_of_Georgia_477;echinoderms;Echinodermata;1806.0;Phylum;Animalia;Echinodermata;None;None;None;None;Nan
+955;NO_DATA;Not Found;Strait_of_Georgia_477;flatfish other;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+956;Calanus pacificus;alternative representation;Strait_of_Georgia_477;herb. zooplankton;Calanus pacificus;196771.0;Species;Animalia;Arthropoda;Copepoda;Calanoida;Calanidae;Calanus;Calanus pacificus
+957;Clupea pallasii;accepted;Strait_of_Georgia_477;herring ad.;Clupea pallasii;151159.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii
+958;Clupea pallasii;accepted;Strait_of_Georgia_477;herring juv.;Clupea pallasii;151159.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii
+959;Aurelia aurita;accepted;Strait_of_Georgia_477;jellies;Aurelia aurita;135306.0;Species;Animalia;Cnidaria;Scyphozoa;Semaeostomeae;Ulmaridae;Aurelia;Aurelia aurita
+960;Euphausia pacifica;accepted;Strait_of_Georgia_477;krill;Euphausia pacifica;237851.0;Species;Animalia;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia pacifica
+961;Teuthida;nomen dubium;Strait_of_Georgia_477;large squids;Teuthida;11716.0;Order;Animalia;Mollusca;Cephalopoda;Teuthida;None;None;Nan
+962;Ophiodon elongatus;accepted;Strait_of_Georgia_477;lingcod;Ophiodon elongatus;240745.0;Species;Animalia;Chordata;Teleostei;Perciformes;Hexagrammidae;Ophiodon;Ophiodon elongatus
+963;Macrophytes;Not Found;Strait_of_Georgia_477;macrophytes;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+964;NO_DATA;Not Found;Strait_of_Georgia_477;misc. pred. pelagics;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+965;NO_DATA;Not Found;Strait_of_Georgia_477;misc. small demersals;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+966;Clupea pallasii;accepted;Strait_of_Georgia_477;misc. small pelagics;Clupea pallasii;151159.0;Species;Animalia;Chordata;Teleostei;Clupeiformes;Clupeidae;Clupea;Clupea pallasii
+967;NO_DATA;Not Found;Strait_of_Georgia_477;myctophids;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+968;Mysticeti;accepted;Strait_of_Georgia_477;mysticetae;Mysticeti;148724.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+969;Odontoceti;accepted;Strait_of_Georgia_477;odontocetae;Odontoceti;148723.0;Superfamily;Animalia;Chordata;Mammalia;Cetartiodactyla;None;None;Nan
+970;Benthos;junior subjective synonym;Strait_of_Georgia_477;other benthos;Benthosaurus;296146.0;Genus;Animalia;Chordata;Teleostei;Aulopiformes;Ipnopidae;Benthosaurus;Nan
+971;Carcharhiniformes;accepted;Strait_of_Georgia_477;pelagic sharks;Carcharhiniformes;10210.0;Order;Animalia;Chordata;Elasmobranchii;Carcharhiniformes;None;None;Nan
+972;Phytoplankton;Not Found;Strait_of_Georgia_477;phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+973;Oncorhynchus gorbuscha;accepted;Strait_of_Georgia_477;pink;Oncorhynchus gorbuscha;127182.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus gorbuscha
+974;Gadus chalcogrammus;accepted;Strait_of_Georgia_477;pollock ad.;Gadus chalcogrammus;300735.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus
+975;Gadus chalcogrammus;accepted;Strait_of_Georgia_477;pollock juv.;Gadus chalcogrammus;300735.0;Species;Animalia;Chordata;Teleostei;Gadiformes;Gadidae;Gadus;Gadus chalcogrammus
+976;Rajidae / Chimaeridae;Not Found;Strait_of_Georgia_477;rajidae / ratfish;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+977;NO_DATA;Not Found;Strait_of_Georgia_477;rock sole;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+978;Sebastes;accepted;Strait_of_Georgia_477;rockfish other;Sebastes;126175.0;Genus;Animalia;Chordata;Teleostei;Perciformes;Sebastidae;Sebastes;Nan
+979;Anoplopoma fimbria;accepted;Strait_of_Georgia_477;sablefish ad.;Anoplopoma fimbria;159463.0;Species;Animalia;Chordata;Teleostei;Perciformes;Anoplopomatidae;Anoplopoma;Anoplopoma fimbria
+980;Anoplopoma fimbria;accepted;Strait_of_Georgia_477;sablefish juv.;Anoplopoma fimbria;159463.0;Species;Animalia;Chordata;Teleostei;Perciformes;Anoplopomatidae;Anoplopoma;Anoplopoma fimbria
+981;Lamna ditropis;accepted;Strait_of_Georgia_477;salmon shark;Lamna ditropis;271421.0;Species;Animalia;Chordata;Elasmobranchii;Lamniformes;Lamnidae;Lamna;Lamna ditropis
+982;Otariidae;accepted;Strait_of_Georgia_477;sea lions;Otariidae;231386.0;Family;Animalia;Chordata;Mammalia;Carnivora;Otariidae;None;Nan
+983;Phocidae;accepted;Strait_of_Georgia_477;seals;Phocidae;136976.0;Family;Animalia;Chordata;Mammalia;Carnivora;Phocidae;None;Nan
+984;Caridea;accepted;Strait_of_Georgia_477;shrimps;Caridea;106674.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+985;Teuthida;nomen dubium;Strait_of_Georgia_477;small squids;Teuthida;11716.0;Order;Animalia;Mollusca;Cephalopoda;Teuthida;None;None;Nan
+986;Oncorhynchus nerka;accepted;Strait_of_Georgia_477;sockeye;Oncorhynchus nerka;254569.0;Species;Animalia;Chordata;Teleostei;Salmoniformes;Salmonidae;Oncorhynchus;Oncorhynchus nerka
+987;Limanda aspera;accepted;Strait_of_Georgia_477;yellowfin sole;Limanda aspera;254562.0;Species;Animalia;Chordata;Teleostei;Pleuronectiformes;Pleuronectidae;Limanda;Limanda aspera
+988;Ariidae;accepted;Terminos_Lagoon_243;Ariidae;Ariidae;154659.0;Family;Animalia;Chordata;Teleostei;Siluriformes;Ariidae;None;Nan
+989;Benthic autotrophs;Not Found;Terminos_Lagoon_243;Benthic autotrophs;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+990;Brachyura;accepted;Terminos_Lagoon_243;Brachyurans;Brachyura;106673.0;Infraorder;Animalia;Arthropoda;Malacostraca;Decapoda;None;None;Nan
+991;Detritus;Not Found;Terminos_Lagoon_243;Detritus;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+992;Engraulidae;accepted;Terminos_Lagoon_243;Engraulidae;Engraulidae;125465.0;Family;Animalia;Chordata;Teleostei;Clupeiformes;Engraulidae;None;Nan
+993;Gerreidae;accepted;Terminos_Lagoon_243;Gerreidae;Gerreidae;151456.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Gerreidae;None;Nan
+994;Haemulidae;accepted;Terminos_Lagoon_243;Haemulidae;Haemulidae;125538.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Haemulidae;None;Nan
+995;Lutjanidae;accepted;Terminos_Lagoon_243;Lutjanidae;Lutjanidae;151453.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Lutjanidae;None;Nan
+996;Meiofauna;Not Found;Terminos_Lagoon_243;Meiofauna;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+997;Crustacea;accepted;Terminos_Lagoon_243;Microcrustaceans;Crustacea;1066.0;Subphylum;Animalia;Arthropoda;None;None;None;None;Nan
+998;Mollusca;accepted;Terminos_Lagoon_243;Molluscs;Mollusca;51.0;Phylum;Animalia;Mollusca;None;None;None;None;Nan
+999;Actinopterygii;accepted;Terminos_Lagoon_243;Other fish;Actinopterygii;10194.0;Gigaclass;Animalia;Chordata;None;None;None;None;Nan
+1000;NO_DATA;Not Found;Terminos_Lagoon_243;Other macroinvertebrates;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+1001;Penaeidae;accepted;Terminos_Lagoon_243;Penaeids;Penaeidae;106727.0;Family;Animalia;Arthropoda;Malacostraca;Decapoda;Penaeidae;None;Nan
+1002;Phytoplankton;Not Found;Terminos_Lagoon_243;Phytoplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan
+1003;Polychaeta;accepted;Terminos_Lagoon_243;Polychaetes;Polychaeta;883.0;Class;Animalia;Annelida;Polychaeta;None;None;None;Nan
+1004;Sciaenidae;accepted;Terminos_Lagoon_243;Scianidae;Sciaenidae;125558.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sciaenidae;None;Nan
+1005;Sparidae;accepted;Terminos_Lagoon_243;Sparidae;Sparidae;125564.0;Family;Animalia;Chordata;Teleostei;Eupercaria incertae sedis;Sparidae;None;Nan
+1006;Tetraodontidae;accepted;Terminos_Lagoon_243;Tetraodontidae;Tetraodontidae;125612.0;Family;Animalia;Chordata;Teleostei;Tetraodontiformes;Tetraodontidae;None;Nan
+1007;Zooplankton;Not Found;Terminos_Lagoon_243;Zooplankton;Nan;;;Nan;Nan;Nan;Nan;Nan;Nan;Nan

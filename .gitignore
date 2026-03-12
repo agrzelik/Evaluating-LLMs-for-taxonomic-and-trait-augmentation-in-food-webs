@@ -12,11 +12,33 @@ not_final_*.py
 !Input/*
 
 # 5. Files for reproducibilty
+
+!dataset_20260126_ecobase/
+!dataset_20260126_ecobase/processed/
 !dataset_20260126_ecobase/processed/*.scor
 !dataset_20260126_ecobase/metadata_20260128.xlsx
+
+!baseline/
 !baseline/baseline_file_1.csv
+
+!Ensembles/
+!Ensembles/self_evaluated_soft_voting/
+!Ensembles/self_evaluated_soft_voting/gen1_0603/
 !Ensembles/self_evaluated_soft_voting/gen1_0603/consensus_results_gen1_0603.csv
+
+!Ensembles/black_box_approach/
+!Ensembles/black_box_approach/gen1_0603/
 !Ensembles/black_box_approach/gen1_0603/arbitrated_taxonomy_all_models.xlsx
-!LLM_worms_files/processed_taxonomic_data_gen1_0603_*.csv
+
+!Ensembles/cross_evaluated_soft_voting/
+!Ensembles/cross_evaluated_soft_voting/gen1_0603/
 !Ensembles/cross_evaluated_soft_voting/gen1_0603/best_scoring_*.csv
+
+!LLM_worms_files/
+!LLM_worms_files/processed_taxonomic_data_gen1_0603_*.csv
+
+!LLM features/
+!LLM features/Processed/
+!LLM features/Processed/*/
+!LLM features/Processed/*/gen1_0603/
 !LLM features/Processed/*/gen1_0603/*
