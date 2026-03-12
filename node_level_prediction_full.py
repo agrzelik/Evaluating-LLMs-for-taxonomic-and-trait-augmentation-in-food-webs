@@ -332,7 +332,7 @@ def run_task(task_name, target_col, df, llm_feat_cols, model_name, min_samples, 
             df = make_trophic_category(df)
         df_task = prepare_labels(df, target_col, min_samples)
     except ValueError as e:
-        print(f"[SKIP] {e}")
+        print(f"[No file] {e}")
         return {}
 
     y = df_task['label'].values

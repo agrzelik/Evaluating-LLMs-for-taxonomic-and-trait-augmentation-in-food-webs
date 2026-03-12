@@ -1,0 +1,68 @@
+You are a senior marine ecologist with over 10 years of experience studying trophic networks, ecological interactions, and environmental drivers of species distribution.
+
+I have ecological food web data from marine environments that needs biological and ecological enrichment. This is batch {batch_num} of {total_batches}.
+
+{metadata_str}
+
+**Data Source Instructions:**
+When retrieving information, prioritize data from the following databases:
+- World Register of Marine Species (WoRMS) - https://www.marinespecies.org
+- FishBase https://www.fishbase.org
+
+**Required Information for Each Node:**
+1. Life Span: Typical lifespan range in years
+2. Activity Patterns: diurnal, nocturnal, crepuscular, continuous
+3. Typical Length: Choose from ('0-1','1-5','5-30','30-50','50-80','80-110','110-200','200+') cm
+4. Sexual Dimorphism: NO, YES (Male smaller), YES (Female smaller)
+5. Fecundity: low, moderate, high, extremely high
+6. Water Depth: shallow coastal waters, deep waters (continental slope), benthic (seafloor), coastal benthic zone, epipelagic, mesopelagic, bathypelagic
+7. Skin Covering: rough, smooth, mucous, spiny, scaly, smooth with chromatophores
+8. Feeding Strategy: filter feeder, carnivore, apex predator, decomposer
+9. Reproductive Strategy: oviparous, viviparous, ovoviviparous, broadcast spawning, asexual reproduction
+10. Social Behavior: solitary, schooling, solitary or schooling
+
+**Extended Marine-Specific Traits:**
+11. Body Form: fusiform, anguilliform, flattened, globiform, laterally compressed
+12. Locomotion Mode: undulatory swimming, oscillatory fins, jet propulsion, drifting
+13. Metabolic Rate: provide a numeric range in mg O₂ / g / h (e.g., 0.2–1.0)
+14. Metabolic Strategy: ectothermic, regional endothermy, homeothermy
+15. Osmotic Regulation: osmoconformer, osmoregulator
+16. Sensory Adaptations: e.g., lateral line, electroreception, echolocation, bioluminescence
+17. Defense Mechanisms: e.g., armor, spines, toxins, schooling, speed, camouflage
+18. Feeding Guild: planktivore, piscivore, detritivore, omnivore, scavenger
+19. Diet Breadth: specialist or generalist
+20. Prey Capture Strategy: ambush predator, filter feeder, pursuit predator, suction feeding, grazing
+21. Feeding Time Preference: diurnal, nocturnal, crepuscular, continuous
+22. Age at Maturity: years
+23. Spawning Strategy: pelagic spawner, demersal spawner, live-bearing, brood pouch, egg case deposition
+24. Reproductive Seasonality: seasonal, continuous
+25. Parental Investment: none, guarding eggs, brood care, live-bearing parental investment
+26. Larval Stage Type: planktonic, lecithotrophic, direct development
+27. Generation Time: years
+28. Preferred Depth Zone: epipelagic, mesopelagic, bathypelagic, abyssopelagic, benthic, intertidal
+29. Temperature Preference: polar, temperate, tropical, deep-sea stenothermal
+30. Salinity Tolerance: stenohaline, euryhaline
+31. Substrate Association: sandy bottom, rocky reef, coral reef, seagrass beds, mud flats, open ocean
+32. Migration Pattern: resident, diel vertical migration, seasonal, anadromous, catadromous
+33. Symbiotic Associations: cleaning symbiosis, commensal, mutualist, parasite, none
+34. Functional Group: basal resource, primary consumer, mesopredator, apex predator, decomposer
+35. Ecosystem Role: keystone, foundation species, ecosystem engineer, invasive, redundant
+36. Competition Intensity: low, moderate, high
+37. Predator Avoidance Strategy: crypsis, mimicry, toxins, refuge use, speed
+38. Bioturbation Impact: YES/NO
+39. IUCN Status: LC, NT, VU, EN, CR
+40. Fishing Pressure: none, artisanal, commercial, industrial-scale
+41. Bycatch Risk: low, moderate, high
+42. Invasive Potential: low, medium, high
+43. Climate Sensitivity: sensitive, moderately resilient, resilient
+
+**Current Data (Batch {batch_num}/{total_batches}):**
+{json_data}
+
+**Final Instructions:**
+- Return ONLY valid JSON format with all original fields (including taxonomic and aggregation data) preserved.
+- Add the new biological and taxonomic fields as flat fields (no nested objects).
+- Base information on established marine ecological knowledge; if exact data is unavailable, provide estimates based on similar species.
+- For metabolic_rate, always provide numeric values in the form of a range (e.g., "0.2–0.8").
+- Ensure JSON is properly formatted and parseable.
+- Do not include any explanatory text or markdown; return only the enriched JSON array.
