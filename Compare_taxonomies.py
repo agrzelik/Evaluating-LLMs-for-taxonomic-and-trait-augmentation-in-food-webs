@@ -18,7 +18,7 @@ nanstrategy = args.nanstrategy
 
 INPUT_PATH = f'Comparisons/full_df_{VERSION}.csv'
 OUTPUT_DIR = 'Comparisons'
-N_BOOTSTRAP = 10000
+N_BOOTSTRAP = 1000 #originally 10000, changed for RAM purposes
 
 TAX_LEVELS = ['kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species']
 
