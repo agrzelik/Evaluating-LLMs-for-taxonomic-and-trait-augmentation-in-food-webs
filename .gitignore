@@ -47,4 +47,6 @@ not_final_*.py
 # 6. Figures
 
 !Figures/
+!Figures/gen1_0603/
 !Figures/*
+!Figures/gen1_0603/*
