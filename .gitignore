@@ -45,6 +45,10 @@ not_final_*.py
 !LLM features/Processed/*/
 !LLM features/Processed/*/gen1_0603/
 !LLM features/Processed/*/gen1_0603/*
+LLM features/Processed/*/gen2_0703/
+!LLM features/Processed/*/gen2_0703/*
+LLM features/Processed/*/gen3_0803/
+!LLM features/Processed/*/gen3_0803/*
 
 # 6. Figures
 
