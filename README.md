@@ -3,7 +3,7 @@
 
 # LLM Data Pipeline: Data Augmentation
 
-This repository provides a complete, automated workflow for generating, augmenting, preprocessing, and analyzing ecological datasets produced by Large Language Models (LLMs). The pipeline is designed to transform raw food web data into enriched, ML-ready datasets through a multi-stage process.
+This repository provides a complete, automated workflow for generating, augmenting, preprocessing, and analyzing ecological datasets produced by Large Language Models (LLMs). The pipeline is designed to transform food webs, saved in the SCOR (Scientific Committee on Oceanic Research) format into enriched, ML-ready datasets through a multi-stage process.
 
 Core Pipeline Stages:
 
@@ -303,8 +303,10 @@ python Viz_taxonomies_comparisons.py --version v1
 This section evaluates the reliability and stability of LLM outputs across multiple generations and different models. It focuses on identifying level of accuracy across a few generations of the taxonomic data.
 
 ```bash
-python3 Intra_and_inter_model_viz.py --versions gen1_0603 gen2_0703 gen3_0803
-python3 triangular_plots.py
+python3 Intra_inter_model_comparison.py --versions gen1_0603 gen2_0703 gen3_0803 --nanstrategy 2 --option_comparison 'inter'
+python3 Intra_inter_model_comparison.py --versions gen1_0603 gen2_0703 gen3_0803 --nanstrategy 2 --option_comparison 'intra'
+    
+python3 triangular_plots.py --versions gen1_0603 gen2_0703 gen3_0803 --nanstrategy 2
 ```
 # 11. Node-level prediction tasks
 
