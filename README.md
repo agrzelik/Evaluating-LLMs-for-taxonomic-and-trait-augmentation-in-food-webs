@@ -1,11 +1,37 @@
-# Evaluating-LLMs-for-taxonomic-and-trait-augmentation-in-food-webs
+# Evaluating LLMs for taxonomic and trait augmentation in food webs
 
 
 # LLM Data Pipeline: Data Augmentation
 
-This repository provides a complete, automated workflow for generating, augmenting, preprocessing, encoding, analyzing, and visualizing datasets produced by Large Language Models (LLMs).
+This repository provides a complete, automated workflow for generating, augmenting, preprocessing, and analyzing ecological datasets produced by Large Language Models (LLMs). The pipeline is designed to transform raw food web data into enriched, ML-ready datasets through a multi-stage process.
 
-It supports **parallel LLM execution**, **JSON to Excel conversion**, **preprocessing pipelines**, **feature engineering**, **statistical analysis**, and **model comparison visualizations**.
+Core Pipeline Stages:
+
+Parallel Generation & Processing: querying of multiple LLMs (GPT, Claude, Gemini, Qwen) followed by JSON-to-Excel conversion and data standardization.
+
+Taxonomic Verification: Integration with the WoRMS API to validate LLM-generated Latin names and retrieve authoritative taxonomic lineages.
+
+Ensemble Optimization: Implementation of advanced aggregation strategies—including self-evaluated soft voting, cross-model evaluated soft voting, and LLM-as-a-judge to mitigate hallucinations and improve data robustness.
+
+Comparative Analysis: Systematic evaluation of model performance across different generations, utilizing intra- and inter-model comparisons.
+
+Downstream Task: Execution of node-level prediction tasks using 43 ecological functional traits.
+
+## Quick Start
+
+If you want to skip the documentation and run the code immediately, you can use these shortcuts. Make sure you go through Installation & Environment Setup before.
+
+### Option A: Full Pipeline (Requires API Keys)
+Run this to generate new data from scratch using LLMs. 
+```bash
+./run_pipeline.sh gen1_0603
+```
+### Option B: Analysis Only (No API Keys needed)
+Run this to use files provided in the LLM `features/Processed`. This skips the expensive generation step and starts directly with analysis.
+```bash
+./run_pipeline_no_api_keys.sh gen1_0603
+```
+This scripts are the recommended way to process all LLM outputs end-to-end.
 
 ---
 
@@ -273,25 +299,20 @@ python Viz_taxonomies_comparisons.py --version v1
 ---
 
 # 10. Model self-consistency and cross-model accuracy
-   
-# python3 Intra_and_inter_model_viz.py --versions gen1_0603 gen2_0703 gen3_0803
 
-# python3 triangular_plots.py
-
-# python3 node_level_prediction_full.py
-
-
-## 10. Full Automated Pipeline
-
-Use **run_pipeline.sh** to execute the entire workflow including data generation.
-
-### Command
+This section evaluates the reliability and stability of LLM outputs across multiple generations and different models. It focuses on identifying level of accuracy across a few generations of the taxonomic data.
 
 ```bash
-bash run_pipeline.sh v1
+python3 Intra_and_inter_model_viz.py --versions gen1_0603 gen2_0703 gen3_0803
+python3 triangular_plots.py
 ```
+# 11. Node-level prediction tasks
 
-This is the recommended way to process all LLM outputs end-to-end.
+This section represents a standalone analytical task that utilizes the previously enriched dataset: `Input/functional_features_0803/Gemini_Processed_Final.xlsx`. The goal is to evaluate the practical utility of LLM-augmented data in predicting ecological role of at individual node level. Functional features used in this task, were generated using attatched prompt: `Input/functional_features_0803/functional_features_prompt.txt` 
+
+```bash
+python3 node_level_prediction_full.py
+```
 
 ---
 
@@ -347,5 +368,5 @@ This is the recommended way to process all LLM outputs end-to-end.
 
 ```
 
-- **`Reproducibility & Experiment Versions`** 
+
 
