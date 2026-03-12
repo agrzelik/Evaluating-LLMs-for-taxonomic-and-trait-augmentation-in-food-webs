@@ -4,9 +4,11 @@
 # 2. Exception: Unignore the .gitignore file itself
 !.gitignore
 
-# 3. Exception: Unignore ONLY Python files
+# 3. Exception: Unignore ONLY Python files and bash scripts
 !*.py
 not_final_*.py
+!*.sh
+
 
 # 4. Exception: Unignore prompt files, baseline input, 43 functional features file
 !Input
