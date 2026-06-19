@@ -32,11 +32,11 @@ do
     echo ">>> Merging taxonomies, version: $VERSION"
     python3 Merge_taxonomies.py --version "$VERSION" 
 
-    for NAN_STRATEGY in 2
+    for NAN_STRATEGY in 1 2
     do
         echo "Running taxonomies comparison with nan strategy value: $NAN_STRATEGY"
         python3 Compare_taxonomies.py --version "$VERSION" --nanstrategy $NAN_STRATEGY
-        python3 Viz_taxonomies_comparisons.py --version "$VERSION" --nanstrategy $NAN_STRATEGY
+        python3 Viz_taxonomies_small_heatmaps.py --version "$VERSION" --nanstrategy $NAN_STRATEGY
         echo "Taxonomies comparison done for value: $NAN_STRATEGY"
         echo "--------------------------"
     done
@@ -44,7 +44,7 @@ do
     echo ">>> Finished individual tasks for $VERSION"
     echo "----------------------------------------------------------"
 done
-
+'''
 echo "=========================================================="
 echo "Multiple generations comparison"
 echo "=========================================================="
@@ -63,5 +63,5 @@ done
 echo "Running node-level prediction tasks"
 python3 node_level_prediction_full.py
 echo "Finished node-level prediction tasks"
-
+'''
 echo "PIPELINE COMPLETED SUCCESSFULLY."

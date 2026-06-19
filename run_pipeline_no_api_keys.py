@@ -83,7 +83,7 @@ def main():
     print("Multiple generations comparison")
     print("==========================================================")
 
-    for nan_strategy in [2]:
+    for nan_strategy in [1, 2]:
         print(f"Running multiple generations comparison with nan strategy value: {nan_strategy}")
 
         run([
@@ -109,8 +109,13 @@ def main():
         print(f"Multiple generations comparison done for value: {nan_strategy}")
 
     print("Running node-level prediction tasks")
-    run(["python3", "node_level_prediction_full.py"])
+    run(["python3", "node_level_prediction_original.py"])
     print("Finished node-level prediction tasks")
+
+    print("Running taxonomy prunning")
+    run(["python3", "separate_session_taxonomy.py"])
+    run(["python3", "Compare_taxonomies_for_separate_session.py"])
+    print("Finished taxonomy prunning")
 
     print("PIPELINE COMPLETED SUCCESSFULLY.")
 

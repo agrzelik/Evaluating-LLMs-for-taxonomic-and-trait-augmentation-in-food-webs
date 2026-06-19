@@ -70,6 +70,18 @@ def compute_metrics(baseline_col, llm_col):
     baseline = baseline_col.apply(new_normalize_series)
     llm      = llm_col.apply(new_normalize_series)
 
+    '''
+    hallucination_mask = (baseline == '') & (llm != '')
+    hallucination_rate = hallucination_mask.sum() / len(baseline == '')
+    '''
+    
+    n = len(baseline)
+
+    both_valid    = (baseline == llm).sum() / n                   # baseline == llm, answer or empty
+    hallucination_rate = ((baseline == '') & (llm != '')).sum() / n    # baseline empty, LLM gives an overspecified answer
+    missed_rate        = ((baseline != '') & (llm == '')).sum() / n    # baseline with answer, LLM empty
+    incorrect_rate     = ((baseline != '') & (llm != '') & (baseline != llm)).sum() / n     #incorrect LLM answer
+        
     if nanstrategy == '1':
         pass
     elif nanstrategy == '2': 
@@ -89,11 +101,16 @@ def compute_metrics(baseline_col, llm_col):
     q = q.reindex(idx, fill_value=0)
     agreement = 1 - jensenshannon(p, q)
 
+    if nanstrategy == '2':
+        n = len(baseline)
+        missed_rate        = ((baseline != '') & (llm == '')).sum() / n    # baseline with answer, LLM empty
+        incorrect_rate     = ((baseline != '') & (llm != '') & (baseline != llm)).sum() / n     #incorrect LLM answer
+        hallucination_rate = np.nan
+
     # Accuracy (sklearn)
     accuracy = accuracy_score(baseline,llm)
 
-    return agreement, accuracy
-
+    return agreement, accuracy, hallucination_rate, missed_rate, incorrect_rate
 
 # === BOOTSTRAP ===
 
@@ -111,13 +128,17 @@ def get_bootstrap_ci(df, models, tax_levels, n_iterations=1000):
                 if b_col not in boot.columns or l_col not in boot.columns:
                     continue
 
-                agreement, accuracy = compute_metrics(boot[b_col], boot[l_col])
+                agreement, accuracy, hallucination_rate, missed_rate, incorrect_rate = compute_metrics(boot[b_col], boot[l_col])
                 records.append({
                     "boot_id":       i,
                     "model":         model,
                     "taxonomy_level": tax,
                     "agreement":     agreement,
                     "accuracy":      accuracy,
+                    "hallucination_rate": hallucination_rate,
+                    "missed_rate": missed_rate,
+                    "incorrect_rate": incorrect_rate
+
                 })
 
         if (i + 1) % 100 == 0:
@@ -139,12 +160,15 @@ for model in MODELS:
         key = f"{tax}_{model}"
         per_column_masks[key] = get_valid_indices(df[b_col], df[l_col], nanstrategy)
 
-        agreement, accuracy = compute_metrics(df[b_col], df[l_col])
+        agreement, accuracy, hallucination_rate, missed_rate, incorrect_rate = compute_metrics(df[b_col], df[l_col])
         results.append({
             "model": model,
             "taxonomy_level": tax,
             "agreement": agreement,
             "accuracy": accuracy,
+            "hallucination_rate": hallucination_rate,
+            "missed_rate": missed_rate,
+            "incorrect_rate": incorrect_rate
         })
 
 df_full = pd.DataFrame(results)
@@ -162,6 +186,13 @@ summary = df_boot.groupby(['model', 'taxonomy_level']).agg(
     agreement_ci_high = ('agreement', lambda x: x.quantile(0.975)),
     accuracy_ci_low   = ('accuracy',  lambda x: x.quantile(0.025)),
     accuracy_ci_high  = ('accuracy',  lambda x: x.quantile(0.975)),
+    hallucination_rate_ci_low   = ('hallucination_rate',  lambda x: x.quantile(0.025)),
+    hallucination_rate_ci_high  = ('hallucination_rate',  lambda x: x.quantile(0.975)),
+    missed_rate_ci_low   = ('missed_rate',  lambda x: x.quantile(0.025)),
+    missed_rate_ci_high  = ('missed_rate',  lambda x: x.quantile(0.975)),
+    incorrect_rate_ci_low   = ('incorrect_rate',  lambda x: x.quantile(0.025)),
+    incorrect_rate_ci_high  = ('incorrect_rate',  lambda x: x.quantile(0.975)),
+    
 ).reset_index()
 
 # === MERGE ===

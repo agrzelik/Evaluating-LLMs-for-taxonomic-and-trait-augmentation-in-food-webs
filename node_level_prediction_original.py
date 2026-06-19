@@ -5,9 +5,8 @@ Node-level classification on marine food web networks.
 
 Three tasks (all on the same node set – nodes matched in LLM features):
   1. trophic_category  – derived from trophic_level using Stergiou & Karpouzi (2002) bins
-  2. topo_katz_category - dervied from Katz centality
-  3. functional_group  – directly from LLM feature file
-  4. feeding_guild     – directly from LLM feature file
+  2. functional_group  – directly from LLM feature file
+  3. feeding_guild     – directly from LLM feature file
 
 Two feature sets compared per task:
   - v1  : graph-structural features (topology + flows), NO trophic_level
@@ -29,6 +28,9 @@ import networkx as nx
 import foodwebviz as fw
 import matplotlib.pyplot as plt
 import seaborn as sns
+import matplotlib.image as mpimg
+from pypdf import PdfReader
+from pdf2image import convert_from_path
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
@@ -61,7 +63,6 @@ TROPHIC_LABELS = ['primary_producer', 'herbivore', 'omnivore_plant',
 # Columns that are targets, never used as features
 TARGET_COLS = frozenset([
     'trophic_level', 'trophic_category',
-    'topo_katz', 'topo_katz_category',
     'functional_group', 'feeding_guild',
 ])
 
@@ -76,8 +77,7 @@ V1_FEATURES = [
 # Tasks: display_name - source column (None = derived)
 TASKS = {
     'trophic_category': None,
-    'topo_katz_category': 'topo_katz_category',
-    'functional_group': 'functional_group',
+    #'functional_group': 'functional_group',
     'feeding_guild':    'feeding_guild',
 }
 
@@ -117,38 +117,17 @@ def load_clusters(metadata_path, to_remove):
 def extract_topological_features(G):
     in_deg  = dict(G.in_degree())
     out_deg = dict(G.out_degree())
-    #katz = nx.katz_centrality(G, alpha=0.01, beta=1.0, max_iter=1000)
-    #pr = nx.pagerank(G, alpha=0.85)
     G_und   = G.to_undirected()
     btw     = nx.betweenness_centrality(G_und, normalized=True)
     clust   = nx.clustering(G_und)
-    #eig = nx.eigenvector_centrality_numpy(G_und)
-
-    katz_values = np.array([v for v in out_deg.values()])
-    p50 = np.percentile(katz_values, 25)
-    p90 = np.percentile(katz_values, 50)
-    p99 = np.percentile(katz_values, 75)
-
-    katz_category = {}
-    for node, k in out_deg.items():
-        if k < p50:
-            katz_category[node] = "peripheral"
-        elif k < p90:
-            katz_category[node] = "secondary"
-        elif k < p99:
-            katz_category[node] = "important"
-        else:
-            katz_category[node] = "core"
 
     result = {}
     for node in G.nodes():
         neighbors = list(G.predecessors(node)) + list(G.successors(node))
         result[node] = {
             'topo_in_degree':        in_deg.get(node, 0),
-            #'topo_out_degree':       out_deg.get(node, 0),
+            'topo_out_degree':       out_deg.get(node, 0),
             'topo_degree':           in_deg.get(node, 0) + out_deg.get(node, 0),
-            #'topo_katz':             katz.get(node, 0.0),
-            'topo_katz_category':   katz_category[node],
             'topo_betweenness':      btw.get(node, 0.0),
             'topo_clustering':       clust.get(node, 0.0),
             'topo_neighbor_in_deg':  np.mean([in_deg.get(n, 0)  for n in neighbors]) if neighbors else 0.0,
@@ -441,9 +420,16 @@ def plot_heatmap(all_results, output_path):
 
     col_labels  = [COL_RENAME.get(c, c)  for c in col_order]
     task_labels = [TASK_RENAME.get(t, t) for t in task_names]
-
+    '''
     fig, ax = plt.subplots(figsize=(max(6, len(col_order) * 6),
                                     max(3, len(task_names) * 1.6)))
+    '''
+    
+    fig, (ax, ax_icons) = plt.subplots(1, 2, figsize=(max(6, len(col_order) * 6) + 3, max(3, len(task_names) * 1.8)),
+    gridspec_kw={'width_ratios': [len(col_order), 1]})
+
+    ax_icons.axis('off')
+
     sns.heatmap(
     data.astype(float),
     cmap='Blues', vmin=0, vmax=1,
@@ -480,10 +466,33 @@ def plot_heatmap(all_results, output_path):
         ax.hlines(y, *ax.get_xlim(), colors='white', linewidth=8)
 
     ax.set_xlabel('', fontsize=14, labelpad=10)
-    ax.set_ylabel('',        fontsize=14, labelpad=10)
-    ax.set_yticklabels(task_labels, rotation=0, fontsize=28)
-    ax.set_xticklabels(col_labels,  rotation=0, fontsize=28)
+    ax.set_ylabel('', fontsize=14, labelpad=10)
+    ax.set_yticklabels(task_labels, rotation=0, fontsize=24)
+    ax.set_xticklabels(col_labels,  rotation=0, fontsize=24)
+    
+    icon_pdfs = ['Input/icons/DB_icon.pdf', 'Input/icons/LLM_icon.pdf'] 
 
+    for i, pdf_path in enumerate(icon_pdfs):
+
+        pages = convert_from_path(pdf_path, dpi=150)
+        img = pages[0]
+        h, w = np.array(img).shape[:2]
+        aspect = w / h
+        y_pos = 1.0 - (i + 0.5) / len(task_names) 
+
+        icon_height = 0.3
+        icon_width = 0.2 #icon_height * aspect
+        ax_icons.imshow(
+                            img,
+                            extent=[
+                                0.1 - icon_width/2,
+                                0.1 + icon_width/2,
+                                y_pos - icon_height/2,
+                                y_pos + icon_height/2
+                            ],
+                            transform=ax_icons.transAxes
+                        )
+    
     plt.tight_layout()
     out = os.path.join(FIG_OUTPUT, 'node_classification_heatmap.pdf')
     plt.savefig(out, bbox_inches='tight')

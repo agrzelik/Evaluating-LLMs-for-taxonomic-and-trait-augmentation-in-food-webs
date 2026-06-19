@@ -318,6 +318,20 @@ This section represents a standalone analytical task that utilizes the previousl
 python node_level_prediction_full.py
 ```
 
+# 12. Taxonomy prunning
+
+Large Language Models (LLMs) often tend to over-specify taxonomic annotations by generating highly detailed ranks (e.g., genus or species) even when the available information only supports higher-level classifications. To reduce this effect, we apply an additional taxonomy pruning step.
+
+1. `run_tax_level_generation.py` generates the predicted taxonomic level for each node using a separate LLM session.
+2. `separate_session_taxonomy.py` combines the main taxonomy predictions with the generated taxonomic levels and removes all ranks below the pruning threshold.
+3. `Compare_taxonomies_for_separate_session.py` compares standard and pruned taxonomies against the reference taxonomy and computes pruning statistics (under-pruning, correct pruning, and over-pruning).
+
+```bash
+python run_tax_level_generation.py
+python separate_session_taxonomy.py
+python Compare_taxonomies_for_separate_session.py
+```
+
 ---
 
 ## Directory Structure

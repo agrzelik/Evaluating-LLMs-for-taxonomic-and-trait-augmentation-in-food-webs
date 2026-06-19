@@ -45,7 +45,7 @@ def run(cmd):
 
 def setup_logging():
     os.makedirs("logs", exist_ok=True)
-    log_name = f"logs/pipeline_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+    log_name = f"logs/tax_level_pipeline_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
     log_file = open(log_name, "a")
 
     class Tee:
@@ -73,7 +73,7 @@ def main():
     args = parser.parse_args()
 
     run_baseline = args.baseline
-    versions = args.versions if args.versions else ["gen1_0603"]
+    versions = args.versions if args.versions else ["tax_level_1606_gen"]
 
     log_file = setup_logging()
     print(f"Logging to: {log_file}")
@@ -87,8 +87,8 @@ def main():
             print(f">>> Processing network: {net} for version: {version}")
 
             run([
-                "python3", "LLM_parallel.py",
-                "--models", "all",
+                "python3", "LLM_parallel_tax.py",
+                "--models", "chatgpt",
                 "--specific", net,
                 "--version", version
             ])
@@ -98,14 +98,14 @@ def main():
         print(f">>> Parsing version: {version}")
         run([
             "python3", "Jsonparserforllm.py",
-            "--provider", "all",
+            "--provider", "chatgpt",
             "--version", version
         ])
 
         print(f">>> Processing version: {version}")
         run([
-            "python3", "Preprocessing.py",
-            "--provider", "all",
+            "python3", "Preprocessing_tax_level.py",
+            "--provider", "chatgpt",
             "--version", version,
             "--skip-json-parser"
         ])
@@ -115,7 +115,7 @@ def main():
             "python3", "Merge_llm_results.py",
             "--version", version
         ])
-
+'''
         if run_baseline:
             print(">>> Processing baseline (ENABLED)")
             run(["python3", "Process_baseline.py"])
@@ -202,17 +202,11 @@ def main():
         print(f"Multiple generations comparison done for value: {nan_strategy}")
 
     print("Running node-level prediction tasks")
-    run(["python3", "node_level_prediction_original.py"])
+    run(["python3", "node_level_prediction_full.py"])
     print("Finished node-level prediction tasks")
-
-    print("Running taxonomy prunning")
-    run(["python3", "run_tax_level_generation.py"])
-    run(["python3", "separate_session_taxonomy.py"])
-    run(["python3", "Compare_taxonomies_for_separate_session.py"])
-    print("Finished taxonomy prunning")
 
     print("PIPELINE COMPLETED SUCCESSFULLY.")
 
-
+'''
 if __name__ == "__main__":
     main()

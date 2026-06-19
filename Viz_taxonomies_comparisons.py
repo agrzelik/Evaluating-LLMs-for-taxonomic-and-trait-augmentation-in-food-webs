@@ -21,7 +21,7 @@ nanstrategy = args.nanstrategy
 
 
 df_stats = pd.read_csv(f'Comparisons/llm_scores_{version}_nanstrategy_{nanstrategy}.csv', sep=';')
-options = ['agreement', 'accuracy']
+options = ['agreement', 'accuracy', 'hallucination_rate', 'missed_rate', 'incorrect_rate']
 
 def ci_heatmap(df_stats, option):
     heatmap_data = df_stats.pivot(
@@ -137,7 +137,7 @@ def ci_heatmap(df_stats, option):
     heatmap_anno = heatmap_anno[ordered_cols]
 
     # --- VISUALISATION ---
-    fig, ax = plt.subplots(figsize=(30, 12))
+    fig, ax = plt.subplots(figsize=(30, 15))
     '''
     sns.heatmap(
         heatmap_data,
@@ -242,5 +242,103 @@ def ci_heatmap(df_stats, option):
 
     print("CI heatmap saved")
 
+def stacked_heatmap(df_stats, version, nanstrategy):
+    if nanstrategy != '2':
+        return
+    
+    categories = ['accuracy', 'hallucination_rate', 'missed_rate', 'incorrect_rate']
+    titles = ['Correct / both empty', 'Hallucination', 'Missed', 'Incorrect']
+    cmaps  = ['Blues', 'Reds', 'Oranges', 'Purples']
+    
+    taxonomy_order = ["kingdom", "phylum", "class", "order", "family", "genus", "species"]
+    
+    fig, axes = plt.subplots(1, 4, figsize=(48, 15))
+    
+    for ax, cat, title, cmap in zip(axes, categories, titles, cmaps):
+        data = df_stats.pivot(index="taxonomy_level", columns="model", values=cat)
+        data = data.reindex(taxonomy_order)
+        
+        sns.heatmap(
+            data, annot=True, fmt=".0%",
+            vmin=0, vmax=1,
+            cmap=cmap, cbar=False,
+            linewidths=0.5, ax=ax,
+            annot_kws={"size": 11}
+        )
+        ax.set_title(title, fontsize=16, fontweight="bold")
+        ax.set_xlabel("")
+        ax.set_ylabel("Taxonomic level" if ax == axes[0] else "")
+        ax.tick_params(axis='x', rotation=45)
+    
+    plt.suptitle("Error breakdown (nanstrategy 1)", fontsize=18, fontweight="bold", y=1.02)
+    plt.tight_layout()
+    
+    path = f"Figures/{version}/"
+    os.makedirs(path, exist_ok=True)
+    plt.savefig(f'{path}/llm_error_breakdown_{version}_nanstrategy_{nanstrategy}.pdf', 
+                format='pdf', bbox_inches='tight')
+    print("Error breakdown saved")
+
+def double_heatmap(df_stats, version, nanstrategy):
+    options_pair = [
+        ('accuracy',          'Accuracy',        'Blues'),
+        ('hallucination_rate','Overspecification','Reds'),
+    ]
+
+    taxonomy_order = ["kingdom", "phylum", "class", "order", "family", "genus", "species"]
+
+    # ta sama logika separatorów i rename co w ci_heatmap
+    # ale robisz fig, (ax1, ax2) = plt.subplots(2, 1, ...)
+    fig, axes = plt.subplots(2, 1, figsize=(30, 26))  # 2x wyższy
+
+    for ax, (option, title, cmap) in zip(axes, options_pair):
+
+        # --- pivot i rename (skopiuj logikę z ci_heatmap) ---
+        heatmap_data = df_stats.pivot(index="taxonomy_level", columns="model", values=option)
+        # ... rename_dict, reindex, separatory ... (identyczne jak w ci_heatmap)
+
+        # --- adnotacje z CI ---
+        ci_low_col  = f"{option}_ci_low"
+        ci_high_col = f"{option}_ci_high"
+        anno_data = df_stats.copy()
+        anno_data['anno_text'] = anno_data.apply(
+            lambda row: f"{row[option]*100:.0f}\n[{row[ci_low_col]*100:.0f}, {row[ci_high_col]*100:.0f}]", axis=1
+        )
+        heatmap_anno = anno_data.pivot(index="taxonomy_level", columns="model", values="anno_text")
+        # ... ten sam rename i reindex ...
+
+        sns.heatmap(heatmap_data, annot=False, vmin=0, vmax=1,
+                    cmap=cmap, cbar=False, linewidths=0.5, ax=ax)
+
+        # --- tekst w komórkach (skopiuj pętlę z ci_heatmap) ---
+        for i, row_label in enumerate(heatmap_data.index):
+            for j, col_label in enumerate(heatmap_data.columns):
+                # ... identyczna logika main_val / ci_val ...
+                pass
+
+        # --- tytuł subplotu zamiast osobnego pliku ---
+        ax.set_title(title, fontsize=18, fontweight="bold", pad=12)
+        ax.set_xlabel("")
+        ax.set_ylabel("Taxonomic level", fontsize=16)
+        ax.tick_params(axis='both', labelsize=14)
+        ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha='right')
+
+        # --- sekcje tematyczne tylko na górnym subplocie ---
+        if option == 'accuracy':
+            # ... cała logika GROUP_LABEL_Y / annotate z ci_heatmap ...
+            pass
+
+    plt.subplots_adjust(hspace=0.35, top=0.88, bottom=0.12)
+    path = f"Figures/{version}/"
+    os.makedirs(path, exist_ok=True)
+    plt.savefig(f'{path}/llm_accuracy_overspecification_{version}_nanstrategy_{nanstrategy}.pdf',
+                format='pdf', bbox_inches='tight')
+    print("Double heatmap saved")
+
+
+
 for option in options:
     ci_heatmap(df_stats, option)
+
+stacked_heatmap(df_stats, version, nanstrategy)
+double_heatmap(df_stats, version, nanstrategy)

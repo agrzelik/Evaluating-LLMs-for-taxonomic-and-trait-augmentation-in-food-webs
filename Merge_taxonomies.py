@@ -88,10 +88,17 @@ baseline_df = baseline_df.rename(columns={'Node name': 'node'})
 baseline_df = baseline_df.rename(columns={'FileName': 'file_name'})
 baseline_df = standardize_keys(baseline_df)
 
-
 baseline_rename = {k: f"{v}_baseline" for k, v in TAX_RENAME.items()}
 cols_baseline = ["node", "file_name"] + [c for c in TAX_RENAME.keys() if c in baseline_df.columns] + ["IsAlive"]
 baseline_df = baseline_df[cols_baseline].rename(columns=baseline_rename)
+
+
+print(df_step1['IsAlive'].isna().sum())
+print(baseline_df['IsAlive'].isna().sum())
+print(df_step1['kingdom_consensus'].isna().sum())
+print(baseline_df['kingdom_baseline'].isna().sum())
+print(df_step1.shape)
+print(baseline_df.shape)
 
 df_step2 = pd.merge(df_step1, baseline_df, on=["node", "file_name", "IsAlive"], how="right")
 

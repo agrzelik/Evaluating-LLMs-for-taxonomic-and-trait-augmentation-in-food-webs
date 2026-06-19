@@ -6,8 +6,9 @@
 
 # 3. Exception: Unignore ONLY Python files and bash scripts
 !*.py
+node_level_prediction_full.py
 not_final_*.py
-!*.sh
+*.sh
 
 
 # 4. Exception: Unignore prompt files, baseline input, 43 functional features file
