@@ -9,6 +9,7 @@
 node_level_prediction_full.py
 not_final_*.py
 *.sh
+!requirements.txt
 
 
 # 4. Exception: Unignore prompt files, baseline input, 43 functional features file

@@ -1,0 +1,15 @@
+openai
+pandas
+python-dotenv
+google-generativeai
+requests
+anthropic
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+scipy
+tqdm
+networkx
+numpy
+requests
