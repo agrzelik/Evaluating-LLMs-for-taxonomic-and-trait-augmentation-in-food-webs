@@ -22,15 +22,13 @@ Core Pipeline Stages:
 If you want to skip the documentation and run the code immediately, you can use these shortcuts. Make sure you go through Installation & Environment Setup before you run them.
 
 ### Option A: Full Pipeline (Requires API Keys)
-Run this to generate new data from scratch using LLMs. (Python and Bash versions for convenience.)
+Run this to generate new data from scratch using LLMs. 
 ```bash
-bash run_pipeline.sh gen1_0603
 run_pipeline.py run_pipeline.py gen1_0603
 ```
 ### Option B: Analysis Only (No API Keys needed)
-Run this to use files provided in the LLM `features/Processed`. This skips the expensive generation step and starts directly with analysis. (Python and Bash versions for convenience.)
+Run this to use files provided in the LLM `features/Processed`. This skips the expensive generation step and starts directly with analysis. 
 ```bash
-bash run_pipeline_no_api_keys.sh gen1_0603
 python run_pipeline_no_api_keys.py gen1_0603
 ```
 This scripts are the recommended way to process all LLM outputs end-to-end. You can find the result visualisations in `Figures/`.
