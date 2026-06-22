@@ -53,7 +53,7 @@ not_final_*.py
 !LLM features/Processed/*/gen2_0703/*
 !LLM features/Processed/*/gen3_0803/
 !LLM features/Processed/*/gen3_0803/*
-
+!LLM features/Processed/*/tax_level_1606_gen/
 !LLM features/Processed/*/tax_level_1606_gen/*
 
 # 6. Figures
