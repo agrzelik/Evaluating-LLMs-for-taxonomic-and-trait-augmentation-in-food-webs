@@ -1,0 +1,1016 @@
+,file_name,node,IsAlive_chatgpt,Taxonomic Level_chatgpt,class_chatgpt,family_chatgpt,genus_chatgpt,kingdom_chatgpt,order_chatgpt,phylum_chatgpt,species_chatgpt
+0,Aegean_Sea_760,Anglerfish,True,Family,Actinopterygii,Lophiidae,,Animalia,Lophiiformes,Chordata,
+1,Aegean_Sea_760,Benthic invertebrates,True,Phylum,,,,Animalia,,Annelida,
+2,Aegean_Sea_760,Benthic small crustaceans,True,Order,Malacostraca,,,Animalia,Amphipoda,Arthropoda,
+3,Aegean_Sea_760,Detritus,False,Kingdom,,,,,,,
+4,Aegean_Sea_760,Dolphins,True,Family,Mammalia,Delphinidae,,Animalia,Cetacea,Chordata,
+5,Aegean_Sea_760,European anchovy,True,Species,Actinopterygii,Engraulidae,Engraulis,Animalia,Clupeiformes,Chordata,Engraulis encrasicolus
+6,Aegean_Sea_760,European hake,True,Species,Actinopterygii,Merlucciidae,Merluccius,Animalia,Gadiformes,Chordata,Merluccius merluccius
+7,Aegean_Sea_760,European pilchard,True,Species,Actinopterygii,Clupeidae,Sardina,Animalia,Clupeiformes,Chordata,pilchardus
+8,Aegean_Sea_760,Flatfishes,True,Order,Actinopterygii,,,Animalia,Pleuronectiformes,Chordata,
+9,Aegean_Sea_760,Gurnards,True,Family,Actinopterygii,Triglidae,,Animalia,Scorpaeniformes,Chordata,
+10,Aegean_Sea_760,Horse mackerels,True,Genus,Actinopterygii,Carangidae,Trachurus,Animalia,Carangiformes,Chordata,
+11,Aegean_Sea_760,Jellyfish,True,Class,Scyphozoa,,,Animalia,,Cnidaria,
+12,Aegean_Sea_760,Large pelagics,True,Class,Actinopterygii,,,Animalia,,Chordata,
+13,Aegean_Sea_760,Lobsters,True,Family,Malacostraca,Palinuridae,,Animalia,Decapoda,Arthropoda,
+14,Aegean_Sea_760,Mackerels,True,Family,Actinopterygii,Scombridae,,Animalia,Scombriformes,Chordata,
+15,Aegean_Sea_760,Macrozooplankton,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+16,Aegean_Sea_760,Medium pelagics,True,Class,Actinopterygii,,,Animalia,,Chordata,
+17,Aegean_Sea_760,Medium-large demersals 1,True,Family,Actinopterygii,Merlucciidae,,Animalia,Gadiformes,Chordata,
+18,Aegean_Sea_760,Medium-large demersals 2,True,Family,Actinopterygii,Sparidae,,Animalia,Perciformes,Chordata,
+19,Aegean_Sea_760,Micro/Mesozooplankton,True,Class,Maxillopoda,,,Animalia,,Arthropoda,
+20,Aegean_Sea_760,Monk seal,True,Species,Mammalia,Phocidae,Monachus,Animalia,Carnivora,Chordata,Monachus monachus
+21,Aegean_Sea_760,Norway lobster,True,Species,Malacostraca,Nephropidae,Nephrops,Animalia,Decapoda,Arthropoda,Nephrops norvegicus
+22,Aegean_Sea_760,Octopus and cuttlefish,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+23,Aegean_Sea_760,Other gadiforms,True,Order,Actinopterygii,,,Animalia,Gadiformes,Chordata,
+24,Aegean_Sea_760,Other small pelagics,True,Family,Actinopterygii,Engraulidae,,Animalia,Clupeiformes,Chordata,
+25,Aegean_Sea_760,Phytoplankton,True,Kingdom,,,,Chromista,,,
+26,Aegean_Sea_760,Picarels and bogue,True,Family,Actinopterygii,Sparidae,,Animalia,Perciformes,Chordata,
+27,Aegean_Sea_760,Piscivorous deep sea fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+28,Aegean_Sea_760,Planktivorous deep sea fish,True,Family,Actinopterygii,Sternoptychidae,,Animalia,Stomiiformes,Chordata,
+29,Aegean_Sea_760,Polychaetes,True,Class,Polychaeta,,,Animalia,,Annelida,
+30,Aegean_Sea_760,Rays and skates,True,Order,Chondrichthyes,,,Animalia,Rajiformes,Chordata,
+31,Aegean_Sea_760,Red mullets,True,Genus,Actinopterygii,Mullidae,Mullus,Animalia,Perciformes,Chordata,
+32,Aegean_Sea_760,Rockfish,True,Family,Actinopterygii,Scorpaenidae,,Animalia,Scorpaeniformes,Chordata,
+33,Aegean_Sea_760,Sea turtles,True,Order,Reptilia,,,Animalia,Testudines,Chordata,
+34,Aegean_Sea_760,Seabirds,True,Class,Aves,,,Animalia,,Chordata,
+35,Aegean_Sea_760,Sharks,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+36,Aegean_Sea_760,Shelf crabs,True,Family,Malacostraca,Portunidae,,Animalia,Decapoda,Arthropoda,
+37,Aegean_Sea_760,Shrimps,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+38,Aegean_Sea_760,Slope crabs,True,Family,Malacostraca,Geryonidae,,Animalia,Decapoda,Arthropoda,
+39,Aegean_Sea_760,Small demersals 1,True,Order,Actinopterygii,,,Animalia,Gobiiformes,Chordata,
+40,Aegean_Sea_760,Small demersals 2,True,Family,Actinopterygii,Mullidae,,Animalia,Perciformes,Chordata,
+41,Aegean_Sea_760,Small demersals 3,True,Family,Actinopterygii,Gobiidae,,Animalia,Gobiiformes,Chordata,
+42,Aegean_Sea_760,Squids,True,Order,Cephalopoda,,,Animalia,Teuthida,Mollusca,
+43,Aleutian_Islands_252,Adult pollock,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus chalcogrammus
+44,Aleutian_Islands_252,Arrowtooth,True,Species,Actinopterygii,Pleuronectidae,Atheresthes,Animalia,Pleuronectiformes,Chordata,Atheresthes stomias
+45,Aleutian_Islands_252,Atka mackerel,True,Species,Actinopterygii,Hexagrammidae,Pleurogrammus,Animalia,Perciformes,Chordata,Pleurogrammus monopterygius
+46,Aleutian_Islands_252,Baleen whales,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+47,Aleutian_Islands_252,Benthic inverts,True,Phylum,,,,Animalia,,,
+48,Aleutian_Islands_252,Birds,True,Class,Aves,,,Animalia,,Chordata,
+49,Aleutian_Islands_252,Cephalopods,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+50,Aleutian_Islands_252,Deep L,True,Genus,Actinopterygii,Sebastidae,Sebastes,Animalia,Scorpaeniformes,Chordata,
+51,Aleutian_Islands_252,Dem S M,True,Class,Actinopterygii,,,Animalia,,Chordata,
+52,Aleutian_Islands_252,Detritus,False,Kingdom,,,,,,,
+53,Aleutian_Islands_252,Epiben carnivores,True,Class,,,,Animalia,,,
+54,Aleutian_Islands_252,Flatfish,True,Order,Actinopterygii,,,Animalia,Pleuronectiformes,Chordata,
+55,Aleutian_Islands_252,Halibut,True,Species,Actinopterygii,Pleuronectidae,Hippoglossus,Animalia,Pleuronectiformes,Chordata,Hippoglossus stenolepis
+56,Aleutian_Islands_252,Herring,True,Species,Actinopterygii,Clupeidae,Clupea,Animalia,Clupeiformes,Chordata,Clupea pallasii
+57,Aleutian_Islands_252,Juvenile pollock,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus chalcogrammus
+58,Aleutian_Islands_252,Large pelagics,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+59,Aleutian_Islands_252,Large pred demersals,True,Class,Actinopterygii,,,Animalia,,Chordata,
+60,Aleutian_Islands_252,Large zooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+61,Aleutian_Islands_252,Macrophytes,True,Phylum,,,,Chromista,,Ochrophyta,
+62,Aleutian_Islands_252,Myctophids,True,Family,Actinopterygii,Myctophidae,,Animalia,Myctophiformes,Chordata,
+63,Aleutian_Islands_252,POP,True,Species,Actinopterygii,Sebastidae,Sebastes,Animalia,Scorpaeniformes,Chordata,Sebastes alutus
+64,Aleutian_Islands_252,Pacific cod,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus macrocephalus
+65,Aleutian_Islands_252,Phytoplankton,True,Phylum,,,,Chromista,,Bacillariophyta,
+66,Aleutian_Islands_252,Rockfish,True,Genus,Actinopterygii,Sebastidae,Sebastes,Animalia,Scorpaeniformes,Chordata,
+67,Aleutian_Islands_252,SSL Adults,True,Species,Mammalia,Otariidae,Eumetopias,Animalia,Carnivora,Chordata,Eumetopias jubatus
+68,Aleutian_Islands_252,SSL embryo,True,Species,Mammalia,Otariidae,Eumetopias,Animalia,Carnivora,Chordata,Eumetopias jubatus
+69,Aleutian_Islands_252,SSL juveniles,True,Species,Mammalia,Otariidae,Eumetopias,Animalia,Carnivora,Chordata,Eumetopias jubatus
+70,Aleutian_Islands_252,SSL pups,True,Species,Mammalia,Otariidae,Eumetopias,Animalia,Carnivora,Chordata,Eumetopias jubatus
+71,Aleutian_Islands_252,Sablefish,True,Species,Actinopterygii,Anoplopomatidae,Anoplopoma,Animalia,Scorpaeniformes,Chordata,Anoplopoma fimbria
+72,Aleutian_Islands_252,Salmon,True,Genus,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,
+73,Aleutian_Islands_252,Sandlance,True,Species,Actinopterygii,Ammodytidae,Ammodytes,Animalia,Perciformes,Chordata,Ammodytes hexapterus
+74,Aleutian_Islands_252,Sea otters,True,Species,Mammalia,Mustelidae,Enhydra,Animalia,Carnivora,Chordata,Enhydra lutris
+75,Aleutian_Islands_252,Shark and skates,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+76,Aleutian_Islands_252,Shark mammal eater,True,Family,Chondrichthyes,Lamnidae,,Animalia,Lamniformes,Chordata,
+77,Aleutian_Islands_252,Shrimps,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+78,Aleutian_Islands_252,Small mammals,True,Class,Mammalia,,,Animalia,,Chordata,
+79,Aleutian_Islands_252,Small pelagics,True,Class,Actinopterygii,,,Animalia,,Chordata,
+80,Aleutian_Islands_252,Small zooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+81,Aleutian_Islands_252,Toothed whales,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+82,Aleutian_Islands_252,Transient orca,True,Species,Mammalia,Delphinidae,Orcinus,Animalia,Cetacea,Chordata,Orcinus orca
+83,Australia_North_West_Shelf_405,AdCarangids,True,Family,Actinopterygii,Carangidae,,Animalia,Carangiformes,Chordata,
+84,Australia_North_West_Shelf_405,BenPhytoplankton,True,Phylum,,,,Chromista,,Bacillariophyta,
+85,Australia_North_West_Shelf_405,Coastal sharks,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+86,Australia_North_West_Shelf_405,ComPrawns,True,Family,Malacostraca,Penaeidae,,Animalia,Decapoda,Arthropoda,
+87,Australia_North_West_Shelf_405,Detritus,False,Kingdom,,,,,,,
+88,Australia_North_West_Shelf_405,DpLgFish,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+89,Australia_North_West_Shelf_405,DpLizard,True,Family,Actinopterygii,Synodontidae,,Animalia,Aulopiformes,Chordata,
+90,Australia_North_West_Shelf_405,DpMedFish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+91,Australia_North_West_Shelf_405,DpMullidae,True,Family,Actinopterygii,Mullidae,,Animalia,Perciformes,Chordata,
+92,Australia_North_West_Shelf_405,DpNemipterids,True,Family,Actinopterygii,Nemipteridae,,Animalia,Perciformes,Chordata,
+93,Australia_North_West_Shelf_405,DpPonyfish,True,Family,Actinopterygii,Leiognathidae,,Animalia,Perciformes,Chordata,
+94,Australia_North_West_Shelf_405,DpSmFish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+95,Australia_North_West_Shelf_405,FryPBream,True,Family,Actinopterygii,Sparidae,,Animalia,Perciformes,Chordata,
+96,Australia_North_West_Shelf_405,JuvCarangids,True,Family,Actinopterygii,Carangidae,,Animalia,Carangiformes,Chordata,
+97,Australia_North_West_Shelf_405,LgZooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+98,Australia_North_West_Shelf_405,Macrofauna,True,Phylum,,,,Animalia,,Annelida,
+99,Australia_North_West_Shelf_405,Megabenthos,True,Phylum,,,,Animalia,,Echinodermata,
+100,Australia_North_West_Shelf_405,Microphytobenthos,True,Class,Bacillariophyceae,,,Chromista,,Bacillariophyta,
+101,Australia_North_West_Shelf_405,PelPhytoplankton,True,Phylum,,,,Chromista,,Bacillariophyta,
+102,Australia_North_West_Shelf_405,Rays,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+103,Australia_North_West_Shelf_405,RedEmperor,True,Species,Actinopterygii,Lutjanidae,Lutjanus,Animalia,Perciformes,Chordata,Lutjanus sebae
+104,Australia_North_West_Shelf_405,SessEpibenthos,True,Phylum,,,,Animalia,,Cnidaria,
+105,Australia_North_West_Shelf_405,ShLethrinids,True,Family,Actinopterygii,Lethrinidae,,Animalia,Perciformes,Chordata,
+106,Australia_North_West_Shelf_405,ShLgFish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+107,Australia_North_West_Shelf_405,ShLizard,True,Family,Actinopterygii,Synodontidae,,Animalia,Aulopiformes,Chordata,
+108,Australia_North_West_Shelf_405,ShLutjanids,True,Family,Actinopterygii,Lutjanidae,,Animalia,Perciformes,Chordata,
+109,Australia_North_West_Shelf_405,ShMedFish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+110,Australia_North_West_Shelf_405,ShMullidae,True,Family,Actinopterygii,Mullidae,,Animalia,Perciformes,Chordata,
+111,Australia_North_West_Shelf_405,ShNemipterirds,True,Family,Actinopterygii,Nemipteridae,,Animalia,Perciformes,Chordata,
+112,Australia_North_West_Shelf_405,ShSerranids,True,Family,Actinopterygii,Serranidae,,Animalia,Perciformes,Chordata,
+113,Australia_North_West_Shelf_405,ShSmFish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+114,Australia_North_West_Shelf_405,ShSweetlip,True,Family,Actinopterygii,Haemulidae,,Animalia,Perciformes,Chordata,
+115,Australia_North_West_Shelf_405,ShTriggerFish,True,Family,Actinopterygii,Balistidae,,Animalia,Tetraodontiformes,Chordata,
+116,Australia_North_West_Shelf_405,SmTunas,True,Family,Actinopterygii,Scombridae,,Animalia,Scombriformes,Chordata,
+117,Australia_North_West_Shelf_405,SmZooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+118,Australia_North_West_Shelf_405,SmallPelagics,True,Order,Actinopterygii,,,Animalia,Clupeiformes,Chordata,
+119,Australia_North_West_Shelf_405,Squid,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+120,Bamboung_180,Barracudas +,True,Family,Actinopterygii,Sphyraenidae,,Animalia,Sphyraeniformes,Chordata,
+121,Bamboung_180,Breton africain,True,Family,Actinopterygii,Sciaenidae,,Animalia,Perciformes,Chordata,
+122,Bamboung_180,Carangues,True,Family,Actinopterygii,Carangidae,,Animalia,Carangiformes,Chordata,
+123,Bamboung_180,Crabes,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+124,Bamboung_180,Crevettes,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+125,Bamboung_180,Dauphins,True,Family,Mammalia,Delphinidae,,Animalia,Cetacea,Chordata,
+126,Bamboung_180,Detritus,False,Kingdom,,,,,,,
+127,Bamboung_180,Diagramme +,True,Genus,Actinopterygii,Haemulidae,Diagramma,Animalia,Perciformes,Chordata,
+128,Bamboung_180,Elops,True,Genus,Actinopterygii,Elopidae,Elops,Animalia,Elopiformes,Chordata,
+129,Bamboung_180,Ethmalose,True,Species,Actinopterygii,Clupeidae,Ethmalosa,Animalia,Clupeiformes,Chordata,Ethmalosa fimbriata
+130,Bamboung_180,Gerres,True,Genus,Actinopterygii,Gerreidae,Gerres,Animalia,Perciformes,Chordata,
+131,Bamboung_180,Grand capitaine,True,Species,Actinopterygii,Carangidae,Seriola,Animalia,Carangiformes,Chordata,Seriola dumerili
+132,Bamboung_180,Macrobenthos,True,Class,Bivalvia,,,Animalia,,Mollusca,
+133,Bamboung_180,Meiobenthos,True,Class,Chromadorea,,,Animalia,,Nematoda,
+134,Bamboung_180,Microphytobenth,True,Phylum,,,,Chromista,,Bacillariophyta,
+135,Bamboung_180,Mulets,True,Family,Actinopterygii,Mugilidae,,Animalia,Mugiliformes,Chordata,
+136,Bamboung_180,Mâchoirons mari,True,Family,Actinopterygii,Mugilidae,,Animalia,Mugiliformes,Chordata,
+137,Bamboung_180,Oiseaux,True,Class,Aves,,,Animalia,,Chordata,
+138,Bamboung_180,Otolithes +,True,Class,Actinopterygii,,,Animalia,,Chordata,
+139,Bamboung_180,Petits benthoph,True,Class,Actinopterygii,,,Animalia,,Chordata,
+140,Bamboung_180,Phytoplancton,True,Phylum,,,,Chromista,,Bacillariophyta,
+141,Bamboung_180,Pomadasys,True,Genus,Actinopterygii,Haemulidae,Pomadasys,Animalia,Perciformes,Chordata,
+142,Bamboung_180,Pompaneau +,True,Genus,Actinopterygii,Carangidae,Trachinotus,Animalia,Carangiformes,Chordata,
+143,Bamboung_180,Raies,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+144,Bamboung_180,Requins,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+145,Bamboung_180,Sardinelle +,True,Genus,Actinopterygii,Clupeidae,Sardinella,Animalia,Clupeiformes,Chordata,
+146,Bamboung_180,Sole-langue +,True,Genus,Actinopterygii,Soleidae,Solea,Animalia,Pleuronectiformes,Chordata,
+147,Bamboung_180,Tilapias,True,Family,Actinopterygii,Cichlidae,,Animalia,Cichliformes,Chordata,
+148,Bamboung_180,Tétrodon +,True,Family,Actinopterygii,Tetraodontidae,,Animalia,Tetraodontiformes,Chordata,
+149,Bamboung_180,Vivaneaux +,True,Family,Actinopterygii,Lutjanidae,,Animalia,Lutjaniformes,Chordata,
+150,Bamboung_180,Zooplancton,True,Class,Copepoda,,,Animalia,,Arthropoda,
+151,Bay_of_Biscay_335,Anchovy,True,Species,Actinopterygii,Engraulidae,Engraulis,Animalia,Clupeiformes,Chordata,Engraulis encrasicolus
+152,Bay_of_Biscay_335,Bacteria,True,Kingdom,,,,Bacteria,,,
+153,Bay_of_Biscay_335,Benthic cephalopods,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+154,Bay_of_Biscay_335,Benthic meiofauna,True,Phylum,,,,Animalia,,Nematoda,
+155,Bay_of_Biscay_335,Benthivorous demersal fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+156,Bay_of_Biscay_335,Bottlenose dolphins,True,Species,Mammalia,Delphinidae,Tursiops,Animalia,Cetacea,Chordata,Tursiops truncatus
+157,Bay_of_Biscay_335,Carnivorous benthic invertebrates,True,Phylum,,,,Animalia,,Arthropoda,
+158,Bay_of_Biscay_335,Common dolphins,True,Species,Mammalia,Delphinidae,Delphinus,Animalia,Cetacea,Chordata,Delphinus delphis
+159,Bay_of_Biscay_335,Detritus,False,Kingdom,,,,,,,
+160,Bay_of_Biscay_335,Discards,False,Kingdom,,,,Animalia,,,
+161,Bay_of_Biscay_335,Harbour porpoises,True,Species,Mammalia,Phocoenidae,Phocoena,Animalia,Cetacea,Chordata,Phocoena phocoena
+162,Bay_of_Biscay_335,Horse mackerel,True,Species,Actinopterygii,Carangidae,Trachurus,Animalia,Carangiformes,Chordata,Trachurus trachurus
+163,Bay_of_Biscay_335,Large phytoplankton,True,Phylum,,,,Chromista,,Ochrophyta,
+164,Bay_of_Biscay_335,Long-finned pilot whales,True,Species,Mammalia,Delphinidae,Globicephala,Animalia,Cetacea,Chordata,Globicephala melas
+165,Bay_of_Biscay_335,Mackerel,True,Species,Actinopterygii,Scombridae,Scomber,Animalia,Scombriformes,Chordata,Scomber scombrus
+166,Bay_of_Biscay_335,Macrozooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+167,Bay_of_Biscay_335,Mesozooplankton,True,Class,Hexanauplia,,,Animalia,,Arthropoda,
+168,Bay_of_Biscay_335,Microzooplankton,True,Class,Noctilucophyceae,,,Eukaryota/Protista,,Dinoflagellata,
+169,Bay_of_Biscay_335,Necrophagous benthic invertebrates,True,Phylum,,,,Animalia,,Arthropoda,
+170,Bay_of_Biscay_335,Pelagic cephalopods,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+171,Bay_of_Biscay_335,Piscivorous and benthivorous demersal fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+172,Bay_of_Biscay_335,Piscivorous demersal fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+173,Bay_of_Biscay_335,Pursuit divers seabirds,True,Class,Aves,,,Animalia,,Chordata,
+174,Bay_of_Biscay_335,Sardine,True,Species,Actinopterygii,Clupeidae,Sardina,Animalia,Clupeiformes,Chordata,Sardina pilchardus
+175,Bay_of_Biscay_335,Small phytoplankton,True,Phylum,,,,Viridiplantae/Plantae,,Chlorophyta,
+176,Bay_of_Biscay_335,Sprat,True,Species,Actinopterygii,Clupeidae,Sprattus,Animalia,Clupeiformes,Chordata,Sprattus sprattus
+177,Bay_of_Biscay_335,Striped dolphins,True,Species,Mammalia,Delphinidae,Stenella,Animalia,Cetacea,Chordata,Stenella coeruleoalba
+178,Bay_of_Biscay_335,Sub-surface deposit feeders invertebrates,True,Phylum,,,,Animalia,,Annelida,
+179,Bay_of_Biscay_335,Suprabenthic invertebrates,True,Phylum,,,,Animalia,,Arthropoda,
+180,Bay_of_Biscay_335,Suprabenthivorous demersal fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+181,Bay_of_Biscay_335,Surface feeders seabirds,True,Class,Aves,,,Animalia,,Chordata,
+182,Bay_of_Biscay_335,Surface suspension and deposit feeders inv,True,Phylum,,,,Animalia,,Mollusca,
+183,British_Columbia_Coast_478,Detritus,False,Kingdom,,,,,,,
+184,British_Columbia_Coast_478,P. cod ad.,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus macrocephalus
+185,British_Columbia_Coast_478,P. cod juv.,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus macrocephalus
+186,British_Columbia_Coast_478,P. halibut ad.,True,Species,Actinopterygii,Pleuronectidae,Hippoglossus,Animalia,Pleuronectiformes,Chordata,Hippoglossus stenolepis
+187,British_Columbia_Coast_478,P. halibut juv.,True,Species,Actinopterygii,Pleuronectidae,Hippoglossus,Animalia,Pleuronectiformes,Chordata,Hippoglossus stenolepis
+188,British_Columbia_Coast_478,Pac. Ocean perch,True,Species,Actinopterygii,Sebastidae,Sebastes,Animalia,Scorpaeniformes,Chordata,Sebastes alutus
+189,British_Columbia_Coast_478,Pac. hake,True,Species,Actinopterygii,Merlucciidae,Merluccius,Animalia,Gadiformes,Chordata,Merluccius productus
+190,British_Columbia_Coast_478,arrowtooth ad.,True,Species,Actinopterygii,Pleuronectidae,Atheresthes,Animalia,Pleuronectiformes,Chordata,Atheresthes stomias
+191,British_Columbia_Coast_478,arrowtooth juv.,True,Species,Actinopterygii,Pleuronectidae,Atheresthes,Animalia,Pleuronectiformes,Chordata,Atheresthes stomias
+192,British_Columbia_Coast_478,birds demer pisciv,True,Class,Aves,,,Animalia,,Chordata,
+193,British_Columbia_Coast_478,birds pelag pisciv,True,Class,Aves,,,Animalia,,Chordata,
+194,British_Columbia_Coast_478,birds zooplanktiv,True,Class,Aves,,,Animalia,,Chordata,
+195,British_Columbia_Coast_478,bivalves,True,Class,Bivalvia,,,Animalia,,Mollusca,
+196,British_Columbia_Coast_478,carn. zooplankton,True,Class,Sagittoidea,,,Animalia,,Chaetognatha,
+197,British_Columbia_Coast_478,chinook,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus tshawytscha
+198,British_Columbia_Coast_478,chum,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus keta
+199,British_Columbia_Coast_478,coho,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus kisutch
+200,British_Columbia_Coast_478,crabs,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+201,British_Columbia_Coast_478,dogfish,True,Species,Chondrichthyes,Squalidae,Squalus,Animalia,Squaliformes,Chordata,Squalus suckleyi
+202,British_Columbia_Coast_478,echinoderms,True,Phylum,,,,Animalia,,Echinodermata,
+203,British_Columbia_Coast_478,flatfish other,True,Order,Actinopterygii,,,Animalia,Pleuronectiformes,Chordata,
+204,British_Columbia_Coast_478,herb. zooplankton,True,Class,Copepoda,,,Animalia,,Arthropoda,
+205,British_Columbia_Coast_478,herring ad.,True,Species,Actinopterygii,Clupeidae,Clupea,Animalia,Clupeiformes,Chordata,Clupea pallasii
+206,British_Columbia_Coast_478,herring juv.,True,Species,Actinopterygii,Clupeidae,Clupea,Animalia,Clupeiformes,Chordata,Clupea pallasii
+207,British_Columbia_Coast_478,jellies,True,Phylum,,,,Animalia,,Cnidaria,
+208,British_Columbia_Coast_478,krill,True,Order,Malacostraca,,,Animalia,Euphausiacea,Arthropoda,
+209,British_Columbia_Coast_478,large squids,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+210,British_Columbia_Coast_478,lingcod,True,Species,Actinopterygii,Hexagrammidae,Ophiodon,Animalia,Perciformes,Chordata,Ophiodon elongatus
+211,British_Columbia_Coast_478,macrophytes,True,Class,Phaeophyceae,,,Chromista,,Ochrophyta,
+212,British_Columbia_Coast_478,misc. pred. pelagics,True,Order,Actinopterygii,,,Animalia,Salmoniformes,Chordata,
+213,British_Columbia_Coast_478,misc. small demersals,True,Order,Actinopterygii,,,Animalia,Scorpaeniformes,Chordata,
+214,British_Columbia_Coast_478,misc. small pelagics,True,Order,Actinopterygii,,,Animalia,Clupeiformes,Chordata,
+215,British_Columbia_Coast_478,myctophids,True,Family,Actinopterygii,Myctophidae,,Animalia,Myctophiformes,Chordata,
+216,British_Columbia_Coast_478,mysticetae,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+217,British_Columbia_Coast_478,odontocetae,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+218,British_Columbia_Coast_478,other benthos,True,Phylum,,,,Animalia,,,
+219,British_Columbia_Coast_478,pelagic sharks,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+220,British_Columbia_Coast_478,phytoplankton,True,Phylum,,,,Chromista,,Bacillariophyta,
+221,British_Columbia_Coast_478,pink,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus gorbuscha
+222,British_Columbia_Coast_478,pollock ad.,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus chalcogrammus
+223,British_Columbia_Coast_478,pollock juv.,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus chalcogrammus
+224,British_Columbia_Coast_478,rajidae / ratfish,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+225,British_Columbia_Coast_478,rock sole,True,Species,Actinopterygii,Pleuronectidae,Lepidopsetta,Animalia,Pleuronectiformes,Chordata,Lepidopsetta bilineata
+226,British_Columbia_Coast_478,rockfish other,True,Genus,Actinopterygii,Sebastidae,Sebastes,Animalia,Scorpaeniformes,Chordata,
+227,British_Columbia_Coast_478,sablefish ad.,True,Species,Actinopterygii,Anoplopomatidae,Anoplopoma,Animalia,Scorpaeniformes,Chordata,Anoplopoma fimbria
+228,British_Columbia_Coast_478,sablefish juv.,True,Species,Actinopterygii,Anoplopomatidae,Anoplopoma,Animalia,Scorpaeniformes,Chordata,Anoplopoma fimbria
+229,British_Columbia_Coast_478,salmon shark,True,Species,Chondrichthyes,Lamnidae,Lamna,Animalia,Lamniformes,Chordata,Lamna ditropis
+230,British_Columbia_Coast_478,sea lions,True,Family,Mammalia,Otariidae,,Animalia,Carnivora,Chordata,
+231,British_Columbia_Coast_478,seals,True,Family,Mammalia,Phocidae,,Animalia,Carnivora,Chordata,
+232,British_Columbia_Coast_478,shrimps,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+233,British_Columbia_Coast_478,small squids,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+234,British_Columbia_Coast_478,sockeye,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus nerka
+235,British_Columbia_Coast_478,yellowfin sole,True,Species,Actinopterygii,Pleuronectidae,Limanda,Animalia,Pleuronectiformes,Chordata,Limanda aspera
+236,Celestun_247,Con.mic.zoo.fit,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+237,Celestun_247,Con.micro.zoopl,True,Class,Sagittoidea,,,Animalia,,Chaetognatha,
+238,Celestun_247,Con.microcr.zoo,True,Class,Copepoda,,,Animalia,,Arthropoda,
+239,Celestun_247,Cons.mic.fitopl,True,Phylum,,,,Animalia,,Arthropoda,
+240,Celestun_247,Cons.microrustr,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+241,Celestun_247,Detritus,False,Kingdom,,,,,,,
+242,Celestun_247,Fitoplanctofag.,True,Phylum,,,,Chromista,,Bacillariophyta,
+243,Celestun_247,Fitoplancton,True,Phylum,,,,Eukaryota,,,
+244,Celestun_247,Insectos,True,Class,Insecta,,,Animalia,,Arthropoda,
+245,Celestun_247,Macrocrustaceos,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+246,Celestun_247,Macrofitas,True,Phylum,,,,Plantae,,Tracheophyta,
+247,Celestun_247,Microcrustaceos,True,Class,Copepoda,,,Animalia,,Arthropoda,
+248,Celestun_247,Moluscus,True,Phylum,,,,Animalia,,Mollusca,
+249,Celestun_247,Omnivoros,True,Class,Actinopterygii,,,Animalia,,Chordata,
+250,Celestun_247,Otros peces,True,Class,Actinopterygii,,,Animalia,,Chordata,
+251,Celestun_247,Piscivoros,True,Class,Actinopterygii,,,Animalia,,Chordata,
+252,Celestun_247,Poliquetos,True,Class,Polychaeta,,,Animalia,,Annelida,
+253,Celestun_247,Zooplanktofagos,True,Class,Actinopterygii,,,Animalia,,Chordata,
+254,Celestun_247,Zooplankton,True,Class,,,,Animalia,,,
+255,Central_Gulf_of_California_239,Carangidae,True,Family,Actinopterygii,Carangidae,,Animalia,Carangiformes,Chordata,
+256,Central_Gulf_of_California_239,Clupaeidae,True,Family,Actinopterygii,Clupeidae,,Animalia,Clupeiformes,Chordata,
+257,Central_Gulf_of_California_239,Crabs,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+258,Central_Gulf_of_California_239,Detritus,False,Kingdom,,,,,,,
+259,Central_Gulf_of_California_239,Discarded fish,False,Class,Actinopterygii,,,Animalia,,Chordata,
+260,Central_Gulf_of_California_239,Haemulidae,True,Family,Actinopterygii,Haemulidae,,Animalia,Perciformes,Chordata,
+261,Central_Gulf_of_California_239,Lutjanidae,True,Family,Actinopterygii,Lutjanidae,,Animalia,Lutjaniformes,Chordata,
+262,Central_Gulf_of_California_239,Meiobenthos,True,Phylum,,,,Various,,Various,
+263,Central_Gulf_of_California_239,Myctophidae,True,Family,Actinopterygii,Myctophidae,,Animalia,Myctophiformes,Chordata,
+264,Central_Gulf_of_California_239,Other fish,True,Family,Actinopterygii,,,Animalia,,Chordata,
+265,Central_Gulf_of_California_239,Other macrocrus,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+266,Central_Gulf_of_California_239,Other molluscs,True,Phylum,,,,Animalia,,Mollusca,
+267,Central_Gulf_of_California_239,Paralichthydae,True,Family,Actinopterygii,Paralichthyidae,,Animalia,Pleuronectiformes,Chordata,
+268,Central_Gulf_of_California_239,Phytoplankton,True,Phylum,,,,Various (Primarily Chromista/Prokaryota),,Various,
+269,Central_Gulf_of_California_239,Polychaeta,True,Class,Polychaeta,,,Animalia,,Annelida,
+270,Central_Gulf_of_California_239,Red crab,True,Species,Malacostraca,Munididae,Pleuroncodes,Animalia,Decapoda,Arthropoda,planipes
+271,Central_Gulf_of_California_239,Sciaenidae,True,Family,Actinopterygii,Sciaenidae,,Animalia,Perciformes,Chordata,
+272,Central_Gulf_of_California_239,Scombridae,True,Family,Actinopterygii,Scombridae,,Animalia,Scombriformes,Chordata,
+273,Central_Gulf_of_California_239,Scorp/Triglidae,True,Family,Actinopterygii,Scorpaenidae,,Animalia,Scorpaeniformes,Chordata,
+274,Central_Gulf_of_California_239,Sea birds,True,Class,Aves,,,Animalia,,Chordata,
+275,Central_Gulf_of_California_239,Sea mammals,True,Class,Mammalia,,,Animalia,,Chordata,
+276,Central_Gulf_of_California_239,Serranidae,True,Family,Actinopterygii,Serranidae,,Animalia,Perciformes,Chordata,
+277,Central_Gulf_of_California_239,Sharks / Rays,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+278,Central_Gulf_of_California_239,Shrimp,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+279,Central_Gulf_of_California_239,Squid,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+280,Central_Gulf_of_California_239,Stomatopods,True,Order,Malacostraca,,,Animalia,Stomatopoda,Arthropoda,
+281,Central_Gulf_of_California_239,Zooplankton,True,Phylum,,,,Various,,Various,
+282,Denmark_Faroe_Islands_46,Baleen whales,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+283,Denmark_Faroe_Islands_46,Benthos,True,Phylum,,,,Animalia,,,
+284,Denmark_Faroe_Islands_46,Blue Whiting,True,Species,Actinopterygii,Gadidae,Micromesistius,Animalia,Gadiformes,Chordata,Micromesistius poutassou
+285,Denmark_Faroe_Islands_46,Cod,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus morhua
+286,Denmark_Faroe_Islands_46,Detritus,False,Kingdom,,,,,,,
+287,Denmark_Faroe_Islands_46,Greenland Halibut,True,Species,Actinopterygii,Pleuronectidae,Reinhardtius,Animalia,Pleuronectiformes,Chordata,Reinhardtius hippoglossoides
+288,Denmark_Faroe_Islands_46,Haddock,True,Species,Actinopterygii,Gadidae,Melanogrammus,Animalia,Gadiformes,Chordata,Melanogrammus aeglefinus
+289,Denmark_Faroe_Islands_46,Herring,True,Species,Actinopterygii,Clupeidae,Clupea,Animalia,Clupeiformes,Chordata,Clupea harengus
+290,Denmark_Faroe_Islands_46,Lrg. Zooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+291,Denmark_Faroe_Islands_46,Mackerel,True,Species,Actinopterygii,Scombridae,Scomber,Animalia,Scombriformes,Chordata,Scomber scombrus
+292,Denmark_Faroe_Islands_46,Nekton,True,Class,Actinopterygii,,,Animalia,,Chordata,
+293,Denmark_Faroe_Islands_46,Other deep water,True,Class,Actinopterygii,,,Animalia,,Chordata,
+294,Denmark_Faroe_Islands_46,Other demersal fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+295,Denmark_Faroe_Islands_46,Other pelagics,True,Class,Actinopterygii,,,Animalia,,Chordata,
+296,Denmark_Faroe_Islands_46,Phytoplankton,True,Phylum,,,,Eukaryota,,Haptophyta,
+297,Denmark_Faroe_Islands_46,Redfish,True,Species,Actinopterygii,Sebastidae,Sebastes,Animalia,Scorpaeniformes,Chordata,Sebastes mentella
+298,Denmark_Faroe_Islands_46,Saithe,True,Species,Actinopterygii,Gadidae,Pollachius,Animalia,Gadiformes,Chordata,Pollachius virens
+299,Denmark_Faroe_Islands_46,Seabirds,True,Class,Aves,,,Animalia,,Chordata,
+300,Denmark_Faroe_Islands_46,Sm. Zooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+301,Denmark_Faroe_Islands_46,Toothed mammals,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+302,Eastern_Bering_Sea_183,Adult pollock,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus chalcogrammus
+303,Eastern_Bering_Sea_183,Baleen whales,True,Order,Mammalia,,,Animalia,Cetacea (Mysticeti/suborder),Chordata,
+304,Eastern_Bering_Sea_183,Beaked whales,True,Family,Mammalia,Ziphiidae,,Animalia,Cetacea,Chordata,
+305,Eastern_Bering_Sea_183,Benth. Par. feeders,True,Class,Various,,,Animalia,,Various (Mollusca; Annelida; Arthropoda; Echinodermata),
+306,Eastern_Bering_Sea_183,Cephalopods,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+307,Eastern_Bering_Sea_183,Deepwater fish,True,Order,Actinopterygii,,,Animalia,Gadiformes,Chordata,
+308,Eastern_Bering_Sea_183,Detritus,False,Kingdom,,,,,,,
+309,Eastern_Bering_Sea_183,Epifauna,True,Phylum,,,,Animalia,,Various (Echinodermata; Arthropoda; Porifera; Cnidaria),
+310,Eastern_Bering_Sea_183,Herb. Zoops,True,Order,Copepoda,,,Animalia,Calanoida,Arthropoda,
+311,Eastern_Bering_Sea_183,Infauna,True,Phylum,,,,Animalia,,Various (Annelida; Mollusca; Arthropoda),
+312,Eastern_Bering_Sea_183,Jellyfish,True,Class,Scyphozoa,,,Animalia,,Cnidaria,
+313,Eastern_Bering_Sea_183,Juvenile Pollock,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus chalcogrammus
+314,Eastern_Bering_Sea_183,Large Zoops,True,Order,Malacostraca,,,Animalia,Euphausiacea,Arthropoda,
+315,Eastern_Bering_Sea_183,Large flatfish,True,Order,Actinopterygii,,,Animalia,Pleuronectiformes,Chordata,
+316,Eastern_Bering_Sea_183,Other demersal fish,True,Order,Actinopterygii,,,Animalia,Scorpaeniformes,Chordata,
+317,Eastern_Bering_Sea_183,Pelagics,True,Class,Actinopterygii,,,Animalia,,Chordata,
+318,Eastern_Bering_Sea_183,Phytoplankton,True,Phylum,,,,Chromista,,Bacillariophyta,
+319,Eastern_Bering_Sea_183,Pisc. Birds,True,Class,Aves,,,Animalia,,Chordata,
+320,Eastern_Bering_Sea_183,Seals,True,Family,Mammalia,Phocidae,,Animalia,Carnivora,Chordata,
+321,Eastern_Bering_Sea_183,Small flatfish,True,Family,Actinopterygii,Pleuronectidae,,Animalia,Pleuronectiformes,Chordata,
+322,Eastern_Bering_Sea_183,Sperm whales,True,Species,Mammalia,Physeteridae,Physeter,Animalia,Cetacea,Chordata,Physeter macrocephalus
+323,Eastern_Bering_Sea_183,Steller sea lions,True,Species,Mammalia,Otariidae,Eumetopias,Animalia,Carnivora,Chordata,Eumetopias jubatus
+324,Eastern_Bering_Sea_183,Toothed whales,True,Order,Mammalia,,,Animalia,Cetacea (Odontoceti/suborder),Chordata,
+325,Eastern_Bering_Sea_183,Walrus & bearded,,,,,,,,,
+326,Eastern_Bering_Sea_183,Walrus &amp; bearded,True,Order,Mammalia,,,Animalia,Carnivora,Chordata,
+327,Galapagos_Floreana_Rocky_Reef_48,Anemones,True,Order,Anthozoa,,,Animalia,Actiniaria,Cnidaria,
+328,Galapagos_Floreana_Rocky_Reef_48,Asteroids,True,Class,Asteroidea,,,Animalia,,Echinodermata,
+329,Galapagos_Floreana_Rocky_Reef_48,Bacalao,True,Family,Actinopterygii,Gadidae,,Animalia,Gadiformes,Chordata,
+330,Galapagos_Floreana_Rocky_Reef_48,Benthic algae,True,Class,,,,Plantae,,,
+331,Galapagos_Floreana_Rocky_Reef_48,Birds,True,Class,Aves,,,Animalia,,Chordata,
+332,Galapagos_Floreana_Rocky_Reef_48,Carnivorous zooplankton,True,Phylum,,,,Animalia,,Chaetognatha,
+333,Galapagos_Floreana_Rocky_Reef_48,Chitons,True,Class,Polyplacophora,,,Animalia,,Mollusca,
+334,Galapagos_Floreana_Rocky_Reef_48,Detritivorous fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+335,Galapagos_Floreana_Rocky_Reef_48,Detritus,False,Kingdom,,,,,,,
+336,Galapagos_Floreana_Rocky_Reef_48,Eucidaris urchin,True,Genus,Echinoidea,Cidaridae,Eucidaris,Animalia,Cidaroida,Echinodermata,
+337,Galapagos_Floreana_Rocky_Reef_48,Filter + suspension feeders,True,Class,,,,Animalia,,,
+338,Galapagos_Floreana_Rocky_Reef_48,Herbivorous zooplankton,True,Class,Copepoda,,,Animalia,,Arthropoda,
+339,Galapagos_Floreana_Rocky_Reef_48,Hexaplex gastropod,True,Genus,Gastropoda,Muricidae,Hexaplex,Animalia,Neogastropoda,Mollusca,
+340,Galapagos_Floreana_Rocky_Reef_48,Large benthic invertebrate eaters,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+341,Galapagos_Floreana_Rocky_Reef_48,Lytechinus urchin,True,Genus,Echinoidea,Toxopneustidae,Lytechinus,Animalia,Camarodonta,Echinodermata,
+342,Galapagos_Floreana_Rocky_Reef_48,Marine iguana,True,Species,Reptilia,Iguanidae,Amblyrhynchus,Animalia,Squamata,Chordata,Amblyrhynchus cristatus
+343,Galapagos_Floreana_Rocky_Reef_48,Microphytobenthos,True,Class,Bacillariophyceae,,,Chromista,,Bacillariophyta,
+344,Galapagos_Floreana_Rocky_Reef_48,Non-commercial reef predators,True,Class,Actinopterygii,,,Animalia,,Chordata,
+345,Galapagos_Floreana_Rocky_Reef_48,Octopods,True,Order,Cephalopoda,,,Animalia,Octopoda,Mollusca,
+346,Galapagos_Floreana_Rocky_Reef_48,Omnivorous reef fishes,True,Class,Actinopterygii,,,Animalia,,Chordata,
+347,Galapagos_Floreana_Rocky_Reef_48,Other commercial reef predators,True,Class,Actinopterygii,,,Animalia,,Chordata,
+348,Galapagos_Floreana_Rocky_Reef_48,Other herbivorous fish,True,Family,Actinopterygii,Kyphosidae,,Animalia,Perciformes,Chordata,
+349,Galapagos_Floreana_Rocky_Reef_48,Other sea cucumbers,True,Class,Holothuroidea,,,Animalia,,Echinodermata,
+350,Galapagos_Floreana_Rocky_Reef_48,Other urchins,True,Class,Echinoidea,,,Animalia,,Echinodermata,
+351,Galapagos_Floreana_Rocky_Reef_48,Parrotfishes,True,Family,Actinopterygii,Scaridae,,Animalia,Labriformes,Chordata,
+352,Galapagos_Floreana_Rocky_Reef_48,Pelagic planktivores,True,Class,Actinopterygii,,,Animalia,,Chordata,
+353,Galapagos_Floreana_Rocky_Reef_48,Pelagic predators,True,Class,Actinopterygii,,,Animalia,,Chordata,
+354,Galapagos_Floreana_Rocky_Reef_48,Pepino sea cucumber,True,Species,Holothuroidea,Stichopodidae,Isostichopus,Animalia,Holothuriida,Echinodermata,Isostichopus fuscus
+355,Galapagos_Floreana_Rocky_Reef_48,Phytoplankton,True,Phylum,,,,,,,
+356,Galapagos_Floreana_Rocky_Reef_48,Planktivorous reef fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+357,Galapagos_Floreana_Rocky_Reef_48,Sea lions,True,Species,Mammalia,Otariidae,Zalophus,Animalia,Carnivora,Chordata,Zalophus wollebaeki
+358,Galapagos_Floreana_Rocky_Reef_48,Sea turtles,True,Family,Reptilia,Cheloniidae,,Animalia,Testudines,Chordata,
+359,Galapagos_Floreana_Rocky_Reef_48,Sharks,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+360,Galapagos_Floreana_Rocky_Reef_48,Shrimps and small crabs,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+361,Galapagos_Floreana_Rocky_Reef_48,Slipper lobster,True,Family,Malacostraca,Scyllaridae,,Animalia,Decapoda,Arthropoda,
+362,Galapagos_Floreana_Rocky_Reef_48,Small benthic invertebrate eaters,True,Class,Actinopterygii,,,Animalia,,Chordata,
+363,Galapagos_Floreana_Rocky_Reef_48,Small crustaceans,True,Class,,,,Animalia,,Arthropoda,
+364,Galapagos_Floreana_Rocky_Reef_48,Small gastropods,True,Class,Gastropoda,,,Animalia,,Mollusca,
+365,Galapagos_Floreana_Rocky_Reef_48,Spiny lobsters,True,Family,Malacostraca,Palinuridae,,Animalia,Decapoda,Arthropoda,
+366,Galapagos_Floreana_Rocky_Reef_48,Stony corals,True,Order,Anthozoa,,,Animalia,Scleractinia,Cnidaria,
+367,Galapagos_Floreana_Rocky_Reef_48,Toothed cetaceans,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+368,Galapagos_Floreana_Rocky_Reef_48,Tripneustes urchin,True,Genus,Echinoidea,Toxopneustidae,Tripneustes,Animalia,Camarodonta,Echinodermata,
+369,Galapagos_Floreana_Rocky_Reef_48,Worms and ophioroids,True,Phylum,,,,Animalia,,Mixed: Annelida; Echinodermata,
+370,Grand_Banks_of_Newfoundland_105,Aplaice +35cm,True,Species,Actinopterygii,Pleuronectidae,Hippoglossoides,Animalia,Pleuronectiformes,Chordata,Hippoglossoides platessoides
+371,Grand_Banks_of_Newfoundland_105,Aplaice<=35cm,True,Species,Actinopterygii,Pleuronectidae,Hippoglossoides,Animalia,Pleuronectiformes,Chordata,Hippoglossoides platessoides
+372,Grand_Banks_of_Newfoundland_105,Arctic Squid,True,Species,Cephalopoda,Gonatidae,Gonatus,Animalia,Oegopsida,Mollusca,Gonatus fabricii
+373,Grand_Banks_of_Newfoundland_105,Arctic cod,True,Species,Actinopterygii,Gadidae,Boreogadus,Animalia,Gadiformes,Chordata,Boreogadus saida
+374,Grand_Banks_of_Newfoundland_105,Bivalves,True,Class,Bivalvia,,,Animalia,,Mollusca,
+375,Grand_Banks_of_Newfoundland_105,Capelin,True,Species,Actinopterygii,Osmeridae,Mallotus,Animalia,Osmeriformes,Chordata,Mallotus villosus
+376,Grand_Banks_of_Newfoundland_105,Cetaceans,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+377,Grand_Banks_of_Newfoundland_105,Cod  &lt;40 cm,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus morhua
+378,Grand_Banks_of_Newfoundland_105,Cod  <40 cm,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus morhua
+379,Grand_Banks_of_Newfoundland_105,Cod + 40cm,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus morhua
+380,Grand_Banks_of_Newfoundland_105,Cod <40 cm,,,,,,,,,
+381,Grand_Banks_of_Newfoundland_105,Detritus,False,Kingdom,,,,,,,
+382,Grand_Banks_of_Newfoundland_105,Dogfish,True,Species,Chondrichthyes,Squalidae,Squalus,Animalia,Squaliformes,Chordata,Squalus acanthias
+383,Grand_Banks_of_Newfoundland_105,Ducks,True,Family,Aves,Anatidae,,Animalia,Anseriformes,Chordata,
+384,Grand_Banks_of_Newfoundland_105,Echinoderms,True,Phylum,,,,Animalia,,Echinodermata,
+385,Grand_Banks_of_Newfoundland_105,G. Halibut +65cm,True,Species,Actinopterygii,Pleuronectidae,Reinhardtius,Animalia,Pleuronectiformes,Chordata,Reinhardtius hippoglossoides
+386,Grand_Banks_of_Newfoundland_105,G. Halibut Juv.,True,Species,Actinopterygii,Pleuronectidae,Reinhardtius,Animalia,Pleuronectiformes,Chordata,Reinhardtius hippoglossoides
+387,Grand_Banks_of_Newfoundland_105,Greenland cod,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus ogac
+388,Grand_Banks_of_Newfoundland_105,Grey seals,True,Species,Mammalia,Phocidae,Halichoerus,Animalia,Carnivora,Chordata,Halichoerus grypus
+389,Grand_Banks_of_Newfoundland_105,Harp Seals,True,Species,Mammalia,Phocidae,Pagophilus,Animalia,Carnivora,Chordata,Pagophilus groenlandicus
+390,Grand_Banks_of_Newfoundland_105,Herring,True,Species,Actinopterygii,Clupeidae,Clupea,Animalia,Clupeiformes,Chordata,Clupea harengus
+391,Grand_Banks_of_Newfoundland_105,Hooded Seals,True,Species,Mammalia,Phocidae,Cystophora,Animalia,Carnivora,Chordata,Cystophora cristata
+392,Grand_Banks_of_Newfoundland_105,Juv. Dem. Pisc (- 40cm),True,Family,Actinopterygii,Gadidae,,Animalia,Gadiformes,Chordata,
+393,Grand_Banks_of_Newfoundland_105,L. Dem. Pisc (+40 cm),True,Family,Actinopterygii,Gadidae,,Animalia,Gadiformes,Chordata,
+394,Grand_Banks_of_Newfoundland_105,L.Dem.Feeders (+ 30cm),True,Family,Actinopterygii,Gadidae,,Animalia,Gadiformes,Chordata,
+395,Grand_Banks_of_Newfoundland_105,L.Zooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+396,Grand_Banks_of_Newfoundland_105,Large Crabs  +95 cm,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+397,Grand_Banks_of_Newfoundland_105,Lobster,True,Species,Malacostraca,Nephropidae,Homarus,Animalia,Decapoda,Arthropoda,Homarus americanus
+398,Grand_Banks_of_Newfoundland_105,Lumpfish,True,Species,Actinopterygii,Cyclopteridae,Cyclopterus,Animalia,Scorpaeniformes,Chordata,Cyclopterus lumpus
+399,Grand_Banks_of_Newfoundland_105,O.Benthic Inver,True,Phylum,,,,Animalia,,Arthropoda,
+400,Grand_Banks_of_Newfoundland_105,O.S.Demersals,True,Family,Actinopterygii,,,Animalia,,Chordata,
+401,Grand_Banks_of_Newfoundland_105,Phytoplankton,True,Phylum,,,,Chromista,,Bacillariophyta,
+402,Grand_Banks_of_Newfoundland_105,Piscivorous Birds,True,Class,Aves,,,Animalia,,Chordata,
+403,Grand_Banks_of_Newfoundland_105,Planktivorous Birds,True,Class,Aves,,,Animalia,,Chordata,
+404,Grand_Banks_of_Newfoundland_105,Polychaetes,True,Class,Polychaeta,,,Animalia,,Annelida,
+405,Grand_Banks_of_Newfoundland_105,Redfish,True,Genus,Actinopterygii,Sebastidae,Sebastes,Animalia,Scorpaeniformes,Chordata,
+406,Grand_Banks_of_Newfoundland_105,S.Dem.Feeders,True,Family,Actinopterygii,Pleuronectidae,,Animalia,Pleuronectiformes,Chordata,
+407,Grand_Banks_of_Newfoundland_105,S.Zooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+408,Grand_Banks_of_Newfoundland_105,Salmon,True,Species,Actinopterygii,Salmonidae,Salmo,Animalia,Salmoniformes,Chordata,Salmo salar
+409,Grand_Banks_of_Newfoundland_105,Sandlance,True,Genus,Actinopterygii,Ammodytidae,Ammodytes,Animalia,Perciformes,Chordata,
+410,Grand_Banks_of_Newfoundland_105,Shortfinned squid,True,Species,Cephalopoda,Ommastrephidae,Illex,Animalia,Oegopsida,Mollusca,Illex illecebrosus
+411,Grand_Banks_of_Newfoundland_105,Shrimp,True,Species,Malacostraca,Pandalidae,Pandalus,Animalia,Decapoda,Arthropoda,Pandalus borealis
+412,Grand_Banks_of_Newfoundland_105,Skates,True,Order,Chondrichthyes,,,Animalia,Rajiformes,Chordata,
+413,Grand_Banks_of_Newfoundland_105,Small Crabs  - 95 cm,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+414,Grand_Banks_of_Newfoundland_105,Small Mesopelagics,True,Class,Actinopterygii,,,Animalia,,Chordata,
+415,Grand_Banks_of_Newfoundland_105,Small Pelagics,True,Class,Actinopterygii,,,Animalia,,Chordata,
+416,Grand_Banks_of_Newfoundland_105,Transient Mackerel ( +29cm),True,Species,Actinopterygii,Scombridae,Scomber,Animalia,Scombriformes,Chordata,scombrus
+417,Grand_Banks_of_Newfoundland_105,Transient Pelagics,True,Class,Actinopterygii,,,Animalia,,Chordata,
+418,Grand_Banks_of_Newfoundland_105,Walrus,True,Species,Mammalia,Odobenidae,Odobenus,Animalia,Carnivora,Chordata,Odobenus rosmarus
+419,Grand_Banks_of_Newfoundland_105,Winter flounder,True,Species,Actinopterygii,Pleuronectidae,Pseudopleuronectes,Animalia,Pleuronectiformes,Chordata,Pseudopleuronectes americanus
+420,Grand_Banks_of_Newfoundland_105,Witch flounder,True,Species,Actinopterygii,Pleuronectidae,Glyptocephalus,Animalia,Pleuronectiformes,Chordata,Glyptocephalus cynoglossus
+421,Grand_Banks_of_Newfoundland_105,Yellowtail Flounders,True,Species,Actinopterygii,Pleuronectidae,Limanda,Animalia,Pleuronectiformes,Chordata,Limanda ferruginea
+422,Gulf_of_California_450,Benthic inv.,True,Phylum,,,,Animalia,,,
+423,Gulf_of_California_450,Callinectes sp.,True,Genus,Malacostraca,Portunidae,Callinectes,Animalia,Decapoda,Arthropoda,
+424,Gulf_of_California_450,Cephalopoda,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+425,Gulf_of_California_450,Coastal birds,True,Class,Aves,,,Animalia,,Chordata,
+426,Gulf_of_California_450,Detritus,False,Kingdom,,,,,,,
+427,Gulf_of_California_450,Elasmobranchi (RAYS),True,Class,Chondrichthyes,,,Animalia,,Chordata,
+428,Gulf_of_California_450,Elasmobranchi (SHARKS),True,Class,Chondrichthyes,,,Animalia,,Chordata,
+429,Gulf_of_California_450,Farfantepenaeus californiensis (ADULTS),True,Species,Malacostraca,Penaeidae,Farfantepenaeus,Animalia,Decapoda,Arthropoda,Farfantepenaeus californiensis
+430,Gulf_of_California_450,Farfantepenaeus californiensis (JUVENILES),True,Species,Malacostraca,Penaeidae,Farfantepenaeus,Animalia,Decapoda,Arthropoda,californiensis
+431,Gulf_of_California_450,Flat fishes,True,Order,Actinopterygii,,,Animalia,Pleuronectiformes,Chordata,
+432,Gulf_of_California_450,Haemulidae,True,Family,Actinopterygii,Haemulidae,,Animalia,Perciformes,Chordata,
+433,Gulf_of_California_450,Litopenaeus stylirostris (ADULTS),True,Species,Malacostraca,Penaeidae,Litopenaeus,Animalia,Decapoda,Arthropoda,Litopenaeus stylirostris
+434,Gulf_of_California_450,Litopenaeus stylirostris (JUVENILES),True,Species,Malacostraca,Penaeidae,Litopenaeus,Animalia,Decapoda,Arthropoda,stylirostris
+435,Gulf_of_California_450,Macrophytes,True,Class,Liliopsida,,,Plantae,,Tracheophyta,
+436,Gulf_of_California_450,Marine birds,True,Class,Aves,,,Animalia,,Chordata,
+437,Gulf_of_California_450,Merluccidae,True,Family,Actinopterygii,Merluccidae,,Animalia,Gadiformes,Chordata,
+438,Gulf_of_California_450,Mojarras,True,Family,Actinopterygii,Gerreidae,,Animalia,Perciformes,Chordata,
+439,Gulf_of_California_450,Myctophidos,True,Family,Actinopterygii,Myctophidae,,Animalia,Myctophiformes,Chordata,
+440,Gulf_of_California_450,Mysticeti,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+441,Gulf_of_California_450,Odontoceti,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+442,Gulf_of_California_450,Other fishes,True,Class,Actinopterygii,,,Animalia,,Chordata,
+443,Gulf_of_California_450,Phocoena sinus,True,Species,Mammalia,Phocoenidae,Phocoena,Animalia,Cetacea,Chordata,Phocoena sinus
+444,Gulf_of_California_450,Phytoplankton,True,Phylum,,,,Chromista,,Bacillariophyta,
+445,Gulf_of_California_450,Polychaeta,True,Class,Polychaeta,,,Animalia,,Annelida,
+446,Gulf_of_California_450,Rhinobatidae,True,Family,Chondrichthyes,Rhinobatidae,,Animalia,Rhinopristiformes,Chordata,
+447,Gulf_of_California_450,Sciaenidae,True,Family,Actinopterygii,Sciaenidae,,Animalia,Perciformes,Chordata,
+448,Gulf_of_California_450,Serranidae,True,Family,Actinopterygii,Serranidae,,Animalia,Perciformes,Chordata,
+449,Gulf_of_California_450,Sicyonia penicillata,True,Species,Malacostraca,Sicyoniidae,Sicyonia,Animalia,Decapoda,Arthropoda,penicillata
+450,Gulf_of_California_450,Small pelagics,True,Class,Actinopterygii,,,Animalia,,Chordata,
+451,Gulf_of_California_450,Stomatopoda,True,Order,Malacostraca,,,Animalia,Stomatopoda,Arthropoda,
+452,Gulf_of_California_450,Totoaba macdonaldi (ADULTS),True,Species,Actinopterygii,Sciaenidae,Totoaba,Animalia,Perciformes,Chordata,Totoaba macdonaldi
+453,Gulf_of_California_450,Totoaba macdonaldi (JUVENILES),True,Species,Actinopterygii,Sciaenidae,Totoaba,Animalia,Perciformes,Chordata,Totoaba macdonaldi
+454,Gulf_of_California_450,Zalophus californianus,True,Species,Mammalia,Otariidae,Zalophus,Animalia,Carnivora,Chordata,Zalophus californianus
+455,Gulf_of_California_450,Zooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+456,Hudson_Bay_446,Arctic Char,True,Species,Actinopterygii,Salmonidae,Salvelinus,Animalia,Salmoniformes,Chordata,Salvelinus alpinus
+457,Hudson_Bay_446,Atlantic Salmon,True,Species,Actinopterygii,Salmonidae,Salmo,Animalia,Salmoniformes,Chordata,Salmo salar
+458,Hudson_Bay_446,Bearded Seal,True,Species,Mammalia,Phocidae,Erignathus,Animalia,Carnivora,Chordata,Erignathus barbatus
+459,Hudson_Bay_446,Beluga E,True,Species,Mammalia,Monodontidae,Delphinapterus,Animalia,Cetacea,Chordata,Delphinapterus leucas
+460,Hudson_Bay_446,Beluga James,True,Species,Mammalia,Monodontidae,Delphinapterus,Animalia,Cetacea,Chordata,Delphinapterus leucas
+461,Hudson_Bay_446,Beluga W,True,Species,Mammalia,Monodontidae,Delphinapterus,Animalia,Cetacea,Chordata,Delphinapterus leucas
+462,Hudson_Bay_446,Bivalves,True,Class,Bivalvia,,,Animalia,,Mollusca,
+463,Hudson_Bay_446,Bowhead,True,Species,Mammalia,Balaenidae,Balaena,Animalia,Cetacea,Chordata,Balaena mysticetus
+464,Hudson_Bay_446,Brackish Fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+465,Hudson_Bay_446,Capelin,True,Species,Actinopterygii,Osmeridae,Mallotus,Animalia,Osmeriformes,Chordata,Mallotus villosus
+466,Hudson_Bay_446,Cephalopods,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+467,Hudson_Bay_446,Copepods,True,Class,Copepoda,,,Animalia,,Arthropoda,
+468,Hudson_Bay_446,Crustaceans,True,Phylum,,,,Animalia,,Arthropoda,
+469,Hudson_Bay_446,Echinoderms,True,Phylum,,,,Animalia,,Echinodermata,
+470,Hudson_Bay_446,Euphausids,True,Order,Malacostraca,,,Animalia,Euphausiacea,Arthropoda,
+471,Hudson_Bay_446,Gadiformes,True,Order,Actinopterygii,,,Animalia,Gadiformes,Chordata,
+472,Hudson_Bay_446,Harbour Seal,True,Species,Mammalia,Phocidae,Phoca,Animalia,Carnivora,Chordata,Phoca vitulina
+473,Hudson_Bay_446,Harp seal,True,Species,Mammalia,Phocidae,Pagophilus,Animalia,Carnivora,Chordata,Pagophilus groenlandicus
+474,Hudson_Bay_446,Ice Algae,True,Class,Coscinodiscophyceae,,,Chromista,,Bacillariophyta,
+475,Hudson_Bay_446,Ice Detritus,False,Kingdom,,,,,,,
+476,Hudson_Bay_446,Killer Whale,True,Species,Mammalia,Delphinidae,Orcinus,Animalia,Cetacea,Chordata,Orcinus orca
+477,Hudson_Bay_446,MacroZooplankton,True,Class,,,,Animalia,,,
+478,Hudson_Bay_446,Marine Worms,True,Phylum,,,,Animalia,,Annelida,
+479,Hudson_Bay_446,MicroZooplankton,True,Class,Dinophyceae,,,Protista,,Dinoflagellata,
+480,Hudson_Bay_446,Narwhal,True,Species,Mammalia,Monodontidae,Monodon,Animalia,Cetacea,Chordata,Monodon monoceros
+481,Hudson_Bay_446,Other Benthos,True,Class,Bivalvia,,,Animalia,,Mollusca,
+482,Hudson_Bay_446,Other Marine Fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+483,Hudson_Bay_446,Other MesoZooplankton,True,Class,Copepoda,,,Animalia,,Arthropoda,
+484,Hudson_Bay_446,Pelagic Detritus,False,Kingdom,,,,,,,
+485,Hudson_Bay_446,Polar Bear Foxe,True,Species,Mammalia,Ursidae,Ursus,Animalia,Carnivora,Chordata,Ursus maritimus
+486,Hudson_Bay_446,Polar Bear WHB,True,Species,Mammalia,Ursidae,Ursus,Animalia,Carnivora,Chordata,Ursus maritimus
+487,Hudson_Bay_446,Primary Production,True,Kingdom,,,,Chromista,,,
+488,Hudson_Bay_446,Ringed Seal,True,Species,Mammalia,Phocidae,Pusa,Animalia,Carnivora,Chordata,Pusa hispida
+489,Hudson_Bay_446,SH Polar Bear,True,Species,Mammalia,Ursidae,Ursus,Animalia,Carnivora,Chordata,Ursus maritimus
+490,Hudson_Bay_446,Sandlance,True,Genus,Actinopterygii,Ammodytidae,Ammodytes,Animalia,Perciformes,Chordata,
+491,Hudson_Bay_446,Sculpins/ Zoarcids,True,Family,Actinopterygii,Cottidae,,Animalia,Scorpaeniformes,Chordata,
+492,Hudson_Bay_446,Seabirds,True,Class,Aves,,,Animalia,,Chordata,
+493,Hudson_Bay_446,Sharks/Rays,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+494,Hudson_Bay_446,Walrus N,True,Species,Mammalia,Odobenidae,Odobenus,Animalia,Carnivora,Chordata,Odobenus rosmarus
+495,Hudson_Bay_446,Walrus S,True,Species,Mammalia,Odobenidae,Odobenus,Animalia,Carnivora,Chordata,Odobenus rosmarus
+496,Jalisco_and_Colima_Coast_307,Adultos Lutjanu,True,Genus,Actinopterygii,Lutjanidae,Lutjanus,Animalia,Perciformes,Chordata,
+497,Jalisco_and_Colima_Coast_307,Anguilas y more,True,Order,Actinopterygii,,,Animalia,Anguilliformes,Chordata,
+498,Jalisco_and_Colima_Coast_307,Aves marinas,True,Class,Aves,,,Animalia,,Chordata,
+499,Jalisco_and_Colima_Coast_307,Braquiuros,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+500,Jalisco_and_Colima_Coast_307,Carángidos,True,Family,Actinopterygii,Carangidae,,Animalia,Carangiformes,Chordata,
+501,Jalisco_and_Colima_Coast_307,Detritus,False,Kingdom,,,,,,,
+502,Jalisco_and_Colima_Coast_307,Dorado,True,Species,Actinopterygii,Coryphaenidae,Coryphaena,Animalia,Carangiformes,Chordata,Coryphaena hippurus
+503,Jalisco_and_Colima_Coast_307,Equinodermos,True,Phylum,,,,Animalia,,Echinodermata,
+504,Jalisco_and_Colima_Coast_307,Escómbridos,True,Family,Actinopterygii,Scombridae,,Animalia,Scombriformes,Chordata,
+505,Jalisco_and_Colima_Coast_307,Estomatópodos,True,Order,Malacostraca,,,Animalia,Stomatopoda,Arthropoda,
+506,Jalisco_and_Colima_Coast_307,Fitoplancton,True,Phylum,,,,Various,,Various,
+507,Jalisco_and_Colima_Coast_307,Gasterosteidos,True,Family,Actinopterygii,Gasterosteidae,,Animalia,Gasterosteiformes,Chordata,
+508,Jalisco_and_Colima_Coast_307,Gerreidos,True,Family,Actinopterygii,Gerreidae,,Animalia,Perciformes,Chordata,
+509,Jalisco_and_Colima_Coast_307,Haemúlidos,True,Family,Actinopterygii,Haemulidae,,Animalia,Perciformes,Chordata,
+510,Jalisco_and_Colima_Coast_307,Infauna,True,Class,Polychaeta,,,Animalia,,Annelida,
+511,Jalisco_and_Colima_Coast_307,Juveniles Lutja,True,Genus,Actinopterygii,Lutjanidae,Lutjanus,Animalia,Perciformes,Chordata,
+512,Jalisco_and_Colima_Coast_307,Mamíferos marin,True,Class,Mammalia,,,Animalia,,Chordata,
+513,Jalisco_and_Colima_Coast_307,Moluscos,True,Phylum,,,,Animalia,,Mollusca,
+514,Jalisco_and_Colima_Coast_307,Ophidiidos,True,Family,Actinopterygii,Ophidiidae,,Animalia,Ophidiiformes,Chordata,
+515,Jalisco_and_Colima_Coast_307,Otros crustáceo,True,Class,,,,Animalia,,Arthropoda,
+516,Jalisco_and_Colima_Coast_307,Otros lutjánido,True,Family,Actinopterygii,Lutjanidae,,Animalia,Perciformes,Chordata,
+517,Jalisco_and_Colima_Coast_307,Otros macroinve,True,Class,,,,Animalia,,,
+518,Jalisco_and_Colima_Coast_307,Otros peces,True,Class,Actinopterygii,,,Animalia,,Chordata,
+519,Jalisco_and_Colima_Coast_307,Peneidos,True,Family,Malacostraca,Penaeidae,,Animalia,Decapoda,Arthropoda,
+520,Jalisco_and_Colima_Coast_307,Picudos,True,Family,Actinopterygii,Lutjanidae,,Animalia,Perciformes,Chordata,
+521,Jalisco_and_Colima_Coast_307,Pleuronéctidos,True,Family,Actinopterygii,,,Animalia,Pleuronectiformes,Chordata,
+522,Jalisco_and_Colima_Coast_307,Pulpo,True,Genus,Cephalopoda,Octopodidae,Octopus,Animalia,Octopoda,Mollusca,
+523,Jalisco_and_Colima_Coast_307,Rayas,True,Order,Chondrichthyes,,,Animalia,Myliobatiformes,Chordata,
+524,Jalisco_and_Colima_Coast_307,Sardinas,True,Family,Actinopterygii,Clupeidae,,Animalia,Clupeiformes,Chordata,
+525,Jalisco_and_Colima_Coast_307,Sciánidos,True,Family,Actinopterygii,Sciaenidae,,Animalia,Perciformes,Chordata,
+526,Jalisco_and_Colima_Coast_307,Serranidos,True,Family,Actinopterygii,Serranidae,,Animalia,Perciformes,Chordata,
+527,Jalisco_and_Colima_Coast_307,Sierra,True,Species,Actinopterygii,Scombridae,Scomberomorus,Animalia,Scombriformes,Chordata,Scomberomorus sierra
+528,Jalisco_and_Colima_Coast_307,Synodontidos,True,Family,Actinopterygii,Synodontidae,,Animalia,Aulopiformes,Chordata,
+529,Jalisco_and_Colima_Coast_307,Tetraodóntidos,True,Family,Actinopterygii,Tetraodontidae,,Animalia,Tetraodontiformes,Chordata,
+530,Jalisco_and_Colima_Coast_307,Tiburones,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+531,Jalisco_and_Colima_Coast_307,Tortugas marina,True,Family,Reptilia,Cheloniidae,,Animalia,Testudines,Chordata,
+532,Jalisco_and_Colima_Coast_307,Zooplancton,True,Class,Copepoda,,,Animalia,,Arthropoda,
+533,Jurien_Bay_456,Bait,False,Kingdom,,,,Animalia,,,
+534,Jurien_Bay_456,Baldchin grouper,True,Species,Actinopterygii,Labridae,Choerodon,Animalia,Perciformes,Chordata,Choerodon rubescens
+535,Jurien_Bay_456,Breaksea cod,True,Family,Actinopterygii,Serranidae,,Animalia,Perciformes,Chordata,
+536,Jurien_Bay_456,Carnivorous Jellyfish,True,Class,Scyphozoa,,,Animalia,,Cnidaria,
+537,Jurien_Bay_456,Chaetognaths,True,Phylum,,,,Animalia,,Chaetognatha,
+538,Jurien_Bay_456,Corraline algae,True,Order,Florideophyceae,,,Plantae,Corallinales,Rhodophyta,
+539,Jurien_Bay_456,Cuttlefish,True,Order,Cephalopoda,,,Animalia,Sepiida,Mollusca,
+540,Jurien_Bay_456,Dead Carcasses,False,Kingdom,,,,Animalia,,,
+541,Jurien_Bay_456,Deposit feed. invert.,True,Phylum,,,,Animalia,,Annelida,
+542,Jurien_Bay_456,Detached algae other,False,Kingdom,,,,Chromista,,,
+543,Jurien_Bay_456,Detached brown algae,False,Genus,Phaeophyceae,Lessoniaceae,Ecklonia,Chromista,Laminariales,Ochrophyta,
+544,Jurien_Bay_456,Detached seagrass,False,Genus,Liliopsida,Posidoniaceae,Posidonia,Plantae,Alismatales,Tracheophyta,
+545,Jurien_Bay_456,Detritus,False,Kingdom,,,,Plantae,,,
+546,Jurien_Bay_456,Dhufish,True,Species,Actinopterygii,Glaucosomatidae,Glaucosoma,Animalia,Pempheriformes,Chordata,Glaucosoma hebraicum
+547,Jurien_Bay_456,Dolphins,True,Family,Mammalia,Delphinidae,,Animalia,Cetacea,Chordata,
+548,Jurien_Bay_456,Ecklonia,True,Genus,Phaeophyceae,Lessoniaceae,Ecklonia,Chromista,Laminariales,Ochrophyta,
+549,Jurien_Bay_456,Ephemeral seagrasses,True,Genus,Liliopsida,Hydrocharitaceae,Halophila,Plantae,Alismatales,Tracheophyta,
+550,Jurien_Bay_456,Infauna,True,Phylum,,,,Animalia,,Annelida,
+551,Jurien_Bay_456,Infaunal bivalves,True,Class,Bivalvia,,,Animalia,,Mollusca,
+552,Jurien_Bay_456,Inshore ass. carnivore,True,Class,Actinopterygii,,,Animalia,,Chordata,
+553,Jurien_Bay_456,Inshore benthopelagic carnivore,True,Class,Actinopterygii,,,Animalia,,Chordata,
+554,Jurien_Bay_456,Inshore pelagic zooplankton feed,True,Class,Actinopterygii,,,Animalia,,Chordata,
+555,Jurien_Bay_456,Inshore reef ass. herbivore,True,Family,Actinopterygii,Mixed (Kyphosidae/Acanthuridae/Scaridae),,Animalia,,Chordata,
+556,Jurien_Bay_456,Inshore reef ass. omnivore,True,Family,Actinopterygii,Mixed (Pomacentridae/Labridae/Serranidae),,Animalia,,Chordata,
+557,Jurien_Bay_456,Inshore reef ass. zoobenthos feed.,True,Class,,,,Animalia,,,
+558,Jurien_Bay_456,Inshore sand ass. omnivore,True,Class,Actinopterygii,,,Animalia,,Chordata,
+559,Jurien_Bay_456,Inshore seagrass ass. omnivore,True,Class,Actinopterygii,,,Animalia,,Chordata,
+560,Jurien_Bay_456,Inshore seagrass ass. zoob. feed.,True,Class,Actinopterygii,,,Animalia,,Chordata,
+561,Jurien_Bay_456,Intertidal birds,True,Class,Aves,,,Animalia,,Chordata,
+562,Jurien_Bay_456,King wrasse,True,Family,Actinopterygii,Labridae,,Animalia,Labriformes,Chordata,
+563,Jurien_Bay_456,Large Carn. Gastropods,True,Class,Gastropoda,,,Animalia,,Mollusca,
+564,Jurien_Bay_456,Large Crabs,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+565,Jurien_Bay_456,Large Herb. Gastropods,True,Class,Gastropoda,,,Animalia,,Mollusca,
+566,Jurien_Bay_456,Large Phytoplankton,True,Class,Coscinodiscophyceae,,,Chromista,,Bacillariophyta,
+567,Jurien_Bay_456,Large Zooplankton,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+568,Jurien_Bay_456,Large coastal sharks,True,Family,Chondrichthyes,Carcharhinidae,,Animalia,Carcharhiniformes,Chordata,
+569,Jurien_Bay_456,Large mobile carn. invert.,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+570,Jurien_Bay_456,Large mobile herb. invert.,True,Class,Echinoidea,,,Animalia,,Echinodermata,
+571,Jurien_Bay_456,Lobster - Adolescent,True,Species,Malacostraca,Palinuridae,Panulirus,Animalia,Decapoda,Arthropoda,Panulirus cygnus
+572,Jurien_Bay_456,Lobster Adult,True,Species,Malacostraca,Palinuridae,Panulirus,Animalia,Decapoda,Arthropoda,Panulirus cygnus
+573,Jurien_Bay_456,Lobster- Juvenile,True,Species,Malacostraca,Palinuridae,Panulirus,Animalia,Decapoda,Arthropoda,Panulirus cygnus
+574,Jurien_Bay_456,Lobster-post puerulus,True,Species,Malacostraca,Palinuridae,Panulirus,Animalia,Decapoda,Arthropoda,Panulirus cygnus
+575,Jurien_Bay_456,Low algae,True,Phylum,,,,Chromista,,Bacillariophyta,
+576,Jurien_Bay_456,Microbial heterotrophs,True,Kingdom,,,,Bacteria,,,
+577,Jurien_Bay_456,Microphytobenthos,True,Class,Bacillariophyceae,,,Chromista,,Bacillariophyta,
+578,Jurien_Bay_456,NDR benthopelagic carnivore,True,Class,Actinopterygii,,,Animalia,,Chordata,
+579,Jurien_Bay_456,NDR pelagic zooplankton Feed.,True,Class,Actinopterygii,,,Animalia,,Chordata,
+580,Jurien_Bay_456,NDR reef aa. zooplankton feed,True,Phylum,,,,Animalia,,Chordata,
+581,Jurien_Bay_456,NDR reef ass. carnivore,True,Family,Actinopterygii,Sparidae,,Animalia,Spariformes,Chordata,
+582,Jurien_Bay_456,NDR reef ass. herbivore,True,Family,Actinopterygii,Kyphosidae,,Animalia,Perciformes,Chordata,
+583,Jurien_Bay_456,NDR reef ass. omnivore,True,Family,Actinopterygii,Labridae,,Animalia,Perciformes,Chordata,
+584,Jurien_Bay_456,NDR reef ass. zoobenthos feed.,True,Phylum,,,,Animalia,,Chordata,
+585,Jurien_Bay_456,NDR sand ass. carnivore,True,Class,Polychaeta,,,Animalia,,Annelida,
+586,Jurien_Bay_456,NDR sand ass. omnivore,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+587,Jurien_Bay_456,NDR sand ass. zoobenthos feed.,True,Phylum,,,,Animalia,,Chordata,
+588,Jurien_Bay_456,NDR seagrass ass. carnivore,True,Class,Actinopterygii,,,Animalia,,Chordata,
+589,Jurien_Bay_456,NDR seagrass ass. omnivore,True,Class,Actinopterygii,,,Animalia,,Chordata,
+590,Jurien_Bay_456,Octopus,True,Order,Cephalopoda,,,Animalia,Octopoda,Mollusca,
+591,Jurien_Bay_456,Perenial seagrasses,True,Genus,Liliopsida,Posidoniaceae,Posidonia,Plantae,Alismatales,Tracheophyta,
+592,Jurien_Bay_456,Photo. corals/sponges,True,Phylum,,,,Animalia,,Cnidaria,
+593,Jurien_Bay_456,Photo. corals\/sponges,True,Phylum,,,,,,,
+594,Jurien_Bay_456,Pink snapper,True,Species,Actinopterygii,Sparidae,Pagrus,Animalia,Perciformes,Chordata,Pagrus auratus
+595,Jurien_Bay_456,Rays,True,Order,Chondrichthyes,,,Animalia,Myliobatiformes,Chordata,
+596,Jurien_Bay_456,Roe abalone,True,Species,Gastropoda,Haliotidae,Haliotis,Animalia,Vetigastropoda,Mollusca,Haliotis roei
+597,Jurien_Bay_456,Sargassum,True,Genus,Phaeophyceae,Sargassaceae,Sargassum,Chromista,Fucales,Ochrophyta,
+598,Jurien_Bay_456,Sea lions,True,Species,Mammalia,Otariidae,Neophoca,Animalia,Carnivora,Chordata,Neophoca cinerea
+599,Jurien_Bay_456,Sea turtles,True,Order,Reptilia,,,Animalia,Testudines,Chordata,
+600,Jurien_Bay_456,Seagrass epiphytes,True,Class,Bacillariophyceae,,,Chromista,,Bacillariophyta,
+601,Jurien_Bay_456,Sessile bivalves,True,Class,Bivalvia,,,Animalia,,Mollusca,
+602,Jurien_Bay_456,Sessile epibenthos,True,Phylum,,,,Animalia,,Arthropoda,
+603,Jurien_Bay_456,Small Gastropods,True,Class,Gastropoda,,,Animalia,,Mollusca,
+604,Jurien_Bay_456,Small Phytoplankton,True,Class,Mamiellophyceae,,,Viridiplantae,,Chlorophyta,
+605,Jurien_Bay_456,Small Zooplankton,True,Class,Copepoda,,,Animalia,,Arthropoda,
+606,Jurien_Bay_456,Small coastal sharks,True,Order,Chondrichthyes,,,Animalia,Carcharhiniformes,Chordata,
+607,Jurien_Bay_456,Small mobil epifauna,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+608,Jurien_Bay_456,Small mobile herbivores,True,Class,Gastropoda,,,Animalia,,Mollusca,
+609,Jurien_Bay_456,Squid,True,Order,Cephalopoda,,,Animalia,Teuthida,Mollusca,
+610,Jurien_Bay_456,Surface diving birds,True,Class,Aves,,,Animalia,,Chordata,
+611,Jurien_Bay_456,Turfs,True,Class,Ulvophyceae,,,Plantae,,Chlorophyta,
+612,Jurien_Bay_456,Water colum detritus,False,Kingdom,,,,Chromista,,,
+613,Jurien_Bay_456,Western foxfish,True,Genus,Actinopterygii,Labridae,Bodianus,Animalia,Labriformes,Chordata,
+614,Mauritania_650,Detritus,False,Kingdom,,,,,,,
+615,Mauritania_650,Selaciens L inv,True,Order,Chondrichthyes,,,Animalia,Carcharhiniformes,Chordata,
+616,Mauritania_650,Selaciens L pred,True,Order,Chondrichthyes,,,Animalia,,Chordata,
+617,Mauritania_650,bathydem S inv,True,Phylum,,,,Animalia,,Arthropoda,
+618,Mauritania_650,bathydem S pred,True,Class,Actinopterygii,,,Animalia,,Chordata,
+619,Mauritania_650,cephalopodes comm,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+620,Mauritania_650,cephalopodes non-comm,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+621,Mauritania_650,chinchards,True,Genus,Actinopterygii,Carangidae,Trachurus,Animalia,Carangiformes,Chordata,
+622,Mauritania_650,clupeides,True,Family,Actinopterygii,Clupeidae,,Animalia,Clupeiformes,Chordata,
+623,Mauritania_650,crustaces comm,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+624,Mauritania_650,crustaces non-comm,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+625,Mauritania_650,dauphins,True,Family,Mammalia,Delphinidae,,Animalia,Cetacea,Chordata,
+626,Mauritania_650,dem L inv,True,Phylum,,,,Animalia,,Mollusca,
+627,Mauritania_650,dem L pred,True,Class,Actinopterygii,,,Animalia,,Chordata,
+628,Mauritania_650,dem M inv,True,Phylum,,,,Animalia,,Arthropoda,
+629,Mauritania_650,dem M pred,True,Class,Actinopterygii,,,Animalia,,Chordata,
+630,Mauritania_650,dem S inv,True,Phylum,,,,Animalia,,Annelida,
+631,Mauritania_650,dem S pred,True,Class,Actinopterygii,,,Animalia,,Chordata,
+632,Mauritania_650,macrobenthos,True,Phylum,,,,Animalia,,,
+633,Mauritania_650,macrozooplancton,True,Class,Malacostraca (representative for euphausiids) / mixed,,,Animalia,,Arthropoda (for crustacean components) / Chaetognatha (for arrow worms) - aggregated,
+634,Mauritania_650,maquereau,True,Genus,Actinopterygii,Scombridae,Scomber,Animalia,Scombriformes,Chordata,
+635,Mauritania_650,merlu,True,Genus,Actinopterygii,Merlucciidae,Merluccius,Animalia,Gadiformes,Chordata,
+636,Mauritania_650,meso zooplancton,True,Class,Copepoda,,,Animalia,,Arthropoda,
+637,Mauritania_650,mesopel inv,True,Phylum,,,,Animalia,,Mollusca,
+638,Mauritania_650,mesopel pred,True,Class,Actinopterygii,,,Animalia,,Chordata,
+639,Mauritania_650,micro zooplancton,True,Class,Copepoda,,,Animalia,,Arthropoda,
+640,Mauritania_650,mugilides,True,Family,Actinopterygii,Mugilidae,,Animalia,Mugiliformes,Chordata,
+641,Mauritania_650,oiseaux,True,Class,Aves,,,Animalia,,Chordata,
+642,Mauritania_650,orque,True,Species,Mammalia,Delphinidae,Orcinus,Animalia,Cetacea,Chordata,Orcinus orca
+643,Mauritania_650,pel L inv,True,Order,Cephalopoda,,,Animalia,Oegopsida,Mollusca,
+644,Mauritania_650,pel L pred,True,Order,Actinopterygii,,,Animalia,Scombriformes,Chordata,
+645,Mauritania_650,pel M planc,True,Family,Actinopterygii,Clupeidae,,Animalia,Clupeiformes,Chordata,
+646,Mauritania_650,producteurs primaires,True,Phylum,,,,Chromista,,Bacillariophyta,
+647,Mauritania_650,raie M,True,Family,Chondrichthyes,Rajidae,,Animalia,Rajiformes,Chordata,
+648,Mauritania_650,sabres,True,Class,Actinopterygii,,,Animalia,,Chordata,
+649,Mauritania_650,sparides comm,True,Family,Actinopterygii,Sparidae,,Animalia,Perciformes,Chordata,
+650,Mauritania_650,thon cotier,True,Genus,Actinopterygii,Scombridae,Auxis,Animalia,Scombriformes,Chordata,
+651,Mauritania_650,thon hauturier,True,Genus,Actinopterygii,Scombridae,Thunnus,Animalia,Scombriformes,Chordata,
+652,Mississippi_River_Delta_779,Benthic algae,True,Phylum,,,,Plantae,,Chlorophyta,
+653,Mississippi_River_Delta_779,Detritus,False,Kingdom,,,,,,,
+654,Mississippi_River_Delta_779,Kemp Ridley sea turtle,True,Species,Reptilia,Cheloniidae,Lepidochelys,Animalia,Testudines,Chordata,Lepidochelys kempii
+655,Mississippi_River_Delta_779,Phytoplankton,True,Phylum,,,,Chromista,,Bacillariophyta,
+656,Mississippi_River_Delta_779,SAV,True,Genus,Liliopsida,Ruppiaceae,Ruppia,Plantae,Alismatales,Tracheophyta,
+657,Mississippi_River_Delta_779,Zoobenthos,True,Class,Various,,,Animalia,,Various,
+658,Mississippi_River_Delta_779,Zooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+659,Mississippi_River_Delta_779,adult Atlantic croaker,True,Species,Actinopterygii,Sciaenidae,Micropogonias,Animalia,Perciformes,Chordata,Micropogonias undulatus
+660,Mississippi_River_Delta_779,adult bay anchovy,True,Species,Actinopterygii,Engraulidae,Anchoa,Animalia,Clupeiformes,Chordata,Anchoa mitchilli
+661,Mississippi_River_Delta_779,adult black drum,True,Species,Actinopterygii,Sciaenidae,Pogonias,Animalia,Perciformes,Chordata,Pogonias cromis
+662,Mississippi_River_Delta_779,adult blue catfish,True,Species,Actinopterygii,Ictaluridae,Ictalurus,Animalia,Siluriformes,Chordata,Ictalurus furcatus
+663,Mississippi_River_Delta_779,adult blue crab,True,Species,Malacostraca,Portunidae,Callinectes,Animalia,Decapoda,Arthropoda,Callinectes sapidus
+664,Mississippi_River_Delta_779,adult brown shrimp,True,Species,Malacostraca,Penaeidae,Farfantepenaeus,Animalia,Decapoda,Arthropoda,Farfantepenaeus aztecus
+665,Mississippi_River_Delta_779,adult gizzard shad,True,Species,Actinopterygii,Clupeidae,Dorosoma,Animalia,Clupeiformes,Chordata,Dorosoma cepedianum
+666,Mississippi_River_Delta_779,adult grey snapper,True,Species,Actinopterygii,Lutjanidae,Lutjanus,Animalia,Perciformes,Chordata,Lutjanus griseus
+667,Mississippi_River_Delta_779,adult gulf menhaden,True,Species,Actinopterygii,Clupeidae,Brevoortia,Animalia,Clupeiformes,Chordata,Brevoortia patronus
+668,Mississippi_River_Delta_779,adult gulf sturgeon,True,Species,Actinopterygii,Acipenseridae,Acipenser,Animalia,Acipenseriformes,Chordata,Acipenser oxyrinchus desotoi
+669,Mississippi_River_Delta_779,adult largemouth bass,True,Species,Actinopterygii,Centrarchidae,Micropterus,Animalia,Perciformes,Chordata,Micropterus salmoides
+670,Mississippi_River_Delta_779,adult pinfish,True,Species,Actinopterygii,Sparidae,Lagodon,Animalia,Perciformes,Chordata,Lagodon rhomboides
+671,Mississippi_River_Delta_779,adult red drum,True,Species,Actinopterygii,Sciaenidae,Sciaenops,Animalia,Perciformes,Chordata,Sciaenops ocellatus
+672,Mississippi_River_Delta_779,adult sand seatrout,True,Genus,Actinopterygii,Sciaenidae,Cynoscion,Animalia,Perciformes,Chordata,
+673,Mississippi_River_Delta_779,adult sea catfish,True,Family,Actinopterygii,Ariidae,,Animalia,Siluriformes,Chordata,
+674,Mississippi_River_Delta_779,adult sharks,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+675,Mississippi_River_Delta_779,adult sheepshead,True,Species,Actinopterygii,Sparidae,Archosargus,Animalia,Perciformes,Chordata,Archosargus probatocephalus
+676,Mississippi_River_Delta_779,adult silver perch,True,Species,Actinopterygii,Sciaenidae,Bairdiella,Animalia,Perciformes,Chordata,Bairdiella chrysoura
+677,Mississippi_River_Delta_779,adult southern flounder,True,Species,Actinopterygii,Paralichthyidae,Paralichthys,Animalia,Pleuronectiformes,Chordata,Paralichthys lethostigma
+678,Mississippi_River_Delta_779,adult spot,True,Species,Actinopterygii,Sciaenidae,Leiostomus,Animalia,Perciformes,Chordata,Leiostomus xanthurus
+679,Mississippi_River_Delta_779,adult spotted seatrout,True,Species,Actinopterygii,Sciaenidae,Cynoscion,Animalia,Perciformes,Chordata,Cynoscion nebulosus
+680,Mississippi_River_Delta_779,adult striped mullet,True,Species,Actinopterygii,Mugilidae,Mugil,Animalia,Mugiliformes,Chordata,Mugil cephalus
+681,Mississippi_River_Delta_779,adult sunfishes,True,Family,Actinopterygii,Centrarchidae,,Animalia,Perciformes,Chordata,
+682,Mississippi_River_Delta_779,adult threadfin shad,True,Species,Actinopterygii,Clupeidae,Dorosoma,Animalia,Clupeiformes,Chordata,Dorosoma petenense
+683,Mississippi_River_Delta_779,adult white shrimp,True,Species,Malacostraca,Penaeidae,Litopenaeus,Animalia,Decapoda,Arthropoda,Litopenaeus setiferus
+684,Mississippi_River_Delta_779,benthic crustaceans,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+685,Mississippi_River_Delta_779,dolphins,True,Family,Mammalia,Delphinidae,,Animalia,Cetacea,Chordata,
+686,Mississippi_River_Delta_779,grass shrimp,True,Genus,Malacostraca,Palaemonidae,Palaemonetes,Animalia,Decapoda,Arthropoda,
+687,Mississippi_River_Delta_779,juvenile bay anchovy,True,Species,Actinopterygii,Engraulidae,Anchoa,Animalia,Clupeiformes,Chordata,Anchoa mitchilli
+688,Mississippi_River_Delta_779,juvenile black drum,True,Species,Actinopterygii,Sciaenidae,Pogonias,Animalia,Perciformes,Chordata,Pogonias cromis
+689,Mississippi_River_Delta_779,juvenile blue catfish,True,Species,Actinopterygii,Ictaluridae,Ictalurus,Animalia,Siluriformes,Chordata,Ictalurus furcatus
+690,Mississippi_River_Delta_779,juvenile blue crab,True,Species,Malacostraca,Portunidae,Callinectes,Animalia,Decapoda,Arthropoda,Callinectes sapidus
+691,Mississippi_River_Delta_779,juvenile brown shrimp,True,Species,Malacostraca,Penaeidae,Farfantepenaeus,Animalia,Decapoda,Arthropoda,Farfantepenaeus aztecus
+692,Mississippi_River_Delta_779,juvenile croaker,True,Species,Actinopterygii,Sciaenidae,Micropogonias,Animalia,Perciformes,Chordata,Micropogonias undulatus
+693,Mississippi_River_Delta_779,juvenile gizzard shad,True,Species,Actinopterygii,Clupeidae,Dorosoma,Animalia,Clupeiformes,Chordata,Dorosoma cepedianum
+694,Mississippi_River_Delta_779,juvenile grey snapper,True,Species,Actinopterygii,Lutjanidae,Lutjanus,Animalia,Perciformes,Chordata,Lutjanus griseus
+695,Mississippi_River_Delta_779,juvenile gulf sturgeon,True,Species,Actinopterygii,Acipenseridae,Acipenser,Animalia,Acipenseriformes,Chordata,Acipenser oxyrinchus desotoi
+696,Mississippi_River_Delta_779,juvenile largemouth bass,True,Species,Actinopterygii,Centrarchidae,Micropterus,Animalia,Perciformes,Chordata,Micropterus salmoides
+697,Mississippi_River_Delta_779,juvenile menhaden,True,Species,Actinopterygii,Clupeidae,Brevoortia,Animalia,Clupeiformes,Chordata,Brevoortia patronus
+698,Mississippi_River_Delta_779,juvenile pinfish,True,Species,Actinopterygii,Sparidae,Lagodon,Animalia,Perciformes,Chordata,Lagodon rhomboides
+699,Mississippi_River_Delta_779,juvenile red drum,True,Species,Actinopterygii,Sciaenidae,Sciaenops,Animalia,Perciformes,Chordata,Sciaenops ocellatus
+700,Mississippi_River_Delta_779,juvenile sand seatrout,True,Species,Actinopterygii,Sciaenidae,Cynoscion,Animalia,Perciformes,Chordata,Cynoscion nebulosus
+701,Mississippi_River_Delta_779,juvenile sea catfish,True,Family,Actinopterygii,Ariidae,,Animalia,Siluriformes,Chordata,
+702,Mississippi_River_Delta_779,juvenile sharks,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+703,Mississippi_River_Delta_779,juvenile sheepshead,True,Species,Actinopterygii,Sparidae,Archosargus,Animalia,Perciformes,Chordata,Archosargus probatocephalus
+704,Mississippi_River_Delta_779,juvenile silver perch,True,Species,Actinopterygii,Sciaenidae,Bairdiella,Animalia,Perciformes,Chordata,Bairdiella chrysoura
+705,Mississippi_River_Delta_779,juvenile southern flounder,True,Species,Actinopterygii,Paralichthyidae,Paralichthys,Animalia,Pleuronectiformes,Chordata,Paralichthys lethostigma
+706,Mississippi_River_Delta_779,juvenile spot,True,Species,Actinopterygii,Sciaenidae,Leiostomus,Animalia,Perciformes,Chordata,Leiostomus xanthurus
+707,Mississippi_River_Delta_779,juvenile spotted seatrout,True,Species,Actinopterygii,Sciaenidae,Cynoscion,Animalia,Perciformes,Chordata,Cynoscion nebulosus
+708,Mississippi_River_Delta_779,juvenile striped mullet,True,Species,Actinopterygii,Mugilidae,Mugil,Animalia,Mugiliformes,Chordata,Mugil cephalus
+709,Mississippi_River_Delta_779,juvenile sunfishes,True,Family,Actinopterygii,Centrarchidae,,Animalia,Perciformes,Chordata,
+710,Mississippi_River_Delta_779,juvenile threadfin shad,True,Species,Actinopterygii,Clupeidae,Dorosoma,Animalia,Clupeiformes,Chordata,Dorosoma petenense
+711,Mississippi_River_Delta_779,juvenile white shrimp,True,Species,Malacostraca,Penaeidae,Litopenaeus,Animalia,Decapoda,Arthropoda,Litopenaeus setiferus
+712,Mississippi_River_Delta_779,killifishes,True,Genus,Actinopterygii,Fundulidae,Fundulus,Animalia,Cyprinodontiformes,Chordata,
+713,Mississippi_River_Delta_779,mollusks,True,Phylum,,,,Animalia,,Mollusca,
+714,Mississippi_River_Delta_779,mud crabs,True,Family,Malacostraca,Panopeidae,,Animalia,Decapoda,Arthropoda,
+715,Mississippi_River_Delta_779,other shrimp,True,Family,Malacostraca,Palaemonidae,,Animalia,Decapoda,Arthropoda,
+716,Mississippi_River_Delta_779,oyster drill,True,Species,Gastropoda,Muricidae,Stramonita,Animalia,Neogastropoda,Mollusca,Stramonita haemastoma
+717,Mississippi_River_Delta_779,oyster spat,True,Species,Bivalvia,Ostreidae,Crassostrea,Animalia,Ostreida,Mollusca,Crassostrea virginica
+718,Mississippi_River_Delta_779,sack oyster,True,Species,Bivalvia,Ostreidae,Crassostrea,Animalia,Ostreida,Mollusca,Crassostrea virginica
+719,Mississippi_River_Delta_779,sea birds,True,Class,Aves,,,Animalia,,Chordata,
+720,Mississippi_River_Delta_779,seed oyster,True,Species,Bivalvia,Ostreidae,Crassostrea,Animalia,Ostreida,Mollusca,Crassostrea virginica
+721,Mississippi_River_Delta_779,silversides,True,Family,Actinopterygii,Atherinopsidae,,Animalia,Atheriniformes,Chordata,
+722,Mount_St_Michel_Bay_742,Crepidule,True,Genus,Gastropoda,Calyptraeidae,Crepidula,Animalia,Littorinimorpha,Mollusca,
+723,Mount_St_Michel_Bay_742,Detritus,False,Kingdom,,,,,,,
+724,Mount_St_Michel_Bay_742,Macrobenthos2,True,Phylum,,,,Animalia,,,
+725,Mount_St_Michel_Bay_742,Macrophytes,True,Class,Liliopsida,,,Plantae,,Tracheophyta,
+726,Mount_St_Michel_Bay_742,Meiobenthos,True,Class,,,,Animalia,,,
+727,Mount_St_Michel_Bay_742,Moules,True,Species,Bivalvia,Mytilidae,Mytilus,Animalia,Mytiloida,Mollusca,Mytilus edulis
+728,Mount_St_Michel_Bay_742,Mulets,True,Family,Actinopterygii,Mugilidae,,Animalia,Mugiliformes,Chordata,
+729,Mount_St_Michel_Bay_742,Phytobenthos1,True,Class,Bacillariophyceae,,,Chromista,,Bacillariophyta,
+730,Mount_St_Michel_Bay_742,Phytoplancton,True,Phylum,,,,Mixed (Chromista/Protista/Bacteria),,,
+731,Mount_St_Michel_Bay_742,anatidés,True,Family,Aves,Anatidae,,Animalia,Anseriformes,Chordata,
+732,Mount_St_Michel_Bay_742,céphalopodes,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+733,Mount_St_Michel_Bay_742,gros crustacés,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+734,Mount_St_Michel_Bay_742,huître2,,,,,,,,,
+735,Mount_St_Michel_Bay_742,huîtres,True,Genus,Bivalvia,Ostreidae,Crassostrea,Animalia,Ostreida,Mollusca,
+736,Mount_St_Michel_Bay_742,huîtres2,True,Genus,Bivalvia,Ostreidae,Crassostrea,Animalia,Ostreida,Mollusca,
+737,Mount_St_Michel_Bay_742,juvenile cephal,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+738,Mount_St_Michel_Bay_742,juvéniles poiss,True,Class,Actinopterygii,,,Animalia,,Chordata,
+739,Mount_St_Michel_Bay_742,macrobenthos,True,Class,,,,Animalia,,,
+740,Mount_St_Michel_Bay_742,mouton,True,Species,Mammalia,Bovidae,Ovis,Animalia,Artiodactyla,Chordata,Ovis aries
+741,Mount_St_Michel_Bay_742,oiseaux limicol,True,Order,Aves,,,Animalia,Charadriiformes,Chordata,
+742,Mount_St_Michel_Bay_742,petites espèces,True,Family,Gastropoda,Hydrobiidae,,Animalia,Littorinimorpha,Mollusca,
+743,Mount_St_Michel_Bay_742,phoques,True,Family,Mammalia,Phocidae,,Animalia,Carnivora,Chordata,
+744,Mount_St_Michel_Bay_742,phytobenthos 2,True,Phylum,,,,Chromista,,Bacillariophyta,
+745,Mount_St_Michel_Bay_742,poissons adulte,True,Class,Actinopterygii,,,Animalia,,Chordata,
+746,Mount_St_Michel_Bay_742,zooplancton her,True,Class,Hexanauplia,,,Animalia,,Arthropoda,
+747,North_Aegean_495,Adult anchovy,True,Species,Actinopterygii,Engraulidae,Engraulis,Animalia,Clupeiformes,Chordata,Engraulis encrasicolus
+748,North_Aegean_495,Adult sardine,True,Species,Actinopterygii,Clupeidae,Sardina,Animalia,Clupeiformes,Chordata,Sardina pilchardus
+749,North_Aegean_495,Anglerfish,True,Family,Actinopterygii,Lophiidae,,Animalia,Lophiiformes,Chordata,
+750,North_Aegean_495,Benthic cephalopods,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+751,North_Aegean_495,Benthic invert. (no crustacea),True,Phylum,,,,Animalia,,Mollusca,
+752,North_Aegean_495,Benthopelagic cephalopods,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+753,North_Aegean_495,BepeFish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+754,North_Aegean_495,Crabs,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+755,North_Aegean_495,DemeFish1,True,Family,Actinopterygii,Mullidae / Sparidae (mixed),,Animalia,Perciformes,Chordata,
+756,North_Aegean_495,DemeFish2,True,Family,Actinopterygii,Sparidae,,Animalia,Perciformes/Spariformes,Chordata,
+757,North_Aegean_495,DemeFish3,True,Family,Actinopterygii,Serranidae,,Animalia,Perciformes,Chordata,
+758,North_Aegean_495,DemeFish4,True,Class,Actinopterygii,,,Animalia,,Chordata,
+759,North_Aegean_495,Detritus,False,Kingdom,,,,,,,
+760,North_Aegean_495,Discards,False,Kingdom,,,,Animalia,,,
+761,North_Aegean_495,Flatfishes,True,Order,Actinopterygii,,,Animalia,Pleuronectiformes,Chordata,
+762,North_Aegean_495,Hake,True,Species,Actinopterygii,Merlucciidae,Merluccius,Animalia,Gadiformes,Chordata,Merluccius merluccius
+763,North_Aegean_495,Horse mackerel,True,Species,Actinopterygii,Carangidae,Trachurus,Animalia,Carangiformes,Chordata,Trachurus mediterraneus
+764,North_Aegean_495,Jellyfish+ mnemiopsis,True,Phylum,,,,Animalia,,,
+765,North_Aegean_495,Juv anchovy,True,Species,Actinopterygii,Engraulidae,Engraulis,Animalia,Clupeiformes,Chordata,Engraulis encrasicolus
+766,North_Aegean_495,Juv sardine,True,Species,Actinopterygii,Clupeidae,Sardina,Animalia,Clupeiformes,Chordata,Sardina pilchardus
+767,North_Aegean_495,Large pelagic fishes,True,Class,Actinopterygii,,,Animalia,,Chordata,
+768,North_Aegean_495,Loggerhead turtle,True,Species,Reptilia,Cheloniidae,Caretta,Animalia,Testudines,Chordata,Caretta caretta
+769,North_Aegean_495,Mackerel,True,Species,Actinopterygii,Scombridae,Scomber,Animalia,Scombriformes,Chordata,Scomber scombrus
+770,North_Aegean_495,Macrozooplankton,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+771,North_Aegean_495,Medium pelagic fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+772,North_Aegean_495,Mullets,True,Family,Actinopterygii,Mugilidae,,Animalia,Mugiliformes,Chordata,
+773,North_Aegean_495,Norway lobster,True,Species,Malacostraca,Nephropidae,Nephrops,Animalia,Decapoda,Arthropoda,Nephrops norvegicus
+774,North_Aegean_495,Other Small pelagic fishes,True,Class,Actinopterygii,,,Animalia,,Chordata,
+775,North_Aegean_495,Other gadiforms,True,Order,Actinopterygii,,,Animalia,Gadiformes,Chordata,
+776,North_Aegean_495,Polychaetes,True,Class,Polychaeta,,,Animalia,,Annelida,
+777,North_Aegean_495,Sea birds,True,Class,Aves,,,Animalia,,Chordata,
+778,North_Aegean_495,Shrimps,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+779,North_Aegean_495,Suprabenthos,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+780,North_Aegean_495,dolphins,True,Family,Mammalia,Delphinidae,,Animalia,Cetacea,Chordata,
+781,North_Aegean_495,mesozooplankton,True,Class,Maxillopoda,,,Animalia,,Arthropoda,
+782,North_Aegean_495,micro-,True,Kingdom,,,,Protista,,,
+783,North_Aegean_495,phyto,True,Phylum,,,,Chromista,,Bacillariophyta,
+784,North_Aegean_495,picarels and bogue,True,Family,Actinopterygii,Sparidae,,Animalia,Perciformes,Chordata,
+785,North_Aegean_495,rays & skates,,,Chondrichthyes,Rajidae,Raja,Animalia,Rajiformes,Chordata,Raja clavata
+786,North_Aegean_495,rays &amp; skates,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+787,North_Aegean_495,sharks,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+788,North_Benguela_503,Adult horse mac,True,Species,Actinopterygii,Carangidae,Trachurus,Animalia,Carangiformes,Chordata,Trachurus capensis
+789,North_Benguela_503,Anchovy,True,Species,Actinopterygii,Engraulidae,Engraulis,Animalia,Clupeiformes,Chordata,capensis
+790,North_Benguela_503,Benthic-feeding,True,Class,Actinopterygii,,,Animalia,,Chordata,
+791,North_Benguela_503,Cetaceans,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+792,North_Benguela_503,Chondrichthyans,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+793,North_Benguela_503,Detritus,False,Kingdom,,,,,,,
+794,North_Benguela_503,Gelatinous zoop,True,Class,Scyphozoa,,,Eukaryota,,Cnidaria,
+795,North_Benguela_503,Juvenile horse,True,Species,Actinopterygii,Carangidae,Trachurus,Animalia,Carangiformes,Chordata,Trachurus capensis
+796,North_Benguela_503,Large M. capens,True,Species,Actinopterygii,Merlucciidae,Merluccius,Animalia,Gadiformes,Chordata,Merluccius capensis
+797,North_Benguela_503,Large M. parado,True,Species,Actinopterygii,Merlucciidae,Merluccius,Animalia,Gadiformes,Chordata,Merluccius paradoxus
+798,North_Benguela_503,Large pelagics,True,Order,Actinopterygii,,,Animalia,Scombriformes,Chordata,
+799,North_Benguela_503,Macrobenthos,True,Phylum,,,,Animalia,,,
+800,North_Benguela_503,Macrozooplankto,True,Class,Malacostraca,,,Eukaryota,,Arthropoda,
+801,North_Benguela_503,Meiobenthos,True,Class,Chromadorea,,,Eukaryota,,Nematoda,
+802,North_Benguela_503,Mesopelagics,True,Order,Actinopterygii,,,Animalia,,Chordata,
+803,North_Benguela_503,Mesozooplankton,True,Class,Maxillopoda,,,Eukaryota,,Arthropoda,
+804,North_Benguela_503,Microzooplankto,True,Class,Oligotrichea,,,Eukaryota,,Ciliophora,
+805,North_Benguela_503,Other small pel,True,Family,Actinopterygii,Engraulidae,,Animalia,Clupeiformes,Chordata,
+806,North_Benguela_503,Pelagic Goby,True,Family,Actinopterygii,Gobiidae,,Animalia,Gobiiformes,Chordata,
+807,North_Benguela_503,Pelagic-feeding,True,Class,Actinopterygii,,,Animalia,,Chordata,
+808,North_Benguela_503,Phytoplankton,True,Phylum,,,,Chromista,,Bacillariophyta,
+809,North_Benguela_503,Sardine,True,Species,Actinopterygii,Clupeidae,Sardinops,Animalia,Clupeiformes,Chordata,sagax
+810,North_Benguela_503,Seabirds,True,Class,Aves,,,Animalia,,Chordata,
+811,North_Benguela_503,Seals,True,Family,Mammalia,,,Animalia,Carnivora,Chordata,
+812,North_Benguela_503,Small M. capens,True,Species,Actinopterygii,Merlucciidae,Merluccius,Animalia,Gadiformes,Chordata,Merluccius capensis
+813,North_Benguela_503,cephalopods,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+814,Northern_Humboldt_Current_488,Detritus,False,Kingdom,,,,,,,
+815,Northern_Humboldt_Current_488,Diatoms,True,Class,Bacillariophyceae,,,Chromista,,Bacillariophyta,
+816,Northern_Humboldt_Current_488,Dino and silicoflagellates,True,Class,Dinophyceae,,,Protista,,Dinoflagellata,
+817,Northern_Humboldt_Current_488,Microzooplankton,True,Phylum,,,,Protista,,Dinoflagellata,
+818,Northern_Humboldt_Current_488,anchovy,True,Species,Actinopterygii,Engraulidae,Engraulis,Animalia,Clupeiformes,Chordata,Engraulis ringens
+819,Northern_Humboldt_Current_488,benthic elasmobranchs,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+820,Northern_Humboldt_Current_488,butter fishes,True,Family,Actinopterygii,Stromateidae,,Animalia,Stromateiformes,Chordata,
+821,Northern_Humboldt_Current_488,catfish,True,Order,Actinopterygii,,,Animalia,Siluriformes,Chordata,
+822,Northern_Humboldt_Current_488,cetaceans,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+823,Northern_Humboldt_Current_488,chondrichtlyans,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+824,Northern_Humboldt_Current_488,conger,True,Family,Actinopterygii,Congridae,,Animalia,Anguilliformes,Chordata,
+825,Northern_Humboldt_Current_488,flatfishes,True,Order,Actinopterygii,,,Animalia,Pleuronectiformes,Chordata,
+826,Northern_Humboldt_Current_488,gelatinous zooplankton,True,Phylum,,,,Animalia,,Cnidaria,
+827,Northern_Humboldt_Current_488,horse mackerels,True,Species,Actinopterygii,Carangidae,Trachurus,Animalia,Carangiformes,Chordata,Trachurus murphyi
+828,Northern_Humboldt_Current_488,jumbo squid,True,Species,Cephalopoda,Ommastrephidae,Dosidicus,Animalia,Oegopsida,Mollusca,Dosidicus gigas
+829,Northern_Humboldt_Current_488,large hake,True,Species,Actinopterygii,Merlucciidae,Merluccius,Animalia,Gadiformes,Chordata,Merluccius gayi
+830,Northern_Humboldt_Current_488,mackerels,True,Family,Actinopterygii,Scombridae,,Animalia,Scombriformes,Chordata,
+831,Northern_Humboldt_Current_488,macrobenthos,True,Phylum,,,,Animalia,,Mollusca,
+832,Northern_Humboldt_Current_488,macrozooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+833,Northern_Humboldt_Current_488,medium demersal fish,True,Family,Actinopterygii,Merlucciidae,,Animalia,Gadiformes,Chordata,
+834,Northern_Humboldt_Current_488,medium hake,True,Species,Actinopterygii,Merlucciidae,Merluccius,Animalia,Gadiformes,Chordata,Merluccius peruanus
+835,Northern_Humboldt_Current_488,medium sciaenids,True,Family,Actinopterygii,Sciaenidae,,Animalia,Perciformes,Chordata,
+836,Northern_Humboldt_Current_488,mesopelagics,True,Class,Actinopterygii,,,Animalia,,Chordata,
+837,Northern_Humboldt_Current_488,mesozooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+838,Northern_Humboldt_Current_488,other cephalopods,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+839,Northern_Humboldt_Current_488,other large pelagics,True,Family,Actinopterygii,Scombridae,,Animalia,Scombriformes,Chordata,
+840,Northern_Humboldt_Current_488,other small pelagics,True,Family,Actinopterygii,,,Animalia,Clupeiformes,Chordata,
+841,Northern_Humboldt_Current_488,pinnipeds,True,Order,Mammalia,,,Animalia,Carnivora,Chordata,
+842,Northern_Humboldt_Current_488,sardine,True,Species,Actinopterygii,Clupeidae,Sardinops,Animalia,Clupeiformes,Chordata,Sardinops sagax
+843,Northern_Humboldt_Current_488,sea robin,True,Family,Actinopterygii,Triglidae,,Animalia,Scorpaeniformes,Chordata,
+844,Northern_Humboldt_Current_488,seabirds,True,Class,Aves,,,Animalia,,Chordata,
+845,Northern_Humboldt_Current_488,small demersals,True,Class,Actinopterygii,,,Animalia,,Chordata,
+846,Northern_Humboldt_Current_488,small hake,True,Species,Actinopterygii,Merlucciidae,Merluccius,Animalia,Gadiformes,Chordata,Merluccius gayi
+847,Portofino_731,Amberjack & dentex +,,,,,,,,,
+848,Portofino_731,Amberjack &amp; dentex +,True,Family,Actinopterygii,Carangidae,,Animalia,Carangiformes,Chordata,
+849,Portofino_731,Cephalopods,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+850,Portofino_731,Decapods +,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+851,Portofino_731,Detritus,False,Kingdom,,,,,,,
+852,Portofino_731,Diplodus +,True,Genus,Actinopterygii,Sparidae,Diplodus,Animalia,Perciformes,Chordata,
+853,Portofino_731,Dolphins,True,Family,Mammalia,Delphinidae,,Animalia,Cetacea,Chordata,
+854,Portofino_731,Dusky grouper - large,True,Species,Actinopterygii,Serranidae,Epinephelus,Animalia,Perciformes,Chordata,Epinephelus marginatus
+855,Portofino_731,Dusky grouper - medium,True,Species,Actinopterygii,Serranidae,Epinephelus,Animalia,Perciformes,Chordata,Epinephelus marginatus
+856,Portofino_731,Dusky grouper - small,True,Species,Actinopterygii,Serranidae,Epinephelus,Animalia,Perciformes,Chordata,Epinephelus marginatus
+857,Portofino_731,Echinoderms +,True,Phylum,,,,Animalia,,Echinodermata,
+858,Portofino_731,Gobies +,True,Family,Actinopterygii,Gobiidae,,Animalia,Gobiiformes,Chordata,
+859,Portofino_731,Gorgonians,True,Order,Anthozoa,,,Animalia,Alcyonacea,Cnidaria,
+860,Portofino_731,Horse mackerels +,True,Genus,Actinopterygii,Carangidae,Trachurus,Animalia,Perciformes,Chordata,
+861,Portofino_731,Large-scaled scorpionfishes +,True,Genus,Actinopterygii,Scorpaenidae,Scorpaena,Animalia,Scorpaeniformes,Chordata,
+862,Portofino_731,Macrofauna +,True,Phylum,,,,Animalia,,Mollusca,
+863,Portofino_731,Meiofauna,True,Phylum,,,,Animalia,,Nematoda,
+864,Portofino_731,Mullets,True,Family,Actinopterygii,Mugilidae,,Animalia,Mugiliformes,Chordata,
+865,Portofino_731,Pagellus,True,Genus,Actinopterygii,Sparidae,Pagellus,Animalia,Perciformes,Chordata,
+866,Portofino_731,Phytoplankton,True,Phylum,,,,Chromista,,Haptophyta,
+867,Portofino_731,Posidonia,True,Species,Liliopsida,Posidoniaceae,Posidonia,Plantae,Alismatales,Tracheophyta,Posidonia oceanica
+868,Portofino_731,Salema - adults,True,Species,Actinopterygii,Sparidae,Sarpa,Animalia,Spariformes,Chordata,Sarpa salpa
+869,Portofino_731,Salema - juveniles,True,Species,Actinopterygii,Sparidae,Sarpa,Animalia,Spariformes,Chordata,Sarpa salpa
+870,Portofino_731,Sand smelts +,True,Genus,Actinopterygii,Atherinidae,Atherina,Animalia,Atheriniformes,Chordata,
+871,Portofino_731,Scorpionfishes & combers +,True,Family,,,,,,,
+872,Portofino_731,Scorpionfishes &amp; combers +,True,Class,Actinopterygii,,,Animalia,,Chordata,
+873,Portofino_731,Sea urchins,True,Class,Echinoidea,,,Animalia,,Echinodermata,
+874,Portofino_731,Sea worms,True,Class,Polychaeta,,,Animalia,,Annelida,
+875,Portofino_731,Seaweeds,True,Phylum,,,,Chromista,,Ochrophyta,
+876,Portofino_731,Small tunas +,True,Family,Actinopterygii,Scombridae,,Animalia,Scombriformes,Chordata,
+877,Portofino_731,Stripped red mullets +,True,Genus,Actinopterygii,Mullidae,Mullus,Animalia,Perciformes,Chordata,
+878,Portofino_731,Suspensivores +,True,Class,Bivalvia,,,Animalia,,Mollusca,
+879,Portofino_731,Wrasses +,True,Family,Actinopterygii,Labridae,,Animalia,Labriformes,Chordata,
+880,Portofino_731,Zooplankton - large,True,Class,Copepoda,,,Animalia,,Arthropoda,
+881,Portofino_731,Zooplankton - small,True,Class,Copepoda,,,Animalia,,Arthropoda,
+882,Ria_Formosa_125,Annelida,True,Phylum,,,,Animalia,,Annelida,
+883,Ria_Formosa_125,Benthic ff,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+884,Ria_Formosa_125,Bivalvia,True,Class,Bivalvia,,,Animalia,,Mollusca,
+885,Ria_Formosa_125,Crustacea,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+886,Ria_Formosa_125,Detritivorous f,True,Class,Actinopterygii,,,Animalia,,Chordata,
+887,Ria_Formosa_125,Detritus,False,Kingdom,,,,,,,
+888,Ria_Formosa_125,Gasteropoda,True,Class,Gastropoda,,,Animalia,,Mollusca,
+889,Ria_Formosa_125,Pelagic-benthic ff,True,Class,Actinopterygii,,,Animalia,,Chordata,
+890,Ria_Formosa_125,Phytoplankton,True,Phylum,,,,Chromista,,Bacillariophyta,
+891,Ria_Formosa_125,Planktonic f,True,Class,Copepoda,,,Animalia,,Arthropoda,
+892,Ria_Formosa_125,S. auratus,True,Species,Actinopterygii,Sparidae,Sparus,Animalia,Spariformes,Chordata,Sparus aurata
+893,Ria_Formosa_125,S. cantharus,True,Species,Actinopterygii,Sparidae,Spondyliosoma,Animalia,Perciformes,Chordata,Spondyliosoma cantharus
+894,Ria_Formosa_125,Small b-p ff,True,Class,Bivalvia,,,Animalia,,Mollusca,
+895,Ria_Formosa_125,Zooplankton,True,Phylum,,,,Animalia,,Arthropoda,
+896,Sierra_Leone_137,Baleen whales,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+897,Sierra_Leone_137,Benthos,True,Phylum,,,,Animalia,,Mollusca,
+898,Sierra_Leone_137,Bongo shad,True,Species,Actinopterygii,Clupeidae,Ethmalosa,Animalia,Clupeiformes,Chordata,Ethmalosa fimbriata
+899,Sierra_Leone_137,Carnivorous zooplankton,True,Class,Sagittoidea,,,Animalia,,Chaetognatha,
+900,Sierra_Leone_137,Catfish,True,Order,Actinopterygii,,,Animalia,Siluriformes,Chordata,
+901,Sierra_Leone_137,Cephalopods,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+902,Sierra_Leone_137,Croackers,True,Family,Actinopterygii,Sciaenidae,,Animalia,Perciformes,Chordata,
+903,Sierra_Leone_137,Crustaceans,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+904,Sierra_Leone_137,Detritus,False,Kingdom,,,,,,,
+905,Sierra_Leone_137,Gaint African Threadfin,True,Species,Actinopterygii,Polynemidae,Polydactylus,Animalia,Perciformes,Chordata,Polydactylus quadrifilis
+906,Sierra_Leone_137,Groupers,True,Family,Actinopterygii,Epinephelidae,,Animalia,Perciformes,Chordata,
+907,Sierra_Leone_137,Herbivorous zooplankton,True,Class,Hexanauplia,,,Animalia,,Arthropoda,
+908,Sierra_Leone_137,Jacks,True,Family,Actinopterygii,Carangidae,,Animalia,Carangiformes,Chordata,
+909,Sierra_Leone_137,L Coastal Sharks and Rays,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+910,Sierra_Leone_137,L Deep Sharks and Rays,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+911,Sierra_Leone_137,Large Bathydem predators,True,Class,Actinopterygii,,,Animalia,,Chordata,
+912,Sierra_Leone_137,Large Bathypelagic predators,True,Class,Actinopterygii,,,Animalia,,Chordata,
+913,Sierra_Leone_137,Large Tuna,True,Genus,Actinopterygii,Scombridae,Thunnus,Animalia,Scombriformes,Chordata,
+914,Sierra_Leone_137,Large demersal invert feeders,True,Class,Actinopterygii,,,Animalia,,Chordata,
+915,Sierra_Leone_137,Large demersal predators,True,Class,Actinopterygii,,,Animalia,,Chordata,
+916,Sierra_Leone_137,Large pelagic predators,True,Class,Actinopterygii,,,Animalia,,Chordata,
+917,Sierra_Leone_137,Lesser African Threadfin,True,Species,Actinopterygii,Polynemidae,Galeoides,Animalia,Perciformes,Chordata,Galeoides decadactylus
+918,Sierra_Leone_137,M Bathypelagic invert feeders,True,Class,Cephalopoda,,,Animalia,,Mollusca,
+919,Sierra_Leone_137,M Coastal Sharks and Rays,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+920,Sierra_Leone_137,M Deep Sharks and Rays,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+921,Sierra_Leone_137,Medium demersal invert feeders,True,Order,Actinopterygii,,,Animalia,Pleuronectiformes,Chordata,
+922,Sierra_Leone_137,Medium demersal predators,True,Class,Actinopterygii,,,Animalia,,Chordata,
+923,Sierra_Leone_137,Mesopelagics,True,Class,Actinopterygii,,,Animalia,,Chordata,
+924,Sierra_Leone_137,Mullets and other herbivores,True,Family,Actinopterygii,Mugilidae,,Animalia,Mugiliformes,Chordata,
+925,Sierra_Leone_137,Primary producers,True,Kingdom,,,,Chromista,,,
+926,Sierra_Leone_137,Royal Threadfin,True,Species,Actinopterygii,Polynemidae,Polydactylus,Animalia,Perciformes,Chordata,Polydactylus quadrifilis
+927,Sierra_Leone_137,SM Bathydem invert feeders,True,Class,Malacostraca,,,Animalia,,Arthropoda,
+928,Sierra_Leone_137,Sardinellas,True,Genus,Actinopterygii,Clupeidae,Sardinella,Animalia,Clupeiformes,Chordata,
+929,Sierra_Leone_137,Scads and mackerels,True,Family,Actinopterygii,Carangidae,,Animalia,Carangiformes,Chordata,
+930,Sierra_Leone_137,Seabirds,True,Class,Aves,,,Animalia,,Chordata,
+931,Sierra_Leone_137,Sickle-and spadefish,True,Family,Actinopterygii,Ephippidae,,Animalia,Perciformes,Chordata,
+932,Sierra_Leone_137,Small Bathypelagic predators,True,Family,Actinopterygii,Phosichthyidae,,Animalia,Stomiiformes,Chordata,
+933,Sierra_Leone_137,Small Tuna,True,Family,Actinopterygii,Scombridae,,Animalia,Scombriformes,Chordata,
+934,Sierra_Leone_137,Small demersal invert feeders,True,Class,Actinopterygii,,,Animalia,,Chordata,
+935,Sierra_Leone_137,Small demersal predators,True,Order,Actinopterygii,,,Animalia,Gadiformes,Chordata,
+936,Sierra_Leone_137,Small pelagic invert feeders,True,Family,Actinopterygii,Clupeidae,,Animalia,Clupeiformes,Chordata,
+937,Sierra_Leone_137,Small pelagic predators,True,Order,Actinopterygii,,,Animalia,Scombriformes,Chordata,
+938,Sierra_Leone_137,Toothed whales and dolphins,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+939,Sierra_Leone_137,Turtles,True,Order,Reptilia,,,Animalia,Testudines,Chordata,
+940,Strait_of_Georgia_477,Detritus,False,Kingdom,,,,,,,
+941,Strait_of_Georgia_477,P. cod ad.,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus macrocephalus
+942,Strait_of_Georgia_477,P. cod juv.,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus macrocephalus
+943,Strait_of_Georgia_477,P. halibut ad.,True,Species,Actinopterygii,Pleuronectidae,Hippoglossus,Animalia,Pleuronectiformes,Chordata,Hippoglossus stenolepis
+944,Strait_of_Georgia_477,P. halibut juv.,True,Species,Actinopterygii,Pleuronectidae,Hippoglossus,Animalia,Pleuronectiformes,Chordata,Hippoglossus stenolepis
+945,Strait_of_Georgia_477,Pac. Ocean perch,True,Species,Actinopterygii,Sebastidae,Sebastes,Animalia,Scorpaeniformes,Chordata,Sebastes alutus
+946,Strait_of_Georgia_477,Pac. hake,True,Species,Actinopterygii,Merlucciidae,Merluccius,Animalia,Gadiformes,Chordata,Merluccius productus
+947,Strait_of_Georgia_477,arrowtooth ad.,True,Species,Actinopterygii,Pleuronectidae,Atheresthes,Animalia,Pleuronectiformes,Chordata,Atheresthes stomias
+948,Strait_of_Georgia_477,arrowtooth juv.,True,Species,Actinopterygii,Pleuronectidae,Atheresthes,Animalia,Pleuronectiformes,Chordata,Atheresthes stomias
+949,Strait_of_Georgia_477,birds demer pisciv,True,Class,Aves,,,Animalia,,Chordata,
+950,Strait_of_Georgia_477,birds pelag pisciv,True,Class,Aves,,,Animalia,,Chordata,
+951,Strait_of_Georgia_477,birds zooplanktiv,True,Class,Aves,,,Animalia,,Chordata,
+952,Strait_of_Georgia_477,bivalves,True,Class,Bivalvia,,,Animalia,,Mollusca,
+953,Strait_of_Georgia_477,carn. zooplankton,True,Class,Sagittoidea,,,Animalia,,Chaetognatha,
+954,Strait_of_Georgia_477,chinook ad.,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus tshawytscha
+955,Strait_of_Georgia_477,chinook juv.,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus tshawytscha
+956,Strait_of_Georgia_477,chum,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus keta
+957,Strait_of_Georgia_477,coho ad.,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus kisutch
+958,Strait_of_Georgia_477,coho juv.,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus kisutch
+959,Strait_of_Georgia_477,crabs,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+960,Strait_of_Georgia_477,dogfish,True,Species,Chondrichthyes,Squalidae,Squalus,Animalia,Squaliformes,Chordata,Squalus suckleyi
+961,Strait_of_Georgia_477,echinoderms,True,Phylum,,,,Animalia,,Echinodermata,
+962,Strait_of_Georgia_477,flatfish other,True,Order,Actinopterygii,,,Animalia,Pleuronectiformes,Chordata,
+963,Strait_of_Georgia_477,herb. zooplankton,True,Class,Hexanauplia,,,Animalia,,Arthropoda,
+964,Strait_of_Georgia_477,herring ad.,True,Species,Actinopterygii,Clupeidae,Clupea,Animalia,Clupeiformes,Chordata,Clupea pallasii
+965,Strait_of_Georgia_477,herring juv.,True,Species,Actinopterygii,Clupeidae,Clupea,Animalia,Clupeiformes,Chordata,Clupea pallasii
+966,Strait_of_Georgia_477,jellies,True,Phylum,,,,Animalia,,Cnidaria,
+967,Strait_of_Georgia_477,krill,True,Species,Malacostraca,Euphausiidae,Euphausia,Animalia,Euphausiacea,Arthropoda,Euphausia pacifica
+968,Strait_of_Georgia_477,large squids,True,Order,Cephalopoda,,,Animalia,Oegopsida,Mollusca,
+969,Strait_of_Georgia_477,lingcod,True,Species,Actinopterygii,Hexagrammidae,Ophiodon,Animalia,Perciformes,Chordata,Ophiodon elongatus
+970,Strait_of_Georgia_477,macrophytes,True,Phylum,,,,Plantae,,Tracheophyta,
+971,Strait_of_Georgia_477,misc. pred. pelagics,True,Order,Actinopterygii,,,Animalia,,Chordata,
+972,Strait_of_Georgia_477,misc. small demersals,True,Order,Actinopterygii,,,Animalia,,Chordata,
+973,Strait_of_Georgia_477,misc. small pelagics,True,Family,Actinopterygii,Clupeidae,,Animalia,Clupeiformes,Chordata,
+974,Strait_of_Georgia_477,myctophids,True,Family,Actinopterygii,Myctophidae,,Animalia,Myctophiformes,Chordata,
+975,Strait_of_Georgia_477,mysticetae,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+976,Strait_of_Georgia_477,odontocetae,True,Order,Mammalia,,,Animalia,Cetacea,Chordata,
+977,Strait_of_Georgia_477,other benthos,True,Phylum,,,,Animalia,,,
+978,Strait_of_Georgia_477,pelagic sharks,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+979,Strait_of_Georgia_477,phytoplankton,True,Phylum,,,,Protista/Chromista,,Multiple (Bacillariophyta; Dinoflagellata),
+980,Strait_of_Georgia_477,pink,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus gorbuscha
+981,Strait_of_Georgia_477,pollock ad.,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus chalcogrammus
+982,Strait_of_Georgia_477,pollock juv.,True,Species,Actinopterygii,Gadidae,Gadus,Animalia,Gadiformes,Chordata,Gadus chalcogrammus
+983,Strait_of_Georgia_477,rajidae / ratfish,True,Class,Chondrichthyes,,,Animalia,,Chordata,
+984,Strait_of_Georgia_477,rock sole,True,Species,Actinopterygii,Pleuronectidae,Lepidopsetta,Animalia,Pleuronectiformes,Chordata,Lepidopsetta bilineata
+985,Strait_of_Georgia_477,rockfish other,True,Genus,Actinopterygii,Sebastidae,Sebastes,Animalia,Scorpaeniformes,Chordata,
+986,Strait_of_Georgia_477,sablefish ad.,True,Species,Actinopterygii,Anoplopomatidae,Anoplopoma,Animalia,Scorpaeniformes,Chordata,Anoplopoma fimbria
+987,Strait_of_Georgia_477,sablefish juv.,True,Species,Actinopterygii,Anoplopomatidae,Anoplopoma,Animalia,Scorpaeniformes,Chordata,Anoplopoma fimbria
+988,Strait_of_Georgia_477,salmon shark,True,Species,Chondrichthyes,Lamnidae,Lamna,Animalia,Lamniformes,Chordata,Lamna ditropis
+989,Strait_of_Georgia_477,sea lions,True,Family,Mammalia,Otariidae,,Animalia,Carnivora,Chordata,
+990,Strait_of_Georgia_477,seals,True,Family,Mammalia,Phocidae,,Animalia,Carnivora,Chordata,
+991,Strait_of_Georgia_477,shrimps,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+992,Strait_of_Georgia_477,small squids,True,Order,Cephalopoda,,,Animalia,Sepiida/Idiosepiida (bobtail/sepiolid group; small coastal cephalopods),Mollusca,
+993,Strait_of_Georgia_477,sockeye,True,Species,Actinopterygii,Salmonidae,Oncorhynchus,Animalia,Salmoniformes,Chordata,Oncorhynchus nerka
+994,Strait_of_Georgia_477,yellowfin sole,True,Species,Actinopterygii,Pleuronectidae,Limanda,Animalia,Pleuronectiformes,Chordata,Limanda aspera
+995,Terminos_Lagoon_243,Ariidae,True,Family,Actinopterygii,Ariidae,,Animalia,Siluriformes,Chordata,
+996,Terminos_Lagoon_243,Benthic autotrophs,True,Phylum,,,,Plantae,,Tracheophyta,
+997,Terminos_Lagoon_243,Brachyurans,True,Order,Malacostraca,,,Animalia,Decapoda,Arthropoda,
+998,Terminos_Lagoon_243,Detritus,False,Kingdom,,,,,,,
+999,Terminos_Lagoon_243,Engraulidae,True,Family,Actinopterygii,Engraulidae,,Animalia,Clupeiformes,Chordata,
+1000,Terminos_Lagoon_243,Gerreidae,True,Family,Actinopterygii,Gerreidae,,Animalia,Perciformes,Chordata,
+1001,Terminos_Lagoon_243,Haemulidae,True,Family,Actinopterygii,Haemulidae,,Animalia,Perciformes,Chordata,
+1002,Terminos_Lagoon_243,Lutjanidae,True,Family,Actinopterygii,Lutjanidae,,Animalia,Perciformes,Chordata,
+1003,Terminos_Lagoon_243,Meiofauna,True,Phylum,,,,Animalia,,Nematoda,
+1004,Terminos_Lagoon_243,Microcrustaceans,True,Class,Copepoda,,,Animalia,,Arthropoda,
+1005,Terminos_Lagoon_243,Molluscs,True,Phylum,,,,Animalia,,Mollusca,
+1006,Terminos_Lagoon_243,Other fish,True,Class,Actinopterygii,,,Animalia,,Chordata,
+1007,Terminos_Lagoon_243,Other macroinvertebrates,True,Class,,,,Animalia,,,
+1008,Terminos_Lagoon_243,Penaeids,True,Family,Malacostraca,Penaeidae,,Animalia,Decapoda,Arthropoda,
+1009,Terminos_Lagoon_243,Phytoplankton,True,Phylum,,,,Chromista,,Bacillariophyta,
+1010,Terminos_Lagoon_243,Polychaetes,True,Class,Polychaeta,,,Animalia,,Annelida,
+1011,Terminos_Lagoon_243,Scianidae,True,Family,Actinopterygii,Sciaenidae,,Animalia,Perciformes,Chordata,
+1012,Terminos_Lagoon_243,Sparidae,True,Family,Actinopterygii,Sparidae,,Animalia,Perciformes,Chordata,
+1013,Terminos_Lagoon_243,Tetraodontidae,True,Family,Actinopterygii,Tetraodontidae,,Animalia,Tetraodontiformes,Chordata,
+1014,Terminos_Lagoon_243,Zooplankton,True,Phylum,,,,Animalia,,Arthropoda,
