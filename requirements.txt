@@ -13,3 +13,5 @@ tqdm
 networkx
 numpy
 requests
+pypdf
+pdf2image

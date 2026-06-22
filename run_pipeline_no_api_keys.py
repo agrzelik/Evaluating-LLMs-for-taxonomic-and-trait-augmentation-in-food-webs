@@ -58,7 +58,7 @@ def main():
         print(f">>> Merging taxonomies, version: {version}")
         run(["python3", "Merge_taxonomies.py", "--version", version])
 
-        for nan_strategy in [2]:
+        for nan_strategy in [1, 2]:
             print(f"Running taxonomies comparison with nan strategy value: {nan_strategy}")
 
             run([
@@ -68,7 +68,7 @@ def main():
             ])
 
             run([
-                "python3", "Viz_taxonomies_comparisons.py",
+                "python3", "Viz_taxonomies_small_heatmaps.py",
                 "--version", version,
                 "--nanstrategy", str(nan_strategy)
             ])
@@ -83,7 +83,7 @@ def main():
     print("Multiple generations comparison")
     print("==========================================================")
 
-    for nan_strategy in [1, 2]:
+    for nan_strategy in [1]:
         print(f"Running multiple generations comparison with nan strategy value: {nan_strategy}")
 
         run([

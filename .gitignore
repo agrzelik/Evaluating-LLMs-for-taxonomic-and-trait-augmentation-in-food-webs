@@ -54,6 +54,8 @@ not_final_*.py
 !LLM features/Processed/*/gen3_0803/
 !LLM features/Processed/*/gen3_0803/*
 
+!LLM features/Processed/all_models/tax_level_1606_gen/ALL_MODELS_COMBINED.xlsx'
+
 # 6. Figures
 
 !Figures/
